@@ -1,0 +1,12 @@
+# macOS artifacts
+.DS_Store
+
+# Environment files (prevent committing secrets)
+.env
+.env.*
+*.env
+
+# Allow example env files
+!.env.example
+!.env.sample
+
