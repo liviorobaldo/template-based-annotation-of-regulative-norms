@@ -1,0 +1,163 @@
+[
+  {
+    "main_section": "section-1",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "consider the child’s welfare as the paramount consideration",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-2",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "have regard to the general principle that any delay in determining the question is likely to prejudice the welfare of the child",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-5",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "not make the order or any of the orders unless it considers that doing so would be better for the child than making no order at all",
+    "conditions": []
+  },
+  {
+    "main_section": "section-2-1",
+    "type": "OBLIGATORY",
+    "for": "father and mother",
+    "to": "each have parental responsibility for the child",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "a child’s father and mother were married to, or civil partners of, each other at the time of his birth",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-2-2",
+    "type": "OBLIGATORY",
+    "for": "mother",
+    "to": "have parental responsibility for the child",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "a child’s father and mother were not married to, or civil partners of, each other at the time of his birth",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-2-2-b",
+    "type": "OBLIGATORY",
+    "for": "father",
+    "to": "have parental responsibility for the child if he has acquired it in accordance with the provisions of this Act",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the father shall have parental responsibility for the child if he has acquired it",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-2-6",
+    "type": "PROHIBITED",
+    "for": "person with parental responsibility",
+    "to": "cease to have that responsibility solely because some other person subsequently acquires parental responsibility for the child",
+    "conditions": []
+  },
+  {
+    "main_section": "section-2-7",
+    "type": "PERMITTED",
+    "for": "each person with parental responsibility",
+    "to": "act alone and without the other (or others) in meeting that responsibility",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "nothing in this Part shall be taken to affect the operation of any enactment which requires the consent of more than one person in a matter affecting the child",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-2-8",
+    "type": "PROHIBITED",
+    "for": "person with parental responsibility",
+    "to": "act in any way which would be incompatible with any order made with respect to the child under this Act",
+    "conditions": []
+  },
+  {
+    "main_section": "section-2-9",
+    "type": "PROHIBITED",
+    "for": "person with parental responsibility",
+    "to": "surrender or transfer any part of that responsibility to another",
+    "conditions": []
+  },
+  {
+    "main_section": "section-4-1",
+    "type": "OBLIGATORY",
+    "for": "father",
+    "to": "acquire parental responsibility for the child if he meets certain conditions",
+    "conditions": []
+  },
+  {
+    "main_section": "section-4-2",
+    "type": "PROHIBITED",
+    "for": "parental responsibility agreement",
+    "to": "have effect unless it is made in the form prescribed by regulations made by the Lord Chancellor",
+    "conditions": []
+  },
+  {
+    "main_section": "section-4-2",
+    "type": "PROHIBITED",
+    "for": "parental responsibility agreement",
+    "to": "have effect unless it is recorded in the prescribed manner",
+    "conditions": []
+  },
+  {
+    "main_section": "section-4-2A",
+    "type": "OBLIGATORY",
+    "for": "person who has acquired parental responsibility",
+    "to": "cease to have that responsibility only if the court so orders",
+    "conditions": []
+  },
+  {
+    "main_section": "section-5-1",
+    "type": "PERMITTED",
+    "for": "court",
+    "to": "appoint an individual to be the child’s guardian",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the child has no parent with parental responsibility for him",
+        "section": null
+      },
+      {
+        "type": "OR",
+        "text": "a parent, guardian or special guardian of the child's was named in a child arrangements order as a person with whom the child was to live and has died while the order was in force",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-5-3",
+    "type": "PERMITTED",
+    "for": "parent with parental responsibility",
+    "to": "appoint another individual to be the child’s guardian in the event of his death",
+    "conditions": []
+  },
+  {
+    "main_section": "section-5-6",
+    "type": "OBLIGATORY",
+    "for": "guardian appointed under section 5",
+    "to": "have parental responsibility for the child concerned",
+    "conditions": []
+  },
+  {
+    "main_section": "section-7-5",
+    "type": "OBLIGATORY",
+    "for": "authority or officer of the Service or a Welsh family proceedings officer",
+    "to": "comply with any request for a report under this section",
+    "conditions": []
+  }
+]
