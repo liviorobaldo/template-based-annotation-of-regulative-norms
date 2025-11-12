@@ -69,27 +69,31 @@ def match_annotations(annotations1: List[str], annotations2: List[str],
     Match annotations between two sets using similarity scores.
     Returns a dictionary mapping indices from annotations1 to indices in annotations2.
     Uses rapidfuzz.process.extract for efficient matching.
+    Handles duplicates by finding the best available (unused) match.
     """
     matches = {}
     used_indices2 = set()
     
-    # Use rapidfuzz process.extract to find best matches
-    # process.extract returns [(matched_text, score, index), ...]
+    # Use rapidfuzz process.extract to find multiple potential matches
+    # process.extract returns [(matched_text, score, index), ...] sorted by score
     for i, ann1 in enumerate(annotations1):
-        # Find the best matching annotation from annotations2
-        result = process.extractOne(
+        # Get multiple potential matches, sorted by score (best first)
+        # We get more than one to handle duplicates - if the best match is already used,
+        # we can use the next best match
+        potential_matches = process.extract(
             ann1, 
             annotations2, 
             scorer=fuzz.token_sort_ratio,
+            limit=len(annotations2),  # Get all matches above threshold
             score_cutoff=int(threshold * 100)  # Convert to 0-100 range
         )
         
-        if result:
-            matched_text, score, j = result
-            # Check if this index hasn't been used yet
+        # Find the first match that hasn't been used yet
+        for matched_text, score, j in potential_matches:
             if j not in used_indices2:
                 matches[i] = j
                 used_indices2.add(j)
+                break  # Found a match, move to next annotation
     
     return matches
 
@@ -399,7 +403,7 @@ if __name__ == "__main__":
     
     # File paths relative to the script directory
     annotations_file = os.path.join(base_dir, "annotation.txt")
-    groundtruth_file = os.path.join(base_dir, "groundtruth.txt")
+    groundtruth_file = os.path.join(base_dir, "groundtruth1.txt")
     output_file = os.path.join(base_dir, "verification_results.json")
     
     # Run verification

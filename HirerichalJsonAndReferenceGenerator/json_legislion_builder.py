@@ -1117,8 +1117,8 @@ if __name__ == "__main__":
     print("Current directory:", os.getcwd())
 
     # Test the new hierarchy function with fixed title extraction
-    part_file = current_dir + "/processed_acts/1989_41.xhtml"
-    output_file = current_dir + "/output_for_json_builder/1989_41_sections_hierarchy.json"
+    part_file = current_dir + "/processed_acts/1964_81_part_1.xhtml"
+    output_file = current_dir + "/output_for_json_builder/1964_81_part_1_sections_hierarchy.json"
     print("\n=== Testing extract_sections_with_hierarchy ===")
     result = extract_legaldocML_hierarchy(part_file, output_file)
     if result:

@@ -10,3 +10,5 @@
 !.env.example
 !.env.sample
 
+Verifier/openai_responses.jsonl
+Verifier/openai_requests.jsonl

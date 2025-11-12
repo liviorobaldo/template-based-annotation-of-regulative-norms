@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the UK public authorities as well as the courts</p>
+    </for>
+    <to>
+      <p>treat the Articles in Schedule 1 of the Act, as having the force of law in the UK</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>Section 3 of the Act</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Courts, Administrative bodies, and interpreters of legislation</p>
+    </for>
+    <to>
+      <p>construe the specific terms in the Vienna Convention,('agents of the receiving State' includes constables; 'national' means UK and colonies; etc.) in accordance with definitions that are provided in this subsection</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>interpreting and applying the Vienna Convention in UK legal proceedings</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Courts and Administrative Authorities</p>
+    </for>
+    <to>
+      <p>treat any waiver by the head of a mission (or acting head) as a waiver by the state.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>Applying Article 32 of the Convention</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>PERMITTED</type>
+    <for>
+      <p>Her Majesty by Order in Council</p>
+    </for>
+    <to>
+      <p>withdraw privileges and immunities from the mission or another state or its members</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>the immunities or the privileges accorded to a UK mission or its members in the State are less than those conferred by the Act.</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Courts and parties in proceedings under the Act</p>
+    </for>
+    <to>
+      <p>treat a certificate issued by or under the authority of Secretary of State as conclusive evidence of the stated fact.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>[WHEN] a question arises in proceedings about entitlement to any privilege or immunity under this act</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officials or the government making recommendations to Her Majesty</p>
+    </for>
+    <to>
+      <p>ensure a draft Order under section 2 is laid before and approved by resolution by each House of Parliament</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making the recommendation to Her Majesty in Council</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>PERMITTED</type>
+    <for>
+      <p>either House of Parliament</p>
+    </for>
+    <to>
+      <p>annul a statutory instrument containing an Order under Section 3</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>[WHEN] a resolution for annulment is passed.</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>PERMITTED</type>
+    <for>
+      <p>Her Majesty by Order in Council</p>
+    </for>
+    <to>
+      <p>vary or revoke any Order made under the Act</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>authorities in the UK</p>
+    </for>
+    <to>
+      <p>extend diplomatic  immunities and exemptions to persons or goods as provided in any such agreement</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>[WHEN] such an agreement was in force at the commencement of this Act and remains in force</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>publish and amend notices in the London, Edinburgh and Belfast Gazettes specifying States and classes of persons subject to applicable agreements</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>[WHEN] such agreements are either in force or amended</p>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section/>
+    <type>PERMITTED</type>
+    <for>
+      <p>Her Majesty by Order in Council</p>
+    </for>
+    <to>
+      <p>appoint the day this Act comes into force</p>
+    </to>
+    <conditions/>
+  </annotation>
+</annotations>
