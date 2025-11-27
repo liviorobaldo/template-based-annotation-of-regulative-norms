@@ -24,7 +24,7 @@ Outputs are written next to the inputs:
 ### Prepare Inputs
 
 1. Run `HirerichalJsonAndReferenceGenerator` to create the per-part hierarchical JSON and store it under `<Act>/`.
-2. Place the matching annotator file (same part) next to it using the `PartN.txt` naming pattern.
+2. Place the matching annotator file (same part) next to it using the `ChunkN.txt` naming pattern.
 
 ### Running the Pipeline
 
