@@ -12,3 +12,7 @@
 
 Verifier/openai_responses.jsonl
 Verifier/openai_requests.jsonl
+
+__pycache__/*
+*/__pycache__/*
+*__pycache__*

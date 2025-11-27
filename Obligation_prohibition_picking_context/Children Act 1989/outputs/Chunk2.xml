@@ -1,0 +1,2614 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make any section 8 order, other than a child arrangements order to which subsection (6B) applies, with respect to a child who is in the care of a local authority.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>an application</p>
+    </for>
+    <to>
+      <p>be made by a local authority for a child arrangements order</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a child arrangements order in favour of a local authority.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person who is, or was within the last six months, a local authority foster parent of a child</p>
+    </for>
+    <to>
+      <p>apply for leave to apply for a section 8 order with respect to the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p/>
+        <ul>
+          <li>(a) he has the consent of the authority,</li>
+          <li>(b) he is a relative of the child,</li>
+          <li>or (c) the child has lived with him for at least one year preceding the application.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>exercise its powers to make a specific issue order or prohibited steps order—</p>
+      <ul>
+        <li>(a) with a view to achieving a result which could be achieved by making a child arrangements order or an order under section 51A of the Adoption and Children Act 2002 (post-adoption contact);</li>
+        <li>or (b) in any way which is denied to the High Court (by section 100(2)) in the exercise of its inherent jurisdiction with respect to children.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a section 8 order which will end after the child has reached sixteen</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is satisfied that the circumstances of the case are exceptional</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the order is a child arrangements order to which subsection (6B) applies.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make any section 8 order (other than one varying or discharging such an order) with respect to a child who has reached sixteen</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is satisfied that the circumstances of the case are exceptional.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/9</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>in any family proceedings in which a question arises with respect to the welfare of any child, make a section 8 order with respect to the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p/>
+        <ul>
+          <li>(a) an application for the order has been made by a person who—(i) is entitled to apply for a section 8 order with respect to the child;</li>
+          <li>or (ii) has obtained the leave of the court to make the application;</li>
+          <li>or (b) the court considers that the order should be made even though no such application has been made</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>the restrictions in section 9.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a section 8 order with respect to any child on the application of a person who—</p>
+      <ul>
+        <li>(a) is entitled to apply for a section 8 order with respect to the child;</li>
+        <li>or (b) has obtained the leave of the court to make the application</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>the restrictions in section 9.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p/>
+      <ul>
+        <li>(a) any party to a marriage (whether or not subsisting) in relation to whom the child is a child of the family;</li>
+      </ul>
+    </for>
+    <to>
+      <p>to apply for a child arrangements order with respect to the child.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority foster parent</p>
+    </for>
+    <to>
+      <p>apply for a child arrangements order relating only to with whom the child is to live and when the child is to live with any person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child has lived with the foster parent for at least one year immediately preceding the application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a relative of a child</p>
+    </for>
+    <to>
+      <p>apply for a child arrangements order relating only to with whom the child is to live and when the child is to live with any person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child has lived with the relative for at least one year immediately preceding the application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A person who would not otherwise be entitled (under the previous provisions of this section) to apply for the variation or discharge of a section 8 order</p>
+    </for>
+    <to>
+      <p>apply for its variation or discharge</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p/>
+        <ul>
+          <li>(a) the order was made on his application;</li>
+          <li>or (b) in the case of a child arrangements order,</li>
+          <li>he is named in provisions of the order regulating arrangements relating to— (i) with whom the child concerned is to spend time or otherwise have contact,</li>
+          <li>or (ii) when the child is to spend time or otherwise have contact with any person.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Any person who falls within a category of person prescribed by rules of court</p>
+    </for>
+    <to>
+      <p>apply for any such section 8 order as may be prescribed in relation to that category of person.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an application for a child arrangements order to which subsection (7B) applies</p>
+    </for>
+    <to>
+      <p>be made with respect to him</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>apart from this subsection the leave of the court is not required, with such leave</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a special guardianship order is in force with respect to the child.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the court</p>
+    </for>
+    <to>
+      <p>grant leave</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it is satisfied that he has sufficient understanding to make the proposed application for the section 8 order</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the person applying for leave to make an application for a section 8 order is the child concerned</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the court</p>
+    </for>
+    <to>
+      <p>have particular regard to—</p>
+      <ul>
+        <li>(a) the nature of the proposed application for the section 8 order;</li>
+        <li>(b) the applicant’s connection with the child;</li>
+        <li>(c) any risk there might be of that proposed application disrupting the child’s life to such an extent that he would be harmed by it;</li>
+        <li>and (d) where the child is being looked after by a local authority— (i) the authority’s plans for the child’s future;</li>
+        <li>and (ii) the wishes and feelings of the child’s parents</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the person applying for leave to make an application for a section 8 order is not the child concerned</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>deciding whether or not to grant leave.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The period of three years mentioned in subsection (5)(b)</p>
+    </for>
+    <to>
+      <p>not be continuous</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/10</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>The period of three years mentioned in subsection (5)(b)</p>
+    </for>
+    <to>
+      <p>have begun more than five years before, or ended more than three months before, the making of the application.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>— (in the light of any provision in rules of court that is of the kind mentioned in subsection (2)</p>
+      <ul>
+        <li>(a) or (b))</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>any question of making a section 8 order, or any other question with respect to such an order, arises in proceedings.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Rules of court</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) specify periods within which specified steps must be taken in relation to proceedings in which such questions arise;</li>
+        <li>and (b) make other provision with respect to such proceedings for the purpose of ensuring,</li>
+        <li>so far as is reasonably practicable,</li>
+        <li>that such questions are determined without delay.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a section 8 order at any time during the course of the proceedings in question even though it is not in a position to dispose finally of those proceedings</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>has power to do so.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a child arrangements order made with respect to a child</p>
+    </for>
+    <to>
+      <p>so far as it provides for the child to spend time or otherwise have contact with one of the child's parents at times when the child is living with the child's other parent, cease to have effect</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the parents live together for a continuous period of more than six months.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a section 8 order</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) contain directions about how it is to be carried into effect;</li>
+        <li>(b) impose conditions which must be complied with by any person— (i) who is named in the order as a person with whom the child concerned is to live,</li>
+        <li>spend time or otherwise have contact;</li>
+        <li>(ii) who is a parent of the child ...;</li>
+        <li>(iii) who is not a parent of his but who has parental responsibility for him;</li>
+        <li>or (iv) with whom the child is living,</li>
+        <li>and to whom the conditions are expressed to apply;</li>
+        <li>(c) be made to have effect for a specified period,</li>
+        <li>or contain provisions which are to have effect for a specified period;</li>
+        <li>(d) make such incidental,</li>
+        <li>supplemental or consequential provision as the court thinks fit.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an activity direction in connection with that provision of the child arrangements order.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>on the same occasion, —</p>
+      <ul>
+        <li>(a) make an activity direction under subsection (2B),</li>
+        <li>and (b) dispose finally of the proceedings as they relate to failure to comply with the provision in connection with which the activity direction is made.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A court</p>
+    </for>
+    <to>
+      <p>make an activity direction under section 11A(2) in connection with any matter mentioned in section 11A(1A)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>there is a dispute as regards the provision about that matter that the court is considering whether to make in the proceedings.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A court</p>
+    </for>
+    <to>
+      <p>make an activity direction requiring an individual who is a child to take part in an activity</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the individual is a parent of the child in relation to whom the court is considering provision about a matter mentioned in section 11A(1A).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A court</p>
+    </for>
+    <to>
+      <p>make an activity activity direction in connection with the making, variation or discharge of a child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child arrangements order is, or would if made be, an excepted order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A court</p>
+    </for>
+    <to>
+      <p>make an activity direction in relation to an individual</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the individual is habitually resident in England and Wales</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>impose a condition (an "activity condition") requiring an individual falling within subsection (3) to take part in an activity that would, in the court's opinion, help to establish, maintain or improve the involvement in the life of the child concerned of—</p>
+      <ul>
+        <li>(a) that individual,</li>
+        <li>or (b) another individual who is a party to the proceedings.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>be varied so as to impose a condition (an "activity condition") requiring an individual falling within subsection (3) to take part in an activity that would, in the court's opinion, help to establish, maintain or improve the involvement in the life of the child concerned of—</p>
+      <ul>
+        <li>(a) that individual,</li>
+        <li>or (b) another individual who is a party to the proceedings.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11A</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the condition</p>
+    </for>
+    <to>
+      <p>specify the activity and the person providing the activity.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>impose an activity condition on an individual who is a child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the individual is a parent of the child concerned.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>impose an activity condition</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is an excepted order (within the meaning given by section 11B(4)).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>be varied so as to impose an activity condition</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is an excepted order (within the meaning given by section 11B(4)).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a child arrangements order</p>
+    </for>
+    <to>
+      <p>impose an activity condition on an individual</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the individual is habitually resident in England and Wales.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>satisfy itself as to the matters falling within subsections (2) to (4)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>Before making an activity direction (or imposing an activity condition by means of a child arrangements order).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>obtain and consider information about the individual who would be subject to the direction (or the condition) and the likely effect of the direction (or the condition) on him</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making such a direction (or such an order).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) to (5)</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11E</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officer of the Service or Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>comply with any such request.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>make regulations authorising payments to assist individuals required by an activity direction or condition to take part in an activity</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the National Assembly for Wales</p>
+    </for>
+    <to>
+      <p>by regulations, make provision authorising it to make payments to assist individuals falling within subsection (4) in paying relevant charges or fees.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under this section</p>
+    </for>
+    <to>
+      <p>provide that no assistance is available to an individual</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the individual satisfies such conditions as regards his financial resources as may be set out in the regulations;</li>
+          <li>(b) the activity in which the individual is required by an activity direction or condition to take part is provided to him in England or Wales;</li>
+          <li>(c) where the activity in which the individual is required to take part is provided to him in England,</li>
+          <li>it is provided by a person who is for the time being approved by the Secretary of State as a provider of activities required by an activity direction or condition;</li>
+          <li>(d) where the activity in which the individual is required to take part is provided to him in Wales,</li>
+          <li>it is provided by a person who is for the time being approved by the National Assembly for Wales as a provider of activities required by a an activity direction or condition.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under this section</p>
+    </for>
+    <to>
+      <p>make provision—</p>
+      <ul>
+        <li>(a) as to the maximum amount of assistance that may be paid to or in respect of an individual as regards an activity in which he is required by a an activity direction or condition to take part;</li>
+        <li>(b) where the amount may vary according to an individual's financial resources,</li>
+        <li>as to the method by which the amount is to be determined;</li>
+        <li>(c) authorising payments by way of assistance to be made directly to persons providing activities required by an activity direction or condition.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>ask an officer of the Service or a Welsh family proceedings officer—</p>
+      <ul>
+        <li>(a) to monitor,</li>
+        <li>or arrange for the monitoring of,</li>
+        <li>the individual's compliance with the direction (or the condition);</li>
+        <li>(b) to report to the court on any failure by the individual to comply with the direction (or the condition)</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making the direction (or imposing the condition by means of a child arrangements order).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>in any family proceedings the court—</p>
+        <ul>
+          <li>(a) makes an activity direction in relation to an individual,</li>
+          <li>or (b) makes a child arrangements order that imposes,</li>
+          <li>or varies a child arrangements order so as to impose,</li>
+          <li>an activity condition on an individual.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officer of the Service or Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>any request under subsection (2)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>in any family proceedings the court—</p>
+        <ul>
+          <li>(a) makes an activity direction in relation to an individual,</li>
+          <li>or (b) makes a child arrangements order that imposes,</li>
+          <li>or varies a child arrangements order so as to impose,</li>
+          <li>an activity condition on an individual.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>ask an officer of the Service or a Welsh family proceedings officer—</p>
+      <ul>
+        <li>(a) to monitor whether an individual falling within subsection (3) complies with each provision of any of those kinds that is contained in the child arrangements order (or in the child arrangements order as varied);</li>
+        <li>(b) to report to the court on such matters relating to the individual's compliance as the court may specify in the request.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>in any family proceedings the court makes—</p>
+        <ul>
+          <li>(a) a child arrangements order containing provision of a kind mentioned in section 11C(1)</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a request under subsection (2)—</p>
+      <ul>
+        <li>(a) on making the child arrangements order(or the order varying the child arrangements order),</li>
+        <li>or (b) at any time during the subsequent course of the proceedings as they relate to contact with the child concerned or to the child's living arrangements.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>specify the period for which the officer of the Service or Welsh family proceedings officer is to monitor compliance with the order; and the period specified may not exceed twelve months</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a request under subsection (2).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11G</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officer of the Service or Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>comply with any request under subsection (2).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11H</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>order any individual falling within subsection (3) to take such steps as may be specified in the order with a view to enabling the officer of the Service or Welsh family proceedings officer to comply with the court's request under subsection (2).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11H</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under subsection (8) with respect to an individual who is a child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>he is a parent of the child with respect to whom the order falling within subsection (1) was made.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11H</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11H</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a request under subsection (2) in relation to a child arrangements order that is an excepted order (within the meaning given by section 11B(4)).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11I</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>attach to the child arrangements order (or the order varying the contact order) a notice warning of the consequences of failing to comply with the child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court makes (or varies) a child arrangements order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11I</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order (an “enforcement order”) imposing on the person an unpaid work requirement</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is satisfied beyond reasonable doubt that the person has failed to comply with a child arrangements order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an enforcement order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is satisfied that the person had a reasonable excuse for failing to comply with the provision.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an enforcement order in relation to the child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it receives the application of—</p>
+        <ul>
+          <li>(a) a person who is,</li>
+          <li>for the purposes of the child arrangements order,</li>
+          <li>the person with whom the child concerned lives or is to live;</li>
+          <li>(b) a person whose contact with the child concerned is provided for in the child arrangements order ;</li>
+          <li>(c) any individual subject to a condition under section 11(7)(b) or an activity condition imposed by the child arrangements order ;</li>
+          <li>or (d) the child concerned.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for/>
+    <to>
+      <p>obtain the leave of the court before making the application for an enforcement order in relation to the child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the person proposing the application is the child concerned.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>grant leave to the child concerned</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it is satisfied that he has sufficient understanding to make the proposed application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>suspend an enforcement order for such period as it thinks fit.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make more than one enforcement order in relation to the same person on the same occasion.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for/>
+    <to>
+      <p>make an enforcement order against a person in respect of a failure to comply with a provision of a child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is satisfied that before the failure occurred the person had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of—</p>
+        <ul>
+          <li>(a) in the case of a failure to comply with a provision of a child arrangements order where the order was varied before the failure occurred,</li>
+          <li>a notice under section 11I relating to the order varying the child arrangements order or,</li>
+          <li>where more than one such order has been made,</li>
+          <li>the last order preceding the failure in question;</li>
+          <li>(b) in any other case,</li>
+          <li>a notice under section 11I relating to the child arrangements order.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for/>
+    <to>
+      <p>make an enforcement order against a person for a failure to comply with a child arrangements order occurring</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>the person attained the age of 18.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an enforcement order against a person in respect of a failure to comply with a child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child arrangements order is an excepted order (within the meaning given by section 11B(4)).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an enforcement order against a person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the person is habitually resident in England and Wales</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>be satisfied that—</p>
+      <ul>
+        <li>(a) making the enforcement order proposed is necessary to secure the person's compliance with thechild arrangements order or any child arrangements order that has effect in its place;</li>
+        <li>(b) the likely effect on the person of the enforcement order proposed to be made is proportionate to the seriousness of the breach</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making an enforcement order as regards a person in breach of a provision of a child arrangements order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>satisfy itself that provision for the person to work under an unpaid work requirement imposed by an enforcement order can be made in the local justice area in which the person in breach resides or will reside</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making an enforcement order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>obtain and consider information about a person and the likely effect of the enforcement order on him</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making an enforcement order as regards the person in breach of a provision of a child arrangements order</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>about the likely effect of the enforcement order</p>
+    </for>
+    <to>
+      <p>in particular, include information as to—</p>
+      <ul>
+        <li>(a) any conflict with the person's religious beliefs;</li>
+        <li>(b) any interference with the times (if any) at which he normally works or attends an educational establishment.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court that proposes to make an enforcement order</p>
+    </for>
+    <to>
+      <p>ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) and (3).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officer of the Service or Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>comply with any request under this section.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>take into account the welfare of the child who is the subject of the contact order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making an enforcement order in relation to a child arrangements order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>ask an officer of the Service or a Welsh family proceedings officer—</p>
+      <ul>
+        <li>(a) to monitor,</li>
+        <li>or arrange for the monitoring of,</li>
+        <li>the person's compliance with the unpaid work requirement imposed by the order;</li>
+        <li>(b) to report to the court if a report under paragraph 8 of Schedule A1 is made in relation to the person;</li>
+        <li>(c) to report to the court on such other matters relating to the person's compliance as may be specified in the request;</li>
+        <li>(d) to report to the court if the person is,</li>
+        <li>or becomes,</li>
+        <li>unsuitable to perform work under the requirement</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making an enforcement order in relation to a person</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the officer of the Service or Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>comply with any request under this section.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>attach to the order a notice warning of the consequences of failing to comply with the order.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court makes an enforcement order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order requiring an individual in breach to pay a person compensation in respect of his financial loss.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court is satisfied that—</p>
+        <ul>
+          <li>(a) an individual has failed to comply with a provision of the child arrangements order,</li>
+          <li>and (b) a person falling within subsection (6) has suffered financial loss by reason of the breach,</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under subsection (2)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is satisfied that the individual in breach had a reasonable excuse for failing to comply with the particular provision of the child arrangements order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an order under subsection (2)</p>
+    </for>
+    <to>
+      <p>be made</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>an application by the person who claims to have suffered financial loss is received.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a child</p>
+    </for>
+    <to>
+      <p>obtain the leave of the court</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making such an application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>grant leave to the child concerned</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it is satisfied that he has sufficient understanding to make the proposed application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11J</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>determine the amount of compensation</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>the amount of compensation</p>
+    </for>
+    <to>
+      <p>exceed the amount of the applicant's financial loss.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>take into account the individual's financial circumstances</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>determining the amount of compensation payable by the individual in breach.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>An amount ordered to be paid as compensation</p>
+    </for>
+    <to>
+      <p>be recovered by the applicant as a civil debt due to him.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>take into account the welfare of the child concerned</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>exercising its powers under this section</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11O</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11P</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is satisfied that before the failure occurred the individual had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of—</p>
+        <ul>
+          <li>(a) in the case of a failure to comply with a provision of a child arrangements order where the orderwas varied before the failure occurred,</li>
+          <li>a notice under section 11I relating to the order varying the child arrangements order or,</li>
+          <li>where more than one such order has been made,</li>
+          <li>the last order preceding the failure in question;</li>
+          <li>(b) in any other case,</li>
+          <li>a notice under section 11I relating to the child arrangements order.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11P</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11P</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order where the failure occurred before the individual attained the age of 18.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11P</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child arrangements order is an excepted order (within the meaning given by section 11B(4)).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/11P</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under section 4 giving a father, or under section 4ZA giving a woman, parental responsibility for a child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the court makes a child arrangements order with respect to the child,</li>
+          <li>(b) the father of the child,</li>
+          <li>or a woman who is a parent of the child by virtue of section 43 of the Human Fertilisation and Embryology Act 2008,</li>
+          <li>is named in the order as a person with whom the child is to live,</li>
+          <li>and (c) the father,</li>
+          <li>or the woman,</li>
+          <li>would not otherwise have parental responsibility for the child.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>decide whether it would be appropriate, in view of the provision made in the order with respect to a father or a woman, for him or her to have parental responsibility for a child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the court makes a child arrangements order with respect to the child,</li>
+          <li>(b) the father of the child,</li>
+          <li>or a woman who is a parent of the child by virtue of section 43 of the Human Fertilisation and Embryology Act 2008,</li>
+          <li>is named in the order as a person with whom the child is to spend time or otherwise have contact but is not named in the order as a person with whom the child is to live,</li>
+          <li>and (c) the father,</li>
+          <li>or the woman,</li>
+          <li>would not otherwise have parental responsibility for the child.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order under section 4 giving him, or under section 4ZA giving her, that responsibility.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it decides that it would be appropriate for the father or the woman to have that responsibility</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>provide in the order for a person to have parental responsibility for a child while paragraphs</p>
+      <ul>
+        <li>(a) and (b) continue to be met in the person's case.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court makes a child arrangements order and—</p>
+        <ul>
+          <li>(a) the person who is not the parent or guardian of the child concerned is named in the order as a person with whom the child is to spend time or otherwise have contact,</li>
+          <li>but (b) the person is not named in the order as a person with whom the child is to live.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person who has parental responsibility for a child as a result of subsection (2) or (2A)</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (b) to agree,</li>
+        <li>or refuse to agree,</li>
+        <li>to the making of an adoption order,</li>
+        <li>or an order under section 84 of the Adoption and Children Act 2002,</li>
+        <li>with respect to the child;</li>
+        <li>or (c) to appoint a guardian for the child.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>bring  an order under section 4 or 4ZA in respect of a parent of a child to an end at any time while the child arrangements order concerned remains in force so far as providing for the child to live with that parent</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>subsection (1) ... requires the court to make that order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/12</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/13</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) cause a child to be known by a new surname;</li>
+        <li>or (b) remove him from the United Kingdom;</li>
+        <li>without either the written consent of every person who has parental responsibility for the child or the leave of the court.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child arrangements order to which subsection (4) applies is in force with respect to the child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/13</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the removal of the child, for a period of less than one month, is done by a person named in the child arrangements order as a person with whom the child is to live.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/13</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/13</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>grant the leave required by subsection (1)(b), either generally or for specified purposes</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a child arrangements order to which subsection (4) applies.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/13</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a special guardian</p>
+    </for>
+    <to>
+      <p>be aged eighteen or over</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a special guardian</p>
+    </for>
+    <to>
+      <p>be a parent of the child in question</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a special guardianship order with respect to any child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>receiving the application of an individual who—</p>
+        <ul>
+          <li>(a) is entitled to make such an application with respect to the child;</li>
+          <li>or (b) has obtained the leave of the court to make the application,</li>
+          <li>or on the joint application of more than one such individual</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p/>
+      <ul>
+        <li>(a) any guardian of the child;</li>
+      </ul>
+    </for>
+    <to>
+      <p>apply for a special guardianship order with respect to the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a special guardianship order with respect to a child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>deciding about any family proceedings in which a question arises with respect to the welfare of the child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) an application for the order has been made by an individual who falls within subsection (3)</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>an individual</p>
+    </for>
+    <to>
+      <p>make an application under subsection (3) or (6)</p>
+      <ul>
+        <li>(a)</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>, before the beginning of the period of three months ending with the date of the application, he has given written notice of his intention to make the application—</p>
+        <ul>
+          <li>(a) if the child in question is being looked after by a local authority,</li>
+          <li>to that local authority,</li>
+          <li>or (b) otherwise,</li>
+          <li>to the local authority in whose area the individual is ordinarily resident</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>investigate the matter and prepare a report for the court dealing with—</p>
+      <ul>
+        <li>(a) the suitability of the applicant to be a special guardian;</li>
+        <li>(b) such matters (if any) as may be prescribed by the Secretary of State;</li>
+        <li>and (c) any other matter which the local authority consider to be relevant.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>receiving such a notice</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>ask a local authority to conduct such an investigation and prepare such a report</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>do so</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court requests so</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>make such arrangements as they see fit for any person to act on their behalf in connection with conducting an investigation or preparing a report referred to in subsection (8) or (9)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a special guardianship order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(5) and (6) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>it has received a report dealing with the matters referred to in subsection (8).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14A</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14B</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>consider whether, if the order were made—</p>
+      <ul>
+        <li>(a) a child arrangements order containing contact provision should also be made with respect to the child,</li>
+        <li>. . . (b) any section 8 order in force with respect to the child should be varied or discharged. (c) where a provision contained in a child arrangements order made with respect to the child is not discharged,</li>
+        <li>any enforcement order relating to that provision should be revoked,</li>
+        <li>and (d) where an activity direction has been made— (i) in proceedings for the making,</li>
+        <li>variation or discharge of a child arrangements order with respect to the child,</li>
+        <li>or (ii) in other proceedings that relate to such an order,</li>
+        <li>that direction should be discharged.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making a special guardianship order</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14B</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14B</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) give leave for the child to be known by a new surname;</li>
+        <li>(b) grant the leave required by section 14C(3)(b),</li>
+        <li>either generally or for specified purposes.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a special guardianship order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14B</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a special guardian appointed by an order</p>
+    </for>
+    <to>
+      <p>parental responsibility for the child in respect of whom it is made.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the order is in force</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(7) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a special guardian</p>
+    </for>
+    <to>
+      <p>exercise parental responsibility to the exclusion of any other person with parental responsibility for the child (apart from another special guardian)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>any other order in force with respect to the child under this Act.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(7) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) cause the child to be known by a new surname;</li>
+        <li>or (b) remove him from the United Kingdom,</li>
+        <li>without either the written consent of every person who has parental responsibility for the child or the leave of the court.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a special guardianship order is in force with respect to a child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(7) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the removal of the child, for a period of less than three months, is done by a special guardian of his.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a special guardian</p>
+    </for>
+    <to>
+      <p>take reasonable steps to give notice of that fact to—</p>
+      <ul>
+        <li>(a) each parent of a child with parental responsibility;</li>
+        <li>and (b) each guardian of the child</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child with respect to whom a special guardianship order is in force dies</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(7) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>any other special guardian</p>
+    </for>
+    <to>
+      <p>not give notice as respects that parent or guardian</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child with respect to whom a special guardianship order is in force dies</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child has more than one special guardian</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 29(7) of the Adoption and Children Act 2002.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14C</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>vary or discharge a special guardianship order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>receiving an the application of—</p>
+        <ul>
+          <li>(a) the special guardian (or any of them,</li>
+          <li>if there are more than one);</li>
+          <li>(b) any parent or guardian of the child concerned;</li>
+          <li>(c) any individual who is named in a child arrangements order as a person with whom the child is to live;</li>
+          <li>(d) any individual not falling within any of paragraphs</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>vary or discharge the special guardianship order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it considers that the order should be varied or discharged, even though no application has been made under subsection (1)</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is deciding about any family proceedings in which a question arises with respect to the welfare of a child with respect to whom a special guardianship order is in force.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p/>
+      <ul>
+        <li>(a) the child;</li>
+      </ul>
+    </for>
+    <to>
+      <p>obtain the leave of the court</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making an application under subsection (1).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>grant leave</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the person applying for leave to make an application under subsection (1) is the child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it is satisfied that he has sufficient understanding to make the proposed application under subsection (1).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>not grant leave to a person falling within subsection (3)(b)(c) or (d)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is satisfied that there has been a significant change in circumstances since the making of the special guardianship order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14D</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14E</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>(in the light of any provision in rules of court that is of the kind mentioned in section 11(2)</p>
+      <ul>
+        <li>(a) or (b))—</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>deciding about proceedings in which any question of making, varying or discharging a special guardianship order arises.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14E</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14E</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A special guardianship order, or an order varying one</p>
+    </for>
+    <to>
+      <p>contain provisions which are to have effect for a specified period.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>make arrangements for the provision within their area of special guardianship support services, which means—</p>
+      <ul>
+        <li>(a) counselling,</li>
+        <li>advice and information;</li>
+        <li>and (b) such other services as are prescribed,</li>
+        <li>in relation to special guardianship.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>make regulations under subsection (1)(b) so as to secure that local authorities provide financial support.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>carry out an assessment of a person’s needs for special guardianship support services</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>receiving the request of any of the following persons—</p>
+        <ul>
+          <li>(a) a child with respect to whom a special guardianship order is in force;</li>
+          <li>(b) a special guardian;</li>
+          <li>(c) a parent;</li>
+          <li>(d) any other person who falls within a prescribed description,</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>carry out an assessment of a person’s needs for special guardianship support services</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>he is a person of a prescribed description, or his case falls within a prescribed description, or both he and his case fall within prescribed descriptions)</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the Secretary of State so provides in regulations</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>carry out an assessment of that person’s needs for special guardianship support services</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>receiving the request of any other person.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>decide whether to provide special guardianship support services to a person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, as a result of an assessment, they decide that the person has need for such services.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>prepare a plan in accordance with which special guardianship support services are to be provided to him, and keep the plan under review</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) a local authority decide to provide any special guardianship support services to a person,</li>
+          <li>and (b) the circumstances fall within a prescribed description.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations, make provision about assessments, preparing and reviewing plans, the provision of special guardianship support services in accordance with plans and reviewing the provision of special guardianship support services.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The regulations</p>
+    </for>
+    <to>
+      <p>make provision—</p>
+      <ul>
+        <li>(a) about the type of assessment which is to be carried out,</li>
+        <li>or the way in which an assessment is to be carried out;</li>
+        <li>(b) about the way in which a plan is to be prepared;</li>
+        <li>(c) about the way in which,</li>
+        <li>and the time at which,</li>
+        <li>a plan or the provision of special guardianship support services is to be reviewed;</li>
+        <li>(d) about the considerations to which a local authority are to have regard in carrying out an assessment or review or preparing a plan;</li>
+        <li>(e) as to the circumstances in which a local authority may provide special guardianship support services subject to conditions (including conditions as to payment for the support or the repayment of financial support);</li>
+        <li>(f) as to the consequences of conditions imposed by virtue of paragraph (e) not being met (including the recovery of any financial support provided);</li>
+        <li>(g) as to the circumstances in which this section may apply to a local authority in respect of persons who are outside that local authority’s area;</li>
+        <li>(h) as to the circumstances in which a local authority may recover from another local authority the expenses of providing special guardianship support services to any person.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A local authority</p>
+    </for>
+    <to>
+      <p>provide special guardianship support services (or any part of them) by securing their provision by—</p>
+      <ul>
+        <li>(a) another local authority;</li>
+        <li>or (b) a person within a description prescribed in regulations of persons who may provide special guardianship support services,</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A local authority</p>
+    </for>
+    <to>
+      <p>also arrange with any such authority or person for that other authority or that person to carry out the local authority’s functions in relation to assessments under this section.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14F</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A local authority</p>
+    </for>
+    <to>
+      <p>carry out an assessment of the needs of any person for the purposes of this section at the same time as an assessment of his needs is made under any other provision of this Act or under any other enactment.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14G</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>establish a procedure for considering representations (including complaints) made to them by any person to whom they may provide special guardianship support services about the discharge of their functions under section 14F in relation to him.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14G</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>be made by the Secretary of State imposing time limits on the making of representations under subsection (1).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14G</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>comply with regulations (if any) made by the Secretary of State for the purposes of this subsection</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>considering representations under subsection (1).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/14G</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make an order requiring—</p>
+      <ul>
+        <li>(a) an officer of the Serviceor a Welsh family proceedings officer to be made available;</li>
+        <li>or (b) a local authority to make an officer of the authority available,</li>
+        <li>to advise,</li>
+        <li>assist and (where appropriate) befriend any person named in the order</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in any family proceedings, the court has power to make an order under this Part with respect to any child.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make a family assistance order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it has obtained the consent of every person to be named in the order other than the child.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a family assistance order</p>
+    </for>
+    <to>
+      <p>direct—</p>
+      <ul>
+        <li>(a) the person named in the order;</li>
+        <li>or (b) such of the persons named in the order as may be specified in the order,</li>
+        <li>to take such steps as may be so specified with a view to enabling the officer concerned to be kept informed of the address of any person named in the order and to be allowed to visit any such person.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a family assistance order</p>
+    </for>
+    <to>
+      <p>direct an officer concerned to give advice and assistance as regards establishing, improving and maintaining contact to such of the persons named in the order as may be specified in the order</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court makes a family assistance order with respect to a child and the order is to be in force at the same time as a contact provision contained in a child arrangements order made with respect to the child.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a family assistance order</p>
+    </for>
+    <to>
+      <p>have effect for a period of twelve months beginning with the day on which it is made.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it specifies a shorter period.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a family assistance order</p>
+    </for>
+    <to>
+      <p>direct the officer concerned to report to the court on such matters relating to the section 8 order as the court may require (including the question whether the section 8 order ought to be varied or discharged)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court makes a family assistance order with respect to a child and the order is to be in force at the same time as a section 8 order made with respect to the child, the family assistance order.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a family assistance order</p>
+    </for>
+    <to>
+      <p>be made so as to require a local authority to make an officer of theirs available</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the authority agree;</li>
+          <li>or (b) the child concerned lives or will live within their area.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16A</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>an officer of the Service or a Welsh family proceedings officer</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) make a risk assessment in relation to the child,</li>
+        <li>and (b) provide the risk assessment to the court.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in carrying out any function to which this section applies, the officer is given cause to suspect that the child concerned is at risk of harm.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/16A</section>
+      </condition>
+    </conditions>
+  </annotation>
+</annotations>

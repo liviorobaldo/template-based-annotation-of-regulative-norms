@@ -1,0 +1,749 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the child’s welfare</p>
+    </for>
+    <to>
+      <p>be the court’s paramount consideration</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a court determines any question with respect to—</p>
+        <ul>
+          <li>(a) the upbringing of a child;</li>
+          <li>or (b) the administration of a child’s property or the application of any income arising from it</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the court</p>
+    </for>
+    <to>
+      <p>have regard to the general principle that any delay in determining the question is likely to prejudice the welfare of the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>any question with respect to the upbringing of a child arises in any proceedings.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the court</p>
+    </for>
+    <to>
+      <p>have to regard the welfare checklist factors in paragraphs</p>
+      <ul>
+        <li>(a) to (g) of section 1(3)</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court is considering whether to make, vary, or discharge a section 8 order and that action is opposed by any party to the proceedings</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the court is not taking into consideration whether to vary, make, or discharge a special guardianship order or an order under Part IV of the Act.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>have regard in particular to—</p>
+      <ul>
+        <li>(a) the ascertainable wishes and feelings of the child concerned (considered in the light of his age and understanding);</li>
+        <li>(b) his physical,</li>
+        <li>emotional and educational needs;</li>
+        <li>(c) the likely effect on him of any change in his circumstances;</li>
+        <li>(d) his age,</li>
+        <li>sex,</li>
+        <li>background and any characteristics of his which the court considers relevant;</li>
+        <li>(e) any harm which he has suffered or is at risk of suffering;</li>
+        <li>(f) how capable each of his parents,</li>
+        <li>and any other person in relation to whom the court considers the question to be relevant,</li>
+        <li>is of meeting his needs;</li>
+        <li>(g) the range of powers available to the court under this Act in the proceedings in question</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the circumstances mentioned in subsection (4) occur.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>make the order or any of the orders</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court is considering whether or not to make one or more orders under this Act with respect to a child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>it considers that doing so would be better for the child than making no order at all.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/1</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the child's father and mother</p>
+    </for>
+    <to>
+      <p>each have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>they were married to, or civil partners of, each other at the time of the child's birth.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the child's mother</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child’s father and mother were not married to, or civil partners of, each other at the time of his birth</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the child's father</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>he has acquired it (and has not ceased to have it) in accordance with the provisions of this Act.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the child's mother</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008 and is not a person to whom section 1(3) of the Family Law Reform Act 1987 applies</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the other parent of the child</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008 and is not a person to whom section 1(3) of the Family Law Reform Act 1987 applies</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the mother has acquired parental responsibility for the child (and has not ceased to have it) in accordance with the provisions of this Act.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>more than one person</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the same child simultaneously</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a person with parental responsibility for a child</p>
+    </for>
+    <to>
+      <p>act alone and without the other (or others) in meeting that responsibility</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>more than one person has parental responsibility for a child</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>any enactment which requires the consent of more than one person in a matter affecting the child.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person who has parental responsibility for a child</p>
+    </for>
+    <to>
+      <p>act in any way which would be incompatible with any order made with respect to the child under this Act.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person who has parental responsibility for a child</p>
+    </for>
+    <to>
+      <p>surrender or transfer any part of that responsibility to another</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A person who has parental responsibility for a child</p>
+    </for>
+    <to>
+      <p>arrange for some or all of that responsibility to be met by one or more persons acting on his behalf.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/2</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The person with whom any such arrangement is made</p>
+    </for>
+    <to>
+      <p>himself be a person who already has parental responsibility for the child concerned.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/3</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A person who—</p>
+    </for>
+    <to>
+      <p>do what is reasonable in all the circumstances of the case for the purpose of safeguarding or promoting the child’s welfare</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>the provisions of this Act.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/3</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the father of a child</p>
+    </for>
+    <to>
+      <p>acquire parental responsibility</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child’s father and mother were not married to, or civil partners of, each other at the time of his birth</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p/>
+        <ul>
+          <li>(a) he becomes registered as the child’s father under any of the enactments specified in subsection (1A);</li>
+          <li>(b) he and the child’s mother make an agreement (a “parental responsibility agreement”) providing for him to have parental responsibility for the child;</li>
+          <li>or (c) the court,</li>
+          <li>on his application,</li>
+          <li>orders that he shall have parental responsibility for the child.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Secretary of State</p>
+    </for>
+    <to>
+      <p>by order, amend subsection (1A) so as to add further enactments to the list in that subsection.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a parental responsibility agreement</p>
+    </for>
+    <to>
+      <p>have effect for the purposes of this Act</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p/>
+        <ul>
+          <li>(a) it is made in the form prescribed by regulations made by the Lord Chancellor;</li>
+          <li>and (b) where regulations are made by the Lord Chancellor prescribing the manner in which such agreements must be recorded,</li>
+          <li>it is recorded in the prescribed manner.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The court</p>
+    </for>
+    <to>
+      <p>make an order under subsection (2A) on the application—</p>
+      <ul>
+        <li>(a) of any person who has parental responsibility for the child;</li>
+        <li>or (b) with the leave of the court,</li>
+        <li>of the child himself,</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>, in the case of parental responsibility acquired under subsection (1)(c), section 12(4).</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The court</p>
+    </for>
+    <to>
+      <p>only grant leave under subsection (3)(b)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is satisfied that the child has sufficient understanding to make the proposed application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a child’s parent (“parent A”) or, if the other parent of the child also has parental responsibility for the child, both parents</p>
+    </for>
+    <to>
+      <p>by agreement with a person who is not the child’s parent (“the step-parent”) provide for the step-parent to have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child’s parent who has parental responsibility for the child is married to, or a civil partner of, the step-parent</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>on the application of a person who is not the child’s parent (“the step-parent”), order that the step-parent shall have parental responsibility for the child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the child’s parent who has parental responsibility for the child is married to, or a civil partner of, the step-parent.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The court</p>
+    </for>
+    <to>
+      <p>only grant leave under subsection (3)(b)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it is satisfied that the child has sufficient understanding to make the proposed application.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/4</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>by order, appoint that individual to be the child’s guardian if—</p>
+      <ul>
+        <li>(a) the child has no parent with parental responsibility for him;</li>
+        <li>or (b) a parent,</li>
+        <li>guardian or special guardian of the child's was named in a child arrangements order as a person with whom the child was to live and has died while the order was in force ;</li>
+        <li>or (c) paragraph (b) does not apply,</li>
+        <li>and the child’s only or last surviving special guardian dies</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>an application with respect to a child is made to the court by any individual</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the child arrangements order referred to in paragraph (b) also named a surviving parent of the child as a person with whom the child was to live.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The power conferred by subsection (1)</p>
+    </for>
+    <to>
+      <p>also be exercised in any family proceedings</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the court considers that the order should be made even though no application has been made for it.</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A parent who has parental responsibility for his child</p>
+    </for>
+    <to>
+      <p>appoint another individual to be the child’s guardian in the event of their death.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A guardian of a child</p>
+    </for>
+    <to>
+      <p>appoint another individual to take his place as the child’s guardian in the event of his death</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a special guardian of a child</p>
+    </for>
+    <to>
+      <p>appoint another individual to be the child’s guardian in the event of his death.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>an appointment under section 5(3) (by either a parent or guardian) or section 5(4) (by a guardian or special guardian)</p>
+    </for>
+    <to>
+      <p>have effect</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>it is made in writing, is dated and is signed by the person making the appointment or—</p>
+        <ul>
+          <li>(a) in the case of an appointment made by a will which is not signed by the testator,</li>
+          <li>is signed at the direction of the testator in accordance with the requirements of section 9 of the Wills Act 1837;</li>
+          <li>or (b) in any other case,</li>
+          <li>is signed at the direction of the person making the appointment,</li>
+          <li>in his presence and in the presence of two witnesses who each attest the signature.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>A person appointed as a child’s guardian under this section</p>
+    </for>
+    <to>
+      <p>have parental responsibility for the child concerned.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>exercise the High Court’s inherent jurisdiction to appoint a guardian of the estate of any child</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>any provision made by rules of court</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>rules of court</p>
+    </for>
+    <to>
+      <p>prescribe the circumstances in which, and conditions subject to which, an appointment of such a guardian may be made</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>rules of court are made under subsection (11)</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/5</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>A guardian of a child</p>
+    </for>
+    <to>
+      <p>only be appointed in accordance with the provisions of this section</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/6</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the person who made an appointment under section 5(3) or (4) (including one made in an unrevoked will or codicil)</p>
+    </for>
+    <to>
+      <p>revoke it by a written and dated instrument which is signed—</p>
+      <ul>
+        <li>(a) by him;</li>
+        <li>or (b) at his direction,</li>
+        <li>in his presence and in the presence of two witnesses who each attest the signature.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/6</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the person who made an appointment under section 5(3) or (4) (including one made in an unrevoked will or codicil)</p>
+    </for>
+    <to>
+      <p>with the intention of revoking the appointment,</p>
+      <ul>
+        <li>(a) destroy the instrument by which it was made;</li>
+        <li>or (b) have some other person destroy that instrument in his presence.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/6</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A person who is appointed as a guardian under section 5(3) or (4)</p>
+    </for>
+    <to>
+      <p>disclaim his appointment by an instrument in writing signed by him and made within a reasonable time of his first knowing that the appointment has taken effect.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/6</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Any appointment of a guardian under section 5</p>
+    </for>
+    <to>
+      <p>be brought to an end at any time by order of the court—</p>
+      <ul>
+        <li>(a) on the application of any person who has parental responsibility for the child;</li>
+        <li>(b) on the application of the child concerned,</li>
+        <li>with leave of the court;</li>
+        <li>or (c) in any family proceedings,</li>
+        <li>if the court considers that it should be brought to an end even though no application has been made.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A court considering any question with respect to a child under this Act</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) ask an officer of the Service or a Welsh family proceedings officer ;</li>
+        <li>or (b) ask a local authority to arrange for— (i) an officer of the authority;</li>
+        <li>or (ii) such other person (other than an officer of the Service or a Welsh family proceedings officer ) as the authority considers appropriate,</li>
+        <li>to report to the court on such matters relating to the welfare of that child as are required to be dealt with in the report.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Lord Chancellor</p>
+    </for>
+    <to>
+      <p>make regulations specifying matters which, unless the court orders otherwise, must be dealt with in any report under this section</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>AFTER</type>
+        <p>consulting the Lord Chief Justice</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The report</p>
+    </for>
+    <to>
+      <p>be made in writing, or orally, as the court requires.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a court</p>
+    </for>
+    <to>
+      <p>take account of—</p>
+      <ul>
+        <li>(a) any statement contained in the report;</li>
+        <li>and (b) any evidence given in respect of the matters referred to in the report,</li>
+        <li>in so far as the statement or evidence is,</li>
+        <li>in the opinion of the court,</li>
+        <li>relevant to the question which it is considering,</li>
+        <li>regardless of any enactment or rule of law which would otherwise prevent it from doing so.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/7</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Lord Chief Justice</p>
+    </for>
+    <to>
+      <p>nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under subsection (2).</p>
+    </to>
+    <conditions/>
+  </annotation>
+</annotations>

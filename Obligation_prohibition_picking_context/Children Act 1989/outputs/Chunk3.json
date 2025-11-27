@@ -1,0 +1,2979 @@
+[
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "(in addition to the other duties imposed on them by this Part)— (a) to safeguard and promote the welfare of children within their area who are in need; and (b) so far as is consistent with that duty, to promote the upbringing of such children by their families, by providing a range and level of services appropriate to those children’s needs.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "have the specific duties and powers set out in Part 1 of Schedule 2, for the purpose principally of facilitating the discharge of their general duty under this section.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "any service provided by an authority in the exercise of functions conferred on them by this section",
+        "to": "be provided for the family of a particular child in need or for any member of his family",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it is provided with a view to safeguarding or promoting the child’s welfare.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by order, amend any provision of Part I of Schedule 2 or add any further duty or power to those for the time being mentioned there.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "so far as is reasonably practicable and consistent with the child’s welfare— (a) ascertain the child’s wishes and feelings regarding the provision of those services; and (b) give due consideration (having regard to his age and understanding) to such wishes and feelings of the child as they have been able to ascertain.",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "determining what services to provide for a particular child in need in the exercise of functions conferred on them by this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "facilitate the provision by others (including in particular voluntary organisations) of services which it is a function of the authority to provide by virtue of this section, or section 18, 20, 22A to 22C, 23B to 23D, 24A or 24B",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "make such arrangements as they see fit for any person to act on their behalf in the provision of any such service.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "the services provided by a local authority in the exercise of functions conferred on them by this section",
+        "to": "include providing accommodation and giving assistance in kind or in cash.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "assistance",
+        "to": "be unconditional or subject to conditions as to the repayment of the assistance or of its value (in whole or in part)",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "have regard to the means of the child concerned and of each of his parents",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "giving any assistance or imposing any conditions.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+        "type": "PERMITTED",
+        "for": "the Treasury",
+        "to": "by regulation, prescribe circumstances in which a person is to be treated for the purposes of this Part (or for such of those purposes as are prescribed) as in receipt of any element of child tax credit other than the family element or of working tax credit.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "assess whether a young carer within their area has needs for support and what those needs are",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "(a)it appears to the authority that the young carer may have needs for support, or (b)the authority receive a request from the young carer or a parent of the young carer to assess the young carer's needs for support",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the local authority have previously carried out a care-related assessment of the young carer in relation to the same person cared for and it does appears to the authority that the needs or circumstances of the young carer or the person cared for have changed since the last care-related assessment.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a  young carer's needs assessment",
+        "to": "include an assessment of whether it is appropriate for the young carer to provide, or continue to provide, care for the person in question, in the light of the young carer's needs for support, other needs and wishes.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "have regard to (a) the extent to which the young carer is participating in or wishes to participate in education, training or recreation, and (b) the extent to which the young carer works or wishes to work",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "carrying out a young carer's needs assessment.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "involve (a)the young carer, (b)the young carer's parents, and (c)any person who the young carer or a parent of the young carer requests the authority to involve",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "carrying out a young carer's needs assessment.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority that have carried out a young carer's needs assessment",
+        "to": "give a written record of the assessment to (a)the young carer, (b)the young carer's parents, and (c)any person to whom the young carer or a parent of the young carer requests the authority to give a copy.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "the written record",
+        "to": "state whether the local authority consider him or her to be a child in need",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the person cared for is under 18.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "take reasonable steps to identify the extent to which there are young carers within their area who have needs for support.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "combine the assessments",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "subsection (7)",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority (a) are required to carry out a young carer's needs assessment, and (b)are required or have decided to carry out some other assessment of the young carer or of the person cared for.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+        "type": "PERMITTED",
+        "for": "a young carer's needs assessment",
+        "to": "be combined with an assessment of the person cared for",
+        "conditions": [
+            {
+                "type": "ONLY IF",
+                "text": "the young carer and the person cared for agree.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZC"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make further provision, by regulation, about carrying out a young carer's needs assessment",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZC"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+        "type": "PERMITTED",
+        "for": "the regulations",
+        "to": "in particular, — (a) specify matters to which a local authority is to have regard in carrying out a young carer's needs assessment; (b) specify matters which a local authority is to determine in carrying out a young carer's needs assessment; (c) make provision about the manner in which a young carer's needs assessment is to be carried out; (d) make provision about the form a young carer's needs assessment is to take.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations, amend the list in section 17ZA(6)(b), by regulation, so as to (a)add an entry, (b)remove an entry, or (c)vary an entry.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZC",
+        "type": "OBLIGATORY",
+        "for": "the local authority carrying out a young carer's needs assessment",
+        "to": "consider the assessment and decide— (a) whether the young carer has needs for support in relation to the care which he or she provides or intends to provide, (b) if so, whether those needs could be satisfied (wholly or partly) by services which the authority may provide under section 17, and (c) if they could be so satisfied, whether or not to provide any such services in relation to the young carer.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZF",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "assess whether a parent carer within their area has needs for support and, if so, what those needs are",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the conditions in subsections (3) and (4) are met.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the local authority have previously carried out a care-related assessment of the parent carer in relation to the same disabled child cared for and it does not appears to the authority that the needs or circumstances of the parent carer or the disabled child cared for have changed since the last care-related assessment.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZF"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "parent carer's needs assessment",
+        "to": "include an assessment of whether it is appropriate for the parent carer to provide, or continue to provide, care for the disabled child, in the light of the parent carer's needs for support, other needs and wishes.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "a local authority in carrying out a parent carer's needs assessment",
+        "to": "have regard to a)the well-being of the parent carer, and (b)the need to safeguard and promote the welfare of the disabled child cared for and any other child for whom the parent carer has parental responsibility.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "a local authority, in carrying out a parent carer's needs assessment",
+        "to": "involve (a) the parent carer, (b) any child for whom the parent carer has parental responsibility, and (c) any person who the parent carer requests the authority to involve.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "a local authority that has carried out a parent carer's needs assessment",
+        "to": "give a written record of the assessment to (a)the parent carer, and (b)any person to whom the parent carer requests the authority to give a copy.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZF"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "take reasonable steps to identify the extent to which there are parent carers within their area who have needs for support.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "combine the assessments",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority (a) are required to carry out a parent carer's needs assessment, and (b) are required or have decided to carry out some other assessment of the parent carer or of the disabled child cared for.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations, make further provision, by regulation, about carrying out a parent carer's needs assessment; the regulations may, in particular (a)specify matters to which a local authority is to have regard in carrying out a parent carer's needs assessment (b)specify matters which a local authority is to determine in carrying out a parent carer's needs assessment, (c)make provision about the manner in which a parent carer's needs assessment is to be carried out, (d)make provision about the form a parent carer's needs assessment is to take.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations, amend the list in section 17ZD(8)(b), by regulation, so as to — (a)add an entry, (b)remove an entry, or (c)vary an entry.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZF",
+        "type": "OBLIGATORY",
+        "for": "a local authority that carry out a parent carer's needs assessment",
+        "to": "consider the assessment and decide — (a)whether the parent carer has needs for support in relation to the care which he or she provides or intends to provide(b)whether the disabled child cared for has needs for support, (c)if paragraph (a) or (b) applies, whether those needs could be satisfied (wholly or partly) by services which the authority may provide under section 17, and (d)if they could be so satisfied, whether or not to provide any such services in relation to the parent carer or the disabled child cared for.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZC",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "continue to provide services for the child in the exercise of those functions after the child reaches the age of 18, but may not continue to do so after the EHC plan has ceased to be maintained , except in so far as the authority is required to do so under section 17ZH or 17ZI.",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": ", immediately before a child in need reaches the age of 18— (a) a local authority ... is providing services for the child in the exercise of functions conferred by section 17, and (b) an EHC plan is maintained for the child.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "continue to comply with section 17 after a child reaches the age of 18 until they reach a conclusion in his case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority carry out the assessment before the child reaches the age of 18 and decide to treat it as a needs or carer's assessment in accordance with section 59(6), 61(6) or 64(7) of the Care Act 2014 (with Part 1 of that Act applying to the assessment as a result).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)carry out a needs or carer's assessment (as the case may be) after the child reaches the age of 18, and (b)continue to comply with section 17 after he reaches that age until they reach a conclusion in his case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority carry out the assessment before the child reaches the age of 18 but decide not to treat it as a needs or carer's assessment in accordance with section 59(6), 61(6) or 64(7) of the Care Act 2014.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "continue to comply with section 17 after he reaches that age until— (a)they decide that the duty under section 9 or 10 of the Care Act 2014 (needs or carer's assessment) does not apply, or (b)having decided that the duty applies and having discharged it, they reach a conclusion in his case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority do not carry out the assessment before the child reaches the age of 18.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority ... providing services for a child in need in the exercise of functions conferred by section 17— (a) receive a request for a child's needs assessment or young carer's assessment to be carried out in relation to the child or for a child's carer's assessment to be carried out in relation to a carer of the child, but (b) have yet to be required by section 58(1), 60(1) or 63(1) of the Care Act 2014 to carry out the assessment.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "continue to comply with section 17 after he reaches that age until— (a)they decide that the duty under section 9 or 10 of the Care Act 2014 does not apply, or (b)having decided that the duty applies and having discharged it, they reach a conclusion in his case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority do not decide whether or not to comply with the request",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            },
+            {
+                "type": "BEFORE",
+                "text": "the child reaches the age of 18.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "continue to comply with section 17 until they do reach a conclusion in his case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the EHC plan for the person ceases to be maintained before the local authority reach a conclusion in the person's case",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority providing services for a person in the exercise, by virtue of section 17ZG, of functions conferred by section 17 are required to carry out a needs assessment in that person's case.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZI"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make provision, by regulations, for and in connection with requiring or authorising the responsible authority in the case of a person of a prescribed description who falls within subsection (2) to make, with that person’s consent, such payments to him as they may determine in accordance with the regulations in respect of his securing the provision of the service mentioned in that subsection.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+        "type": "PERMITTED",
+        "for": "for regulations under this section",
+        "to": "in particular, make provision— (a) specifying circumstances in which the responsible authority are not required or authorised to make any payments under the regulations to a person, whether those circumstances relate to the person in question or to the particular service mentioned in subsection (2); (b) for any payments required or authorised by the regulations to be made to a person by the responsible authority (“direct payments”) to be made to that person (“the payee”) as gross payments or alternatively as net payments; (c) for the responsible authority to make for the purposes of subsection (3A) or (3B) such determination as to— (i) the payee’s means, and (ii) the amount (if any) which it would be reasonably practicable for the payee to pay to the authority by way of reimbursement or contribution, as may be prescribed; (d) as to the conditions falling to be complied with by the payee which must or may be imposed by the responsible authority in relation to the direct payments (and any conditions which may not be so imposed); (e) specifying circumstances in which the responsible authority— (i) may or must terminate the making of direct payments, (ii) may require repayment (whether by the payee or otherwise) of the whole or part of the direct payments; (f) for any sum falling to be paid or repaid to the responsible authority by virtue of any condition or other requirement imposed in pursuance of the regulations to be recoverable as a debt due to the authority; (g) displacing functions or obligations of the responsible authority with respect to the provision of the service mentioned in subsection (2) only to such extent, and subject to such conditions, as may be prescribed; (h) authorising direct payments to be made to any prescribed person on behalf of the payee; (j) as to matters to which the responsible authority must, or may, have regard when making a decision for the purposes of a provision of the regulations; (k) as to steps which the responsible authority must, or may, take before, or after, the authority makes a decision for the purposes of a provision of the regulations; (l) specifying circumstances in which a person who has fallen within subsection (3D) but no longer does so (whether because of fluctuating capacity, or regaining or gaining of capacity) is to be treated, or may be treated, as falling within subsection (3D) for purposes of this section or for purposes of regulations under this section.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+        "type": "PERMITTED",
+        "for": "regulations made for the purposes of subsection (3)(a)",
+        "to": "provide that direct payments shall not be made in respect of the provision of residential accommodation for any person for a period in excess of a prescribed period.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+        "type": "OBLIGATORY",
+        "for": "regulations under this section",
+        "to": "provide that— (a) the payments shall be made at the rate mentioned in subsection (3A)(a) and (b) subsection (3A)(b) shall not apply",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "payments are made under the regulations to a person falling within subsection (5).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/18",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "provide such day care for children in need within their area who are — (a)aged five or under; and (b)not yet attending schools, as is appropriate.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/18",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/18",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "provide facilities (including training, advice, guidance and counselling) for those — (a)caring for children in day care, or (b)who at any time accompany such children while they are in day care.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/18"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/18",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "provide for children in need within their area who are attending any school such care or supervised activities as is appropriate— (a) outside school hours; or (b) during school holidays.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/18",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "every local authority in England and Wales",
+        "to": "review— (a)the provision which they make under section 18, (b)the extent to which the services of child minders are available within their area with respect to children under the age of eight, and (c)the provision for day care within their area made for children under the age of eight by persons other, than the authority, required to register under Part XA.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "a review under subsection (1)",
+        "to": "be conducted — (a)together with the appropriate local education authority, and (b)at least once in every review period.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "every local authority in Scotland",
+        "to": "review, at least once in every review period, — (a)the provision for day care within their area made for children under the age of eight by the local authority and by persons required to register under section 71(1)(b) and (b)the extent to which the services of child minders are available within their area with respect to children under the age of eight.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "the two authorities or the authority in Scotland",
+        "to": "have regard to the provision made with respect to children under the age of eight in relevant establishments within their area",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "conducting any such review.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "publish the result of the review (a)as soon as is reasonably practicable, (b)in such form as they consider appropriate, and (c)together with any proposals they may have with respect to the matters reviewed",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority have conducted a review under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/19",
+        "type": "OBLIGATORY",
+        "for": "the authorities conducting any review under this section",
+        "to": "have regard to— (a)any representations made to any one of them by any relevant Health Authority, Special Health Authority, Primary Care Trustor health board, and (b)any other representations which they consider to be relevant.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/19"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "provide accommodation for any child in need within their area who appears to them to require accommodation as a result of— (a)there being no person who has parental responsibility for him, (b)his being lost or having been abandoned, or (c)the person who has been caring for him being prevented (whether or not permanently, and for whatever reason) from providing him with suitable accommodation or care.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "take over the provision of accommodation for the child within— (a)three months of being notified in writing that the child is being provided with accommodation or (b)such other longer period as may be prescribed in regulations made by the Secretary of State",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority provides accommodation under subsection (1) for a child who is ordinarily resident in the area of another local authority",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PERMITTED",
+        "for": "the local authority in England",
+        "to": "take over the provision of accommodation for the child within— (a)three months of being notified in writing that the child is being provided with accommodation or (b)such other longer period as may be prescribed in regulations made by the Secretary of State",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority in Wales provide accommodation under section 76(1) of the Social Services and Well-being (Wales) Act 2014 (accommodation for children without parents or who are lost or abandoned etc.) for a child who is ordinarily resident in the area of a local authority in England.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "provide accommodation for any child in need within their area who has reached the age of sixteen and whose welfare the authority consider is likely to be seriously prejudiced if they do not provide him with accommodation.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "provide accommodation for any child within their area (even though a person who has parental responsibility for him is able to provide him with accommodation)",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "they consider that to do so would safeguard or promote the child’s welfare.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "provide accommodation for any person who has reached the age of sixteen but is under twenty-one in any community home which takes children who have reached the age of sixteen",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "they consider that to do so would safeguard or promote his welfare.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "(a)ascertain the child’s wishes and feelings regarding the provision of accommodation and (b)give due consideration (having regard to his age and understanding) to such wishes and feelings of the child as they have been able to ascertain",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "providing accommodation under this section, so far as is reasonably practicable and consistent with the child’s welfare.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PROHIBITED",
+        "for": "a local authority",
+        "to": "provide accommodation under this section for any child",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "any person who (a)has parental responsibility for him and (b)is willing and able to— (i)provide accommodation for him or (ii)arrange for accommodation to be provided for him, objects.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            },
+            {
+                "type": "UNLESS",
+                "text": "any person— (a) who is named in a child arrangements order as a person with whom the child is to live; (aa) who is a special guardian of the child; or (b) who has care of the child by virtue of an order made in the exercise of the High Court’s inherent jurisdiction with respect to children, agrees to the child being looked after in accommodation provided by or on behalf of the local authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the child has reached the age of sixteen and agrees to being provided with accommodation under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+        "type": "PERMITTED",
+        "for": "person who has parental responsibility for a child",
+        "to": "remove the child from accommodation provided by or on behalf of the local authority under this section, at any time.",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "any person— (a) who is named in a child arrangements order as a person with whom the child is to live; (aa) who is a special guardian of the child; or (b) who has care of the child by virtue of an order made in the exercise of the High Court’s inherent jurisdiction with respect to children, agrees to the child being looked after in accommodation provided by or on behalf of the local authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the child has reached the age of sixteen and agrees to being provided with accommodation under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/21",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "make provision for the reception and accommodation of children who are removed or kept away from home under Part V.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/21",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "receive, and provide accommodation for, children - (a)in police protection whom they are requested to receive under section 46(3)(f), (b)whom they are requested to receive under section 38(6) of the Police and Criminal Evidence Act 1984, (c)who are (i). . . . . . . . . . . . . . . . . . . . . . . . (ia)remanded to accommodation provided by or on behalf of a local authority by virtue of paragraph 5 of Schedule 4 or paragraph 7 of Schedule 5 to the Sentencing Code (breach etc. of referral orders and reparation orders); (ii)remanded to accommodation provided by or on behalf of a local authority by virtue of paragraph 25 of Schedule 7 to that Code (breach etc. of youth rehabilitation orders);...(iia)remanded to accommodation provided by or on behalf of a local authority by virtue of paragraph 10 of the Schedule to the Street Offences Act 1959 (breach of orders under section 1(2A) of that Act);(iii)the subject of a youth rehabilitation order imposing a local authority residence requirement or a youth rehabilitation order with fostering, and with respect to whom they are the designated authority.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/21",
+        "type": "OBLIGATORY",
+        "for": "any reasonable expenses of accommodating a child",
+        "to": "be recoverable from the local authority , or local authority in Wales, in whose area he is ordinarily resident",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a child has been— (a)removed under Part V, or (b)detained under section 38 of the Police and Criminal Evidence Act 1984, and he is not being provided with accommodation by a local authority or by a local authority in Wales or in a hospital vested in the Secretary of State or , the Welsh Ministers ..., or otherwise made available pursuant to arrangements made by the Secretary of State, NHS England or an integrated care board under the National Health Service Act 2006 or a Health Authority Local Health Board.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/21"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "any local authority looking after a child",
+        "to": "(a)safeguard and promote his welfare and (b)make such use of services available for children cared for by their own parents as appears to the authority reasonable in his case.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "appoint at least one person for the purpose of discharging the duty imposed by virtue of subsection (3A).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "a person appointed by a local authority under subsection (3B)",
+        "to": "be an officer employed by that authority or another local authority.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "so far as is reasonably practicable, ascertain the wishes and feelings of— (a) the child (b) his parents (c) any person who is not a parent of his but who has parental responsibility for him and (d) any other person whose wishes and feelings the authority consider to be relevant, regarding a matter to be decided",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "making any decision with respect to a child whom they are looking after, or proposing to look after.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "give due consideration— (a)having regard to his age and understanding, to such wishes and feelings of the child as they have been able to ascertain, (b)to such wishes and feelings of any person mentioned in subsection (4)(b) to (d) as they have been able to ascertain, and (c)to the child’s religious persuasion, racial origin and cultural and linguistic background",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "making any such decision a local authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "exercise their powers with respect to a child whom they are looking after in a manner which may not be consistent with their duties under this section",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it appears to a local authority that it is necessary, for the purpose of protecting members of the public from serious injury.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "give directions to a local authority with respect to the exercise of their powers with respect to a child whom they are looking after",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the Secretary of State considers it necessary, for the purpose of protecting members of the public from serious injury.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "comply with the directions given by the Secretary of State even though doing so is inconsistent with their duties under this section",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "any such directions are given to the authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22A",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "provide a child with accommodation",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the child is in the care of a local authority",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22B",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "maintain a child they are looking after in other respects apart from the provision of accommodation.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "make arrangements for a child (“C”) to live with a person who falls within subsection (3) (but subject to subsection (4))",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "UNLESS",
+                "text": "doing so— (a) would not be consistent with C's welfare; or (b) would not be reasonably practicable.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "place a child (“C”) in the placement which is, in their opinion, the most appropriate placement available",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "that local authority is unable to make arrangements under subsection (2).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)give preference to a placement falling within paragraph (a) of subsection (6) over placements falling within the other paragraphs of that subsection, (b)comply, so far as is reasonably practicable in all the circumstances of a child (“C”)'s case, with the requirements of subsection (8), and (c)comply with subsection (9) unless that is not reasonably practicable",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "determining the most appropriate placement for C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "SUBJECT TO",
+                "text": "subsection (9B) and the other provisions of this Part (in particular, to their duties under section 22).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the local authority — (a) are considering adoption for C, or (b) are satisfied that C ought to be placed for adoption but are not authorised under section 19 of the Adoption and Children Act 2002 (placement with parental consent) or by virtue of section 21 of that Act (placement orders) to place C for adoption.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "ensure that the placement is such that— (a)it allows a child (“C”) to live near C's home, (b)it does not disrupt C's education or training, (c)if C has a sibling for whom the local authority are also providing accommodation, it enables C and the sibling to live together, (d)if C is disabled, the accommodation provided is suitable to C's particular needs",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the local authority — (a) are considering adoption for C, or (b) are satisfied that C ought to be placed for adoption but are not authorised under section 19 of the Adoption and Children Act 2002 (placement with parental consent) or by virtue of section 21 of that Act (placement orders) to place C for adoption.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the placement provided",
+        "to": "be such that a child (“C”) is provided with accommodation within the local authority's area",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "UNLESS",
+                "text": "the local authority — (a) are considering adoption for C, or (b) are satisfied that C ought to be placed for adoption but are not authorised under section 19 of the Adoption and Children Act 2002 (placement with parental consent) or by virtue of section 21 of that Act (placement orders) to place C for adoption.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "consider placing a child (“C”) with an individual within subsection (6)(a)",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority — (a) are considering adoption for C, or (b) are satisfied that C ought to be placed for adoption but are not authorised under section 19 of the Adoption and Children Act 2002 (placement with parental consent) or by virtue of section 21 of that Act (placement orders) to place C for adoption.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "consider placing a child (“C”) with a local authority foster parent who has been approved as a prospective adopter.",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority are looking after C",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority — (a) are considering adoption for C, or (b) are satisfied that C ought to be placed for adoption but are not authorised under section 19 of the Adoption and Children Act 2002 (placement with parental consent) or by virtue of section 21 of that Act (placement orders) to place C for adoption",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority decide that a placement with such an individual is not the most appropriate placement for C.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "determine",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "(a)the terms of any arrangements they make under subsection (2) in relation to C (including terms as to payment) and (b)the terms on which they place C with a local authority foster parent (including terms as to payment but subject to any order made under section 49 of the Children Act 2004).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations for, and in connection with, the purposes of this section.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22D",
+        "type": "PROHIBITED",
+        "for": "a local authority providing accomodation for a child (“C”) other than by arrangements under section 22C(6)(d)",
+        "to": "make such arrangements for C",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority are providing accommodation for C other than by arrangements under section 22C(6)(d)",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22D"
+            },
+            {
+                "type": "UNLESS",
+                "text": "they have decided to do so in consequence of a review of C's case carried out in accordance with regulations made under section 26.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22D"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22G"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22E",
+        "type": "OBLIGATORY",
+        "for": "local authority",
+        "to": "place a child they are looking after in a children’s home provided, equipped and maintained by the Secretary of State or the Welsh Ministers under section 82(5) on such terms as the Secretary of State or the Welsh Ministers (as the case may be) may from time to time determine",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority place a child they are looking after in a children’s home provided, equipped and maintained by the Secretary of State or the Welsh Ministers under section 82(5).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22E"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "take steps that secure, so far as reasonably practicable, the outcome in subsection (2).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22G",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "have regard to the benefit of having— (a)a number of accommodation providers in their area that is, in their opinion, sufficient to secure that outcome, and (b)a range of accommodation in their area capable of meeting different needs that is, in their opinion, sufficient to secure that outcome",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "taking steps to secure the outcome in subsection (2).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/22G"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+        "type": "OBLIGATORY",
+        "for": "the local authority in England",
+        "to": "make advice and information available in accordance with this section for the purpose of promoting the educational achievement of each relevant child educated in their area.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+        "type": "OBLIGATORY",
+        "for": "The advice and information",
+        "to": "be made available to — (a)any person who has parental responsibility for the child, (b)the member of staff at the child's school designated under section 20A of the Children and Young Persons Act 2008 or by virtue of section 2E of the Academies Act 2010, and (c)any other person that the local authority consider appropriate.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+        "type": "PERMITTED",
+        "for": "local authority in England",
+        "to": "do anything else that they consider appropriate with a view to promoting the educational achievement of relevant children educated in their area.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority in England",
+        "to": "appoint at least one person for the purpose of discharging the duty imposed by subsection (1).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+        "type": "OBLIGATORY",
+        "for": "the person appointed for that purpose",
+        "to": "be an officer employed by the authority or another local authority in England.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/16B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)to ensure that a person to whom this section applies is visited by a representative of the authority (“a representative”), (b)to arrange for appropriate advice, support and assistance to be available to a person to whom this section applies who seeks it from them",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "any requirement imposed by or under an enactment applicable to the place in which the person to whom this section applies is accommodated.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+        "type": "OBLIGATORY",
+        "for": "the duties imposed by subsection (2)",
+        "to": "be discharged in accordance with any regulations made for the purposes of this section by the Secretary of State.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+        "type": "PERMITTED",
+        "for": "regulations under this section for the purposes of subsection (3)(a)",
+        "to": "make provision about — (a)the frequency of visits, (b)circumstances in which a person to whom this section applies must be visited by a representative, and (c)the functions of a representative.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "satisfy themselves that the person chosen has the necessary skills and experience to perform the functions of a representative",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "choosing a representative a local authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "OBLIGATORY",
+        "for": "a local authority looking after a child",
+        "to": "appoint an independent person to be the child's visitor",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "— (a)the child falls within a description prescribed in regulations made by the Secretary of State, or (b)in any other case, it appears to them that it would be in the child's interests to do so.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "OBLIGATORY",
+        "for": "an appointed person",
+        "to": "visit, befriend and advise the child.",
+        "conditions": [],
+        "_alt_section_urls": []
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "OBLIGATORY",
+        "for": "a person appointed under this section",
+        "to": "to recover from the appointing authority any reasonable expenses incurred by that person for the purposes of that person's functions under this section.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "OBLIGATORY",
+        "for": "a person's appointment as a visitor in pursuance of this section",
+        "to": "comes to an end",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "— (a)the child ceases to be looked after by the local authority, (b)the person resigns the appointment by giving notice in writing to the appointing authority or (c)the authority give him notice in writing that they have terminated it.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "PROHIBITED",
+        "for": "an appointment",
+        "to": "to be made",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "(a)the child objects to it and (b)the authority are satisfied that the child has sufficient understanding to make an informed decision",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority propose to appoint a visitor for a child under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "terminate the appointment",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "(a)the child objects to its continuing and (b)the authority are satisfied that the child has sufficient understanding to make an informed decision.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a visitor has been appointed for a child under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "not propose to appoint another person under subsection (1) until the objection is withdrawn",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority give effect to a child's objection under subsection (6) or (7) and the objection is to having anyone as the child's visitor.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations as to the circumstances in which a person is to be regarded for the purposes of this section as independent of the appointing authority.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23A",
+        "type": "OBLIGATORY",
+        "for": "the responsible local authority",
+        "to": "have the functions set out in section 23B in respect of a relevant child.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23A",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "prescribe - (a)additional categories of relevant children and (b)categories of children who are not to be relevant children despite falling within subsection (2).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23A",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "provide for which local authority is to be the responsible local authority for those children, in the regulations",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "under subsection (3)(a) the Secretary of State prescribes a category of relevant children which includes children who do not fall within subsection (2)(b) (for example, because they were being looked after by a local authority in Scotland).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "each local authority",
+        "to": "take reasonable steps to keep in touch with a relevant child for whom they are the responsible authority, whether he is within their area or not.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "each local authority",
+        "to": "appoint a personal adviser for each relevant child",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "they have not already done so under paragraph 19C of Schedule 2.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "each local authority",
+        "to": "in relation to any relevant child who does not already have a pathway plan prepared for the purposes of paragraph 19B of Schedule 2— (a) carry out an assessment of his needs with a view to determining what advice, assistance and support it would be appropriate for them to provide him under this Part and (b) prepare a pathway plan for him, in relation to any relevant child who does not already have a pathway plan prepared for the purpose of paragraph 19B of Schedule 2.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "the responsible local authority",
+        "to": "safeguard and promote the child’s welfare",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "the responsible local authority",
+        "to": "support him by — (a)maintaining him, (b)providing him with or maintaining him in suitable accommodation, and (c)providing support of such other descriptions as may be prescribed",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "they are satisfied that his welfare does not require it.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "PERMITTED",
+        "for": "the support under subsection (8)",
+        "to": "be in cash.",
+        "conditions": [],
+        "_alt_section_urls": []
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations, make provision about the meaning of “suitable accommodation” and in particular about the suitability of landlords or other providers of accommodation.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "(a)consider how to re-establish contact and (b)take reasonable steps to do so, without delay, and while the child is still a relevant child must continue to take such steps until they succeed",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority have lost touch with a relevant child, despite taking reasonable steps to keep in touch.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "continue to take such steps until they succeed",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the child is still a relevant child.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "each local authority",
+        "to": "have the duties provided for in this section towards — (a)a person who has been a relevant child for the purposes of section 23A (and would be one if he were under eighteen), and in relation to whom they were the last responsible authority and (b)a person who was being looked after by them when he attained the age of eighteen, and immediately before ceasing to be looked after was an eligible child.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "take reasonable steps — (a)to keep in touch with a former relevant child whether he is within their area or not and (b)if they lose touch with him, to re-establish contact.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)to continue the appointment of a personal adviser for a former relevant child and (b)to continue to keep his pathway plan under regular review.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "give a former relevant child — (a)assistance of the kind referred to in section 24B(1), to the extent that his welfare requires it, (b)assistance of the kind referred to in section 24B(2), to the extent that his welfare and his educational or training needs require it, (c)other assistance, to the extent that his welfare requires it.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the assistance given under subsection (4)(c)",
+        "to": "be in kind or, in exceptional circumstances, in cash.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "pay the relevant amount to a former relevant child who pursues higher education in accordance with a pathway plan prepared for that person.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the Secretary of state",
+        "to": "(a)prescribe the relevant amount for the purposes of subsection (5A), (b)prescribe the meaning of “higher education” for those purposes, (c)make provision as to the payment of the relevant amount, (d)make provision as to the circumstances in which the relevant amount (or any part of it) may be recovered by the local authority from a former relevant child to whom a payment has been made.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)to monitor the staying put arrangement, and (b)to provide advice, assistance and support to the former relevant child and the former foster parent with a view to maintaining the staying put arrangement.",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "discharging the duties in section 23C(3) and by other means.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the support provided to the former foster parent under subsection (3)(b)",
+        "to": "include financial support.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "exercise the duties provided for in subsections (3) to (6)",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the former relevant child informs the local authority that he or she wishes to receive advice and support under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "provide the former relevant child with a personal adviser until the former relevant child — (a)reaches the age of 25 or (b)if earlier, informs the local authority that he or she no longer wants a personal adviser.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)carry out an assessment in relation to the former relevant child under subsection (5), and (b)prepare a pathway plan for the former relevant child.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "provide the former relevant child with advice and support that it would be appropriate to provide as mentioned in subsection (5)(b).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "offer advice and support under this section— (a)as soon as possible after he or she reaches the age of 21, and (b)at least once in every 12 months",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the former relevant child to whom this section applies is not receiving such advice and support.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the responsible local authority",
+        "to": "provide a personal adviser for a person to whom this section applies.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23D"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the responsible local authority",
+        "to": "(a)to carry out an assessment of the needs of a person to whom this section applies with a view to determining what assistance (if any) it would be appropriate for them to provide to him under this section, and (b)to prepare a pathway plan for him.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "disregard any interruption in the person's pursuance of a programme of education or training, for the purposes of subsection (6)",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "they are satisfied that he will resume it as soon as is reasonably practicable.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations, require local authorities to appoint a personal adviser for children or young persons of a prescribed description who have reached the age of sixteen but not the age of twenty-five who are not - (a)children who are relevant children for the purposes of section 23A, (b)the young persons referred to in section 23C, or (c)the children referred to in paragraph 19C of Schedule 2., or (d)persons to whom section 23CA applies.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "personal advisers appointed under or by virtue of this Part",
+        "to": "have such functions as the Secretary of State prescribes (in addition to any other functions).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "carry out an assessment under section 23B(3) , 23CZB(5) or 23CA(3) of a person's needs at the same time as any assessment of his needs is made under— (a) the Chronically Sick and Disabled Persons Act 1970; (b) Part 4 of the Education Act 1996 or Part 3 of the Children and Families Act 2014 (in the case of an assessment under section 23B(3)); (ba) Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018; (c) the Disabled Persons (Services, Consultation and Representation) Act 1986; or (d) any other enactment.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulation, make provisionas to assessments for the purposes of section 23B(3) , 23CZB(5) or 23CA.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "regulations under subsection (1B)",
+        "to": "particularly make provision about — (a)who is to be consulted in relation to an assessment (b)the way in which an assessment is to be carried out, by whom and when (c)the recording of the results of an assessment (d)the considerations to which a local authority are to have regard in carrying out an assessment.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "keep each pathway plan prepared by them under section 23B , 23CZB or 23CA under review.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make provision, by regulations, about pathway plans and their review.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZE"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the local authority which last looked after a person qualifying for advice and assistance by virtue of subsection (2)(a)",
+        "to": "take such steps as they think appropriate to contact him at such times as they think appropriate with a view to discharging their functions under sections 24A and 24B, in the case of a person qualifying for advice and assistance by virtue of subsection (2)(a).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the relevant authority",
+        "to": "consider whether the conditions in subsection (2) are satisfied in relation to a person qualifying for advice and assistance.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "OBLIGATORY",
+        "for": "the relevant local authority",
+        "to": "(a)advise and befriend the person qualifying for advice and assistance if he is a person to whom section 24(1A) applies, or he is a person to whom section 24(1B) applies and he was being looked after by a local authority (without subsequently being looked after by a local authority in Wales) or was accommodated by or on behalf of a voluntary organisation, and (b)in any other case they may do so",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the conditions are satisfied.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "also give a person assistance",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": ", as a result of this section a local authority are under a duty, or are empowered, to advise and befriend the person.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+        "type": "PERMITTED",
+        "for": "the assistance",
+        "to": "be in kind.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24A",
+        "type": "PERMITTED",
+        "for": "the assistance",
+        "to": "in exceptional circumstances, be given — (a)by providing accommodation, if in the circumstances assistance may not be given in respect of the accommodation under section 24B, or (b)in cash.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B",
+        "type": "PERMITTED",
+        "for": "the relevant local authority",
+        "to": "give assistance to any person who qualifies for advice and assistance by virtue of section 24(1A) or section 24(2)(a) by contributing to expenses incurred by him in living near the place where he is, or will be, employed or seeking employment.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B",
+        "type": "PERMITTED",
+        "for": "the relevant local authority",
+        "to": "give assistance to a person to whom subsection (3) applies by — (a)contributing to expenses incurred by the person in question in living near the place where he is, or will be, receiving education or training, or (b)making a grant to enable him to meet expenses connected with his education or training.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B",
+        "type": "PERMITTED",
+        "for": "the local authority",
+        "to": "disregard any interruption in his attendance on the course if he resumes it as soon as is reasonably practicable",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority are assisting a person under subsection (2).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "give a person to whom subsection (3) applies who is in full-time further or higher education assistance by — (a)providing him with suitable accommodation during the vacation or (b)paying him enough to enable him to secure such accommodation himself",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority are satisfied that the person needs accommodation during a vacation because his term-time accommodation is not available to him then.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24B",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "prescribe the meaning of “ full-time ”, “ further education ”, “ higher education ” and “ vacation ” for the purposes of subsection (5).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "inform the other authority",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it appears to the local authority that a person - (a)with whom they are under a duty to keep in touch under section 23B, 23C or 24, or (b)whom they have been advising and befriending under section 24A, or (c)to whom they have been giving assistance under section 24B, proposes to live, or is living, in the area of another local authority, or in the area of a local authority in Wales.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C",
+        "type": "OBLIGATORY",
+        "for": "the person by whom or on whose behalf a child who is accommodated in England was accommodated or who carries on or manages the home or hospital (as the case may be)",
+        "to": "inform the local authority or local authority in Wales within whose area the child proposes to live",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the child — (a)by a voluntary organisation or in a private children’s home (b)by or on behalf of any Local Health Board or Special Health Authority (c)by or on behalf of an integrated care board or NHS England (d)by or on behalf of a local authority in the exercise of education functions (e)by or on behalf of a local authority in Wales in the exercise of education functions (f)in any care home or independent hospital or (g)in any accommodation provided by or on behalf of a National Health Service trust or by or on behalf of an NHS Foundation Trust, ceases to be so accommodated after reaching the age of 16",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            },
+            {
+                "type": "ONLY IF",
+                "text": ", by virtue of any of paragraphs (b) to (g), the accommodation has been provided for a consecutive period of at least three months.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C",
+        "type": "OBLIGATORY",
+        "for": "the person by whom or on whose behalf a child who is accommodated in England was accommodated or who carries on or manages the home or hospital (as the case may be)",
+        "to": "inform the local authority or local authority in Wales within whose area the child proposes to live",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the child — (a)by a voluntary organisation or in a private children’s home (b)by or on behalf of any Local Health Board or Special Health Authority (c)by or on behalf of an integrated care board or NHS England (d)by or on behalf of a local authority in the exercise of education functions (e)by or on behalf of a local authority in Wales in the exercise of education functions (f)in any care home or independent hospital or (g)in any accommodation provided by or on behalf of a National Health Service trust or by or on behalf of an NHS Foundation Trust, ceases to be so accommodated after reaching the age of 16",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            },
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the child was accommodated by or on behalf of a local authority, or a local authority in Wales, in the exercise of education functions",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            },
+            {
+                "type": "ONLY IF",
+                "text": "the authority who accommodated the child is different from the authority within whose area the child proposes to live.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "establish a procedure for considering representations (including complaints) made to them by — (a)a relevant child for the purposes of section 23A or a young person falling within section 23C, (b)a person qualifying for advice and assistance or (c)a person falling within section 24B(2), about the discharge of their functions under this Part in relation to him.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations imposing time limits on the making of representations under subsection (1).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "comply with regulations (if any) made by the Secretary of State for the purposes of this subsection",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "considering representations under subsection (1).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/24D"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PROHIBITED",
+        "for": "a child who is being looked after by a local authority in England or Wales",
+        "to": "be placed, and, if placed, to be kept, in accommodation in England or Scotland provided for the purpose of restricting liberty (“secure accommodation”)",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "the following provisions of this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "UNLESS",
+                "text": "it appears — (a)that (i)he has a history of absconding and is likely to abscond from any other description of accommodation and (ii)if he absconds, he is likely to suffer significant harm, or (b)that if he is kept in any other description of accommodation he is likely to injure himself or other persons",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "(a)specify a maximum period — (i)beyond which a child may not be kept in secure accommodation in England or Scotland without the authority of the court and (ii)for which the court may authorise a child to be kept in secure accommodation in England or Scotland, (b)empower the court from time to time to authorise a child to be kept in secure accommodation in England or Scotland for such further period as the regulations may specify and (c)provide that applications to the court under this section shall be made only by local authorities.in England or Wales, by regulations.",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "OBLIGATORY",
+        "for": "a court hearing an application under this section",
+        "to": "determine whether any relevant criteria for keeping a child in secure accommodation are satisfied in his case.",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "OBLIGATORY",
+        "for": "a court",
+        "to": "make an order authorising the child to be kept in secure accommodation and specifying the maximum period for which he may be so kept",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a court determines that any such criteria are satisfied.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PERMITTED",
+        "for": "a court",
+        "to": "make an interim order permitting the child to be kept during the period of the adjournment in secure accommodation",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "deciding on any adjournment of the hearing of an application under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PERMITTED",
+        "for": "the person in charge of a secure accommodation in Scotland",
+        "to": "restrict the child’s liberty to the extent that the person considers appropriate, having regard to the terms of any order made by a court under this section",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority in England or Wales are authorised under this section to keep a child in the accommodation.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PROHIBITED",
+        "for": "any court",
+        "to": "exercise the powers conferred by this section in respect of a child who is not legally represented in that court",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            },
+            {
+                "type": "UNLESS",
+                "text": ", having been informed of his right to apply for the provision of representation under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 and having had the opportunity to do so, he refused or failed to apply.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "provide, by regulations, that — (a)this section shall or shall not apply to any description of children specified in the regulations, (b)this section shall have effect in relation to children of a description specified in the regulations subject to such modifications as may be so specified, (c)such other provisions as may be so specified shall have effect for the purpose of determining whether a child of a description specified in the regulations may be placed or kept in secure accommodation in England or Scotland (d)a child may only be placed in secure accommodation that is of a description specified in the regulations (and the description may in particular be framed by reference to whether the accommodation, or the person providing it, has been approved by the Secretary of State or the Scottish Ministers).",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+        "type": "PROHIBITED",
+        "for": "an authorisation given under this section",
+        "to": "prejudice any power of any court in England and Wales or Scotland to give directions relating to the child to whom the authorisation relates",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "section 20(8).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "appoint an individual as the independent reviewing officer for that child's case",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "they are looking after a child.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A",
+        "type": "OBLIGATORY",
+        "for": "the initial appointment under subsection (1)",
+        "to": "be made",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "the child's case is first reviewed in accordance with regulations made under section 26.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "make another appointment under subsection (1) as soon as is practicable",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a vacancy arises in respect of a child's case.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25A",
+        "type": "OBLIGATORY",
+        "for": "an appointee",
+        "to": "be of a description prescribed in regulations made by the Secretary of State.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B",
+        "type": "OBLIGATORY",
+        "for": "the independent reviewing officer",
+        "to": "(a)monitor the performance by the local authority of their functions in relation to the child's case, (b)participate, in accordance with regulations made by the Secretary of State, in any review of the child's case, (c)ensure that any ascertained wishes and feelings of the child concerning the case are given due consideration by the local authority, (d)perform any other function which is prescribed in regulations made by the Secretary of State.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B",
+        "type": "OBLIGATORY",
+        "for": "An independent reviewing officer's functions",
+        "to": "be performed— (a)in such manner (if any) as may be prescribed in regulations made by the Secretary of State; and (b)having regard to such guidance as that authority may issue in relation to the discharge of those functions.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B",
+        "type": "PERMITTED",
+        "for": "the child",
+        "to": "be referred by that officer to — (a)an officer of the Children and Family Court Advisory and Support Service",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the independent reviewing officer considers it appropriate to do so.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZG",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "(a)to cooperate with that individual and (b)to take all such reasonable steps as that individual may require of them to enable that individual's functions under this section to be performed satisfactorily",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the independent reviewing officer is not an officer of the local authority.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25B"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/25C",
+        "type": "PERMITTED",
+        "for": "Lord Chancellor",
+        "to": "In relation to children whose cases are referred to officers under section 25B(3), (a)extend any functions of the officers in respect of family proceedings (within the meaning of section 12 of the Criminal Justice and Court Services Act 2000) to other proceedings (b)require any functions of the officers to be performed in the manner prescribed by the regulations, in relation to children whose cases are referred to officers under section 25B(3)",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23CA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations requiring the case of each child who is being looked after by a local authority to be reviewed in accordance with the provisions of the regulations.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "PERMITTED",
+        "for": "the regulations",
+        "to": "in particular, make provision— (a)as to the manner in which each case is to be reviewed (b)as to the considerations to which the local authority are to have regard in reviewing each case (c)as to the time when each case is first to be reviewed and the frequency of subsequent reviews (d)requiring the authority, before conducting any review, to seek the views of (i)the child (ii)his parents (iii)any person who is not a parent of his but who has parental responsibility for him and (iv)any other person whose views the authority consider to be relevant, including, in particular, the views of those persons in relation to any particular matter which is to be considered in the course of the review (e)requiring the authority ... , in the case of a child who is in their care (i)to keep the section 31A plan for the child under review and, if they are of the opinion that some change is required, to revise the plan, or make a new plan, accordingly, (ii)to consider, whether an application should be made to discharge the care order (f)requiring the authority . . . , in the case of a child in accommodation provided by the authority (i)if there is no plan for the future care of the child, to prepare one (ii)if there is such a plan for the child, to keep it under review and, if they are of the opinion that some change is required, to revise the plan or make a new plan, accordingly, (iii)to consider, whether the accommodation accords with the requirements of this Part (g)requiring the authority to inform the child, so far as is reasonably practicable, of any steps he may take under this Act (h)requiring the authority to make arrangements, including arrangements with such other bodies providing services as it considers appropriate, to implement any decision which they propose to make in the course, or as a result, of the review (i)requiring the authority to notify details of the result of the review and of any decision taken by them in consequence of the review to (i)the child (ii)his parents (iii)any person who is not a parent of his but who has parental responsibility for him and (iv)any other person whom they consider ought to be notified; (j)requiring the authority to monitor the arrangements which they have made with a view to ensuring that they comply with the regulations.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "establish a procedure for considering any representations (including any complaint) made to them by — (a)any child who is being looked after by them or who is not being looked after by them but is in need (b)a parent of his (c)any person who is not a parent of his but who has parental responsibility for him (d)any local authority foster parent (e)such other person as the authority consider has a sufficient interest in the child’s welfare to warrant his representations being considered by them, about the discharge by the authority of any of their qualifying functions in relation to the child.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "OBLIGATORY",
+        "for": "the procedure",
+        "to": "ensure that at least one person who is not a member or officer of the authority takes part in (a)the consideration and (b)any discussions which are held by the authority about the action (if any) to be taken in relation to the child in the light of the consideration",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "subsection (5A)",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "PERMITTED",
+        "for": "Regulations",
+        "to": "be made by the Secretary of State imposing time limits on the making of representations under this section.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24D",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "OBLIGATORY",
+        "for": "the local authority",
+        "to": "comply with any regulations made by the Secretary of State for the purpose of regulating the procedure to be followed",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "carrying out any consideration of representations under this section",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "PERMITTED",
+        "for": "regulations under subsection (5)",
+        "to": "provide that subsection (4) does not apply in relation to any consideration or discussion which takes place as part of a procedure for which provision is made by the regulations for the purpose of resolving informally the matters raised in the representations.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZA",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "PERMITTED",
+        "for": "Secretary of State",
+        "to": "make regulations requiring local authorities to monitor the arrangements that they have made with a view to ensuring that they comply with any regulations made for the purposes of subsection (5).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "OBLIGATORY",
+        "for": "a local authority",
+        "to": "(a)have due regard to the findings of those considering the representation and (b)take such steps as are reasonably practicable to notify (in writing) — (i)the person making the representation (ii)the child (if the authority consider that he has sufficient understanding) and (iii)such other persons (if any) as appear to the authority to be likely to be affected, of the authority’s decision in the matter and their reasons for taking that decision and of any action which they have taken, or propose to take",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "any representation has been considered under the procedure established by a local authority under this section.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "give such publicity to their procedure for considering representations under this section as they consider appropriate.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "make arrangements for the provision of assistance to (a)persons who make or intend to make representations under section 24D and (b)children who make or intend to make representations under section 26.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZD",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "OBLIGATORY",
+        "for": "the assistance provided under the arrangements",
+        "to": "include assistance by way of representation.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "OBLIGATORY",
+        "for": "the arrangements made",
+        "to": "(a)secure that a person may not provide assistance if he is a person who is prevented from doing so by regulations made by the Secretary of State and (b)comply with any other provision made by the regulations in relation to the arrangements.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "OBLIGATORY",
+        "for": "An authority whose help is so requested",
+        "to": "comply with the request if it is compatible with their own statutory or other duties and obligations and does not unduly prejudice the discharge of any of their functions.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/27",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations requiring local authorities to monitor the steps that they have taken with a view to ensuring that they comply with regulations made for the purposes of subsection (3).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/26A",
+        "type": "OBLIGATORY",
+        "for": "every local authority",
+        "to": "give such publicity to their arrangements for the provision of assistance under this section as they consider appropriate.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23B"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/27",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "request the help of that other authority specifying the action in question",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it appears to a local authority that any authority mentioned in subsection (3) could, by taking any specified action, help in the exercise of any of their functions under this Part.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/27"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24C",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/27",
+        "type": "OBLIGATORY",
+        "for": "an authority whose help is requested",
+        "to": "comply with the request",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it is compatible with their own statutory or other duties and obligations and does not unduly prejudice the discharge of any of their functions.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/27"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/27",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZH"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/27",
+        "type": "PROHIBITED",
+        "for": "the Secretary of State",
+        "to": "authorise the Welsh Ministers under subsection (3)(e) without their consent.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22E",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "recover from a person specified in subsection (4) such charge for the service as they consider reasonable",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority provide any service under section 17 or 18, other than advice, guidance or counselling.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZC"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "a local authority",
+        "to": "require a person to pay more than he can reasonably be expected to pay",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the authority are satisfied that that person’s means are insufficient for it to be reasonably practicable for him to pay the charge.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23ZB",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17A"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "any charge under subsection (1)",
+        "to": "be recovered summarily as a civil debt, without prejudice to any other method of recovery.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "recover from that other authority any reasonable expenses incurred by them in providing the accommodation and maintaining him",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority provide any accommodation under section 20(1) for a child who was (immediately before they began to look after him) ordinarily resident within the area of another local authority or the area of a local authority in Wales.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/24C"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "recover from another authority any reasonable expenses incurred by them in providing the accommodation and maintaining a child",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "local authority provide accommodation under section 21(1) or (2)(a) or (b) for a child who is ordinarily resident within the area of another local authority or the area of a local authority in Wales and they are not maintaining him in — (a)a community home provided by them, (b)a controlled community home or (c)a hospital vested in the Secretary of State or , the Welsh Ministers ... or any other hospital made available pursuant to arrangements made by the Secretary of State, NHS England or an integrated care board under the National Health Service Act 2006 or by ..., a Local Health Board ...",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "a local authority",
+        "to": "recover from the local authority or a local authority in Wales in whose area the child or person is ordinarily resident any reasonable expenses incurred by them in respect of that person",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority comply with any request under section 27(2) or section 164A(2) of the Social Services and Well-being (Wales) Act 2014 (duty of other persons to co-operate and provide information) in relation to a child or other person who is not ordinarily resident within their area",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "where subsection (10) or subsection (11) applies.",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "Authority A",
+        "to": "recover from authority B any reasonable expenses incurred by them in respect of that person",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "a local authority (“authority A”) comply with any request under section 27(2) from another local authority (“authority B”) in relation to a child or other person — (a)whose responsible authority is authority B for the purposes of section 23B or 23C or (b)whom authority B are advising or befriending or to whom they are giving assistance by virtue of section 24(5)(a).",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PERMITTED",
+        "for": "a local authority (“authority A”)",
+        "to": "recover from authority B any reasonable expenses incurred by them in respect of that person",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the local authority (“authority A”) comply with any request under section 164A(2) of the Social Services and Well-being (Wales) Act 2014 (duty of other persons to co-operate and provide information) from the local authority in Wales (“authority B”) in relation to a person, and authority B are the responsible local authority for that person (within the meaning of section 104(5)(b) (except for category 4 young persons) or (d) of that Act)",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+        "type": "PROHIBITED",
+        "for": "anything in this Part",
+        "to": "affect any duty imposed on a local authority by or under any other enactment.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/23E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+        "type": "OBLIGATORY",
+        "for": "the Secretary of State",
+        "to": "determined by agreement between the local authorities concerned or, in default of agreement any question arising under section 20(2), 21(3) or 29(7) to (9) as to the ordinary residence of a child, but see subsection (2C).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17ZB"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+        "type": "OBLIGATORY",
+        "for": "the local authority and local authority in Wales concerned, or the Secretary of State in default of agreement.",
+        "to": "determine any questions arising as to whether a child is ordinarily resident — (a)in the area of a local authority under section 20(2), 21(3) or 29(7) to (9), or (b)in the area of a local authority in Wales under section 76(2), 77(4) or (5), or 193(3) to (6) of the Social Services and Well-being (Wales) Act 2014.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/20",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/17"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+        "type": "OBLIGATORY",
+        "for": "Secretary of State",
+        "to": "consult the Welsh Ministers before making a determination under subsection (2C).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/21",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/22E"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/30",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations for determining, as respects any education functions specified in the regulations, whether a child who is being looked after by a local authority is to be treated, for purposes so specified, as a child of parents of sufficient resources or as a child of parents without resources.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/25",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/26"
+        ]
+    }
+]
