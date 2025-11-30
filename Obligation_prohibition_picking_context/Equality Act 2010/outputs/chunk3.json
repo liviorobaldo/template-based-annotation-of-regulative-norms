@@ -1,0 +1,226 @@
+[
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "A person (a “service-provider”) concerned with the provision of a service to the public or a section of the public (for payment or not)",
+        "to": "discriminate against a person requiring the service by not providing the person with the service",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "A service-provider (A)",
+        "to": "discriminate against a person (B)— (a) as to the terms on which A provides the service to B; (b) by terminating the provision of the service to B; (c) by subjecting B to any other detriment.",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "providing the service",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "A service-provider (A)",
+        "to": "in relation to the provision of the service, harass— (a) a person requiring the service, or (b) a person to whom the service-provider provides the service",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "A service-provider (A)",
+        "to": "victimise a person requiring the service by not providing the person with the service",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/31"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "A service-provider (A)",
+        "to": "victimise a person (B)— (a) as to the terms on which A provides the service to B; (b) by terminating the provision of the service to B; (c) by subjecting B to any other detriment.",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "providing the service",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "PROHIBITED",
+        "for": "a person",
+        "to": "do anything that constitutes discrimination, harassment or victimisation",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "exercising a public function that is not the provision of a service to the public or a section of the public",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "OBLIGATORY",
+        "for": "a service-provider (and see also section 55(7))",
+        "to": "make reasonable adjustments",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29",
+        "type": "OBLIGATORY",
+        "for": "a person who exercises a public function that is not the provision of a service to the public or a section of the public",
+        "to": "make reasonable adjustments",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this applies to the protected characteristic of— (a) age, so far as relating to persons who have not attained the age of 18; (b) marriage and civil partnership",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to discrimination, harassment or victimisation— (a) that is prohibited by Part 4 (premises), 5 (work) or 6 (education), or (b) that would be so prohibited but for an express exception",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+            },
+            {
+                "type": "UNLESS",
+                "text": "this applies to — (a) a breach of an equality clause or rule; (b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7; (c) a breach of a non-discrimination rule",
+                "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/28"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/1989/41/section/29"
+        ]
+    }
+]

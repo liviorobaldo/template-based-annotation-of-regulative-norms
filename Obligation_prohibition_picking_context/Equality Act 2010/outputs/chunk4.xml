@@ -1,0 +1,814 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person (A) who has the right to dispose of premises</p>
+    </for>
+    <to>
+      <p>discriminate against another (B)—</p>
+      <ul>
+        <li>(a) as to the terms on which A offers to dispose of the premises to B;</li>
+        <li>(b) by not disposing of the premises to B;</li>
+        <li>(c) in A's treatment of B with respect to things done in relation to persons seeking premises</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a particular person who is a party to the disposal of a commonhold unit</p>
+    </for>
+    <to>
+      <p>discriminate against another person by not being a party to the disposal</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>an interest in the commonhold unit cannot be disposed of without that particular person</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person who has the right to dispose of premises</p>
+    </for>
+    <to>
+      <p>in connection with anything done in relation to their occupation or disposal, harass—</p>
+      <ul>
+        <li>(a) a person who occupies them;</li>
+        <li>(b) a person who applies for them</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person (A) who has the right to dispose of premises</p>
+    </for>
+    <to>
+      <p>victimise another (B)—</p>
+      <ul>
+        <li>(a) as to the terms on which A offers to dispose of the premises to B;</li>
+        <li>(b) by not disposing of the premises to B;</li>
+        <li>(c) in A's treatment of B with respect to things done in relation to persons seeking premises</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a particular person who is a party to the disposal of a commonhold unit</p>
+    </for>
+    <to>
+      <p>victimise another person by not being a party to the disposal</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>an interest in the commonhold unit cannot be disposed of without that particular person</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person whose permission is required for the disposal of premises</p>
+    </for>
+    <to>
+      <p>discriminate against another by not giving permission for the disposal of the premises to the other</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person whose permission is required for the disposal of premises</p>
+    </for>
+    <to>
+      <p>in relation to an application for permission to dispose of the premises, harass a person—</p>
+      <ul>
+        <li>(a) who applies for permission to dispose of the premises,</li>
+        <li>or (b) to whom the disposal would be made if permission were given</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person whose permission is required for the disposal of premises</p>
+    </for>
+    <to>
+      <p>victimise another by not giving permission for the disposal of the premises to the other</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person (A) who manages premises</p>
+    </for>
+    <to>
+      <p>discriminate against a person (B) who occupies the premises—</p>
+      <ul>
+        <li>(a) in the way in which A allows B,</li>
+        <li>or by not allowing B,</li>
+        <li>to make use of a benefit or facility;</li>
+        <li>(b) by evicting B (or taking steps for the purpose of securing B's eviction);</li>
+        <li>(c) by subjecting B to any other detriment</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/33</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person who manages premises</p>
+    </for>
+    <to>
+      <p>in relation to their management, harass—</p>
+      <ul>
+        <li>(a) a person who occupies them;</li>
+        <li>(b) a person who applies for them</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/35</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>A person (A) who manages premises</p>
+    </for>
+    <to>
+      <p>victimise a person (B) who occupies the premises—</p>
+      <ul>
+        <li>(a) in the way in which A allows B,</li>
+        <li>or by not allowing B,</li>
+        <li>to make use of a benefit or facility;</li>
+        <li>(b) by evicting B (or taking steps for the purpose of securing B's eviction);</li>
+        <li>(c) by subjecting B to any other detriment</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/35</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p/>
+      <ul>
+        <li>(a) a controller of let premises</li>
+      </ul>
+    </for>
+    <to>
+      <p>make reasonable adjustments</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/37</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Scottish Ministers</p>
+    </for>
+    <to>
+      <p>provide by regulations that a disabled person is entitled to make relevant adjustments to common parts in relation to premises in Scotland</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/37</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Scottish Ministers</p>
+    </for>
+    <to>
+      <p>consult a Minister of the Crown</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making regulations under subsection (1)</p>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/37</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/37</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under subsection (1)</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) prescribe things which are,</li>
+        <li>or which are not,</li>
+        <li>to be treated as relevant adjustments;</li>
+        <li>(b) prescribe circumstances in which the consent of an owner of the common parts is required before a disabled person may make an adjustment;</li>
+        <li>(c) provide that the consent to adjustments is not to be withheld unreasonably;</li>
+        <li>(d) prescribe matters to be taken into account,</li>
+        <li>or to be disregarded,</li>
+        <li>in deciding whether it is reasonable to consent to adjustments;</li>
+        <li>(e) prescribe circumstances in which consent to adjustments is to be taken to be withheld;</li>
+        <li>(f) make provision about the imposition of conditions on consent to adjustments;</li>
+        <li>(g) make provision as to circumstances in which the sheriff may make an order authorising a disabled person to carry out adjustments;</li>
+        <li>(h) make provision about the responsibility for costs arising (directly or indirectly) from an adjustment;</li>
+        <li>(i) make provision about the reinstatement of the common parts to the condition they were in before an adjustment was made;</li>
+        <li>(j) make provision about the giving of notice to the owners of the common parts and other persons;</li>
+        <li>(k) make provision about agreements between a disabled person and an owner of the common parts;</li>
+        <li>(l) make provision about the registration of information in the Land Register of Scotland or the recording of documents in the Register of Sasines relating to an entitlement of a disabled person or an obligation on an owner of the common parts;</li>
+        <li>(m) make provision about the effect of such registration or recording;</li>
+        <li>(n) make provision about who is to be treated as being,</li>
+        <li>or as not being,</li>
+        <li>a person entitled to occupy premises otherwise than as tenant or owner.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the protected characteristic of—</p>
+        <ul>
+          <li>(a) age (b) marriage and civil partnership</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to discrimination, harassment or victimisation—</p>
+        <ul>
+          <li>(a) that is prohibited by Part 4 (premises),</li>
+          <li>5 (work) or 6 (education),</li>
+          <li>or (b) that would be so prohibited but for an express exception</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to the provision of accommodation if the provision—</p>
+        <ul>
+          <li>(a) is generally for the purpose of short stays by individuals who live elsewhere,</li>
+          <li>or (b) is for the purpose only of exercising a public function or providing a service to the public or a section of the public.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>this applies to—</p>
+        <ul>
+          <li>(a) a breach of an equality clause or rule;</li>
+          <li>(b) anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;</li>
+          <li>(c) a breach of a non-discrimination rule</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/32</section>
+      </condition>
+    </conditions>
+  </annotation>
+</annotations>
