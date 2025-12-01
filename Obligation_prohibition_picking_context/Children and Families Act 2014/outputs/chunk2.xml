@@ -1,0 +1,3209 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/19</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>have regard to the following matters in particular—</p>
+      <ul>
+        <li>(a) the views,</li>
+        <li>wishes and feelings of the child and his or her parent,</li>
+        <li>or the young person;</li>
+        <li>(b) the importance of the child and his or her parent,</li>
+        <li>or the young person,</li>
+        <li>participating as fully as possible in decisions relating to the exercise of the function concerned;</li>
+        <li>(c) the importance of the child and his or her parent,</li>
+        <li>or the young person,</li>
+        <li>being provided with the information and support necessary to enable participation in those decisions;</li>
+        <li>(d) the need to support the child and his or her parent,</li>
+        <li>or the young person,</li>
+        <li>in order to facilitate the development of the child or young person and to help him or her achieve the best possible educational and other outcomes.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>exercising a function under this Part in the case of a child or young person</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/19</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/22</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>exercise its functions with a view to securing that it identifies—</p>
+      <ul>
+        <li>(a) all the children and young people in its area who have or may have special educational needs,</li>
+        <li>and (b) all the children and young people in its area who have a disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>an integrated care board, NHS trust or NHS foundation trust</p>
+    </for>
+    <to>
+      <p/>
+      <ul>
+        <li>(a) inform the child's parent of their opinion and of their duty under subsection (3),</li>
+        <li>and (b) give the child's parent an opportunity to discuss their opinion with an officer of the board or trust.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in the course of exercising functions in relation to a child who is under compulsory school age, the board or trust form the opinion that the child has (or probably has) special educational needs or a disability.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>an integrated care board, NHS trust or NHS foundation trust</p>
+    </for>
+    <to>
+      <p>bring their opinion that the child has (or probably has) special educational needs or a disability to the attention of the appropriate local authority in England</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in the course of exercising functions in relation to a child who is under compulsory school age, the board or trust form the opinion that the child has (or probably has) special educational needs or a disability.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>an integrated care board, NHS trust or NHS foundation trust</p>
+    </for>
+    <to>
+      <p>inform the child's parent of a particular voluntary organisation likely to be able to give advice or assistance in connection with any special educational needs or disability the child may have</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in the course of exercising functions in relation to a child who is under compulsory school age, the board or trust form the opinion that the child has (or probably has) special educational needs or a disability.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the board or trust think a particular voluntary organisation is likely to be able to give the parent that.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/23</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/25</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>exercise its functions under this Part with a view to ensuring the integration of educational provision and training provision with health care provision and social care provision</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it thinks that this would—</p>
+        <ul>
+          <li>(a) promote the well-being of children or young people in its area who have special educational needs or a disability,</li>
+          <li>or (b) improve the quality of special educational provision— (i) made in its area for children or young people who have special educational needs,</li>
+          <li>or (ii) made outside its area for children or young people for whom it is responsible who have special educational needs.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/25</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England and its partner commissioning bodies</p>
+    </for>
+    <to>
+      <p>make arrangements (“joint commissioning arrangements”) about the education, health and care provision to be secured for—</p>
+      <ul>
+        <li>(a) children and young people for whom the authority is responsible who have special educational needs,</li>
+        <li>and (b) children and young people in the authority's area who have a disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Joint commissioning arrangements</p>
+    </for>
+    <to>
+      <p>include arrangements for considering and agreeing—</p>
+      <ul>
+        <li>(a) the education,</li>
+        <li>health and care provision reasonably required by— (i) the learning difficulties and disabilities which result in the children and young people within subsection (1)</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Joint commissioning arrangements about securing education, health and care provision</p>
+    </for>
+    <to>
+      <p>in particular include arrangements for—</p>
+      <ul>
+        <li>(a) securing EHC needs assessments;</li>
+        <li>(b) securing the education,</li>
+        <li>health and care provision specified in EHC plans;</li>
+        <li>(c) agreeing personal budgets under section 49.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Joint commissioning arrangements</p>
+    </for>
+    <to>
+      <p>also include other provision.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The parties to joint commissioning arrangements</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) have regard to them in the exercise of their functions,</li>
+        <li>and (b) keep them under review.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/26</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>prescribe circumstances in which an integrated care board that would otherwise be a partner commissioning body of a local authority by virtue of subsection (8)(b) is to be treated as not being a partner commissioning body of the authority.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/27</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>keep under review—</p>
+      <ul>
+        <li>(a) the educational provision,</li>
+        <li>training provision and social care provision made in its area for children and young people who have special educational needs or a disability,</li>
+        <li>and (b) the educational provision,</li>
+        <li>training provision and social care provision made outside its area for— (i) children and young people for whom it is responsible who have special educational needs,</li>
+        <li>and (ii) children and young people in its area who have a disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/27</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>consider the extent to which the provision reviewed is sufficient to meet the educational, training and social care needs of the children and young people concerned</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/27</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>consult—</p>
+      <ul>
+        <li>(a) children and young people in its area with special educational needs,</li>
+        <li>and the parents of children in its area with special educational needs;</li>
+        <li>(b) children and young people in its area who have a disability,</li>
+        <li>and the parents of children in its area who have a disability;</li>
+        <li>(c) the governing bodies of maintained schools and maintained nursery schools in its area;</li>
+        <li>(d) the proprietors of Academies in its area;</li>
+        <li>(e) the governing bodies,</li>
+        <li>proprietors or principals of post-16 institutions in its area;</li>
+        <li>(f) the governing bodies of non-maintained special schools in its area;</li>
+        <li>(g) the advisory boards of children's centres in its area;</li>
+        <li>(h) the providers of relevant early years education in its area;</li>
+        <li>(i) the governing bodies,</li>
+        <li>proprietors or principals of other schools and post-16 institutions in England and Wales that the authority thinks are or are likely to be attended by— (i) children or young people for whom it is responsible,</li>
+        <li>or (ii) children or young people in its area who have a disability;</li>
+        <li>(j) a youth offending team that the authority thinks has functions in relation to— (i) children or young people for whom it is responsible,</li>
+        <li>or (ii) children or young people in its area who have a disability;</li>
+        <li>(k) such other persons as the authority thinks appropriate.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>exercising its functions under this section</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/27</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/28</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>co-operate with each of its local partners in the exercise of its functions under this Part</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/28</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>each local partner</p>
+    </for>
+    <to>
+      <p>co-operate with the local authority in the exercise of the authority's functions under this Part</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/28</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>make arrangements for ensuring co-operation between—</p>
+      <ul>
+        <li>(a) the officers of the authority who exercise the authority's functions relating to education or training,</li>
+        <li>(b) the officers of the authority who exercise the authority's social services functions for children or young people with special educational needs,</li>
+        <li>and (c) the officers of the authority,</li>
+        <li>so far as they are not officers within paragraph</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/28</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>prescribe circumstances in which an integrated care board that would otherwise be a local partner of a local authority by virtue of subsection (2)(l)(ii) is to be treated as not being a local partner of the authority.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/29</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority for a school or post-16 institution mentioned in subsection (2)</p>
+    </for>
+    <to>
+      <p>co-operate with each responsible local authority in the exercise of its functions under this Part</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/29</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>each responsible local authority</p>
+    </for>
+    <to>
+      <p>co-operate with the appropriate authority, in the exercise of those functions.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>publish information about—</p>
+      <ul>
+        <li>(a) the provision within subsection (2) it expects to be available in its area at the time of publication for children and young people who have special educational needs or a disability,</li>
+        <li>and (b) the provision within subsection (2) it expects to be available outside its area at that time for— (i) children and young people for whom it is responsible,</li>
+        <li>and (ii) children and young people in its area who have a disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>keep its SEN and disability local offer under review</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>from time to time revise it.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>from time to time publish—</p>
+      <ul>
+        <li>(a) comments about its SEN and disability local offer it has received from or on behalf of— (i) children and young people with special educational needs,</li>
+        <li>and the parents of children with special educational needs,</li>
+        <li>and (ii) children and young people who have a disability,</li>
+        <li>and the parents of children who have a disability,</li>
+        <li>and (b) the authority's response to those comments (including details of any action the authority intends to take).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about—</p>
+      <ul>
+        <li>(a) the information to be included in an authority's SEN and disability local offer ;</li>
+        <li>(b) how an authority's SEN and disability local offer is to be published;</li>
+        <li>(c) who is to be consulted by an authority in preparing and reviewing its SEN and disability local offer ;</li>
+        <li>(d) how an authority is to involve— (i) children and young people with special educational needs,</li>
+        <li>and the parents of children with special educational needs,</li>
+        <li>and (ii) children and young people who have a disability,</li>
+        <li>and the parents of children who have a disability,</li>
+        <li>in the preparation and review of its SEN and disability local offer ;</li>
+        <li>(e) the publication of comments on the SEN and disability local offer ,</li>
+        <li>and the local authority's response,</li>
+        <li>under subsection (6) (including circumstances in which comments are not required to be published).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/30</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>in particular require an authority's SEN and disability local offer to include—</p>
+      <ul>
+        <li>(a) information about how to obtain an EHC needs assessment;</li>
+        <li>(b) information about other sources of information,</li>
+        <li>advice and support for— (i) children and young people with special educational needs and those who care for them,</li>
+        <li>and (ii) children and young people who have a disability and those who care for them;</li>
+        <li>(c) information about gaining access to provision additional to,</li>
+        <li>or different from,</li>
+        <li>the provision mentioned in subsection (2);</li>
+        <li>(d) information about how to make a complaint about provision mentioned in subsection (2).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/31</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The person or body</p>
+    </for>
+    <to>
+      <p>comply with the request</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the person or body considers that doing so would—</p>
+        <ul>
+          <li>(a) be incompatible with the duties of the person or body,</li>
+          <li>or (b) otherwise have an adverse effect on the exercise of the functions of the person or body.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/31</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/31</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>A person or body that decides not to comply with a request under subsection (1)</p>
+    </for>
+    <to>
+      <p>give the authority that made the request written reasons for the decision.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/31</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>provide that, where a person or body is under a duty to comply with a request to co-operate with a local authority in securing an EHC needs assessment, a detained person's EHC needs assessment or the preparation of an EHC plan, the person or body must comply with the request within a prescribed period, unless a prescribed exception applies.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/32</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>arrange for children and young people for whom it is responsible, and the parents of such children, to be provided with advice and information about matters relating to the special educational needs of the children or young people concerned</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/32</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>arrange for children and young people in its area with a disability, and the parents of such children, to be provided with advice and information about matters relating to the disabilities of the children or young people concerned</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/32</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The authority</p>
+    </for>
+    <to>
+      <p>take such steps as it thinks appropriate for making the services provided under subsections (1) and (2) known to—</p>
+      <ul>
+        <li>(a) the parents of children in its area;</li>
+        <li>(b) children in its area;</li>
+        <li>(c) young people in its area;</li>
+        <li>(d) the head teachers,</li>
+        <li>proprietors and principals of schools and post-16 institutions in its area.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure that the EHC plan provides for the child or young person to be educated in a maintained nursery school, mainstream school or mainstream post-16 institution</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>dealing with a case within section 39(5) or 40(2)</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>that is incompatible with—</p>
+        <ul>
+          <li>(a) the wishes of the child's parent or the young person,</li>
+          <li>or (b) the provision of efficient education for others.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>rely on the exception in subsection (2)(b) in relation to maintained nursery schools, mainstream schools or mainstream post-16 institutions in its area taken as a whole</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it shows that there are no reasonable steps that it could take to prevent the incompatibility.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>rely on the exception in subsection (2)(b) in relation to a particular maintained nursery school, mainstream school or mainstream post-16 institution</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>it shows that there are no reasonable steps that it or the governing body, proprietor or principal could take to prevent the incompatibility.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The governing body, proprietor or principal of a maintained nursery school, mainstream school or mainstream post-16 institution</p>
+    </for>
+    <to>
+      <p>rely on the exception in subsection (2)(b)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>they show that there are no reasonable steps that they or the local authority could take to prevent the incompatibility.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The child or young person</p>
+    </for>
+    <to>
+      <p>be educated in a maintained nursery school, mainstream school or mainstream post-16 institution</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>subsection (3) or (4)</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/33</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/34</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The child or young person</p>
+    </for>
+    <to>
+      <p>be educated in an independent school, a non-maintained special school or a special post-16 institution</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the cost is not to be met by a local authority or the Secretary of State</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/34</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/34</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a child or young person in England who has special educational needs but for whom no EHC plan is maintained</p>
+    </for>
+    <to>
+      <p>be educated in a special school or special post-16 institution during any period in which any of subsections (5) to (9) applies.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/35</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>Those concerned with making special educational provision for the child</p>
+    </for>
+    <to>
+      <p>secure that the child engages in the activities of the school together with children who do not have special educational needs</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>subsection (3).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/35</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A request for a local authority in England to secure an EHC needs assessment for a child or young person</p>
+    </for>
+    <to>
+      <p>be made to the authority by the child's parent, the young person or a person acting on behalf of a school or post-16 institution.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>determine whether it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a request is made to the local authority under subsection (1), or the local authority otherwise becomes responsible for a child or young person.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>consult the child’s parent or the young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a determination under subsection (3).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>notify the child's parent or the young person—</p>
+      <ul>
+        <li>(a) of the reasons for that determination,</li>
+        <li>and (b) that accordingly it has decided not to secure an EHC needs assessment for the child or young person</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the local authority determines that it is not necessary for special educational provision to be made for the child or young person in accordance with an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>notify the child's parent or the young person—</p>
+      <ul>
+        <li>(a) that it is considering securing an EHC needs assessment for the child or young person,</li>
+        <li>and (b) that the parent or young person has the right to— (i) express views to the authority (orally or in writing),</li>
+        <li>and (ii) submit evidence to the authority.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>secure an EHC needs assessment for the child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, after considering views and evidence, it is of the opinion that the child or young person has or may have special educational needs and that it may be necessary for special educational provision to be made in accordance with an EHC plan</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>notify the child's parent or the young person of—</p>
+      <ul>
+        <li>(a) the outcome of the assessment,</li>
+        <li>(b) whether it proposes to secure that an EHC plan is prepared for the child or young person,</li>
+        <li>and (c) the reasons for that decision</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>AFTER</type>
+        <p>an EHC needs assessment has been carried out.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consider whether a young person aged over 18 requires additional time, in comparison to the majority of others of the same age who do not have special educational needs, to complete his or her education or training</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a determination or forming an opinion for the purposes of this section in relation to he or she.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about EHC needs assessments, in particular—</p>
+      <ul>
+        <li>(a) about requests under subsection (1);</li>
+        <li>(b) imposing time limits in relation to consultation under subsection (4);</li>
+        <li>(c) about giving notice;</li>
+        <li>(d) about expressing views and submitting evidence under subsection (7);</li>
+        <li>(e) about how assessments are to be conducted;</li>
+        <li>(f) about advice to be obtained in connection with an assessment;</li>
+        <li>(g) about combining an EHC needs assessment with other assessments;</li>
+        <li>(h) about the use for the purposes of an EHC needs assessment of information obtained as a result of other assessments;</li>
+        <li>(i) about the use of information obtained as a result of an EHC needs assessment,</li>
+        <li>including the use of that information for the purposes of other assessments;</li>
+        <li>(j) about the provision of information,</li>
+        <li>advice and support in connection with an EHC needs assessment.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>secure that an EHC plan is prepared for the child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in the light of an EHC needs assessment, it is necessary for special educational provision to be made in accordance with an EHC plan</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>maintain an EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it has been prepared</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>An EHC plan</p>
+    </for>
+    <to>
+      <p>also specify other health care and social care provision reasonably required by the child or young person.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consult the child's parent or the young person about the content of the plan during the preparation of a draft of the plan.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the local authority is required to secure that an EHC plan is prepared for a child or young person</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>then—</p>
+      <ul>
+        <li>(a) send the draft plan to the child's parent or the young person,</li>
+        <li>and (b) give the parent or young person notice of his or her right to— (i) make representations about the content of the draft plan,</li>
+        <li>and (ii) request the authority to secure that a particular school or other institution within subsection (3) is named in the plan.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>A notice under subsection (2)(b)</p>
+    </for>
+    <to>
+      <p>specify a period before the end of which any representations or requests must be made.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consult—</p>
+      <ul>
+        <li>(a) the governing body,</li>
+        <li>proprietor or principal of the school or other institution,</li>
+        <li>(b) the governing body,</li>
+        <li>proprietor or principal of any other school or other institution the authority is considering having named in the plan,</li>
+        <li>and (c) if a school or other institution is within paragraph</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, before the end of the period specified in a notice under section 38(2)(b), a request is made to a local authority to secure that a particular school or other institution is named in an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure that the EHC plan names the school or other institution specified in the request, unless subsection (4) applies</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, before the end of the period specified in a notice under section 38(2)(b), a request is made to a local authority to secure that a particular school or other institution is named in an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure that the plan—</p>
+      <ul>
+        <li>(a) names a school or other institution which the local authority thinks would be appropriate for the child or young person,</li>
+        <li>or (b) specifies the type of school or other institution which the local authority thinks would be appropriate for the child or young person</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, before the end of the period specified in a notice under section 38(2)(b), a request is made to a local authority to secure that a particular school or other institution is named in an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p/>
+        <ul>
+          <li>(a) the school or other institution requested is unsuitable for the age,</li>
+          <li>ability,</li>
+          <li>aptitude or special educational needs of the child or young person concerned,</li>
+          <li>or (b) the attendance of the child or young person at the requested school or other institution would be incompatible with— (i) the provision of efficient education for others,</li>
+          <li>or (ii) the efficient use of resources.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consult—</p>
+      <ul>
+        <li>(a) the governing body,</li>
+        <li>proprietor or principal of any school or other institution the authority is considering having named in the plan,</li>
+        <li>and (b) if that school or other institution is maintained by another local authority,</li>
+        <li>that authority</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, before the end of the period specified in a notice under section 38(2)(b), a request is made to a local authority to secure that a particular school or other institution is named in an EHC plan</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it has not already done so</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>BEFORE</type>
+        <p>securing that the plan names a school or other institution under subsection (5)</p>
+        <ul>
+          <li>(a).</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>at the end of the period specified in the notice under section 38(2)(b), secure that any changes it thinks necessary are made to the draft EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, before the end of the period specified in a notice under section 38(2)(b), a request is made to a local authority to secure that a particular school or other institution is named in an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>send a copy of the finalised EHC plan to—</p>
+      <ul>
+        <li>(a) the child's parent or the young person,</li>
+        <li>and (b) the governing body,</li>
+        <li>proprietor or principal of any school or other institution named in the plan.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure that the plan—</p>
+      <ul>
+        <li>(a) names a school or other institution which the local authority thinks would be appropriate for the child or young person concerned,</li>
+        <li>or (b) specifies the type of school or other institution which the local authority thinks would be appropriate for the child or young person</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>no request is made to a local authority before the end of the period specified in a notice under section 38(2)(b) to secure that a particular school or other institution is named in an EHC plan</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>BEFORE</type>
+        <p>securing that the plan names a school or other institution under subsection (2)</p>
+        <ul>
+          <li>(a).</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>also secure that any changes it thinks necessary are made to the draft EHC plan.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>no request is made to a local authority before the end of the period specified in a notice under section 38(2)(b) to secure that a particular school or other institution is named in an EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>send a copy of the finalised EHC plan to—</p>
+      <ul>
+        <li>(a) the child's parent or the young person,</li>
+        <li>and (b) the governing body,</li>
+        <li>proprietor or principal of any school or other institution named in the plan.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>approve an institution within subsection (2) for the purpose of enabling the institution to be the subject of a request for it to be named in an EHC plan.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>approve an institution under subsection (1)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>its proprietor consents.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>withdraw approval given under subsection (1).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about giving and withdrawing approval under this section, in particular—</p>
+      <ul>
+        <li>(a) about the types of special post-16 institutions which may be approved under subsection (1);</li>
+        <li>(b) specifying criteria which an institution must meet before it can be approved under subsection (1);</li>
+        <li>(c) about the matters which may or must be taken into account in deciding to give or withdraw approval;</li>
+        <li>(d) about the publication of a list of all institutions who are approved under this section.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>secure the specified special educational provision for the child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>the child's parent or the young person has made suitable alternative arrangements.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the responsible commissioning body</p>
+    </for>
+    <to>
+      <p>arrange the specified health care provision for the child or young person.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the plan specifies health care provision.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the child's parent or the young person has made suitable alternative arrangements.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the governing body, proprietor or principal of the school or other institution</p>
+    </for>
+    <to>
+      <p>admit the child or young person for whom the plan is maintained.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>one of the following is named in an EHC plan—</p>
+        <ul>
+          <li>(a) a maintained school in England;</li>
+          <li>(b) a maintained nursery school in England;</li>
+          <li>(c) an Academy;</li>
+          <li>(d) an institution within the further education sector in England;</li>
+          <li>(e) a non-maintained special school in England;</li>
+          <li>(f) an institution approved by the Secretary of State under section 41.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>review an EHC plan that it maintains—</p>
+      <ul>
+        <li>(a) in the period of 12 months starting with the date on which the plan was first made,</li>
+        <li>and (b) in each subsequent period of 12 months starting with the date on which the plan was last reviewed under this section</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>any contrary provision in regulations made under subsection (7)(b).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure a re-assessment of the educational, health care and social care needs of a child or young person for whom it maintains an EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a request is made to it by—</p>
+        <ul>
+          <li>(a) the child's parent or the young person,</li>
+          <li>or (b) the governing body,</li>
+          <li>proprietor or principal of the school,</li>
+          <li>post-16 institution or other institution which the child or young person attends</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>any contrary provision in regulations made under subsection (7)(b).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>secure a re-assessment of those needs</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>it thinks it necessary.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>have regard to whether the educational or training outcomes specified in the plan have been achieved</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>reviewing an EHC plan maintained for a young person aged over 18, or deciding whether to secure a re-assessment of the needs of such a young person.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consult the parent of the child, or the young person, for whom it maintains the EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>conducting a review or re-assessment.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about reviews and re-assessments, in particular—</p>
+      <ul>
+        <li>(a) about other circumstances in which a local authority must or may review an EHC plan or secure a re-assessment (including before the end of a specified phase of a child's or young person's education);</li>
+        <li>(b) about circumstances in which it is not necessary for a local authority to review an EHC plan or secure a re-assessment;</li>
+        <li>(c) about amending or replacing an EHC plan following a review or re-assessment.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under subsection (7) about re-assessments</p>
+    </for>
+    <to>
+      <p>apply provisions of or made under this Part that are applicable to EHC needs assessments with or without modifications.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>cease to maintain an EHC plan for a child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the authority is no longer responsible for the child or young person,</li>
+          <li>or (b) the authority determines that it is no longer necessary for the plan to be maintained.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>have regard to whether the educational or training outcomes specified in the plan have been achieved</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>determining whether a young person aged over 18 no longer requires the special educational provision specified in his or her EHC plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>cease to maintain an EHC plan for a child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the end of the period allowed for bringing an appeal under section 51 against its decision to cease to maintain the plan,</li>
+          <li>where no such appeal is brought before the end of that period;</li>
+          <li>(b) the appeal has been finally determined,</li>
+          <li>where such an appeal is brought before the end of that period.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about ceasing to maintain an EHC plan, in particular about—</p>
+      <ul>
+        <li>(a) other circumstances in which it is no longer necessary for an EHC plan to be maintained;</li>
+        <li>(b) circumstances in which a local authority may not determine that it is no longer necessary for an EHC plan to be maintained;</li>
+        <li>(c) the procedure to be followed by a local authority when determining whether to cease to maintain an EHC plan.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>continue to maintain an EHC plan for a young person until the end of the academic year during which the young person attains the age of 25</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision for an EHC plan maintained for a child or young person by one local authority to be transferred to another local authority in England</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the other authority becomes responsible for the child or young person.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the regulations</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) impose a duty on the other authority to maintain the plan;</li>
+        <li>(b) treat the plan as if originally prepared by the other authority;</li>
+        <li>(c) treat things done by the transferring authority in relation to the plan as done by the other authority.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) maintain the plan,</li>
+        <li>and (b) review the plan as soon as reasonably practicable after the release date.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority that maintains an EHC plan, or is securing the preparation of an EHC plan, for a child or young person</p>
+    </for>
+    <to>
+      <p>prepare a personal budget for him or her</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>asked to do so by the child's parent or the young person.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about personal budgets, in particular—</p>
+      <ul>
+        <li>(a) about requests for personal budgets;</li>
+        <li>(b) about the amount of a personal budget;</li>
+        <li>(c) about the sources of the funds making up a personal budget;</li>
+        <li>(d) for payments (“direct payments”) representing all or part of a personal budget to be made to a child's parent or a young person,</li>
+        <li>or a person of a prescribed description in prescribed circumstances,</li>
+        <li>in order to secure provision to which the budget relates;</li>
+        <li>(e) about the description of provision to which personal budgets and direct payments may (and may not) relate;</li>
+        <li>(f) for a personal budget or direct payment to cover the agreed cost of the provision to which the budget or payment relates;</li>
+        <li>(g) about when,</li>
+        <li>how,</li>
+        <li>to whom and on what conditions direct payments may (and may not) be made;</li>
+        <li>(h) about when direct payments may be required to be repaid and the recovery of unpaid sums;</li>
+        <li>(i) about conditions with which a person or body making direct payments must comply before,</li>
+        <li>after or at the time of making a direct payment;</li>
+        <li>(j) about arrangements for providing information,</li>
+        <li>advice or support in connection with personal budgets and direct payments.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the regulations</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) require the consent of a child's parent or a young person,</li>
+        <li>or a person of a prescribed description in prescribed circumstances,</li>
+        <li>to be obtained before direct payments are made;</li>
+        <li>(b) require the authority to stop making direct payments where the required consent is withdrawn</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the regulations include provision authorising direct payments.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>A child's parent or a young person</p>
+    </for>
+    <to>
+      <p>appeal to the First-tier Tribunal against the matters set out in subsection (2)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>SUBJECT TO</type>
+        <p>section 55 (mediation).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a child's parent or a young person</p>
+    </for>
+    <to>
+      <p>appeal to the First-tier Tribunal under subsection (2)(c)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) an EHC plan is first finalised for the child or young person,</li>
+          <li>and (b) following an amendment or replacement of the plan.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about appeals to the First-tier Tribunal in respect of EHC needs assessments and EHC plans, in particular about—</p>
+      <ul>
+        <li>(a) other matters relating to EHC plans against which appeals may be brought;</li>
+        <li>(b) making and determining appeals;</li>
+        <li>(c) the powers of the First-tier Tribunal on determining an appeal;</li>
+        <li>(d) unopposed appeals.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under subsection (4)(c)</p>
+    </for>
+    <to>
+      <p>include provision conferring power on the First-tier Tribunal, on determining an appeal against a matter, to make recommendations in respect of other matters (including matters against which no appeal may be brought).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person</p>
+    </for>
+    <to>
+      <p>fails to comply with any requirement—</p>
+      <ul>
+        <li>(a) in respect of the discovery or inspection of documents,</li>
+        <li>or (b) to attend to give evidence and produce documents,</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>that requirement is imposed by Tribunal Procedure Rules in relation to an appeal under this section or regulations under subsection (4)</p>
+        <ul>
+          <li>(a)</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the person has some reasonable excuse.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>notify the child's parent or the young person of—</p>
+      <ul>
+        <li>(a) the right to mediation under section 53 or 54,</li>
+        <li>and (b) the requirement to obtain a certificate under section 55 before making certain appeals.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>the end of the prescribed period after the decision is made, or the plan is made, amended or replaced,</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the parent or young person</p>
+    </for>
+    <to>
+      <p>inform the local authority</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>he or she wishes to pursue mediation under section 53 or 54, of—</p>
+        <ul>
+          <li>(a) that fact,</li>
+          <li>and (b) the issues in respect of which he or she wishes to pursue mediation (“the mediation issues”).</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the parent or young person</p>
+    </for>
+    <to>
+      <p>inform the local authority of the health care provision which he or she wishes to be specified in the plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the mediation issues are, or include, the fact that no health care provision, or no health care provision of a particular kind, is specified in the plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>notify each relevant commissioning body of—</p>
+      <ul>
+        <li>(a) the mediation issues,</li>
+        <li>and (b) anything of which it has been informed by the parent or young person under section 52(4).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the responsible commissioning body (or, where there is more than one, the responsible commissioning bodies acting jointly)</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) arrange for mediation between it (or them) and the parent or young person,</li>
+        <li>(b) ensure that the mediation is conducted by an independent person,</li>
+        <li>and (c) participate in the mediation</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the mediation issues are limited to the health care provision specified in the plan or the fact that no health care provision, or no health care provision of a particular kind, is specified in the plan.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>— (i) arrange for mediation between it, each responsible commissioning body and the parent or young person, (ii) ensure that the mediation is conducted by an independent person, and (iii) participate in the mediation</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the mediation issues include anything else.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>each responsible commissioning body</p>
+    </for>
+    <to>
+      <p>also participate in the mediation</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the mediation issues include anything else.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The parent or young person may make the appeal</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) arrange for mediation between it and the parent or young person,</li>
+        <li>(b) ensure that the mediation is conducted by an independent person,</li>
+        <li>and (c) participate in the mediation.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the parent or young person informs the local authority under section 52 that he or she wishes to pursue mediation,</li>
+          <li>and (b) the mediation issues do not include health care provision specified in the plan or the fact that no health care provision,</li>
+          <li>or no health care provision of a particular kind,</li>
+          <li>is specified in the plan.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>ONLY IF</type>
+        <p>a mediation adviser has issued a certificate to him or her under subsection (4) or (5)</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child's parent or young person intends to appeal to the First-tier Tribunal under section 51 or regulations made under that section in respect of—</p>
+        <ul>
+          <li>(a) a decision of a local authority,</li>
+          <li>or (b) the content of an EHC plan maintained by a local authority</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the appeal concerns only—</p>
+        <ul>
+          <li>(a) the school or other institution named in an EHC plan;</li>
+          <li>(b) the type of school or other institution specified in an EHC plan;</li>
+          <li>(c) the fact that an EHC plan does not name a school or other institution.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/55</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the parent or young person</p>
+    </for>
+    <to>
+      <p>make the appeal</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>a mediation adviser has issued a certificate to him or her under subsection (4) or (5)</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child's parent or young person intends to appeal to the First-tier Tribunal under section 51 or regulations made under that section in respect of—</p>
+        <ul>
+          <li>(a) a decision of a local authority,</li>
+          <li>or (b) the content of an EHC plan maintained by a local authority</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the appeal concerns only—</p>
+        <ul>
+          <li>(a) the school or other institution named in an EHC plan;</li>
+          <li>(b) the type of school or other institution specified in an EHC plan;</li>
+          <li>(c) the fact that an EHC plan does not name a school or other institution.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a mediation adviser</p>
+    </for>
+    <to>
+      <p>issue a certificate under this subsection to the parent or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the adviser has provided him or her with information and advice about pursuing mediation under section 53 or 54,</li>
+          <li>and (b) the parent or young person has informed the adviser that he or she does not wish to pursue mediation.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child's parent or young person intends to appeal to the First-tier Tribunal under section 51 or regulations made under that section in respect of—</p>
+        <ul>
+          <li>(a) a decision of a local authority,</li>
+          <li>or (b) the content of an EHC plan maintained by a local authority</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the appeal concerns only—</p>
+        <ul>
+          <li>(a) the school or other institution named in an EHC plan;</li>
+          <li>(b) the type of school or other institution specified in an EHC plan;</li>
+          <li>(c) the fact that an EHC plan does not name a school or other institution.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a mediation adviser</p>
+    </for>
+    <to>
+      <p>issue a certificate under this subsection to the parent or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the adviser has provided him or her with information and advice about pursuing mediation under section 53 or 54, and the parent or young person has—</p>
+        <ul>
+          <li>(a) informed the adviser that he or she wishes to pursue mediation under the appropriate section,</li>
+          <li>and (b) participated in such mediation.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a child's parent or young person intends to appeal to the First-tier Tribunal under section 51 or regulations made under that section in respect of—</p>
+        <ul>
+          <li>(a) a decision of a local authority,</li>
+          <li>or (b) the content of an EHC plan maintained by a local authority</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the appeal concerns only—</p>
+        <ul>
+          <li>(a) the school or other institution named in an EHC plan;</li>
+          <li>(b) the type of school or other institution specified in an EHC plan;</li>
+          <li>(c) the fact that an EHC plan does not name a school or other institution.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision for the purposes of sections 52 to 55, in particular—</p>
+      <ul>
+        <li>(a) about giving notice;</li>
+        <li>(b) imposing time limits;</li>
+        <li>(c) enabling a local authority or commissioning body to take prescribed steps following the conclusion of mediation;</li>
+        <li>(d) about who may attend mediation;</li>
+        <li>(e) where a child's parent is a party to mediation,</li>
+        <li>requiring the mediator to take reasonable steps to ascertain the views of the child;</li>
+        <li>(f) about the provision of advocacy and other support services for the parent or young person;</li>
+        <li>(g) requiring a local authority or commissioning body to pay reasonable travel expenses and other expenses of a prescribed description,</li>
+        <li>up to any prescribed limit;</li>
+        <li>(h) about exceptions to the requirement in section 55(3);</li>
+        <li>(i) about the training,</li>
+        <li>qualifications and experience of mediators and mediation advisers;</li>
+        <li>(j) conferring powers or imposing requirements on local authorities,</li>
+        <li>commissioning bodies,</li>
+        <li>mediators and mediation advisers.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>make arrangements with a view to avoiding or resolving disagreements within subsection (2) or (3).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>make arrangements with a view to avoiding or resolving, in each relevant school or post-16 institution, disagreements within subsection (5).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>arrangements within this section</p>
+    </for>
+    <to>
+      <p>provide for the appointment of independent persons with the function of facilitating the avoidance or resolution of the disagreements to which the arrangements apply.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>take such steps as it thinks appropriate for making the arrangements under this section known to—</p>
+      <ul>
+        <li>(a) the parents of children in its area with special educational needs,</li>
+        <li>(b) young people in its area with special educational needs,</li>
+        <li>and (c) the head teachers,</li>
+        <li>governing bodies,</li>
+        <li>proprietors and principals of schools and post-16 institutions in its area.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>take such steps as it thinks appropriate for making the arrangements under this section known to such other persons as it thinks appropriate.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>make pilot schemes enabling children in England to—</p>
+      <ul>
+        <li>(a) appeal to the First-tier Tribunal under section 51;</li>
+        <li>(b) make a claim to the First-tier Tribunal under Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement) that a responsible body in England has contravened Chapter 1 of Part 6 of that Act because of the child's disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an order under subsection (1)</p>
+    </for>
+    <to>
+      <p>make provision, in particular—</p>
+      <ul>
+        <li>(a) about the age from which children may appeal or make a claim;</li>
+        <li>(b) in respect of appeals under section 51,</li>
+        <li>about mediation and the application of section 55;</li>
+        <li>(c) about the bringing of appeals or making of claims by a child and by his or her parent concurrently;</li>
+        <li>(d) about determining whether a child is capable of bringing an appeal or making a claim,</li>
+        <li>and the assistance and support a child may require to be able to do so;</li>
+        <li>(e) enabling a person to exercise a child's rights under an order under subsection (1) on behalf of the child;</li>
+        <li>(f) enabling children to have access to advice and information which is available to a parent or young person in respect of an appeal or claim of a kind mentioned in subsection (1);</li>
+        <li>(g) about the provision of advocacy and other support services to children;</li>
+        <li>(h) requiring notices to be given to a child (as well as to his or her parent);</li>
+        <li>(i) requiring documents to be served on a child (as well as on his or her parent).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an order under subsection (1)</p>
+    </for>
+    <to>
+      <p>apply a statutory provision, with or without modifications.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>provide that children in England may—</p>
+      <ul>
+        <li>(a) appeal to the First-tier Tribunal under section 51;</li>
+        <li>(b) make a claim to the First-tier Tribunal under Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement) that a responsible body in England has contravened Chapter 1 of Part 6 of that Act because of the child's disability.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>make an order under subsection (1)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the end of two years beginning with the day on which the first order is made under section 58(1) has not been reached.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an order under subsection (1)</p>
+    </for>
+    <to>
+      <p>make provision, in particular—</p>
+      <ul>
+        <li>(a) about the age from which children may appeal or make a claim;</li>
+        <li>(b) in respect of appeals under section 51,</li>
+        <li>about mediation and the application of section 55;</li>
+        <li>(c) about the bringing of appeals or making of claims by a child and by his or her parent concurrently;</li>
+        <li>(d) about determining whether a child is capable of bringing an appeal or making a claim,</li>
+        <li>and the assistance and support a child may require to be able to do so;</li>
+        <li>(e) enabling a person to exercise a child's rights under an order under subsection (1) on behalf of the child;</li>
+        <li>(f) enabling children to have access to advice and information which is available to a parent or young person in respect of an appeal or claim of a kind mentioned in subsection (1);</li>
+        <li>(g) about the provision of advocacy and other support services to children;</li>
+        <li>(h) requiring notices to be given to a child (as well as to his or her parent);</li>
+        <li>(i) requiring documents to be served on a child (as well as on his or her parent).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an order under subsection (1)</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) amend,</li>
+        <li>repeal or revoke a statutory provision,</li>
+        <li>or (b) apply a statutory provision,</li>
+        <li>WITH OR WITHOUT modifications.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>arrange for any special educational provision that it has decided is necessary for a child or young person for whom it is responsible to be made otherwise than in— a school, a post-16 institution, or a place at which relevant early years education is provided.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>do so</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>satisfied that it would be inappropriate for the provision to be made in a school or post-16 institution or at such a place.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>a local authority</p>
+    </for>
+    <to>
+      <p>consult the child's parent or the young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>doing so.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/36</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/62</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the arrangements</p>
+    </for>
+    <to>
+      <p>include contributing to or paying—</p>
+      <ul>
+        <li>(a) fees charged by the institution;</li>
+        <li>(b) the child's or young person's travelling expenses;</li>
+        <li>(c) expenses reasonably incurred in maintaining the child or young person while at the institution or travelling to or from it;</li>
+        <li>(d) expenses reasonably incurred by someone accompanying the child or young person while travelling to or from the institution or staying there.</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a local authority in England makes arrangements for a child or young person for whom it maintains an EHC plan to attend an institution outside England and Wales which specialises in providing for children or young people with special educational needs.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/62</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>pay any fees payable in respect of education or training provided for the child or young person at that school, institution or place in accordance with the EHC plan.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) a local authority maintains an EHC plan for a child or young person,</li>
+          <li>(b) special educational provision in respect of the child or young person is made at a school,</li>
+          <li>post-16 institution or place at which relevant early years education is provided,</li>
+          <li>and (c) that school,</li>
+          <li>institution or place is named in the EHC plan.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>pay any fees payable in respect of the special educational provision made at the school, institution or place in question which is required to meet the special educational needs of the child or young person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) a local authority is responsible for a child or young person for whom no EHC plan is maintained,</li>
+          <li>(b) special educational provision in respect of the child or young person is made at a school,</li>
+          <li>post-16 institution or place at which relevant early years education is provided,</li>
+          <li>and (c) the local authority is satisfied that— (i) the interests of the child or young person require special educational provision to be made,</li>
+          <li>and (ii) it is appropriate for education or training to be provided to the child or young person at the school,</li>
+          <li>institution or place in question.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the authority</p>
+    </for>
+    <to>
+      <p>also pay any fees in respect of the board and lodging</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>board and lodging are provided for the child or young person at the school, post-16 institution or place mentioned in subsection (2) or (4)</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>satisfied that special educational provision cannot be provided at the school, post-16 institution or place</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the board and lodging are also provided.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/63</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/64</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>supply goods and services to—</p>
+      <ul>
+        <li>(a) the governing body of a maintained school or maintained nursery school in England;</li>
+        <li>(b) the proprietor of an Academy;</li>
+        <li>(c) the governing body of an institution within the further education sector that the authority thinks is or is to be attended by a young person for whom the authority maintains an EHC plan</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>this is done the purpose set out in subsection (2).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/64</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/64</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the goods and services</p>
+    </for>
+    <to>
+      <p>be supplied on the terms and conditions that the authority thinks fit, including terms as to payment.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/64</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>supply goods and services to any authority or other person (other than a governing body or proprietor within subsection (1))</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>this is done for assisting them in securing the special educational provision called for by a pupil’s or student’s special educational needs</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/64</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/66</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority</p>
+    </for>
+    <to>
+      <p>use its best endeavours to secure that the special educational provision called for by the pupil's or student's special educational needs is made</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>a registered pupil or a student at a school or other institution has special educational needs, in exercising its functions in relation to the school or other institution.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/66</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/67</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority</p>
+    </for>
+    <to>
+      <p>designate a member of staff at the school (to be known as the “SEN co-ordinator”) as having responsibility for co-ordinating the provision for pupils with special educational needs.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/67</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) require appropriate authorities which are subject to the duty imposed by subsection (2) to ensure that SEN co-ordinators have prescribed qualifications or prescribed experience (or both);</li>
+        <li>(b) confer other functions relating to SEN co-ordinators on appropriate authorities which are subject to the duty imposed by subsection (2).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/68</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority for the school</p>
+    </for>
+    <to>
+      <p>inform the child's parent or the young person that special educational provision is being made for the child or young person.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) special educational provision is made for a child or young person at a maintained school,</li>
+          <li>a maintained nursery school,</li>
+          <li>an Academy school,</li>
+          <li>an alternative provision Academy or a pupil referral unit,</li>
+          <li>and (b) no EHC plan is maintained for the child or young person.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/68</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/70</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>apply any provision of this Part, with or without modifications, to or in relation to a child or young person detained in pursuance of—</p>
+      <ul>
+        <li>(a) an order made by a court,</li>
+        <li>or (b) an order of recall made by the Secretary of State.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/70</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>consult the Welsh Ministers</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making regulations under subsection (3) which will apply any provision of this Part to, or in relation to, a child or young person who is detained in Wales.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/70</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/70</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>regulations</p>
+    </for>
+    <to>
+      <p>For the purposes of this Part, provide for paragraph</p>
+      <ul>
+        <li>(a) of the definition of “the home authority” in section 562J(1) of EA 1996 (the home authority of a looked after child) to apply WITH MODIFICATIONS in relation to such provisions of this Part as may be specified in the regulations.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a request to the home authority to secure a detained person's EHC needs assessment for the detained person</p>
+    </for>
+    <to>
+      <p>be made by—</p>
+      <ul>
+        <li>(a) the appropriate person,</li>
+        <li>or (b) the person in charge of the relevant youth accommodation where the detained person is detained.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>determine whether it may be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>this subsection applies</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) a request is made under subsection (2),</li>
+          <li>(b) the detained person has been brought to the home authority's attention by any person as someone who has or may have special educational needs,</li>
+          <li>or (c) the detained person has otherwise come to the home authority's attention as someone who has or may have special educational needs.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>consult the appropriate person and the person in charge of the relevant youth accommodation</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>making a determination on the necessity of a detained person’s EHC needs assessment.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>notify the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained—</p>
+      <ul>
+        <li>(a) that it is considering securing a detained person's EHC needs assessment for the detained person,</li>
+        <li>and (b) that the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained each have the right to— (i) express views to the authority (orally or in writing),</li>
+        <li>and (ii) submit evidence to the authority</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) the detained person has not been assessed under this section or section 36 during the previous six months,</li>
+          <li>and (b) the home authority determines that it may be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>secure a detained person's EHC needs assessment</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, after having regard to any views expressed and evidence submitted under subsection (8), the authority is of the opinion that—</p>
+        <ul>
+          <li>(a) the detained person has or may have special educational needs,</li>
+          <li>and (b) it may be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the local authority</p>
+    </for>
+    <to>
+      <p>notify the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained of—</p>
+      <ul>
+        <li>(a) the outcome of the assessment,</li>
+        <li>(b) whether it proposes to secure that an EHC plan is prepared for the detained person,</li>
+        <li>and (c) the reasons for that decision</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>AFTER</type>
+        <p>a detained person's EHC needs assessment has been carried out.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/71</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about detained persons' EHC needs assessments, in particular—</p>
+      <ul>
+        <li>(a) about requests under subsection (2);</li>
+        <li>(b) imposing time limits in relation to consultation under subsection (5);</li>
+        <li>(c) about giving notice;</li>
+        <li>(d) about expressing views and submitting evidence under subsection (8);</li>
+        <li>(e) about how detained persons' EHC needs assessments are to be conducted;</li>
+        <li>(f) about advice to be obtained in connection with a detained person's EHC needs assessment;</li>
+        <li>(g) about combining a detained person's EHC needs assessment with other assessments;</li>
+        <li>(h) about the use for the purposes of a detained person's EHC needs assessment of information obtained as a result of other assessments;</li>
+        <li>(i) about the use of information obtained as a result of a detained person's EHC needs assessment,</li>
+        <li>including the use of that information for the purposes of other assessments;</li>
+        <li>(j) about the provision of information,</li>
+        <li>advice and support in connection with a detained person's EHC needs assessment.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/72</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>secure that an EHC plan is prepared for the detained person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, in the light of a detained person's EHC needs assessment, it is necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/72</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>an appropriate person in relation to a detained person</p>
+    </for>
+    <to>
+      <p>appeal to the First-tier Tribunal against the matters set out in subsection (2)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>subject to section 55 (as applied by this section).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the appropriate person</p>
+    </for>
+    <to>
+      <p>appeal to the First-tier Tribunal under subsection (2)(c)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>an EHC plan is first finalised for the detained person in accordance with section 72.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about appeals to the First-tier Tribunal in respect of detained persons' EHC needs assessments and EHC plans secured under section 72, in particular about—</p>
+      <ul>
+        <li>(a) making and determining appeals;</li>
+        <li>(b) the powers of the First-tier Tribunal on determining an appeal;</li>
+        <li>(c) unopposed appeals.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>a person</p>
+    </for>
+    <to>
+      <p>fail to comply with any requirement—</p>
+      <ul>
+        <li>(a) in respect of the discovery or inspection of documents,</li>
+        <li>or (b) to attend to give evidence and produce documents,</li>
+      </ul>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>that requirement is imposed by Tribunal Procedure Rules in relation to an appeal under this section</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+      <condition>
+        <type>UNLESS</type>
+        <p>the person has some reasonable excuse.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the mediation adviser</p>
+    </for>
+    <to>
+      <p>notify the authority</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, by virtue of subsection (7), the appropriate person has informed the mediation adviser that he or she wishes to pursue mediation with the home authority.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the authority</p>
+    </for>
+    <to>
+      <p>— (i) arrange for mediation between it and the appropriate person, (ii) ensure that the mediation is conducted by an independent person, and (iii) participate in the mediation</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>, by virtue of subsection (7), the appropriate person has informed the mediation adviser that he or she wishes to pursue mediation with the home authority.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/73</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under section 56</p>
+    </for>
+    <to>
+      <p>make provision for the purposes of subsections (7) and (8) of this section, and accordingly section 56 has effect for those purposes with the following modifications—</p>
+      <ul>
+        <li>(a) the references in subsection (1) to commissioning bodies are to be ignored;</li>
+        <li>(b) the reference in subsection (1)(e) to a child's parent is to be read as a reference to the parent of a detained person who is a child;</li>
+        <li>(c) the reference in subsection (1)(f) to the child's parent or young person is to be read as a reference to the appropriate person;</li>
+        <li>(d) in subsection (3),</li>
+        <li>paragraphs (b) and (c) are to be ignored;</li>
+        <li>(e) subsection (4) is to be ignored.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>keep the EHC plan</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the person is detained in relevant youth accommodation.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations</p>
+    </for>
+    <to>
+      <p>make provision about the keeping of EHC plans under subsection (2), and the disclosure of such plans.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the home authority</p>
+    </for>
+    <to>
+      <p>arrange appropriate special educational provision for the detained person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>he or she is detained in relevant youth accommodation.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the detained person's health services commissioner</p>
+    </for>
+    <to>
+      <p>arrange appropriate health care provision for the detained person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the EHC plan specifies health care provision</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+      </condition>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>he or she is detained in relevant youth accommodation.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/74</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/75</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>a local authority in England</p>
+    </for>
+    <to>
+      <p>supply goods and services to any authority or person making special educational provision for a detained person</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>ONLY IF</type>
+        <p>this is done for assisting in the performance of the duty to arrange appropriate special educational provision under section 74 ON such terms and conditions, including payment, as the authority thinks fit.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/75</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/76</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>exercise the powers listed in subsection (2) with a view to securing, in particular, the provision of special needs information which the Secretary of State thinks would be likely to assist the Secretary of State or others in improving the well-being of—</p>
+      <ul>
+        <li>(a) children in England with special educational needs,</li>
+        <li>and (b) young people aged under 19 in England with special educational needs.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/76</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>In each calendar year, publish, or arrange to be published, special needs information which has been obtained under EA 1996</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the Secretary of State thinks the publication of the information would be likely to assist the Secretary of State or others in improving the well-being of—</p>
+        <ul>
+          <li>(a) children in England with special educational needs,</li>
+          <li>and (b) young people aged under 19 in England with special educational needs.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/76</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/76</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>information published under subsection (3)</p>
+    </for>
+    <to>
+      <p>be published in the form and manner that the Secretary of State thinks fit, except that the names of the children and young people to whom the information relates must not be included.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/76</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>make a charge, or arrange for a charge to be made, for documents supplied by virtue of this section.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>issue a code of practice giving guidance about the exercise of their functions under this Part to—</p>
+      <ul>
+        <li>(a) local authorities in England;</li>
+        <li>(b) the governing bodies of schools;</li>
+        <li>(c) the governing bodies of institutions within the further education sector;</li>
+        <li>(d) the proprietors of Academies;</li>
+        <li>(e) the management committees of pupil referral units;</li>
+        <li>(f) the proprietors of institutions approved by the Secretary of State under section 41 (independent special schools and special post-16 institutions: approval);</li>
+        <li>(g) providers of relevant early years education;</li>
+        <li>(h) youth offending teams;</li>
+        <li>(i) persons in charge of relevant youth accommodation;</li>
+        <li>(j) NHS England;</li>
+        <li>(k) integrated care boards;</li>
+        <li>(l) NHS trusts;</li>
+        <li>(m) NHS foundation trusts;</li>
+        <li>(n) Local Health Boards.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>revise the code from time to time.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>publish the current version of the code.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the persons listed in subsection (1)</p>
+    </for>
+    <to>
+      <p>have regard to the code</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>exercising their functions under this Part.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>those who exercise functions for the purpose of the exercise by the persons listed in subsection (1) of functions under this Part</p>
+    </for>
+    <to>
+      <p>have regard to the code.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/77</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the First-tier Tribunal</p>
+    </for>
+    <to>
+      <p>have regard to any provision of the code that appears to it to be relevant to a question arising on an appeal under this Part.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>prepare a draft of the code (or revised code)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the Secretary of State proposes to issue or revise a code under section 77.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>consult such persons as the Secretary of State thinks fit about the draft and must consider any representations made by them.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>lay a copy of the draft before each House of Parliament</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the Secretary of State decides to proceed with the draft (in its original form or with modifications).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>take any further steps in relation to—</p>
+      <ul>
+        <li>(a) a proposed code unless the draft is approved by a resolution of each House,</li>
+        <li>or (b) a proposed revised code if,</li>
+        <li>within the 40-day period,</li>
+        <li>either House resolves not to approve the draft.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>issue the code or revised code in the form of the draft, and it comes into force on such date as the Secretary of State may by order appoint</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>—</p>
+        <ul>
+          <li>(a) both Houses resolve to approve the draft,</li>
+          <li>as mentioned in subsection (4)</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/78</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/79</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State and the Lord Chancellor</p>
+    </for>
+    <to>
+      <p>carry out a review of how effectively disagreements about the exercise of functions under this Part are being resolved.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/79</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State and the Lord Chancellor</p>
+    </for>
+    <to>
+      <p>prepare a report on the outcome of the review.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/79</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State and the Lord Chancellor</p>
+    </for>
+    <to>
+      <p>lay the report before Parliament</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>the end of the period of three years beginning with the earliest date on which any provision of this Part comes into force.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/79</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>regulations</p>
+    </for>
+    <to>
+      <p>apply any statutory provision with modifications, for the purpose of giving effect to this Part</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the parent of a child, or a young person, lacks capacity at the relevant time.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under subsection (1)</p>
+    </for>
+    <to>
+      <p>in particular include provision for—</p>
+      <ul>
+        <li>(a) references to a child's parent to be read as references to,</li>
+        <li>or as including references to,</li>
+        <li>a representative of the parent;</li>
+        <li>(b) references to a young person to be read as references to,</li>
+        <li>or as including references to,</li>
+        <li>a representative of the young person,</li>
+        <li>the young person's parent,</li>
+        <li>or a representative of the young person's parent;</li>
+        <li>(c) modifications to have effect in spite of section 27(1)(g) of the Mental Capacity Act 2005 (Act does not permit decisions on discharging parental responsibilities in matters not relating to a child's property to be made on a person's behalf).</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+</annotations>

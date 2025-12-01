@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/134</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>from time to time—</p>
+      <ul>
+        <li>(a) carry out a review of sections 131 to 133,</li>
+        <li>(b) set out the conclusions of the review in a report,</li>
+        <li>and (c) publish the report.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/134</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the report</p>
+    </for>
+    <to>
+      <p>in particular—</p>
+      <ul>
+        <li>(a) set out the objectives intended to be achieved by the amendments of the Employment Rights Act 1996 made by sections 131 to 133,</li>
+        <li>(b) assess the extent to which those objectives are achieved,</li>
+        <li>and (c) assess whether those objectives remain appropriate and,</li>
+        <li>if so,</li>
+        <li>the extent to which they could be achieved in a way that imposes less regulation.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/134</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The first report to be published under this section</p>
+    </for>
+    <to>
+      <p>be published</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>the end of the period of seven years beginning with the day on which sections 131 to 133 come into force.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/134</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/134</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>reports under this section</p>
+    </for>
+    <to>
+      <p>afterwards, be published at intervals not exceeding seven years.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/136</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State or the Lord Chancellor</p>
+    </for>
+    <to>
+      <p>by order make provision in consequence of any provision of this Act.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/137</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State or the Lord Chancellor</p>
+    </for>
+    <to>
+      <p>by order make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/137</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations described in section 85(11) of the 2012 Act</p>
+    </for>
+    <to>
+      <p>amend, repeal or otherwise modify a provision of this Act or the Childcare Act 2006.</p>
+    </to>
+    <conditions/>
+  </annotation>
+</annotations>

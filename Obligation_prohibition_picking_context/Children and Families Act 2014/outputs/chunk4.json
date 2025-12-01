@@ -1,0 +1,240 @@
+[
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+        "type": "PROHIBITED",
+        "for": "any person aged 18 or over",
+        "to": "buy or attempts to buy tobacco , cigarette papers or a relevant nicotine product on behalf of an individual aged under 18 commits an offence.",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "(a) the person had no reason to suspect that the individual concerned was aged under 18, or (b) in a case where the person has bought or attempted to buy cigarette papers, the person had no reason to suspect that the individual concerned intended to use the papers for smoking.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/91"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+        "type": "OBLIGATORY",
+        "for": "local weights and measures authority in England and Wales",
+        "to": "enforce the provisions of this section in its area.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+        "type": "PERMITTED",
+        "for": "The Secretary of State",
+        "to": "by regulations make provision prohibiting the sale of nicotine products to persons aged under 18.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+        "type": "PERMITTED",
+        "for": "The Secretary of State",
+        "to": "by regulations — (a) amend section 91 (purchase of tobacco etc on behalf of persons under 18) so as to apply it (with or without modifications) in relation to nicotine products, or (b) provide for that section to apply (with or without modifications) in relation to nicotine products.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+        "type": "PERMITTED",
+        "for": "Regulations under this section",
+        "to": "make provision in relation to — (a) all nicotine products, (b) nicotine products of a specified kind, or (c) nicotine products subject to specified exceptions.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+        "type": "OBLIGATORY",
+        "for": "the Secretary of State",
+        "to": "obtain Welsh Ministers' consent",
+        "conditions": [
+            {
+                "type": "BEFORE",
+                "text": "making regulations under this section which would (if contained in an Act of the National Assembly for Wales) be within the legislative competence of that Assembly.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/93",
+        "type": "PERMITTED",
+        "for": "The Secretary of State",
+        "to": "by regulations make provision amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (whenever passed or made) in connection with provision made by or under section 92.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "make regulations under subsection (6) or (8)",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "the Secretary of State considers that the regulations may contribute at any time to reducing the risk of harm to, or promoting, the health or welfare of people under the age of 18.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "treat regulations under subsection (6) or (8) as capable of contributing to reducing the risk of harm to, or promoting, the health or welfare of people under the age of 18 if the Secretary of State considers that— (a) at least some of the provisions of the regulations are capable of having that effect, or (b) the regulations are capable of having that effect when taken together with other regulations that were previously made under subsection (6) or (8) and are in force.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations make provision about the retail packaging of tobacco products.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "Regulations under subsection (6)",
+        "to": "in particular impose prohibitions, requirements or limitations relating to— (a) the markings on the retail packaging of tobacco products (including the use of branding, trademarks or logos); (b) the appearance of such packaging; (c) the materials used for such packaging; (d) the texture of such packaging; (e) the size of such packaging; (f) the shape of such packaging; (g) the means by which such packaging is opened; (h) any other features of the retail packaging of tobacco products which could be used to distinguish between different brands of tobacco product; (i) the number of individual tobacco products contained in an individual packet; (j) the quantity of a tobacco product contained in an individual packet.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations make provision imposing prohibitions, requirements or limitations relating to— (a) the markings on tobacco products (including the use of branding, trademarks or logos); (b) the appearance of such products; (c) the size of such products; (d) the shape of such products; (e) the flavour of such products; (f) any other features of tobacco products which could be used to distinguish between different brands of tobacco product.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations— (a) create offences which may be committed by persons who produce or supply tobacco products the retail packaging of which breaches prohibitions, requirements or limitations imposed by regulations under subsection (6); (b) create offences which may be committed by persons who produce or supply tobacco products which breach prohibitions, requirements or limitations imposed by regulations under subsection (8); (c) provide for exceptions and defences to such offences; (d) make provision about the liability of others to be convicted of such offences if committed by a body corporate or a Scottish partnership.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations— (a) provide that regulations under subsection (6) or (8) are to be treated for the purposes specified in regulations under this subsection as safety regulations within the meaning of the Consumer Protection Act 1987; (b) make provision for the appropriate minister to direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local weights and measures authority in Great Britain or a district council in Northern Ireland by virtue of provision under paragraph (a) is to be discharged instead by the appropriate minister.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "PERMITTED",
+        "for": "the Secretary of State",
+        "to": "by regulations make provision amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (whenever passed or made) in connection with provision made by regulations under any of subsections (6), (8), (9) or (10).",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/94",
+        "type": "OBLIGATORY",
+        "for": "the Secretary of State",
+        "to": "— (a) obtain the consent of the Scottish Ministers before making regulations under any of subsections (6), (8), (9) or (10) containing provision which would (if contained in an Act of the Scottish Parliament) be within the legislative competence of that Parliament; (b) obtain the consent of the Welsh Ministers before making regulations under any of those subsections containing provision which would (if contained in an Act of the National Assembly for Wales) be within the legislative competence of that Assembly; (c) obtain the consent of the Office of the First Minister and deputy First Minister in Northern Ireland before making regulations under any of those subsections containing provision which would (if contained in an Act of the Northern Ireland Assembly) be within the legislative competence of that Assembly.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/92",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100",
+        "type": "OBLIGATORY",
+        "for": "The appropriate authority for a school to which this section applies",
+        "to": "make arrangements for supporting pupils at the school with medical conditions.",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this is done in relation to a pupil who is a young child for the purposes of Part 3 of the Childcare Act 2006 (regulation of provision of childcare in England).",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100"
+            }
+        ],
+        "_alt_section_urls": []
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100",
+        "type": "OBLIGATORY",
+        "for": "the appropriate authority for a school to which this section applies",
+        "to": "make arrangements for supporting pupils at the school with medical conditions",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "this is done in relation to a pupil who is a young child for the purposes of Part 3 of the Childcare Act 2006 (regulation of provision of childcare in England).",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100"
+            }
+        ],
+        "_alt_section_urls": []
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100",
+        "type": "OBLIGATORY",
+        "for": "the appropriate authority",
+        "to": "have regard to guidance issued by the Secretary of State",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "meeting the duty in subsection (1).",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/100"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/93",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/91"
+        ]
+    }
+]

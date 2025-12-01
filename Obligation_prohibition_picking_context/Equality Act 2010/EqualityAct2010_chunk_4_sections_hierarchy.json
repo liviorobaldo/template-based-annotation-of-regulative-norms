@@ -1,0 +1,553 @@
+{
+  "parts": {
+    "part-4": {
+      "number": "Part 4",
+      "title": "Premises",
+      "sections": {
+        "section-32": {
+          "number": "32",
+          "title": "Application of this Part",
+          "subsections": {
+            "section-32-1": {
+              "number": "(1)",
+              "content": "This Part does not apply to the following protected characteristics—",
+              "subitems": {
+                "section-32-1-a": {
+                  "number": "(a)",
+                  "content": "age;"
+                },
+                "section-32-1-b": {
+                  "number": "(b)",
+                  "content": "marriage and civil partnership."
+                }
+              }
+            },
+            "section-32-2": {
+              "number": "(2)",
+              "content": "This Part does not apply to discrimination, harassment or victimisation—",
+              "subitems": {
+                "section-32-2-a": {
+                  "number": "(a)",
+                  "content": "that is prohibited by Part 5 (work) or Part 6 (education), or"
+                },
+                "section-32-2-b": {
+                  "number": "(b)",
+                  "content": "that would be so prohibited but for an express exception."
+                }
+              }
+            },
+            "section-32-3": {
+              "number": "(3)",
+              "content": "This Part does not apply to the provision of accommodation if the provision—",
+              "subitems": {
+                "section-32-3-a": {
+                  "number": "(a)",
+                  "content": "is generally for the purpose of short stays by individuals who live elsewhere, or"
+                },
+                "section-32-3-b": {
+                  "number": "(b)",
+                  "content": "is for the purpose only of exercising a public function or providing a service to the public or a section of the public."
+                }
+              }
+            },
+            "section-32-4": {
+              "number": "(4)",
+              "content": "The reference to the exercise of a public function, and the reference to the provision of a service, are to be construed in accordance with Part 3."
+            },
+            "section-32-5": {
+              "number": "(5)",
+              "content": "This Part does not apply to—",
+              "subitems": {
+                "section-32-5-a": {
+                  "number": "(a)",
+                  "content": "a breach of an equality clause or rule;"
+                },
+                "section-32-5-b": {
+                  "number": "(b)",
+                  "content": "anything that would be a breach of an equality clause or rule but for section 69 or Part 2 of Schedule 7;"
+                },
+                "section-32-5-c": {
+                  "number": "(c)",
+                  "content": "a breach of a non-discrimination rule."
+                }
+              }
+            }
+          }
+        },
+        "section-33": {
+          "number": "33",
+          "title": "Disposals, etc.",
+          "subsections": {
+            "section-33-1": {
+              "number": "(1)",
+              "content": "A person (A) who has the right to dispose of premises must not discriminate against another (B)—",
+              "subitems": {
+                "section-33-1-a": {
+                  "number": "(a)",
+                  "content": "as to the terms on which A offers to dispose of the premises to B;"
+                },
+                "section-33-1-b": {
+                  "number": "(b)",
+                  "content": "by not disposing of the premises to B;"
+                },
+                "section-33-1-c": {
+                  "number": "(c)",
+                  "content": "in A's treatment of B with respect to things done in relation to persons seeking premises."
+                }
+              }
+            },
+            "section-33-2": {
+              "number": "(2)",
+              "content": "Where an interest in a commonhold unit cannot be disposed of unless a particular person is a party to the disposal, that person must not discriminate against a person by not being a party to the disposal."
+            },
+            "section-33-3": {
+              "number": "(3)",
+              "content": "A person who has the right to dispose of premises must not, in connection with anything done in relation to their occupation or disposal, harass—",
+              "subitems": {
+                "section-33-3-a": {
+                  "number": "(a)",
+                  "content": "a person who occupies them;"
+                },
+                "section-33-3-b": {
+                  "number": "(b)",
+                  "content": "a person who applies for them."
+                }
+              }
+            },
+            "section-33-4": {
+              "number": "(4)",
+              "content": "A person (A) who has the right to dispose of premises must not victimise another (B)—",
+              "subitems": {
+                "section-33-4-a": {
+                  "number": "(a)",
+                  "content": "as to the terms on which A offers to dispose of the premises to B;"
+                },
+                "section-33-4-b": {
+                  "number": "(b)",
+                  "content": "by not disposing of the premises to B;"
+                },
+                "section-33-4-c": {
+                  "number": "(c)",
+                  "content": "in A's treatment of B with respect to things done in relation to persons seeking premises."
+                }
+              }
+            },
+            "section-33-5": {
+              "number": "(5)",
+              "content": "Where an interest in a commonhold unit cannot be disposed of unless a particular person is a party to the disposal, that person must not victimise a person by not being a party to the disposal."
+            },
+            "section-33-6": {
+              "number": "(6)",
+              "content": "In the application of section 26 for the purposes of subsection (3), neither of the following is a relevant protected characteristic—",
+              "subitems": {
+                "section-33-6-a": {
+                  "number": "(a)",
+                  "content": "religion or belief;"
+                },
+                "section-33-6-b": {
+                  "number": "(b)",
+                  "content": "sexual orientation."
+                }
+              }
+            }
+          }
+        },
+        "section-34": {
+          "number": "34",
+          "title": "Permission for disposal",
+          "subsections": {
+            "section-34-1": {
+              "number": "(1)",
+              "content": "A person whose permission is required for the disposal of premises must not discriminate against another by not giving permission for the disposal of the premises to the other."
+            },
+            "section-34-2": {
+              "number": "(2)",
+              "content": "A person whose permission is required for the disposal of premises must not, in relation to an application for permission to dispose of the premises, harass a person—",
+              "subitems": {
+                "section-34-2-a": {
+                  "number": "(a)",
+                  "content": "who applies for permission to dispose of the premises, or"
+                },
+                "section-34-2-b": {
+                  "number": "(b)",
+                  "content": "to whom the disposal would be made if permission were given."
+                }
+              }
+            },
+            "section-34-3": {
+              "number": "(3)",
+              "content": "A person whose permission is required for the disposal of premises must not victimise another by not giving permission for the disposal of the premises to the other."
+            },
+            "section-34-4": {
+              "number": "(4)",
+              "content": "In the application of section 26 for the purposes of subsection (2), neither of the following is a relevant protected characteristic—",
+              "subitems": {
+                "section-34-4-a": {
+                  "number": "(a)",
+                  "content": "religion or belief;"
+                },
+                "section-34-4-b": {
+                  "number": "(b)",
+                  "content": "sexual orientation."
+                }
+              }
+            },
+            "section-34-5": {
+              "number": "(5)",
+              "content": "This section does not apply to anything done in the exercise of a judicial function."
+            }
+          }
+        },
+        "section-35": {
+          "number": "35",
+          "title": "Management",
+          "subsections": {
+            "section-35-1": {
+              "number": "(1)",
+              "content": "A person (A) who manages premises must not discriminate against a person (B) who occupies the premises—",
+              "subitems": {
+                "section-35-1-a": {
+                  "number": "(a)",
+                  "content": "in the way in which A allows B, or by not allowing B, to make use of a benefit or facility;"
+                },
+                "section-35-1-b": {
+                  "number": "(b)",
+                  "content": "by evicting B (or taking steps for the purpose of securing B's eviction);"
+                },
+                "section-35-1-c": {
+                  "number": "(c)",
+                  "content": "by subjecting B to any other detriment."
+                }
+              }
+            },
+            "section-35-2": {
+              "number": "(2)",
+              "content": "A person who manages premises must not, in relation to their management, harass—",
+              "subitems": {
+                "section-35-2-a": {
+                  "number": "(a)",
+                  "content": "a person who occupies them;"
+                },
+                "section-35-2-b": {
+                  "number": "(b)",
+                  "content": "a person who applies for them."
+                }
+              }
+            },
+            "section-35-3": {
+              "number": "(3)",
+              "content": "A person (A) who manages premises must not victimise a person (B) who occupies the premises—",
+              "subitems": {
+                "section-35-3-a": {
+                  "number": "(a)",
+                  "content": "in the way in which A allows B, or by not allowing B, to make use of a benefit or facility;"
+                },
+                "section-35-3-b": {
+                  "number": "(b)",
+                  "content": "by evicting B (or taking steps for the purpose of securing B's eviction);"
+                },
+                "section-35-3-c": {
+                  "number": "(c)",
+                  "content": "by subjecting B to any other detriment."
+                }
+              }
+            },
+            "section-35-4": {
+              "number": "(4)",
+              "content": "In the application of section 26 for the purposes of subsection (2), neither of the following is a relevant protected characteristic—",
+              "subitems": {
+                "section-35-4-a": {
+                  "number": "(a)",
+                  "content": "religion or belief;"
+                },
+                "section-35-4-b": {
+                  "number": "(b)",
+                  "content": "sexual orientation."
+                }
+              }
+            }
+          }
+        },
+        "section-36": {
+          "number": "36",
+          "title": "Leasehold and commonhold premises and common parts",
+          "subsections": {
+            "section-36-1": {
+              "number": "(1)",
+              "content": "A duty to make reasonable adjustments applies to—",
+              "subitems": {
+                "section-36-1-a": {
+                  "number": "(a)",
+                  "content": "a controller of let premises;"
+                },
+                "section-36-1-b": {
+                  "number": "(b)",
+                  "content": "a controller of premises to let;"
+                },
+                "section-36-1-c": {
+                  "number": "(c)",
+                  "content": "a commonhold association;"
+                },
+                "section-36-1-d": {
+                  "number": "(d)",
+                  "content": "a responsible person in relation to common parts."
+                }
+              }
+            },
+            "section-36-2": {
+              "number": "(2)",
+              "content": "A controller of let premises is—",
+              "subitems": {
+                "section-36-2-a": {
+                  "number": "(a)",
+                  "content": "a person by whom premises are let, or"
+                },
+                "section-36-2-b": {
+                  "number": "(b)",
+                  "content": "a person who manages them."
+                }
+              }
+            },
+            "section-36-3": {
+              "number": "(3)",
+              "content": "A controller of premises to let is—",
+              "subitems": {
+                "section-36-3-a": {
+                  "number": "(a)",
+                  "content": "a person who has premises to let, or"
+                },
+                "section-36-3-b": {
+                  "number": "(b)",
+                  "content": "a person who manages them."
+                }
+              }
+            },
+            "section-36-4": {
+              "number": "(4)",
+              "content": "The reference in subsection (1)(c) to a commonhold association is a reference to the association in its capacity as the person who manages a commonhold unit."
+            },
+            "section-36-5": {
+              "number": "(5)",
+              "content": "A responsible person in relation to common parts is—",
+              "subitems": {
+                "section-36-5-a": {
+                  "number": "(a)",
+                  "content": "where the premises to which the common parts relate are let (and are not part of commonhold land or in Scotland), a person by whom the premises are let;"
+                },
+                "section-36-5-b": {
+                  "number": "(b)",
+                  "content": "where the premises to which the common parts relate are part of commonhold land, the commonhold association."
+                }
+              }
+            },
+            "section-36-6": {
+              "number": "(6)",
+              "content": "Common parts are—",
+              "subitems": {
+                "section-36-6-a": {
+                  "number": "(a)",
+                  "content": "in relation to let premises (which are not part of commonhold land or in Scotland), the structure and exterior of, and any common facilities within or used in connection with, the building or part of a building which includes the premises;"
+                },
+                "section-36-6-b": {
+                  "number": "(b)",
+                  "content": "in relation to commonhold land, every part of the commonhold which is not for the time being a commonhold unit in accordance with the commonhold community statement."
+                }
+              }
+            },
+            "section-36-7": {
+              "number": "(7)",
+              "content": "A reference to letting includes a reference to sub-letting; and for the purposes of subsection (1)(a) and (b), a reference to let premises includes premises subject to a right to occupy."
+            },
+            "section-36-8": {
+              "number": "(8)",
+              "content": "This section does not apply to premises of such description as may be prescribed."
+            }
+          }
+        },
+        "section-37": {
+          "number": "37",
+          "title": "Adjustments to common parts in Scotland",
+          "subsections": {
+            "section-37-1": {
+              "number": "(1)",
+              "content": "The Scottish Ministers may by regulations provide that a disabled person is entitled to make relevant adjustments to common parts in relation to premises in Scotland."
+            },
+            "section-37-2": {
+              "number": "(2)",
+              "content": "The reference in subsection (1) to a disabled person is a reference to a disabled person who—",
+              "subitems": {
+                "section-37-2-a": {
+                  "number": "(a)",
+                  "content": "is a tenant of the premises,"
+                },
+                "section-37-2-b": {
+                  "number": "(b)",
+                  "content": "is an owner of the premises, or"
+                },
+                "section-37-2-c": {
+                  "number": "(c)",
+                  "content": "is otherwise entitled to occupy the premises,"
+                }
+              },
+              "additional_content": "and uses or intends to use the premises as the person's only or main home."
+            },
+            "section-37-3": {
+              "number": "(3)",
+              "content": "Before making regulations under subsection (1), the Scottish Ministers must consult a Minister of the Crown."
+            },
+            "section-37-4": {
+              "number": "(4)",
+              "content": "Regulations under subsection (1) may, in particular—",
+              "subitems": {
+                "section-37-4-a": {
+                  "number": "(a)",
+                  "content": "prescribe things which are, or which are not, to be treated as relevant adjustments;"
+                },
+                "section-37-4-b": {
+                  "number": "(b)",
+                  "content": "prescribe circumstances in which the consent of an owner of the common parts is required before a disabled person may make an adjustment;"
+                },
+                "section-37-4-c": {
+                  "number": "(c)",
+                  "content": "provide that the consent to adjustments is not to be withheld unreasonably;"
+                },
+                "section-37-4-d": {
+                  "number": "(d)",
+                  "content": "prescribe matters to be taken into account, or to be disregarded, in deciding whether it is reasonable to consent to adjustments;"
+                },
+                "section-37-4-e": {
+                  "number": "(e)",
+                  "content": "prescribe circumstances in which consent to adjustments is to be taken to be withheld;"
+                },
+                "section-37-4-f": {
+                  "number": "(f)",
+                  "content": "make provision about the imposition of conditions on consent to adjustments;"
+                },
+                "section-37-4-g": {
+                  "number": "(g)",
+                  "content": "make provision as to circumstances in which the sheriff may make an order authorising a disabled person to carry out adjustments;"
+                },
+                "section-37-4-h": {
+                  "number": "(h)",
+                  "content": "make provision about the responsibility for costs arising (directly or indirectly) from an adjustment;"
+                },
+                "section-37-4-i": {
+                  "number": "(i)",
+                  "content": "make provision about the reinstatement of the common parts to the condition they were in before an adjustment was made;"
+                },
+                "section-37-4-j": {
+                  "number": "(j)",
+                  "content": "make provision about the giving of notice to the owners of the common parts and other persons;"
+                },
+                "section-37-4-k": {
+                  "number": "(k)",
+                  "content": "make provision about agreements between a disabled person and an owner of the common parts;"
+                },
+                "section-37-4-l": {
+                  "number": "(l)",
+                  "content": "make provision about the registration of information in the Land Register of Scotland or the recording of documents in the Register of Sasines relating to an entitlement of a disabled person or an obligation on an owner of the common parts;"
+                },
+                "section-37-4-m": {
+                  "number": "(m)",
+                  "content": "make provision about the effect of such registration or recording;"
+                },
+                "section-37-4-n": {
+                  "number": "(n)",
+                  "content": "make provision about who is to be treated as being, or as not being, a person entitled to occupy premises otherwise than as tenant or owner."
+                }
+              }
+            },
+            "section-37-5": {
+              "number": "(5)",
+              "content": "In this section—",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    "“ common parts ” means, in relation to premises, the structure and exterior of, and any common facilities within or used in connection with, the building or part of a building which includes the premises but only in so far as the structure, exterior and common facilities are not solely owned by the owner of the premises;",
+                    "“ relevant adjustments ” means, in relation to a disabled person, alterations or additions which are likely to avoid a substantial disadvantage to which the disabled person is put in using the common parts in comparison with persons who are not disabled."
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "section-38": {
+          "number": "38",
+          "title": "Interpretation and exceptions",
+          "subsections": {
+            "section-38-1": {
+              "number": "(1)",
+              "content": "This section applies for the purposes of this Part."
+            },
+            "section-38-2": {
+              "number": "(2)",
+              "content": "A reference to premises is a reference to the whole or part of the premises."
+            },
+            "section-38-3": {
+              "number": "(3)",
+              "content": "A reference to disposing of premises includes, in the case of premises subject to a tenancy, a reference to—",
+              "subitems": {
+                "section-38-3-a": {
+                  "number": "(a)",
+                  "content": "assigning the premises,"
+                },
+                "section-38-3-b": {
+                  "number": "(b)",
+                  "content": "sub-letting them, or"
+                },
+                "section-38-3-c": {
+                  "number": "(c)",
+                  "content": "parting with possession of them."
+                }
+              }
+            },
+            "section-38-4": {
+              "number": "(4)",
+              "content": "A reference to disposing of premises also includes a reference to granting a right to occupy them."
+            },
+            "section-38-5": {
+              "number": "(5)",
+              "content": "A reference to disposing of an interest in a commonhold unit includes a reference to creating an interest in a commonhold unit."
+            },
+            "section-38-6": {
+              "number": "(6)",
+              "content": "A reference to a tenancy is to a tenancy created (whether before or after the passing of this Act)—",
+              "subitems": {
+                "section-38-6-a": {
+                  "number": "(a)",
+                  "content": "by a lease or sub-lease,"
+                },
+                "section-38-6-b": {
+                  "number": "(b)",
+                  "content": "by an agreement for a lease or sub-lease,"
+                },
+                "section-38-6-c": {
+                  "number": "(c)",
+                  "content": "by a tenancy agreement, or"
+                },
+                "section-38-6-d": {
+                  "number": "(d)",
+                  "content": "in pursuance of an enactment,"
+                }
+              },
+              "additional_content": "and a reference to a tenant is to be construed accordingly."
+            },
+            "section-38-7": {
+              "number": "(7)",
+              "content": "A reference to commonhold land, a commonhold association, a commonhold community statement, a commonhold unit or a unit-holder is to be construed in accordance with the Commonhold and Leasehold Reform Act 2002."
+            },
+            "section-38-8": {
+              "number": "(8)",
+              "content": "Schedule 4 (reasonable adjustments) has effect."
+            },
+            "section-38-9": {
+              "number": "(9)",
+              "content": "Schedule 5 (exceptions) has effect."
+            }
+          }
+        }
+      }
+    }
+  }
+}

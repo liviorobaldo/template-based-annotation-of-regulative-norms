@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<annotations>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <type>PROHIBITED</type>
+    <for>
+      <p>any person aged 18 or over</p>
+    </for>
+    <to>
+      <p>buy or attempts to buy tobacco , cigarette papers or a relevant nicotine product on behalf of an individual aged under 18 commits an offence.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p/>
+        <ul>
+          <li>(a) the person had no reason to suspect that the individual concerned was aged under 18,</li>
+          <li>or (b) in a case where the person has bought or attempted to buy cigarette papers,</li>
+          <li>the person had no reason to suspect that the individual concerned intended to use the papers for smoking.</li>
+        </ul>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>local weights and measures authority in England and Wales</p>
+    </for>
+    <to>
+      <p>enforce the provisions of this section in its area.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/92</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations make provision prohibiting the sale of nicotine products to persons aged under 18.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/92</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations —</p>
+      <ul>
+        <li>(a) amend section 91 (purchase of tobacco etc on behalf of persons under 18) so as to apply it (with or without modifications) in relation to nicotine products,</li>
+        <li>or (b) provide for that section to apply (with or without modifications) in relation to nicotine products.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/92</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under this section</p>
+    </for>
+    <to>
+      <p>make provision in relation to —</p>
+      <ul>
+        <li>(a) all nicotine products,</li>
+        <li>(b) nicotine products of a specified kind,</li>
+        <li>or (c) nicotine products subject to specified exceptions.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/92</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>obtain Welsh Ministers' consent</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>BEFORE</type>
+        <p>making regulations under this section which would (if contained in an Act of the National Assembly for Wales) be within the legislative competence of that Assembly.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/92</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/93</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>The Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations make provision amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (whenever passed or made) in connection with provision made by or under section 92.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>make regulations under subsection (6) or (8)</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>the Secretary of State considers that the regulations may contribute at any time to reducing the risk of harm to, or promoting, the health or welfare of people under the age of 18.</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>treat regulations under subsection (6) or (8) as capable of contributing to reducing the risk of harm to, or promoting, the health or welfare of people under the age of 18 if the Secretary of State considers that—</p>
+      <ul>
+        <li>(a) at least some of the provisions of the regulations are capable of having that effect,</li>
+        <li>or (b) the regulations are capable of having that effect when taken together with other regulations that were previously made under subsection (6) or (8) and are in force.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations make provision about the retail packaging of tobacco products.</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>Regulations under subsection (6)</p>
+    </for>
+    <to>
+      <p>in particular impose prohibitions, requirements or limitations relating to—</p>
+      <ul>
+        <li>(a) the markings on the retail packaging of tobacco products (including the use of branding,</li>
+        <li>trademarks or logos);</li>
+        <li>(b) the appearance of such packaging;</li>
+        <li>(c) the materials used for such packaging;</li>
+        <li>(d) the texture of such packaging;</li>
+        <li>(e) the size of such packaging;</li>
+        <li>(f) the shape of such packaging;</li>
+        <li>(g) the means by which such packaging is opened;</li>
+        <li>(h) any other features of the retail packaging of tobacco products which could be used to distinguish between different brands of tobacco product;</li>
+        <li>(i) the number of individual tobacco products contained in an individual packet;</li>
+        <li>(j) the quantity of a tobacco product contained in an individual packet.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations make provision imposing prohibitions, requirements or limitations relating to—</p>
+      <ul>
+        <li>(a) the markings on tobacco products (including the use of branding,</li>
+        <li>trademarks or logos);</li>
+        <li>(b) the appearance of such products;</li>
+        <li>(c) the size of such products;</li>
+        <li>(d) the shape of such products;</li>
+        <li>(e) the flavour of such products;</li>
+        <li>(f) any other features of tobacco products which could be used to distinguish between different brands of tobacco product.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations—</p>
+      <ul>
+        <li>(a) create offences which may be committed by persons who produce or supply tobacco products the retail packaging of which breaches prohibitions,</li>
+        <li>requirements or limitations imposed by regulations under subsection (6);</li>
+        <li>(b) create offences which may be committed by persons who produce or supply tobacco products which breach prohibitions,</li>
+        <li>requirements or limitations imposed by regulations under subsection (8);</li>
+        <li>(c) provide for exceptions and defences to such offences;</li>
+        <li>(d) make provision about the liability of others to be convicted of such offences if committed by a body corporate or a Scottish partnership.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations—</p>
+      <ul>
+        <li>(a) provide that regulations under subsection (6) or (8) are to be treated for the purposes specified in regulations under this subsection as safety regulations within the meaning of the Consumer Protection Act 1987;</li>
+        <li>(b) make provision for the appropriate minister to direct,</li>
+        <li>in relation to cases of a particular description or a particular case,</li>
+        <li>that any duty imposed on a local weights and measures authority in Great Britain or a district council in Northern Ireland by virtue of provision under paragraph</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>PERMITTED</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>by regulations make provision amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (whenever passed or made) in connection with provision made by regulations under any of subsections (6), (8), (9) or (10).</p>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/94</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the Secretary of State</p>
+    </for>
+    <to>
+      <p>—</p>
+      <ul>
+        <li>(a) obtain the consent of the Scottish Ministers before making regulations under any of subsections (6),</li>
+        <li>(8),</li>
+        <li>(9) or (10) containing provision which would (if contained in an Act of the Scottish Parliament) be within the legislative competence of that Parliament;</li>
+        <li>(b) obtain the consent of the Welsh Ministers before making regulations under any of those subsections containing provision which would (if contained in an Act of the National Assembly for Wales) be within the legislative competence of that Assembly;</li>
+        <li>(c) obtain the consent of the Office of the First Minister and deputy First Minister in Northern Ireland before making regulations under any of those subsections containing provision which would (if contained in an Act of the Northern Ireland Assembly) be within the legislative competence of that Assembly.</li>
+      </ul>
+    </to>
+    <conditions/>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>The appropriate authority for a school to which this section applies</p>
+    </for>
+    <to>
+      <p>make arrangements for supporting pupils at the school with medical conditions.</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this is done in relation to a pupil who is a young child for the purposes of Part 3 of the Childcare Act 2006 (regulation of provision of childcare in England).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority for a school to which this section applies</p>
+    </for>
+    <to>
+      <p>make arrangements for supporting pupils at the school with medical conditions</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>UNLESS</type>
+        <p>this is done in relation to a pupil who is a young child for the purposes of Part 3 of the Childcare Act 2006 (regulation of provision of childcare in England).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+      </condition>
+    </conditions>
+  </annotation>
+  <annotation>
+    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <type>OBLIGATORY</type>
+    <for>
+      <p>the appropriate authority</p>
+    </for>
+    <to>
+      <p>have regard to guidance issued by the Secretary of State</p>
+    </to>
+    <conditions>
+      <condition>
+        <type>WHEN/IF/WHERE</type>
+        <p>meeting the duty in subsection (1).</p>
+        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+      </condition>
+    </conditions>
+  </annotation>
+</annotations>
