@@ -1,0 +1,177 @@
+[
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/2",
+        "type": "OBLIGATORY",
+        "for": "the Articles set out in Schedule 1 to this Act (being Articles of the Vienna Convention on Diplomatic Relations signed in 1961)",
+        "to": "have the force of law in the United Kingdom",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "Section 3 of this Act",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/2"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/6",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/8"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/2",
+        "type": "OBLIGATORY",
+        "for": "the Articles set out in Schedule 1 to this Act (being Articles of the Vienna Convention on Diplomatic Relations signed in 1961)",
+        "to": "for that purpose, be construed in accordance with the following provisions of this section",
+        "conditions": [
+            {
+                "type": "SUBJECT TO",
+                "text": "Section 3 of this Act.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/2"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/1",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/6"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/3",
+        "type": "PERMITTED",
+        "for": "Her Majesty",
+        "to": "by an Order in Council, withdraw such of the privileges and immunities so conferred from the mission of that State or from such persons connected with it as appears to Her Majesty to be proper",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it appears to Her Majesty that the privileges and immunities accorded to a mission of Her Majesty in the territory of any State, or to persons connected with that mission, are less than those conferred by this Act on the mission of that State or on persons connected with that mission.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/3"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/7"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/3",
+        "type": "OBLIGATORY",
+        "for": "An Order in Council under this section",
+        "to": "be disregarded for the purposes of section 50(4) of the British Nationality Act 1981.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/3",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/8"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/6",
+        "type": "PROHIBITED",
+        "for": "a recommendation to make an Order under section 2 of this Act",
+        "to": "be made to Her Majesty in Council",
+        "conditions": [
+            {
+                "type": "UNLESS",
+                "text": "a draft thereof has been laid before Parliament and approved by resolution of each House of Parliament.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/6"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/6",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/3"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/6",
+        "type": "OBLIGATORY",
+        "for": "any statutory instrument containing an Order under section 3 of this Act",
+        "to": "be subject to annulment in pursuance of a resolution of either House of Parliament.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/8",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/2"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7",
+        "type": "OBLIGATORY",
+        "for": "(a) the immunity from jurisdiction and from arrest or detention, and the inviolablility of residence, as are conferred by this Act on a diplomatic agent; or",
+        "to": "extend to any class of person, or to articles for the personal use of any class of person, connected with the mission of that State, so long as that agreement or arrangement continues in force",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "any special agreement or arrangement between the Government of any State and the Government of the United Kingdom in force at the commencement of this Act provides for so extending that immunity and inviolability or exemption.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/7",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/3"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7",
+        "type": "OBLIGATORY",
+        "for": "the Secretary of State",
+        "to": "publish in the London, Edinburgh and Belfast Gazettes a notice specifying the States with which and the classes of person with respect to which such an agreement or arrangement as is mentioned in subsection (1) of this section is in force and whether its effect is as mentioned in paragraph (a) or paragraph (b) of that subsection.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/2",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/4"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7",
+        "type": "OBLIGATORY",
+        "for": "the Secretary of State",
+        "to": "amend the notice by a further such notice",
+        "conditions": [
+            {
+                "type": "WHEN/IF/WHERE",
+                "text": "it is necessary.",
+                "section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7"
+            }
+        ],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/2",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/4"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/7",
+        "type": "OBLIGATORY",
+        "for": "the notice",
+        "to": "be conclusive evidence of the agreement or arrangement and the classes of person with respect to which it is in force.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/4",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/7"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/8",
+        "type": "PERMITTED",
+        "for": "This Act",
+        "to": "be cited as the Diplomatic Privileges Act 1964.",
+        "conditions": [],
+        "_alt_section_urls": []
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/8",
+        "type": "OBLIGATORY",
+        "for": "This Act",
+        "to": "come into force on such day as Her Majesty may by Order in Council appoint.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/3",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/2"
+        ]
+    },
+    {
+        "main_section": "https://www.legislation.gov.uk/ukpga/2014/6/section/8",
+        "type": "OBLIGATORY",
+        "for": "Any Order in Council under the Diplomatic Immunities Restriction Act 1955 which is in force immediately before the commencement of this Act",
+        "to": "so far as it could have been made under section 3 of this Act, have effect as if so made.",
+        "conditions": [],
+        "_alt_section_urls": [
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/6",
+            "https://www.legislation.gov.uk/ukpga/2014/6/section/2"
+        ]
+    }
+]
