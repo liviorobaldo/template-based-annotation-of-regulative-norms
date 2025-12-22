@@ -81,10 +81,8 @@ def run_cli(argv: Optional[Sequence[str]] = None) -> None:
 
 
 if __name__ == "__main__":
-    from conersion_for_verifier import run_cli
-
-run_cli([
-    "output/parsed_1989-41_part1_4o.json",
-    "--output", "output/annotation_for_verifier_1989-41_part1_4o.txt",
-    "--print",
-])
+    run_cli([
+        "output/parsed_1989-41_part1_4o.json",
+        "--output", "output/annotation_for_verifier_1989-41_part1_4o.txt",
+        "--print",
+    ])

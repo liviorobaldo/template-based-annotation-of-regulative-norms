@@ -1,0 +1,79 @@
+[
+  {
+    "main_section": "section-11H",
+    "type": "OBLIGATORY",
+    "for": "officer of the Service or Welsh family proceedings officer",
+    "to": "comply with any request under subsection (2)",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11H",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "specify the period for which the officer of the Service or Welsh family proceedings officer is to monitor compliance with the order",
+    "conditions": [
+      {
+        "type": "SUBJECT TO",
+        "text": "the period specified may not exceed twelve months",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11H",
+    "type": "OBLIGATORY",
+    "for": "individual falling within subsection (3)",
+    "to": "take such steps as may be specified in the order",
+    "conditions": [
+      {
+        "type": "SUBJECT TO",
+        "text": "with a view to enabling the officer of the Service or Welsh family proceedings officer to comply with the court's request under subsection (2)",
+        "section": null
+      },
+      {
+        "type": "UNLESS",
+        "text": "the individual is a child unless he is a parent of the child with respect to whom the order falling within subsection (1) was made",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11H",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make a request under subsection (2) in relation to a child arrangements order that is an excepted order",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11H",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make a request under subsection (2)",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "on making the child arrangements order (or the order varying the child arrangements order)",
+        "section": null
+      },
+      {
+        "type": "OR",
+        "text": "at any time during the subsequent course of the proceedings as they relate to contact with the child concerned or to the child's living arrangements",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11H",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "ask an officer of the Service or a Welsh family proceedings officer to monitor whether an individual falling within subsection (3) complies with each provision of any of those kinds that is contained in the child arrangements order",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11H",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "report to the court on such matters relating to the individual's compliance as the court may specify in the request",
+    "conditions": []
+  }
+]

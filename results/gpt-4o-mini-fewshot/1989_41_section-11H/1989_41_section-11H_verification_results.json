@@ -1,0 +1,39 @@
+{
+  "exactly_identical": [],
+  "reasonably_equal": [],
+  "same_meaning_substantial_paraphrase": [],
+  "same_norm_different_meaning": [
+    {
+      "pair_id": "0-0",
+      "annotation": "IT IS OBLIGATORY\nFOR the officer of the Service or Welsh family proceedings officer\nTO comply with any request under subsection (2)",
+      "groundtruth": "IT IS PERMITTED\nFOR a court\nTO order any individual falling within subsection (3) to take such steps as may be specified in the order with a view to enabling the officer of the Service or Welsh family proceedings officer to comply with the court's request under subsection (2).",
+      "annotation_index": 0,
+      "groundtruth_index": 0,
+      "llm_category": "same_norm_different_meaning"
+    },
+    {
+      "pair_id": "2-1",
+      "annotation": "IT IS OBLIGATORY\nFOR the court\nTO specify the period for which the officer of the Service or Welsh family proceedings officer is to monitor compliance with the order\nWHEN/IF/WHERE making a request under subsection (2) [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11H]",
+      "groundtruth": "IT IS PROHIBITED\nFOR a court\nTO make an order under subsection (8) with respect to an individual who is a child\nUNLESS he is a parent of the child with respect to whom the order falling within subsection (1) was made. [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11H]",
+      "annotation_index": 2,
+      "groundtruth_index": 1,
+      "llm_category": "same_norm_different_meaning"
+    }
+  ],
+  "only_in_annotations": [
+    {
+      "annotation": "IT IS PERMITTED\nFOR the court\nTO ask an officer of the Service or a Welsh family proceedings officer to monitor compliance\nWHEN/IF/WHERE the court makes a child arrangements order containing provision of a kind mentioned in section 11C(1)(a)(i), (ii) or (iii), or an order varying a child arrangements order [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11H]",
+      "annotation_index": 1
+    },
+    {
+      "annotation": "IT IS PROHIBITED\nFOR the court\nTO make an order under subsection (8) with respect to an individual who is a child\nUNLESS he is a parent of the child with respect to whom the order falling within subsection (1) was made [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11H]",
+      "annotation_index": 3
+    }
+  ],
+  "only_in_groundtruth": [
+    {
+      "groundtruth": "IT IS PROHIBITED\nFOR a court\nTO make a request under subsection (2) in relation to a child arrangements order that is an excepted order (within the meaning given by section 11B(4)).",
+      "groundtruth_index": 2
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "gpt-4o": {
+    "total_sections": 10,
+    "exactly_identical": 11,
+    "exactly_identical_pct": "9.24%",
+    "reasonably_equal": 5,
+    "reasonably_equal_pct": "4.2%",
+    "same_meaning_substantial_paraphrase": 8,
+    "same_meaning_substantial_paraphrase_pct": "6.72%",
+    "same_norm_different_meaning": 11,
+    "same_norm_different_meaning_pct": "9.24%",
+    "only_in_annotations": 31,
+    "only_in_annotations_pct": "26.05%",
+    "only_in_groundtruth": 18,
+    "only_in_groundtruth_pct": "15.13%",
+    "total_matched": 35,
+    "total_annotations": 66,
+    "total_groundtruth": 53,
+    "unified_total": 119,
+    "sections": {
+      "1989_41_section-10": {
+        "exactly_identical": 0,
+        "reasonably_equal": 3,
+        "same_meaning_substantial_paraphrase": 2,
+        "same_norm_different_meaning": 2,
+        "only_in_annotations": 7,
+        "only_in_groundtruth": 5
+      },
+      "1989_41_section-11D": {
+        "exactly_identical": 2,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 2,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 1,
+        "only_in_groundtruth": 0
+      },
+      "1989_41_section-11": {
+        "exactly_identical": 1,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 8,
+        "only_in_groundtruth": 2
+      },
+      "1989_41_section-11E": {
+        "exactly_identical": 3,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 0,
+        "only_in_groundtruth": 0
+      },
+      "1989_41_section-1": {
+        "exactly_identical": 2,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 2,
+        "only_in_groundtruth": 2
+      },
+      "1989_41_section-11I": {
+        "exactly_identical": 0,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 0,
+        "only_in_groundtruth": 0
+      },
+      "1989_41_section-11G": {
+        "exactly_identical": 1,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 1,
+        "only_in_annotations": 1,
+        "only_in_groundtruth": 4
+      },
+      "1989_41_section-11F": {
+        "exactly_identical": 0,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 2,
+        "only_in_annotations": 6,
+        "only_in_groundtruth": 2
+      },
+      "1989_41_section-11A": {
+        "exactly_identical": 1,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 4,
+        "only_in_annotations": 3,
+        "only_in_groundtruth": 3
+      },
+      "1989_41_section-11H": {
+        "exactly_identical": 1,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 2,
+        "only_in_annotations": 3,
+        "only_in_groundtruth": 0
+      }
+    }
+  },
+  "gpt-4o-mini": {
+    "total_sections": 10,
+    "exactly_identical": 8,
+    "exactly_identical_pct": "6.02%",
+    "reasonably_equal": 7,
+    "reasonably_equal_pct": "5.26%",
+    "same_meaning_substantial_paraphrase": 4,
+    "same_meaning_substantial_paraphrase_pct": "3.01%",
+    "same_norm_different_meaning": 14,
+    "same_norm_different_meaning_pct": "10.53%",
+    "only_in_annotations": 47,
+    "only_in_annotations_pct": "35.34%",
+    "only_in_groundtruth": 20,
+    "only_in_groundtruth_pct": "15.04%",
+    "total_matched": 33,
+    "total_annotations": 80,
+    "total_groundtruth": 53,
+    "unified_total": 133,
+    "sections": {
+      "1989_41_section-10": {
+        "exactly_identical": 1,
+        "reasonably_equal": 3,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 4,
+        "only_in_annotations": 13,
+        "only_in_groundtruth": 3
+      },
+      "1989_41_section-11D": {
+        "exactly_identical": 1,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 1,
+        "only_in_annotations": 1,
+        "only_in_groundtruth": 1
+      },
+      "1989_41_section-11": {
+        "exactly_identical": 1,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 8,
+        "only_in_groundtruth": 2
+      },
+      "1989_41_section-11E": {
+        "exactly_identical": 2,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 1,
+        "only_in_annotations": 2,
+        "only_in_groundtruth": 1
+      },
+      "1989_41_section-1": {
+        "exactly_identical": 0,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 1,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 5,
+        "only_in_groundtruth": 4
+      },
+      "1989_41_section-11I": {
+        "exactly_identical": 0,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 0,
+        "only_in_annotations": 1,
+        "only_in_groundtruth": 1
+      },
+      "1989_41_section-11G": {
+        "exactly_identical": 1,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 1,
+        "only_in_annotations": 0,
+        "only_in_groundtruth": 3
+      },
+      "1989_41_section-11F": {
+        "exactly_identical": 0,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 2,
+        "only_in_annotations": 7,
+        "only_in_groundtruth": 1
+      },
+      "1989_41_section-11A": {
+        "exactly_identical": 1,
+        "reasonably_equal": 1,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 3,
+        "only_in_annotations": 6,
+        "only_in_groundtruth": 4
+      },
+      "1989_41_section-11H": {
+        "exactly_identical": 1,
+        "reasonably_equal": 0,
+        "same_meaning_substantial_paraphrase": 0,
+        "same_norm_different_meaning": 2,
+        "only_in_annotations": 4,
+        "only_in_groundtruth": 0
+      }
+    }
+  }
+}

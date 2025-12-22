@@ -1,0 +1,45 @@
+{
+  "exactly_identical": [],
+  "reasonably_equal": [
+    {
+      "pair_id": "0-0",
+      "annotation": "IT IS OBLIGATORY\nFOR the court\nTO satisfy itself as to the matters falling within subsections (2) to (4) before making an activity direction or imposing an activity condition",
+      "groundtruth": "IT IS OBLIGATORY\nFOR a court\nTO satisfy itself as to the matters falling within subsections (2) to (4)\nBEFORE Before making an activity direction (or imposing an activity condition by means of a child arrangements order). [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11E]",
+      "annotation_index": 0,
+      "groundtruth_index": 0,
+      "llm_category": "reasonably_equal"
+    }
+  ],
+  "same_meaning_substantial_paraphrase": [
+    {
+      "pair_id": "1-1",
+      "annotation": "IT IS OBLIGATORY\nFOR the court\nTO obtain and consider information about the individual who would be subject to the direction or the condition before making such a direction or order",
+      "groundtruth": "IT IS OBLIGATORY\nFOR a court\nTO obtain and consider information about the individual who would be subject to the direction (or the condition) and the likely effect of the direction (or the condition) on him\nBEFORE making such a direction (or such an order). [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11E]",
+      "annotation_index": 1,
+      "groundtruth_index": 1,
+      "llm_category": "same_meaning_substantial_paraphrase"
+    }
+  ],
+  "same_norm_different_meaning": [
+    {
+      "pair_id": "2-2",
+      "annotation": "IT IS OBLIGATORY\nFOR the officer of the Service or Welsh family proceedings officer\nTO comply with any request from the court to provide information as to the matters in subsections (2) to (5)",
+      "groundtruth": "IT IS PERMITTED\nFOR a court\nTO ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) to (5)",
+      "annotation_index": 2,
+      "groundtruth_index": 2,
+      "llm_category": "same_norm_different_meaning"
+    }
+  ],
+  "only_in_annotations": [
+    {
+      "annotation": "IT IS OBLIGATORY\nFOR the court\nTO consider information about any conflict with the individual's religious beliefs or any interference with the times at which he normally works or attends an educational establishment\nWHEN/IF/WHERE the likely effect of the direction or the condition is being assessed",
+      "annotation_index": 3
+    }
+  ],
+  "only_in_groundtruth": [
+    {
+      "groundtruth": "IT IS OBLIGATORY\nFOR the officer of the Service or Welsh family proceedings officer\nTO comply with any such request.",
+      "groundtruth_index": 3
+    }
+  ]
+}

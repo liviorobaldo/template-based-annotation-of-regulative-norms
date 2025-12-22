@@ -1,0 +1,1245 @@
+{
+  "parts": {
+    "part-II": {
+      "number": "Part II",
+      "title": "Orders With Respect To Children In Family Proceedings",
+      "sections": {
+        "section-8": {
+          "number": "8",
+          "title": "Child arrangements ordersand other orders with respect to children.",
+          "subsections": {
+            "section-8-1": {
+              "number": "(1)",
+              "content": "In this Act —",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    "\"child arrangements order \" means an order regulating arrangements relating to any of the following— (a) with whom a child is to live, spend time or otherwise have contact, and (b) when a child is to live, spend time or otherwise have contact with any person;",
+                    "...",
+                    "“ a prohibited steps order ” means an order that no step which could be taken by a parent in meeting his parental responsibility for a child, and which is of a kind specified in the order, shall be taken by any person without the consent of the court;",
+                    "...",
+                    "“ a specific issue order ” means an order giving directions for the purpose of determining a specific question which has arisen, or which may arise, in connection with any aspect of parental responsibility for a child."
+                  ]
+                }
+              ],
+              "references": []
+            },
+            "section-8-2": {
+              "number": "(2)",
+              "content": "In this Act “a section 8 order” means any of the orders mentioned in subsection (1) and any order varying or discharging such an order.",
+              "references": []
+            },
+            "section-8-3": {
+              "number": "(3)",
+              "content": "For the purposes of this Act “family proceedings” means any proceedings—",
+              "subitems": {
+                "section-8-3-a": {
+                  "number": "(a)",
+                  "content": "under the inherent jurisdiction of the High Court in relation to children; and",
+                  "references": []
+                },
+                "section-8-3-b": {
+                  "number": "(b)",
+                  "content": "under the enactments mentioned in subsection (4),",
+                  "references": []
+                }
+              },
+              "additional_content": "but does not include proceedings on an application for leave under section 100(3).",
+              "references": [],
+              "additional_content_references": [
+                {
+                  "section_number": 100,
+                  "act": "same act"
+                }
+              ]
+            },
+            "section-8-4": {
+              "number": "(4)",
+              "content": "The enactments are—",
+              "subitems": {
+                "section-8-4-a": {
+                  "number": "(a)",
+                  "content": "Parts I, II and IV of this Act;",
+                  "references": []
+                },
+                "section-8-4-b": {
+                  "number": "(b)",
+                  "content": "the Matrimonial Causes Act 1973;",
+                  "references": []
+                },
+                "section-8-4-ba": {
+                  "number": "(ba)",
+                  "content": "Schedule 5 to the Civil Partnership Act 2004;",
+                  "references": []
+                },
+                "section-8-4-c": {
+                  "number": "(c)",
+                  "content": "theDomestic Violence and Matrimonial Proceedings Act 1976;",
+                  "references": []
+                },
+                "section-8-4-d": {
+                  "number": "(d)",
+                  "content": "the Adoption and Children Act 2002;",
+                  "references": []
+                },
+                "section-8-4-e": {
+                  "number": "(e)",
+                  "content": "the Domestic Proceedings and Magistrates’ Courts Act 1978;",
+                  "references": []
+                },
+                "section-8-4-ea": {
+                  "number": "(ea)",
+                  "content": "Schedule 6 to the Civil Partnership Act 2004;",
+                  "references": []
+                },
+                "section-8-4-f": {
+                  "number": "(f)",
+                  "content": "sections 1 and 9 of theMatrimonial Homes Act 1983;",
+                  "references": [
+                    {
+                      "section_number": 1,
+                      "act": "theMatrimonial Homes Act 1983"
+                    },
+                    {
+                      "section_number": 9,
+                      "act": "theMatrimonial Homes Act 1983"
+                    },
+                    {
+                      "section_number": 1983,
+                      "act": "theMatrimonial Homes Act 1983"
+                    }
+                  ]
+                },
+                "section-8-4-g": {
+                  "number": "(g)",
+                  "content": "Part III of the Matrimonial and Family Proceedings Act 1984;",
+                  "references": []
+                },
+                "section-8-4-h": {
+                  "number": "(h)",
+                  "content": "the Family Law Act 1996;",
+                  "references": []
+                },
+                "section-8-4-i": {
+                  "number": "(i)",
+                  "content": "sections 11 and 12 of the Crime and Disorder Act 1998;",
+                  "references": [
+                    {
+                      "section_number": 11,
+                      "act": "Crime and Disorder Act 1998"
+                    },
+                    {
+                      "section_number": 12,
+                      "act": "Crime and Disorder Act 1998"
+                    },
+                    {
+                      "section_number": 1998,
+                      "act": "Crime and Disorder Act 1998"
+                    }
+                  ]
+                },
+                "section-8-4-j": {
+                  "number": "(j)",
+                  "content": "Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003 (other than paragraph 3 of that Schedule).",
+                  "references": []
+                },
+                "section-8-4-k": {
+                  "number": "(k)",
+                  "content": "Part 3 of the Domestic Abuse Act 2021, where the proceedings are in the family court or the Family Division of the High Court.",
+                  "references": []
+                }
+              },
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-9": {
+          "number": "9",
+          "title": "Restrictions on making section 8 orders.",
+          "subsections": {
+            "section-9-1": {
+              "number": "(1)",
+              "content": "No court shall make any section 8 order, other than achild arrangements order to which subsection (6B) applies, with respect to a child who is in the care of a local authority.",
+              "references": []
+            },
+            "section-9-2": {
+              "number": "(2)",
+              "content": "No application may be made by a local authority for achild arrangementsorder and no court shall make such an order in favour of a local authority.",
+              "references": []
+            },
+            "section-9-3": {
+              "number": "(3)",
+              "content": "A person who is, or was at any time within the last six months, a local authority foster parent of a child may not apply for leave to apply for a section 8 order with respect to the child unless—",
+              "subitems": {
+                "section-9-3-a": {
+                  "number": "(a)",
+                  "content": "he has the consent of the authority;",
+                  "references": []
+                },
+                "section-9-3-b": {
+                  "number": "(b)",
+                  "content": "he is a relative of the child; or",
+                  "references": []
+                },
+                "section-9-3-c": {
+                  "number": "(c)",
+                  "content": "the child has lived with him for at leastone yearpreceding the application.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-9-4": {
+              "number": "(4)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            },
+            "section-9-5": {
+              "number": "(5)",
+              "content": "No court shall exercise its powers to make a specific issue order or prohibited steps order—",
+              "subitems": {
+                "section-9-5-a": {
+                  "number": "(a)",
+                  "content": "with a view to achieving a result which could be achieved by making achild arrangementsorderor an order under section 51A of the Adoption and Children Act 2002 (post-adoption contact); or",
+                  "references": [
+                    {
+                      "section_number": "51A",
+                      "act": "Adoption and Children Act 2002"
+                    }
+                  ]
+                },
+                "section-9-5-b": {
+                  "number": "(b)",
+                  "content": "in any way which is denied to the High Court (by section 100(2)) in the exercise of its inherent jurisdiction with respect to children.",
+                  "references": [
+                    {
+                      "section_number": 100,
+                      "act": "same act"
+                    }
+                  ]
+                }
+              },
+              "references": []
+            },
+            "section-9-6": {
+              "number": "(6)",
+              "content": "No court shall make asection 8orderwhich will end after the child has reached the age of sixteen unless it is satisfied that the circumstances of the case are exceptional.",
+              "references": []
+            },
+            "section-9-6A": {
+              "number": "(6A)",
+              "content": "Subsection (6) does not apply to a child arrangements order to which subsection (6B) applies.",
+              "references": []
+            },
+            "section-9-6B": {
+              "number": "(6B)",
+              "content": "This subsection applies to a child arrangements order if the arrangements regulated by the order relate only to either or both of the following—",
+              "references": []
+            },
+            "section-9-7": {
+              "number": "(7)",
+              "content": "No court shall make any section 8 order, other than one varying or discharging such an order, with respect to a child who has reached the age of sixteen unless it is satisfied that the circumstances of the case are exceptional.",
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-10": {
+          "number": "10",
+          "title": "Power of court to make section 8 orders.",
+          "subsections": {
+            "section-10-1": {
+              "number": "(1)",
+              "content": "In any family proceedings in which a question arises with respect to the welfare of any child, the court may make a section 8 order with respect to the child if—",
+              "subitems": {
+                "section-10-1-a": {
+                  "number": "(a)",
+                  "content": "an application for the order has been made by a person who—",
+                  "references": []
+                },
+                "section-10-1-b": {
+                  "number": "(b)",
+                  "content": "the court considers that the order should be made even though no such application has been made.",
+                  "references": []
+                }
+              },
+              "additional_content": [
+                "is entitled to apply for a section 8 order with respect to the child; or",
+                "has obtained the leave of the court to make the application; or"
+              ],
+              "references": []
+            },
+            "section-10-2": {
+              "number": "(2)",
+              "content": "The court may also make a section 8 order with respect to any child on the application of a person who—",
+              "subitems": {
+                "section-10-2-a": {
+                  "number": "(a)",
+                  "content": "is entitled to apply for a section 8 order with respect to the child; or",
+                  "references": []
+                },
+                "section-10-2-b": {
+                  "number": "(b)",
+                  "content": "has obtained the leave of the court to make the application.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-10-3": {
+              "number": "(3)",
+              "content": "This section is subject to the restrictions imposed by section 9.",
+              "references": [
+                {
+                  "section_number": 9,
+                  "act": "same act"
+                }
+              ]
+            },
+            "section-10-4": {
+              "number": "(4)",
+              "content": "The following persons are entitled to apply to the court for any section 8 order with respect to a child—",
+              "subitems": {
+                "section-10-4-a": {
+                  "number": "(a)",
+                  "content": "any parent, guardian or special guardianof the child;",
+                  "references": []
+                },
+                "section-10-4-aa": {
+                  "number": "(aa)",
+                  "content": "any person who by virtue of section 4A has parental responsibility for the child;",
+                  "references": []
+                },
+                "section-10-4-b": {
+                  "number": "(b)",
+                  "content": "any person who is named, in a child arrangements order that is in force with respect to the child, as a person with whom the child is to live.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-10-5": {
+              "number": "(5)",
+              "content": "The following persons are entitled to apply for achild arrangementsorder with respect to a child—",
+              "subitems": {
+                "section-10-5-a": {
+                  "number": "(a)",
+                  "content": "any party to a marriage (whether or not subsisting) in relation to whom the child is a child of the family;",
+                  "references": []
+                },
+                "section-10-5-aa": {
+                  "number": "(aa)",
+                  "content": "any civil partner in a civil partnership (whether or not subsisting) in relation to whom the child is a child of the family;",
+                  "references": []
+                },
+                "section-10-5-b": {
+                  "number": "(b)",
+                  "content": "any person with whom the child has lived for a period of at least three years;",
+                  "references": []
+                },
+                "section-10-5-c": {
+                  "number": "(c)",
+                  "content": "any person who—",
+                  "references": []
+                },
+                "section-10-5-d": {
+                  "number": "(d)",
+                  "content": "any person who has parental responsibility for the child by virtue of provision made under section 12(2A).",
+                  "references": [
+                    {
+                      "section_number": 12,
+                      "act": "same act"
+                    }
+                  ]
+                }
+              },
+              "additional_content": [
+                "in any case where a child arrangements order in force with respect to the child regulates arrangements relating to with whom the child is to live or when the child is to live with any person, has the consent of each of the persons named in the order as a person with whom the child is to live;",
+                "in any case where the child is in the care of a local authority, has the consent of that authority; or",
+                "in any other case, has the consent of each of those (if any) who have parental responsibility for the child."
+              ],
+              "references": []
+            },
+            "section-10-5A": {
+              "number": "(5A)",
+              "content": "A local authority foster parent is entitled to apply for achild arrangements order to which subsection (5C) applieswith respect to a child if the child has lived with him for a period of at least one year immediately preceding the application.",
+              "references": []
+            },
+            "section-10-5B": {
+              "number": "(5B)",
+              "content": "A relative of a child is entitled to apply for achild arrangements order to which subsection (5C) applieswith respect to the child if the child has lived with the relative for a period of at least one year immediately preceding the application.",
+              "references": []
+            },
+            "section-10-5C": {
+              "number": "(5C)",
+              "content": "This subsection applies to a child arrangements order if the arrangements regulated by the order relate only to either or both of the following—",
+              "references": []
+            },
+            "section-10-6": {
+              "number": "(6)",
+              "content": "A person who would not otherwise be entitled (under the previous provisions of this section) to apply for the variation or discharge of a section 8 order shall be entitled to do so if—",
+              "subitems": {
+                "section-10-6-a": {
+                  "number": "(a)",
+                  "content": "the order was made on his application; or",
+                  "references": []
+                },
+                "section-10-6-b": {
+                  "number": "(b)",
+                  "content": "in the case of achild arrangementsorder, he is named inprovisions of the order regulating arrangements relating to—",
+                  "references": []
+                }
+              },
+              "additional_content": [
+                "with whom the child concerned is to spend time or otherwise have contact, or",
+                "when the child is to spend time or otherwise have contact with any person."
+              ],
+              "references": []
+            },
+            "section-10-7": {
+              "number": "(7)",
+              "content": "Any person who falls within a category of person prescribed by rules of court is entitled to apply for any such section 8 order as may be prescribed in relation to that category of person.",
+              "references": []
+            },
+            "section-10-7A": {
+              "number": "(7A)",
+              "content": "If a special guardianship order is in force with respect to a child, an application for achild arrangements order to which subsection (7B) appliesmay only be made with respect to him, if apart from this subsection the leave of the court is not required, with such leave.",
+              "references": []
+            },
+            "section-10-7B": {
+              "number": "(7B)",
+              "content": "This subsection applies to a child arrangements order if the arrangements regulated by the order consist of, or include, arrangements which relate to either or both of the following—",
+              "references": []
+            },
+            "section-10-8": {
+              "number": "(8)",
+              "content": "Where the person applying for leave to make an application for a section 8 order is the child concerned, the court may only grant leave if it is satisfied that he has sufficient understanding to make the proposed application for the section 8 order.",
+              "references": []
+            },
+            "section-10-9": {
+              "number": "(9)",
+              "content": "Where the person applying for leave to make an application for a section 8 order is not the child concerned, the court shall, in deciding whether or not to grant leave, have particular regard to—",
+              "subitems": {
+                "section-10-9-a": {
+                  "number": "(a)",
+                  "content": "the nature of the proposed application for the section 8 order;",
+                  "references": []
+                },
+                "section-10-9-b": {
+                  "number": "(b)",
+                  "content": "the applicant’s connection with the child;",
+                  "references": []
+                },
+                "section-10-9-c": {
+                  "number": "(c)",
+                  "content": "any risk there might be of that proposed application disrupting the child’s life to such an extent that he would be harmed by it; and",
+                  "references": []
+                },
+                "section-10-9-d": {
+                  "number": "(d)",
+                  "content": "where the child is being looked after by a local authority—",
+                  "references": []
+                }
+              },
+              "additional_content": [
+                "the authority’s plans for the child’s future; and",
+                "the wishes and feelings of the child’s parents."
+              ],
+              "references": []
+            },
+            "section-10-10": {
+              "number": "(10)",
+              "content": "The period of three years mentioned in subsection (5)(b) need not be continuous but must not have begun more than five years before, or ended more than three months before, the making of the application.",
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-11": {
+          "number": "11",
+          "title": "General principles and supplementary provisions.",
+          "subsections": {
+            "section-11-1": {
+              "number": "(1)",
+              "content": "In proceedings in which any question of making a section 8 order, or any other question with respect to such an order, arises, the court shall (in the light of anyprovision in rules of court that is of the kind mentioned in subsection (2)(a) or (b))—",
+              "subitems": {
+                "section-11-1-a": {
+                  "number": "(a)",
+                  "content": "draw up a timetable with a view to determining the question without delay; and",
+                  "references": []
+                },
+                "section-11-1-b": {
+                  "number": "(b)",
+                  "content": "give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that that timetable is adhered to.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-11-2": {
+              "number": "(2)",
+              "content": "Rules of court may—",
+              "subitems": {
+                "section-11-2-a": {
+                  "number": "(a)",
+                  "content": "specify periods within which specified steps must be taken in relation to proceedings in which such questions arise; and",
+                  "references": []
+                },
+                "section-11-2-b": {
+                  "number": "(b)",
+                  "content": "make other provision with respect to such proceedings for the purpose of ensuring, so far as is reasonably practicable, that such questions are determined without delay.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-11-3": {
+              "number": "(3)",
+              "content": "Where a court has power to make a section 8 order, it may do so at any time during the course of the proceedings in question even though it is not in a position to dispose finally of those proceedings.",
+              "references": []
+            },
+            "section-11-4": {
+              "number": "(4)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            },
+            "section-11-5": {
+              "number": "(5)",
+              "content": "Where—",
+              "subitems": {
+                "section-11-5-a": {
+                  "number": "(a)",
+                  "content": "achild arrangementsorder has been made with respect to a child; and",
+                  "references": []
+                },
+                "section-11-5-b": {
+                  "number": "(b)",
+                  "content": "the child hastwo parents who each have parental responsibility for him,",
+                  "references": []
+                }
+              },
+              "additional_content": "theorder, so far as it has the result that there are times when the child lives or is to live with one of the parents,shall cease to have effect if the parents live together for a continuous period of more than six months.",
+              "references": [],
+              "additional_content_references": []
+            },
+            "section-11-6": {
+              "number": "(6)",
+              "content": "A child arrangements order made with respect to a child, so far as it provides for the child to spend time or otherwise have contact with one of the child's parents at times when the child is living with the child's other parent,shall cease to have effect if the parents live together for a continuous period of more than six months.",
+              "references": []
+            },
+            "section-11-7": {
+              "number": "(7)",
+              "content": "A section 8 order may—",
+              "subitems": {
+                "section-11-7-a": {
+                  "number": "(a)",
+                  "content": "contain directions about how it is to be carried into effect;",
+                  "references": []
+                },
+                "section-11-7-b": {
+                  "number": "(b)",
+                  "content": "impose conditions which must be complied with by any person—",
+                  "references": []
+                },
+                "section-11-7-c": {
+                  "number": "(c)",
+                  "content": "be made to have effect for a specified period, or contain provisions which are to have effect for a specified period;",
+                  "references": []
+                },
+                "section-11-7-d": {
+                  "number": "(d)",
+                  "content": "make such incidental, supplemental or consequential provision as the court thinks fit.",
+                  "references": []
+                }
+              },
+              "additional_content": [
+                "who is named in the order as a person with whom the child concerned is to live, spend time or otherwise have contact;",
+                "who is a parent of the child ...;",
+                "who is not a parent of his but who has parental responsibility for him; or",
+                "with whom the child is living,",
+                "and to whom the conditions are expressed to apply;"
+              ],
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-11A": {
+          "number": "11A",
+          "title": "... Activity directions",
+          "content": "(1)Subsection (2) applies in proceedings in which the court is considering whether to make provision about one or more of the matters mentioned in subsection (1A) by making—\n(a)a child arrangements order with respect to the child concerned, or\n(b)an order varying or discharging a child arrangements order with respect to the child concerned.\n(1A)The matters mentioned in this subsection are—\n(a)with whom a child is to live,\n(b)when a child is to live with any person,\n(c)with whom a child is to spend time or otherwise have contact, and\n(d)when a child is to spend time or otherwise have contact with any person.\n(2)The court may make an activity direction in connection with the provision that the court is considering whether to make.\n(2A)Subsection (2B) applies in proceedings in which subsection (2) does not apply and in which the court is considering—\n(a)whether a person has failed to comply with a provision of a child arrangements order, or\n(b)what steps to take in consequence of a person's failure to comply with a provision of a child arrangements order.\n(2B)The court may make an activity direction in connection with that provision of the child arrangements order.\n(3)An activity direction is a direction requiring an individual who is a party to the proceedings concerned to take part in an activity that would, in the court's opinion, help to establish, maintain or improve the involvement in the life of the child concerned of—\n(a)that individual, or\n(b)another individual who is a party to the proceedings.\n(4)The direction is to specify the activity and the person providing the activity.\n(5)The activities that may be so required include, in particular—\n(a)programmes, classes and counselling or guidance sessions of a kind that—\n(i)may assist a person as regards establishing, maintaining or improvinginvolvement in a child's life;\n(ii)may, by addressing a person's violent behaviour, enable or facilitateinvolvement in a child's life;\n(b)sessions in which information or advice is given as regards making or operating arrangements forinvolvement in a child's life, including making arrangements by means of mediation.\n(6)No individual may be required byanactivity direction—\n(a)to undergo medical or psychiatric examination, assessment or treatment;\n(b)to take part in mediation.\n(7)A court may not on the same occasion—\n(a)makean activity direction under subsection (2), and\n(b)dispose finally of the proceedings as they relate tothe matters mentioned in subsection (1A) in connection with which the activity direction is made.\n(8)Each of subsections (2) and (2B)has effect subject to the restrictions in sections 11B and 11E.\n(9)In considering whether to makeanactivity direction, the welfare of the child concerned is to be the court's paramount consideration.\n(7A)A court may not on the same occasion—\n(a)make an activity direction under subsection (2B), and\n(b)dispose finally of the proceedings as they relate to failure to comply with the provision in connection with which the activity direction is made.",
+          "references": [
+            {
+              "section_number": "11B",
+              "act": "same act"
+            },
+            {
+              "section_number": "11E",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11B": {
+          "number": "11B",
+          "title": "... Activity directions: further provision",
+          "content": "(1)A court may not makean activity direction under section 11A(2) in connection with any matter mentioned in section 11A(1A)unless there is a dispute as regards the provisionabout that matterthat the court is considering whether to make in the proceedings.\n(2)A court may not makeanactivity direction requiring an individual who is a child to take part in an activity unless the individual is a parent of the child in relation to whom the court is considering provisionabout a matter mentioned in section 11A(1A).\n(3)A court may not makean activityactivity direction in connection with the making, variation or discharge of achild arrangements order, if thechild arrangements orderis, or would if made be, an excepted order.\n(4)Achild arrangements orderwith respect to a child is an excepted order if—\n(a)it is made in proceedings that include proceedings on an application for a relevant adoption order in respect of the child; or\n(b)it makes provision as regards contact between the child and a person who would be a parent or relative of the child but for the child's adoption by an order falling within subsection (5).\n(5)An order falls within this subsection if it is—\n(a)a relevant adoption order;\n(b)an adoption order, within the meaning of section 72(1) of the Adoption Act 1976, other than an order made by virtue of section 14 of that Act on the application of a married couple one of whom is the mother or the father of the child;\n(c)a Scottish adoption order, within the meaning of the Adoption and Children Act 2002, other than an order made—\n(i)by virtue of section 14 of the Adoption (Scotland) Act 1978 on the application of a married couple one of whom is the mother or the father of the child, or\n(ii)by virtue of section 15(1)(aa) of that Act; or\n(iii)by virtue of an application under section30 of the Adoption and Children (Scotland) Act 2007 where subsection(3) of that section applies; or\n(d)a Northern Irish adoption order, within the meaning of the Adoption and Children Act 2002, other than an order made by virtue of Article 14 of the Adoption (Northern Ireland) Order 1987 on the application of a married couple one of whom is the mother or the father of the child.\n(6)A relevant adoption order is an adoption order, within the meaning of section 46(1) of the Adoption and Children Act 2002, other than an order made—\n(a)on an application under section 50 of that Act by a couple (within the meaning of that Act) one of whom is the mother or the father of the person to be adopted, or\n(b)on an application under section 51(2) of that Act.\n(7)A court may not makeanactivity direction in relation to an individual unless the individual is habitually resident in England and Wales; and a direction ceases to have effect if the individual subject to the direction ceases to be habitually resident in England and Wales.",
+          "references": [
+            {
+              "section_number": 72,
+              "act": "Adoption Act 1976"
+            },
+            {
+              "section_number": 14,
+              "act": "same act"
+            },
+            {
+              "section_number": 14,
+              "act": "Adoption (Scotland) Act 1978"
+            },
+            {
+              "section_number": 46,
+              "act": "Adoption and Children Act 2002"
+            },
+            {
+              "section_number": 50,
+              "act": "same act"
+            },
+            {
+              "section_number": 51,
+              "act": "same act"
+            },
+            {
+              "section_number": "11A",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11C": {
+          "number": "11C",
+          "title": "... Activity conditions",
+          "content": "(1)This section applies if in any family proceedings the court makes—\n(a)a child arrangements order containing—\n(i)provision for a child to live with different persons at different times,\n(ii)provision regulating arrangements relating to with whom a child is to spend time or otherwise have contact, or\n(iii)provision regulating arrangements relating to when a child is to spend time or otherwise have contact with any person; or\n(b)an order varying a child arrangements order so as to add, vary or omit provision of a kind mentioned in paragraph (a)(i), (ii) or (iii).\n(2)Thechild arrangements ordermay impose, or thechild arrangements ordermay be varied so as to impose, a condition(an “activity condition”)requiring an individual falling within subsection (3) to take part in an activity thatwould, in the court's opinion, help to establish, maintain or improve the involvement in the life of the child concerned of—\n(a)that individual, or\n(b)another individual who is a party to the proceedings.\n(3)An individual falls within this subsection if he is—\n(a)for the purposes of thechild arrangements orderso made or varied,a personwith whom the child concerned lives or is to live;\n(b)a personwhose contact with the child concerned is provided for in that order; or\n(c)a person upon whom that order imposes a condition under section 11(7)(b).\n(4)The condition is to specify the activity and the person providing the activity.\n(5)Subsections (5) and (6) of section 11A have effect as regards the activities that may be required byanactivity condition as they have effect as regards the activities that may be required byanactivity direction.\n(6)Subsection (2) has effect subject to the restrictions in sections 11D and 11E.",
+          "references": [
+            {
+              "section_number": "11D",
+              "act": "same act"
+            },
+            {
+              "section_number": "11E",
+              "act": "same act"
+            },
+            {
+              "section_number": 11,
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11D": {
+          "number": "11D",
+          "title": "... Activity conditions: further provision",
+          "content": "(1)Achild arrangements ordermay not imposean activitycondition on an individual who is a child unless the individual is a parent of the child concerned.\n(2)If achild arrangements orderis an excepted order (within the meaning given by section 11B(4)), it may not impose (and it may not be varied so as to impose) aan activitycondition.\n(3)Achild arrangements ordermay not imposean activitycondition on an individual unless the individual is habitually resident in England and Wales; and a condition ceases to have effect if the individual subject to the condition ceases to be habitually resident in England and Wales.",
+          "references": [
+            {
+              "section_number": "11B",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11E": {
+          "number": "11E",
+          "title": "...Activity directions and conditions: making",
+          "content": "(1)Before makingan activitydirection (or imposingan activitycondition by means of achild arrangements order), the court must satisfy itself as to the matters falling within subsections (2) to (4).\n(2)The first matter is that the activity proposed to be specified is appropriate in the circumstances of the case.\n(3)The second matter is that the person proposed to be specified as the provider of the activity is suitable to provide the activity.\n(4)The third matter is that the activity proposed to be specified is provided in a place to which the individual who would be subject to the direction (or the condition) can reasonably be expected to travel.\n(5)Before making such a direction (or such an order), the court must obtain and consider information about the individual who would be subject to the direction (or the condition) and the likely effect of the direction (or the condition) on him.\n(6)Information about the likely effect of the direction (or the condition) may, in particular, include information as to—\n(a)any conflict with the individual's religious beliefs;\n(b)any interference with the times (if any) at which he normally works or attends an educational establishment.\n(7)The court may ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) to (5); and it shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any such request.\n(8)In this section “specified” means specified inanactivity direction (or inanactivity condition).",
+          "references": [],
+          "title_references": []
+        },
+        "section-11F": {
+          "number": "11F",
+          "title": "... Activity directions and conditions: financial assistance",
+          "content": "(1)The Secretary of State may by regulations make provision authorising him to make payments to assist individuals falling within subsection (2) in paying relevant charges or fees.\n(2)An individual falls within this subsection if he is required byan activitydirection or condition to take part in an activity thatis expected to help to establish, maintain or improve the involvement of that or another individual in the life ofa child, not being a child ordinarily resident in Wales.\n(3)The National Assembly for Wales may by regulations make provision authorising it to make payments to assist individuals falling within subsection (4) in paying relevant charges or fees.\n(4)An individual falls within this subsection if he is required byan activitydirection or condition to take part in an activity thatis expected to help to establish, maintain or improve the involvement of that or another individual in the life ofa child who is ordinarily resident in Wales.\n(5)A relevant charge or fee, in relation to an activity required byan activitydirection or condition, is a charge or fee in respect of the activity payable to the person providing the activity.\n(6)Regulations under this section may provide that no assistance is available to an individual unless—\n(a)the individual satisfies such conditions as regards his financial resources as may be set out in the regulations;\n(b)the activity in which the individual is required byan activitydirection or condition to take part is provided to him in England or Wales;\n(c)where the activity in which the individual is required to take part is provided to him in England, it is provided by a person who is for the time being approved by the Secretary of State as a provider of activities required byan activitydirection or condition;\n(d)where the activity in which the individual is required to take part is provided to him in Wales, it is provided by a person who is for the time being approved by the National Assembly for Wales as a provider of activities required by aan activitydirection or condition.\n(7)Regulations under this section may make provision—\n(a)as to the maximum amount of assistance that may be paid to or in respect of an individual as regards an activity in which he is required by aan activitydirection or condition to take part;\n(b)where the amount may vary according to an individual's financial resources, as to the method by which the amount is to be determined;\n(c)authorising payments by way of assistance to be made directly to persons providing activities required byan activitydirection or condition.",
+          "references": [],
+          "title_references": []
+        },
+        "section-11G": {
+          "number": "11G",
+          "title": "... Activity directions and conditions: monitoring",
+          "content": "(1)This section applies if in any family proceedings the court—\n(a)makesan activitydirection in relation to an individual, or\n(b)makes achild arrangements orderthat imposes, or varies achild arrangements orderso as to impose,an activitycondition on an individual.\n(2)The court may on making the direction (or imposing the condition by means of achild arrangements order) ask an officer of the Service or a Welsh family proceedings officer—\n(a)to monitor, or arrange for the monitoring of, the individual's compliance with the direction (or the condition);\n(b)to report to the court on any failure by the individual to comply with the direction (or the condition).\n(3)It shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any request under subsection (2).",
+          "references": [],
+          "title_references": []
+        },
+        "section-11H": {
+          "number": "11H",
+          "title": "Monitoring contactand shared residence",
+          "content": "(1)This section applies if in any family proceedings the court makes—\n(a)a child arrangements order containing provision of a kind mentioned in section 11C(1)(a)(i), (ii) or (iii), or\n(b)an order varying a child arrangements order so as to add, vary or omit provision of any of those kinds.\n(2)The court may ask an officer of the Service or a Welsh family proceedings officer—\n(a)to monitor whether an individual falling within subsection (3) complies witheach provision of any of those kinds that is contained in the child arrangements order (or in the child arrangements order as varied);\n(b)to report to the court on such matters relating to the individual's compliance as the court may specify in the request.\n(3)An individual falls within this subsection if thechild arrangements orderso made (or thechild arrangements orderas so varied)—\n(za)provides for the child concerned to live with different persons at different times and names the individual as one of those persons;\n(a)imposes requirements on the individual with regard to the child concerned spending time or otherwise having contact with some other person;\n(b)names the individual as a person with whom the child concerned is to spend time or otherwise have contact; or\n(4)If thechild arrangements order(or thechild arrangements orderas varied) includesan activitycondition, a request under subsection (2) is to be treated as relating to the provisions of the order other thanthe activitycondition.\n(5)The court may make a request under subsection (2)—\n(a)on making thechild arrangements order(or the order varying thechild arrangements order), or\n(b)at any time during the subsequent course of the proceedings as they relate to contact with the child concernedor to the child's living arrangements.\n(6)In making a request under subsection (2), the court is to specify the period for which the officer of the Service or Welsh family proceedings officer is to monitor compliance with the order; and the period specified may not exceed twelve months.\n(7)It shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any request under subsection (2).\n(8)The court may order any individual falling within subsection (3) to take such steps as may be specified in the order with a view to enabling the officer of the Service or Welsh family proceedings officer to comply with the court's request under subsection (2).\n(9)But the court may not make an order under subsection (8) with respect to an individual who is a child unless he is a parent of the child with respect to whom the order falling within subsection (1) was made.\n(10)A court may not make a request under subsection (2) in relation to achild arrangementsorder that is an excepted order (within the meaning given by section 11B(4)).",
+          "references": [
+            {
+              "section_number": "11C",
+              "act": "same act"
+            },
+            {
+              "section_number": "11B",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11I": {
+          "number": "11I",
+          "title": "Child arrangementsorders: warning notices",
+          "content": "Where the court makes (or varies) achild arrangementsorder, it is to attach to thechild arrangementsorder (or the order varying the contact order) a notice warning of the consequences of failing to comply with thechild arrangementsorder.",
+          "references": [],
+          "title_references": []
+        },
+        "section-11J": {
+          "number": "11J",
+          "title": "Enforcement orders",
+          "content": "(1)This section applies if achild arrangementswith respect to a child has been made.\n(2)If the court is satisfied beyond reasonable doubt that a person has failed to comply witha provision of the child arrangementsorder, it may make an order (an “enforcement order”) imposing on the person an unpaid work requirement.\n(3)But the court may not make an enforcement order if it is satisfied that the person had a reasonable excuse for failing to comply with theprovision.\n(4)The burden of proof as to the matter mentioned in subsection (3) lies on the person claiming to have had a reasonable excuse, and the standard of proof is the balance of probabilities.\n(5)The court may make an enforcement order in relation to thechild arrangements orderonly on the application of—\n(a)a personwho is, for the purposes of thechild arrangements order, the person with whom the child concerned lives or is to live;\n(b)a personwhose contact with the child concerned is provided for in thechild arrangements order;\n(c)any individual subject to a condition under section 11(7)(b) oran activitycondition imposed by thechild arrangements order; or\n(d)the child concerned.\n(6)Where the person proposing to apply for an enforcement order in relation to achild arrangementsorder is the child concerned, the child must obtain the leave of the court before making such an application.\n(7)The court may grant leave to the child concerned only if it is satisfied that he has sufficient understanding to make the proposed application.\n(8)Subsection (2) has effect subject to the restrictions in sections 11K and 11L.\n(9)The court may suspend an enforcement order for such period as it thinks fit.\n(10)Nothing in this section prevents a court from making more than one enforcement order in relation to the same person on the same occasion.\n(11)Proceedings in which any question of making an enforcement order, or any other question with respect to such an order, arises are to be regarded for the purposes of section 11(1) and (2) as proceedings in which a question arises with respect to a section 8 order.\n(12)In Schedule A1—\n(a)Part 1 makes provision as regards an unpaid work requirement;\n(b)Part 2 makes provision in relation to the revocation and amendment of enforcement orders and failure to comply with such orders.\n(13). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "references": [
+            {
+              "section_number": "11K",
+              "act": "same act"
+            },
+            {
+              "section_number": "11L",
+              "act": "same act"
+            },
+            {
+              "section_number": 11,
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11K": {
+          "number": "11K",
+          "title": "Enforcement orders: further provision",
+          "content": "(1)A court may not make an enforcement order against a person in respect of a failure to comply with aprovision of a child arrangements orderunless it is satisfied that before the failure occurred the person had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of—\n(a)in the case of a failure to comply witha provision of a child arrangements order where the orderwas varied before the failure occurred, a notice under section 11I relating to the order varyingthe child arrangementsorder or, where more than one such order has been made, the last order preceding the failure in question;\n(b)in any other case, a notice under section 11I relating to thechild arrangementsorder.\n(2)A court may not make an enforcement order against a person in respect of any failure to comply with aprovision of a child arrangementsorder occurring before the person attained the age of 18.\n(3)A court may not make an enforcement order against a person in respect of a failure to comply with aprovision of a child arrangements order where the child arrangements orderis an excepted order (within the meaning given by section 11B(4)).\n(4)A court may not make an enforcement order against a person unless the person is habitually resident in England and Wales; and an enforcement order ceases to have effect if the person subject to the order ceases to be habitually resident in England and Wales.",
+          "references": [
+            {
+              "section_number": "11I",
+              "act": "same act"
+            },
+            {
+              "section_number": "11B",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11L": {
+          "number": "11L",
+          "title": "Enforcement orders: making",
+          "content": "(1)Before making an enforcement order as regards a person in breach ofa provision of a child arrangementsorder, the court must be satisfied that—\n(a)making the enforcement order proposed is necessary to secure the person's compliance with thechild arrangementsorder or anychild arrangementsorder that has effect in its place;\n(b)the likely effect on the person of the enforcement order proposed to be made is proportionate to the seriousness of the breach....\n(2)Before making an enforcement order, the court must satisfy itself that provision for the person to work under an unpaid work requirement imposed by an enforcement order can be made in the local justice area in which the person in breach resides or will reside.\n(3)Before making an enforcement order as regards a person in breach of aprovision of a child arrangementsorder, the court must obtain and consider information about the person and the likely effect of the enforcement order on him.\n(4)Information about the likely effect of the enforcement order may, in particular, include information as to—\n(a)any conflict with the person's religious beliefs;\n(b)any interference with the times (if any) at which he normally works or attends an educational establishment.\n(5)A court that proposes to make an enforcement order may ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) and (3).\n(6)It shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any request under this section.\n(7)In making an enforcement order in relation to achild arrangementsorder, a court must take into account the welfare of the child who is the subject of the contact order.",
+          "references": [],
+          "title_references": []
+        },
+        "section-11M": {
+          "number": "11M",
+          "title": "Enforcement orders: monitoring",
+          "content": "(1)On making an enforcement order in relation to a person, the court is to ask an officer of the Service or a Welsh family proceedings officer—\n(a)to monitor, or arrange for the monitoring of, the person's compliance with the unpaid work requirement imposed by the order;\n(b)to report to the court if a report under paragraph 8 of Schedule A1 is made in relation to the person;\n(c)to report to the court on such other matters relating to the person's compliance as may be specified in the request;\n(d)to report to the court if the person is, or becomes, unsuitable to perform work under the requirement.\n(2)It shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any request under this section.",
+          "references": [],
+          "title_references": []
+        },
+        "section-11N": {
+          "number": "11N",
+          "title": "Enforcement orders: warning notices",
+          "content": "Where the court makes an enforcement order, it is to attach to the order a notice warning of the consequences of failing to comply with the order.",
+          "references": [],
+          "title_references": []
+        },
+        "section-11O": {
+          "number": "11O",
+          "title": "Compensation for financial loss",
+          "content": "(1)This section applies if achild arrangementsorder with respect to a child has been made.\n(2)If the court is satisfied that—\n(a)an individual has failed to comply witha provision of the child arrangementsorder, and\n(b)a person falling within subsection (6) has suffered financial loss by reason of the breach,\nit may make an order requiring the individual in breach to pay the person compensation in respect of his financial loss.\n(3)But the court may not make an order under subsection (2) if it is satisfied that the individual in breach had a reasonable excuse for failing to comply with theparticular provision of the child arrangementsorder.\n(4)The burden of proof as to the matter mentioned in subsection (3) lies on the individual claiming to have had a reasonable excuse.\n(5)An order under subsection (2) may be made only on an application by the person who claims to have suffered financial loss.\n(6)A person falls within this subsection if he is—\n(a)a personwho is, for the purposes of thechild arrangements order,a personwith whom the child concerned lives or is to live;\n(b)a personwhose contact with the child concerned is provided for in thechild arrangements order;\n(c)an individual subject to a condition under section 11(7)(b) oran activitycondition imposed by the contact order; or\n(d)the child concerned.\n(7)Where the person proposing to apply for an order under subsection (2) is the child concerned, the child must obtain the leave of the court before making such an application.\n(8)The court may grant leave to the child concerned only if it is satisfied that he has sufficient understanding to make the proposed application.\n(9)The amount of compensation is to be determined by the court, but may not exceed the amount of the applicant's financial loss.\n(10)In determining the amount of compensation payable by the individual in breach, the court must take into account the individual's financial circumstances.\n(11)An amount ordered to be paid as compensation may be recovered by the applicant as a civil debt due to him.\n(12)Subsection (2) has effect subject to the restrictions in section 11P.\n(13)Proceedings in which any question of making an order under subsection (2) arises are to be regarded for the purposes of section 11(1) and (2) as proceedings in which a question arises with respect to a section 8 order.\n(14)In exercising its powers under this section, a court is to take into account the welfare of the child concerned.",
+          "references": [
+            {
+              "section_number": 11,
+              "act": "same act"
+            },
+            {
+              "section_number": "11P",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-11P": {
+          "number": "11P",
+          "title": "Orders under section 11O(2): further provision",
+          "content": "(1)A court may not make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with aprovision of a child arrangements orderunless it is satisfied that before the failure occurred the individual had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of—\n(a)in the case of a failure to comply witha provision of a child arrangements order where the orderwas varied before the failure occurred, a notice under section 11I relating to the order varyingthe child arrangementsorder or, where more than one such order has been made, the last order preceding the failure in question;\n(b)in any other case, a notice under section 11I relating to thechild arrangementsorder.\n(2)A court may not make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with aprovision of a child arrangementsorder where the failure occurred before the individual attained the age of 18.\n(3)A court may not make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with aprovision of a child arrangements order where the child arrangements orderis an excepted order (within the meaning given by section 11B(4)).",
+          "references": [
+            {
+              "section_number": "11O",
+              "act": "same act"
+            },
+            {
+              "section_number": "11I",
+              "act": "same act"
+            },
+            {
+              "section_number": "11B",
+              "act": "same act"
+            }
+          ],
+          "title_references": [
+            {
+              "section_number": "11O",
+              "act": "same act"
+            }
+          ]
+        },
+        "section-12": {
+          "number": "12",
+          "title": "Child arrangementsorders and parental responsibility.",
+          "subsections": {
+            "section-12-1": {
+              "number": "(1)",
+              "content": "Where—",
+              "subitems": {
+                "section-12-1-a": {
+                  "number": "(a)",
+                  "content": "the court makes a child arrangements order with respect to a child,",
+                  "references": []
+                },
+                "section-12-1-b": {
+                  "number": "(b)",
+                  "content": "the father of the child, or a woman who is a parent of the child by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, is named in the order as a person with whom the child is to live, and",
+                  "references": [
+                    {
+                      "section_number": 43,
+                      "act": "Human Fertilisation and Embryology Act 2008"
+                    }
+                  ]
+                },
+                "section-12-1-c": {
+                  "number": "(c)",
+                  "content": "the father, or the woman, would not otherwise have parental responsibility for the child,",
+                  "references": []
+                }
+              },
+              "additional_content": "the court must also make an order under section 4 giving the father, or under section 4ZA giving the woman, that responsibility.",
+              "references": [],
+              "additional_content_references": [
+                {
+                  "section_number": 4,
+                  "act": "same act"
+                },
+                {
+                  "section_number": "4Z",
+                  "act": "same act"
+                }
+              ]
+            },
+            "section-12-1A": {
+              "number": "(1A)",
+              "content": "Where—",
+              "additional_content": "the court must decide whether it would be appropriate, in view of the provision made in the order with respect to the father or the woman, for him or her to have parental responsibility for the child and, if it decides that it would be appropriate for the father or the woman to have that responsibility, must also make an order under section 4 giving him, or under section 4ZA giving her, that responsibility.",
+              "references": [],
+              "additional_content_references": [
+                {
+                  "section_number": 4,
+                  "act": "same act"
+                },
+                {
+                  "section_number": "4Z",
+                  "act": "same act"
+                }
+              ]
+            },
+            "section-12-2": {
+              "number": "(2)",
+              "content": "Where the court makes achild arrangements order and a person who is not aparent or guardian of the child concernedis named in the order as a person with whom the child is to live,that person shall have parental responsibility for the child while theorder remains in force so far as providing for the child to live with that person.",
+              "references": []
+            },
+            "section-12-2A": {
+              "number": "(2A)",
+              "content": "Where the court makes a child arrangements order and—",
+              "additional_content": "the court may provide in the order for the person to have parental responsibility for the child while paragraphs (a) and (b) continue to be met in the person's case.",
+              "references": [],
+              "additional_content_references": []
+            },
+            "section-12-3": {
+              "number": "(3)",
+              "content": "Where a person has parental responsibility for a child as a result of subsection (2)or (2A), he shall not have the right—",
+              "subitems": {
+                "section-12-3-a": {
+                  "number": "(a)",
+                  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+                  "references": []
+                },
+                "section-12-3-b": {
+                  "number": "(b)",
+                  "content": "to agree, or refuse to agree, to the making of an adoption order, or an order undersection 84 of the Adoption and Children Act 2002, with respect to the child; or",
+                  "references": [
+                    {
+                      "section_number": 84,
+                      "act": "Adoption and Children Act 2002"
+                    }
+                  ]
+                },
+                "section-12-3-c": {
+                  "number": "(c)",
+                  "content": "to appoint a guardian for the child.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-12-4": {
+              "number": "(4)",
+              "content": "Where subsection (1) ... requires the court to make an order under section 4or 4ZAin respect of aparentof a child, the court shall not bring that order to an end at any time while thechild arrangements order concerned remains in force so far as providing for the child to live with that parent.",
+              "references": [
+                {
+                  "section_number": 4,
+                  "act": "same act"
+                },
+                {
+                  "section_number": "4Z",
+                  "act": "same act"
+                },
+                {
+                  "section_number": "4o",
+                  "act": "same act"
+                }
+              ]
+            },
+            "section-12-5": {
+              "number": "(5)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            },
+            "section-12-6": {
+              "number": "(6)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-13": {
+          "number": "13",
+          "title": "Change of child’s name or removal from jurisdiction.",
+          "subsections": {
+            "section-13-1": {
+              "number": "(1)",
+              "content": "Where achild arrangements order to which subsection (4) appliesis in force with respect to a child, no person may—",
+              "subitems": {
+                "section-13-1-a": {
+                  "number": "(a)",
+                  "content": "cause the child to be known by a new surname; or",
+                  "references": []
+                },
+                "section-13-1-b": {
+                  "number": "(b)",
+                  "content": "remove him from the United Kingdom;",
+                  "references": []
+                }
+              },
+              "additional_content": "without either the written consent of every person who has parental responsibility for the child or the leave of the court.",
+              "references": [],
+              "additional_content_references": []
+            },
+            "section-13-2": {
+              "number": "(2)",
+              "content": "Subsection (1)(b) does not prevent the removal of a child, for a period of less than one month, bya person named in the child arrangements order as a person with whom the child is to live.",
+              "references": []
+            },
+            "section-13-3": {
+              "number": "(3)",
+              "content": "In making achild arrangements order to which subsection (4) applies,the court may grant the leave required by subsection (1)(b), either generally or for specified purposes.",
+              "references": []
+            },
+            "section-13-4": {
+              "number": "(4)",
+              "content": "This subsection applies to a child arrangements order if the arrangements regulated by the order consist of, or include, arrangements which relate to either or both of the following—",
+              "subitems": {
+                "section-13-4-a": {
+                  "number": "(a)",
+                  "content": "with whom the child concerned is to live, and",
+                  "references": []
+                },
+                "section-13-4-b": {
+                  "number": "(b)",
+                  "content": "when the child is to live with any person.",
+                  "references": []
+                }
+              },
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-14": {
+          "number": "14",
+          "title": "Enforcement of residence orders.",
+          "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "references": [],
+          "title_references": []
+        },
+        "section-14A": {
+          "number": "14A",
+          "title": "Special guardianship orders",
+          "content": "(1)A “special guardianship order” is an order appointing one or more individuals to be a child’s “special guardian” (or special guardians).\n(2)A special guardian—\n(a)must be aged eighteen or over; and\n(b)must not be a parent of the child in question,\nand subsections (3) to (6) are to be read in that light.\n(3)The court may make a special guardianship order with respect to any child on the application of an individual who—\n(a)is entitled to make such an application with respect to the child; or\n(b)has obtained the leave of the court to make the application,\nor on the joint application of more than one such individual.\n(4)Section 9(3) applies in relation to an application for leave to apply for a special guardianship order as it applies in relation to an application for leave to apply for a section 8 order.\n(5)The individuals who are entitled to apply for a special guardianship order with respect to a child are—\n(a)any guardian of the child;\n(b)any individualwho is named in a child arrangements order as a person with whom the child is to live;\n(c)any individual listed in subsection (5)(b) or (c) of section 10 (as read with subsection (10) of that section);\n(d)a local authority foster parent with whom the child has lived for a period of at least one year immediately preceding the application.;\n(e)a relative with whom the child has lived for a period of at least one year immediately preceding the application.\n(6)The court may also make a special guardianship order with respect to a child in any family proceedings in which a question arises with respect to the welfare of the child if—\n(a)an application for the order has been made by an individual who falls within subsection (3)(a) or (b) (or more than one such individual jointly); or\n(b)the court considers that a special guardianship order should be made even though no such application has been made.\n(7)No individual may make an application under subsection (3) or (6)(a) unless, before the beginning of the period of three months ending with the date of the application, he has given written notice of his intention to make the application—\n(a)if the child in question is being looked after by a local authority, to that local authority, or\n(b)otherwise, to the local authority in whose area the individual is ordinarily resident.\n(8)On receipt of such a notice, the local authority must investigate the matter and prepare a report for the court dealing with—\n(a)the suitability of the applicant to be a special guardian;\n(b)such matters (if any) as may be prescribed by the Secretary of State; and\n(c)any other matter which the local authority consider to be relevant.\n(9)The court may itself ask a local authority to conduct such an investigation and prepare such a report, and the local authority must do so.\n(10)The local authority may make such arrangements as they see fit for any person to act on their behalf in connection with conducting an investigation or preparing a report referred to in subsection (8) or (9).\n(11)The court may not make a special guardianship order unless it has received a report dealing with the matters referred to in subsection (8).\n(12)Subsections (8) and (9) of section 10 apply in relation to special guardianship orders as they apply in relation to section 8 orders.\n(13)This section is subject to section 29(5) and (6) of the Adoption and Children Act 2002.",
+          "references": [],
+          "title_references": []
+        },
+        "section-14B": {
+          "number": "14B",
+          "title": "Special guardianship orders: making",
+          "content": "(1)Before making a special guardianship order, the court must consider whether, if the order were made—\n(a)achild arrangements order containing contact provisionshould also be made with respect to the child,. . .\n(b)any section 8 order in force with respect to the child should be varied or discharged.\n(c)where aprovision contained in a child arrangements ordermade with respect to the child is not discharged, any enforcement order relating tothat provisionshould be revoked, and\n(d)where an activity direction has been made—\n(i)in proceedings for the making, variation or discharge of a child arrangements order with respect to the child, or\n(ii)in other proceedings that relate to such an order,\nthat direction should be discharged.\n(1A)In subsection (1) “contact provision” means provision which regulates arrangements relating to—\n(a)with whom a child is to spend time or otherwise have contact, or\n(b)when a child is to spend time or otherwise have contact with any person;\nbut in paragraphs (a) and (b) a reference to spending time or otherwise having contact with a person is to doing that otherwise than as a result of living with the person.\n(2)On making a special guardianship order, the court may also—\n(a)give leave for the child to be known by a new surname;\n(b)grant the leave required by section 14C(3)(b), either generally or for specified purposes.",
+          "references": [
+            {
+              "section_number": "14C",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-14C": {
+          "number": "14C",
+          "title": "Special guardianship orders: effect",
+          "content": "(1)The effect of a special guardianship order is that while the order remains in force—\n(a)a special guardian appointed by the order has parental responsibility for the child in respect of whom it is made; and\n(b)subject to any other order in force with respect to the child under this Act, a special guardian is entitled to exercise parental responsibility to the exclusion of any other person with parental responsibility for the child (apart from another special guardian).\n(2)Subsection (1) does not affect—\n(a)the operation of any enactment or rule of law which requires the consent of more than one person with parental responsibility in a matter affecting the child; or\n(b)any rights which a parent of the child has in relation to the child’s adoption or placement for adoption.\n(3)While a special guardianship order is in force with respect to a child, no person may—\n(a)cause the child to be known by a new surname; or\n(b)remove him from the United Kingdom,\nwithout either the written consent of every person who has parental responsibility for the child or the leave of the court.\n(4)Subsection (3)(b) does not prevent the removal of a child, for a period of less than three months, by a special guardian of his.\n(5)If the child with respect to whom a special guardianship order is in force dies, his special guardian must take reasonable steps to give notice of that fact to—\n(a)each parent of the child with parental responsibility; and\n(b)each guardian of the child,\nbut if the child has more than one special guardian, and one of them has taken such steps in relation to a particular parent or guardian, any other special guardian need not do so as respects that parent or guardian.\n(6)This section is subject to section 29(7) of the Adoption and Children Act 2002.",
+          "references": [
+            {
+              "section_number": 29,
+              "act": "Adoption and Children Act 2002"
+            }
+          ],
+          "title_references": []
+        },
+        "section-14D": {
+          "number": "14D",
+          "title": "Special guardianship orders: variation and discharge",
+          "content": "(1)The court may vary or discharge a special guardianship order on the application of—\n(a)the special guardian (or any of them, if there are more than one);\n(b)any parent or guardian of the child concerned;\n(c)any individualwho is named in a child arrangements order as a person with whom the child is to live;\n(d)any individual not falling within any of paragraphs (a) to (c) who has, or immediately before the making of the special guardianship order had, parental responsibility for the child;\n(e)the child himself; or\n(f)a local authority designated in a care order with respect to the child.\n(2)In any family proceedings in which a question arises with respect to the welfare of a child with respect to whom a special guardianship order is in force, the court may also vary or discharge the special guardianship order if it considers that the order should be varied or discharged, even though no application has been made under subsection (1).\n(3)The following must obtain the leave of the court before making an application under subsection (1)—\n(a)the child;\n(b)any parent or guardian of his;\n(c)any step-parent of his who has acquired, and has not lost, parental responsibility for him by virtue of section 4A;\n(d)any individual falling within subsection (1)(d) who immediately before the making of the special guardianship order had, but no longer has, parental responsibility for him.\n(4)Where the person applying for leave to make an application under subsection (1) is the child, the court may only grant leave if it is satisfied that he has sufficient understanding to make the proposed application under subsection (1).\n(5)The court may not grant leave to a person falling within subsection (3)(b)(c) or (d) unless it is satisfied that there has been a significant change in circumstances since the making of the special guardianship order.",
+          "references": [],
+          "title_references": []
+        },
+        "section-14E": {
+          "number": "14E",
+          "title": "Special guardianship orders: supplementary",
+          "content": "(1)In proceedings in which any question of making, varying or discharging a special guardianship order arises, the court shall (in the light of anyprovision in rules of court that is of the kind mentioned in section 11(2)(a) or (b))—\n(a)draw up a timetable with a view to determining the question without delay; and\n(b)give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that the timetable is adhered to.\n(2)Subsection (1) applies also in relation to proceedings in which any other question with respect to a special guardianship order arises.\n(3)The power to make rules in subsection (2) of section 11 applies for the purposes of this section as it applies for the purposes of that.\n(4)A special guardianship order, or an order varying one, may contain provisions which are to have effect for a specified period.\n(5)Section 11(7) (apart from paragraph (c)) applies in relation to special guardianship orders and orders varying them as it applies in relation to section 8 orders.",
+          "references": [
+            {
+              "section_number": 11,
+              "act": "same act"
+            },
+            {
+              "section_number": 8,
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-14F": {
+          "number": "14F",
+          "title": "Special guardianship support services",
+          "content": "(1)Each local authority must make arrangements for the provision within their area of special guardianship support services, which means—\n(a)counselling, advice and information; and\n(b)such other services as are prescribed,\nin relation to special guardianship.\n(2)The power to make regulations under subsection (1)(b) is to be exercised so as to secure that local authorities provide financial support.\n(3)At the request of any of the following persons—\n(a)a child with respect to whom a special guardianship order is in force;\n(b)a special guardian;\n(c)a parent;\n(d)any other person who falls within a prescribed description,\na local authority may carry out an assessment of that person’s needs for special guardianship support services (but, if the Secretary of State so provides in regulations, they must do so if he is a person of a prescribed description, or if his case falls within a prescribed description, or if both he and his case fall within prescribed descriptions).\n(4)A local authority may, at the request of any other person, carry out an assessment of that person’s needs for special guardianship support services.\n(5)Where, as a result of an assessment, a local authority decide that a person has needs for special guardianship support services, they must then decide whether to provide any such services to that person.\n(6)If—\n(a)a local authority decide to provide any special guardianship support services to a person, and\n(b)the circumstances fall within a prescribed description,\nthe local authority must prepare a plan in accordance with which special guardianship support services are to be provided to him, and keep the plan under review.\n(7)The Secretary of State may by regulations make provision about assessments, preparing and reviewing plans, the provision of special guardianship support services in accordance with plans and reviewing the provision of special guardianship support services.\n(8)The regulations may in particular make provision—\n(a)about the type of assessment which is to be carried out, or the way in which an assessment is to be carried out;\n(b)about the way in which a plan is to be prepared;\n(c)about the way in which, and the time at which, a plan or the provision of special guardianship support services is to be reviewed;\n(d)about the considerations to which a local authority are to have regard in carrying out an assessment or review or preparing a plan;\n(e)as to the circumstances in which a local authority may provide special guardianship support services subject to conditions (including conditions as to payment for the support or the repayment of financial support);\n(f)as to the consequences of conditions imposed by virtue of paragraph (e) not being met (including the recovery of any financial support provided);\n(g)as to the circumstances in which this section may apply to a local authority in respect of persons who are outside that local authority’s area;\n(h)as to the circumstances in which a local authority may recover from another local authority the expenses of providing special guardianship support services to any person.\n(9)A local authority may provide special guardianship support services (or any part of them) by securing their provision by—\n(a)another local authority; or\n(b)a person within a description prescribed in regulations of persons who may provide special guardianship support services,\nand may also arrange with any such authority or person for that other authority or that person to carry out the local authority’s functions in relation to assessments under this section.\n(10)A local authority may carry out an assessment of the needs of any person for the purposes of this section at the same time as an assessment of his needs is made under any other provision of this Act or under any other enactment.\n(11)Section 27 (co-operation between authorities) applies in relation to the exercise of functions of a local authorityin Englandunder this section as it applies in relation to the exercise of functions of a local authority under Part 3and see sections 164 and 164A of the Social Services and Well-being (Wales) Act 2014 for provision about co-operation between local authorities in Wales and other bodies.",
+          "references": [
+            {
+              "section_number": 164,
+              "act": "Social Services and Well-being (Wales) Act 2014"
+            },
+            {
+              "section_number": "164A",
+              "act": "Social Services and Well-being (Wales) Act 2014"
+            },
+            {
+              "section_number": 2014,
+              "act": "Social Services and Well-being (Wales) Act 2014"
+            }
+          ],
+          "title_references": []
+        },
+        "section-14G": {
+          "number": "14G",
+          "title": "Special guardianship support services: representations",
+          "content": "(1)Every local authority shall establish a procedure for considering representations (including complaints) made to them by any person to whom they may provide special guardianship support services about the discharge of their functions under section 14F in relation to him.\n(2)Regulations may be made by the Secretary of State imposing time limits on the making of representations under subsection (1).\n(3)In considering representations under subsection (1), a local authority shall comply with regulations (if any) made by the Secretary of State for the purposes of this subsection.",
+          "references": [
+            {
+              "section_number": "14F",
+              "act": "same act"
+            }
+          ],
+          "title_references": []
+        },
+        "section-15": {
+          "number": "15",
+          "title": "Orders for financial relief with respect to children.",
+          "subsections": {
+            "section-15-1": {
+              "number": "(1)",
+              "content": "Schedule 1 (which consists primarily of the re-enactment, with consequential amendments and minor modifications, of provisions ofsection 6 of Family Law Reform Act 1969the Guardianship of Minors Acts 1971 and 1973, the Children Act 1975 and of sections 15 and 16 of the Family Law Reform Act 1987) makes provision in relation to financial relief for children.",
+              "references": [
+                {
+                  "section_number": 6,
+                  "act": "Family Law Reform Act 1969"
+                },
+                {
+                  "section_number": 15,
+                  "act": "Family Law Reform Act 1987"
+                },
+                {
+                  "section_number": 16,
+                  "act": "Family Law Reform Act 1987"
+                },
+                {
+                  "section_number": 1987,
+                  "act": "Family Law Reform Act 1987"
+                }
+              ]
+            },
+            "section-15-2": {
+              "number": "(2)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-16": {
+          "number": "16",
+          "title": "Family assistance orders.",
+          "subsections": {
+            "section-16-1": {
+              "number": "(1)",
+              "content": "Where, in any family proceedings, the court has power to make an order under this Part with respect to any child, it may (whether or not it makes such an order) make an order requiring—",
+              "subitems": {
+                "section-16-1-a": {
+                  "number": "(a)",
+                  "content": "an officer of the Serviceor a Welsh family proceedings officerto be made available; or",
+                  "references": []
+                },
+                "section-16-1-b": {
+                  "number": "(b)",
+                  "content": "a local authority to make an officer of the authority available,",
+                  "references": []
+                }
+              },
+              "additional_content": "to advise, assist and (where appropriate) befriend any person named in the order.",
+              "references": [],
+              "additional_content_references": []
+            },
+            "section-16-2": {
+              "number": "(2)",
+              "content": "The persons who may be named in an order under this section (“a family assistance order”) are—",
+              "subitems": {
+                "section-16-2-a": {
+                  "number": "(a)",
+                  "content": "any parent, guardian or special guardianof the child;",
+                  "references": []
+                },
+                "section-16-2-b": {
+                  "number": "(b)",
+                  "content": "any person with whom the child is living orwho is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact ;",
+                  "references": []
+                },
+                "section-16-2-c": {
+                  "number": "(c)",
+                  "content": "the child himself.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-16-3": {
+              "number": "(3)",
+              "content": "No court may make a family assistance order unless—",
+              "subitems": {
+                "section-16-3-a": {
+                  "number": "(a)",
+                  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+                  "references": []
+                },
+                "section-16-3-b": {
+                  "number": "(b)",
+                  "content": "it has obtained the consent of every person to be named in the order other than the child.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-16-4": {
+              "number": "(4)",
+              "content": "A family assistance order may direct—",
+              "subitems": {
+                "section-16-4-a": {
+                  "number": "(a)",
+                  "content": "the person named in the order; or",
+                  "references": []
+                },
+                "section-16-4-b": {
+                  "number": "(b)",
+                  "content": "such of the persons named in the order as may be specified in the order,",
+                  "references": []
+                }
+              },
+              "additional_content": "to take such steps as may be so specified with a view to enabling the officer concerned to be kept informed of the address of any person named in the order and to be allowed to visit any such person.",
+              "references": [],
+              "additional_content_references": []
+            },
+            "section-16-4A": {
+              "number": "(4A)",
+              "content": "If the court makes a family assistance order with respect to a child and the order is to be in force at the same time as acontact provision contained in a child arrangements ordermade with respect to the child, the family assistance order may direct the officer concerned to give advice and assistance as regards establishing, improving and maintaining contact to such of the persons named in the order as may be specified in the order.",
+              "references": []
+            },
+            "section-16-4B": {
+              "number": "(4B)",
+              "content": "In subsection (4A) “contact provision” means provision which regulates arrangements relating to—",
+              "references": []
+            },
+            "section-16-5": {
+              "number": "(5)",
+              "content": "Unless it specifies a shorter period, a family assistance order shall have effect for a period oftwelve monthsbeginning with the day on which it is made.",
+              "references": []
+            },
+            "section-16-6": {
+              "number": "(6)",
+              "content": "If the court makes a family assistance order with respect to a child and the order is to be in force at the same time as a section 8 order made with respect to the child, the family assistance order may direct the officer concerned to report to the court on such matters relating to the section 8 order as the court may require (including the question whether the section 8 order ought to be varied or discharged).",
+              "references": []
+            },
+            "section-16-7": {
+              "number": "(7)",
+              "content": "A family assistance order shall not be made so as to require a local authority to make an officer of theirs available unless—",
+              "subitems": {
+                "section-16-7-a": {
+                  "number": "(a)",
+                  "content": "the authority agree; or",
+                  "references": []
+                },
+                "section-16-7-b": {
+                  "number": "(b)",
+                  "content": "the child concerned lives or will live within their area.",
+                  "references": []
+                }
+              },
+              "references": []
+            },
+            "section-16-8": {
+              "number": "(8)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            },
+            "section-16-9": {
+              "number": "(9)",
+              "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+              "references": []
+            }
+          },
+          "title_references": []
+        },
+        "section-16A": {
+          "number": "16A",
+          "title": "Risk assessments",
+          "content": "(1)This section applies to the following functions of officers of the Service or Welsh family proceedings officers—\n(a)any function in connection with family proceedings in which the court has power to make an order under this Part with respect to a child or in which a question with respect to such an order arises;\n(b)any function in connection with an order made by the court in such proceedings.\n(2)If, in carrying out any function to which this section applies, an officer of the Service or a Welsh family proceedings officer is given cause to suspect that the child concerned is at risk of harm, he must—\n(a)make a risk assessment in relation to the child, and\n(b)provide the risk assessment to the court.\n(3)A risk assessment, in relation to a child who is at risk of suffering harm of a particular sort, is an assessment of the risk of that harm being suffered by the child.",
+          "references": [],
+          "title_references": []
+        }
+      },
+      "title_references": []
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "exactly_identical": [],
+  "reasonably_equal": [],
+  "same_meaning_substantial_paraphrase": [],
+  "same_norm_different_meaning": [
+    {
+      "pair_id": "0-1",
+      "annotation": "IT IS PERMITTED\nFOR Secretary of State\nTO make payments to assist individuals in paying relevant charges or fees\nWHEN individuals fall within subsection (2) [source: 11F(2)]",
+      "groundtruth": "IT IS PERMITTED\nFOR the National Assembly for Wales\nTO by regulations, make provision authorising it to make payments to assist individuals falling within subsection (4) in paying relevant charges or fees.",
+      "annotation_index": 0,
+      "groundtruth_index": 1,
+      "llm_category": "same_norm_different_meaning"
+    },
+    {
+      "pair_id": "3-0",
+      "annotation": "IT IS PROHIBITED\nFOR individual\nTO receive assistance for activities in England\nUNLESS the activity is provided by a person approved by the Secretary of State",
+      "groundtruth": "IT IS PERMITTED\nFOR the Secretary of State\nTO make regulations authorising payments to assist individuals required by an activity direction or condition to take part in an activity",
+      "annotation_index": 3,
+      "groundtruth_index": 0,
+      "llm_category": "same_norm_different_meaning"
+    }
+  ],
+  "only_in_annotations": [
+    {
+      "annotation": "IT IS PERMITTED\nFOR National Assembly for Wales\nTO make payments to assist individuals in paying relevant charges or fees\nWHEN individuals fall within subsection (4) [source: 11F(4)]",
+      "annotation_index": 1
+    },
+    {
+      "annotation": "IT IS PROHIBITED\nFOR individual\nTO receive assistance\nUNLESS the individual satisfies such conditions as regards his financial resources as may be set out in the regulations\nUNLESS the activity is provided to him in England or Wales",
+      "annotation_index": 2
+    },
+    {
+      "annotation": "IT IS PROHIBITED\nFOR individual\nTO receive assistance for activities in Wales\nUNLESS the activity is provided by a person approved by the National Assembly for Wales",
+      "annotation_index": 4
+    },
+    {
+      "annotation": "IT IS PERMITTED\nFOR regulations\nTO make provision as to the maximum amount of assistance that may be paid\nWHEN an individual is required by an activity direction or condition to take part in an activity",
+      "annotation_index": 5
+    },
+    {
+      "annotation": "IT IS PERMITTED\nFOR regulations\nTO vary the amount of assistance according to an individual's financial resources\nAS TO the method by which the amount is to be determined",
+      "annotation_index": 6
+    },
+    {
+      "annotation": "IT IS PERMITTED\nFOR regulations\nTO authorize payments by way of assistance to be made directly to persons providing activities\nWHEN activities are required by an activity direction or condition",
+      "annotation_index": 7
+    }
+  ],
+  "only_in_groundtruth": [
+    {
+      "groundtruth": "IT IS PERMITTED\nFOR Regulations under this section\nTO provide that no assistance is available to an individual\nUNLESS — (a) the individual satisfies such conditions as regards his financial resources as may be set out in the regulations; (b) the activity in which the individual is required by an activity direction or condition to take part is provided to him in England or Wales; (c) where the activity in which the individual is required to take part is provided to him in England, it is provided by a person who is for the time being approved by the Secretary of State as a provider of activities required by an activity direction or condition; (d) where the activity in which the individual is required to take part is provided to him in Wales, it is provided by a person who is for the time being approved by the National Assembly for Wales as a provider of activities required by a an activity direction or condition. [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11F]",
+      "groundtruth_index": 2
+    },
+    {
+      "groundtruth": "IT IS PERMITTED\nFOR Regulations under this section\nTO make provision— (a) as to the maximum amount of assistance that may be paid to or in respect of an individual as regards an activity in which he is required by a an activity direction or condition to take part; (b) where the amount may vary according to an individual's financial resources, as to the method by which the amount is to be determined; (c) authorising payments by way of assistance to be made directly to persons providing activities required by an activity direction or condition.",
+      "groundtruth_index": 3
+    }
+  ]
+}

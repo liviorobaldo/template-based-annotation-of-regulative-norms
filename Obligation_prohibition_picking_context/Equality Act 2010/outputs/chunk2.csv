@@ -1,4 +1,4 @@
-"input","output","section_texts"
+input,output,section_texts
 "IT IS PERMITTED
 FOR A Minister of the Crown
 TO issue guidance about matters to be taken into account 
@@ -104,7 +104,7 @@ UNLESS the combination of characteristics includes disability in circumstances w
     {
       ""type"": ""UNLESS"",
       ""text"": ""in reliance on another provision of this Act or any other enactment, A shows that A's treatment of B is not direct discrimination because of either or both of the characteristics in the combination"",
-      ""section"": ""https://www.legislation.gov.uk/ukpga/2010/15/section/13""
+      ""section"": ""https://www.legislation.gov.uk/ukpga/2010/15/section/14""
     },
     {
       ""type"": ""UNLESS"",
@@ -115,9 +115,7 @@ UNLESS the combination of characteristics includes disability in circumstances w
   ""_alt_section_urls"": [
     ""https://www.legislation.gov.uk/ukpga/2010/15/section/13""
   ]
-}","[
-  ""section-13"",
-  ""section-14""
+}","[ ""section-14""
 ]"
 "IT IS PERMITTED
 FOR a person B

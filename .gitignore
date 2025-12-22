@@ -16,3 +16,5 @@ Verifier/openai_requests.jsonl
 __pycache__/*
 */__pycache__/*
 *__pycache__*
+*__pycache__/*
+automator/__pycache__/conersion_for_verifier.cpython-313.pyc

@@ -1,0 +1,51 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "OBLIGATORY",
+    "for": "the child’s welfare",
+    "to": "be the court’s paramount consideration",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "a court determines any question with respect to— (a) the upbringing of a child; or (b) the administration of a child’s property or the application of any income arising from it",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "PROHIBITED",
+    "for": "a court",
+    "to": "make the order or any of the orders",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the court is considering whether or not to make one or more orders under this Act with respect to a child",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      },
+      {
+        "type": "UNLESS",
+        "text": "it considers that doing so would be better for the child than making no order at all.",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "PERMITTED",
+    "for": "a court",
+    "to": "in any family proceedings in which a question arises with respect to the welfare of any child, make a section 8 order with respect to the child",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "(a) an application for the order has been made by a person who—(i) is entitled to apply for a section 8 order with respect to the child; or (ii) has obtained the leave of the court to make the application; or (b) the court considers that the order should be made even though no such application has been made",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      {
+        "type": "SUBJECT TO",
+        "text": "the restrictions in section 9.",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      }
+    ]
+  }
+]

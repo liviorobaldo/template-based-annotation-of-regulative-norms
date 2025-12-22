@@ -1,0 +1,69 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "a child arrangements order",
+    "to": "impose an activity condition on an individual who is a child",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "the individual is a parent of the child concerned.",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ],
+    "_alt_section_urls": [
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11H",
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11B"
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "a child arrangements order",
+    "to": "impose an activity condition",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "it is an excepted order (within the meaning given by section 11B(4)).",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ],
+    "_alt_section_urls": [
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11K",
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11P"
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "a child arrangements order",
+    "to": "be varied so as to impose an activity condition",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "it is an excepted order (within the meaning given by section 11B(4)).",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ],
+    "_alt_section_urls": [
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11H",
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11K"
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "a child arrangements order",
+    "to": "impose an activity condition on an individual",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "the individual is habitually resident in England and Wales.",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ],
+    "_alt_section_urls": [
+      "https://www.legislation.gov.uk/ukpga/1989/41/section/11G"
+    ]
+  }
+]

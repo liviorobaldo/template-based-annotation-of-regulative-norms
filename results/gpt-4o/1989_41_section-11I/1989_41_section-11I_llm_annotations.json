@@ -1,0 +1,15 @@
+[
+  {
+    "main_section": "section-11I",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "attach to the child arrangements order (or the order varying the contact order) a notice warning of the consequences of failing to comply with the child arrangements order",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the court makes (or varies) a child arrangements order",
+        "section": "section-11I"
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "consider whether to make provision about one or more of the matters mentioned in subsection (1A)",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make an activity direction in connection with the provision that the court is considering whether to make",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in proceedings in which the court is considering whether to make provision about one or more of the matters mentioned in subsection (1A)",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make an activity direction in connection with that provision of the child arrangements order",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in proceedings in which subsection (2) does not apply and in which the court is considering whether a person has failed to comply with a provision of a child arrangements order",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "OBLIGATORY",
+    "for": "an individual who is a party to the proceedings",
+    "to": "take part in an activity that would help to establish, maintain or improve the involvement in the life of the child concerned",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "OBLIGATORY",
+    "for": "the direction",
+    "to": "specify the activity and the person providing the activity",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "be required by an activity direction to undergo medical or psychiatric examination, assessment or treatment",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "be required by an activity direction to take part in mediation",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make an activity direction under subsection (2) and dispose finally of the proceedings as they relate to the matters mentioned in subsection (1A)",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make an activity direction under subsection (2B) and dispose finally of the proceedings as they relate to failure to comply with the provision in connection with which the activity direction is made",
+    "conditions": null
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "consider the welfare of the child concerned as the paramount consideration",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in considering whether to make an activity direction",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11A"
+      }
+    ]
+  }
+]

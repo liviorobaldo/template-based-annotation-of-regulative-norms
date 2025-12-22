@@ -1,0 +1,119 @@
+[
+  {
+    "main_section": "section-11A(2)",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make an activity direction in connection with the provision the court is considering whether to make",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the court is considering whether to make provision about one or more of the matters mentioned in subsection (1A)",
+        "section": "section-11A(1)"
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(2B)",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make an activity direction in connection with the provision of the child arrangements order",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "a person has failed to comply with a provision of a child arrangements order or what steps to take in consequence of a person's failure to comply",
+        "section": "section-11A(2A)"
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(3)",
+    "type": "OBLIGATORY",
+    "for": "an individual who is a party to the proceedings",
+    "to": "take part in an activity that would help to establish, maintain or improve the involvement in the life of the child concerned",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the court issues an activity direction",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(4)",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "specify the activity and the person providing the activity in the direction",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "issuing an activity direction",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(6)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "require an individual by an activity direction to undergo medical or psychiatric examination, assessment or treatment",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "issuing an activity direction",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(6)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "require an individual by an activity direction to take part in mediation",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "issuing an activity direction",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(7)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make an activity direction under subsection (2) and dispose finally of the proceedings as they relate to the matters mentioned in subsection (1A) on the same occasion",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the activity direction is made in connection with the matters mentioned in subsection (1A)",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(7A)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make an activity direction under subsection (2B) and dispose finally of the proceedings as they relate to failure to comply with the provision on the same occasion",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the activity direction is made in connection with the failure to comply with the provision",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11A(9)",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "consider the welfare of the child as the paramount consideration",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "considering whether to make an activity direction",
+        "section": null
+      }
+    ]
+  }
+]

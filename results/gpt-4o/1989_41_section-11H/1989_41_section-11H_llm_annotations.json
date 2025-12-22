@@ -1,0 +1,56 @@
+[
+  {
+    "main_section": "11H(2)",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "ask an officer of the Service or a Welsh family proceedings officer to monitor compliance with a child arrangements order",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "in any family proceedings the court makes a child arrangements order or an order varying a child arrangements order",
+        "section": "11H(1)"
+      }
+    ]
+  },
+  {
+    "main_section": "11H(2)",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "ask an officer of the Service or a Welsh family proceedings officer to report on matters relating to an individual's compliance with a child arrangements order",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "in any family proceedings the court makes a child arrangements order or an order varying a child arrangements order",
+        "section": "11H(1)"
+      }
+    ]
+  },
+  {
+    "main_section": "11H(7)",
+    "type": "OBLIGATORY",
+    "for": "the officer of the Service or Welsh family proceedings officer",
+    "to": "comply with any request under subsection (2)",
+    "conditions": []
+  },
+  {
+    "main_section": "11H(8)",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "order any individual falling within subsection (3) to take steps to enable compliance with the court's request under subsection (2)",
+    "conditions": []
+  },
+  {
+    "main_section": "11H(9)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make an order under subsection (8) with respect to an individual who is a child unless he is a parent of the child",
+    "conditions": []
+  },
+  {
+    "main_section": "11H(10)",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make a request under subsection (2) in relation to a child arrangements order that is an excepted order",
+    "conditions": []
+  }
+]

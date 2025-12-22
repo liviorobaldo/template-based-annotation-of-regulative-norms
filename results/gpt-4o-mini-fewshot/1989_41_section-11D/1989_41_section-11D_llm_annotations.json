@@ -1,0 +1,54 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "an individual who is a child",
+    "to": "have an activity condition imposed on them",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the individual is a parent of the child concerned",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "a child arrangements order",
+    "to": "impose an activity condition if it is an excepted order",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the child arrangements order is an excepted order (within the meaning given by section 11B(4))",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "have an activity condition imposed on them",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the individual is not habitually resident in England and Wales",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D",
+    "type": "OBLIGATORY",
+    "for": "an activity condition",
+    "to": "cease to have effect",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the individual subject to the condition ceases to be habitually resident in England and Wales",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/11D"
+      }
+    ]
+  }
+]

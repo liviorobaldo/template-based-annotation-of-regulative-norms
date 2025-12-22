@@ -1,0 +1,150 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make a section 8 order with respect to the child",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "a question arises with respect to the welfare of any child",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      {
+        "type": "IF",
+        "text": "an application for the order has been made by a person who is entitled to apply for a section 8 order with respect to the child; or has obtained the leave of the court to make the application; or the court considers that the order should be made even though no such application has been made",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "make a section 8 order with respect to any child",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "on the application of a person who is entitled to apply for a section 8 order with respect to the child; or has obtained the leave of the court to make the application",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "consider the restrictions imposed by section 9",
+    "conditions": [
+      {
+        "type": "SUBJECT TO",
+        "text": "the restrictions imposed by section 9",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "any parent, guardian or special guardian of the child",
+    "to": "be entitled to apply to the court for any section 8 order with respect to a child",
+    "conditions": [
+      null,
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "any person who has parental responsibility for the child",
+    "to": "be entitled to apply for a child arrangements order with respect to a child",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in any case where a child arrangements order in force with respect to the child regulates arrangements relating to with whom the child is to live or when the child is to live with any person",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      {
+        "type": "ONLY IF",
+        "text": "has the consent of each of the persons named in the order as a person with whom the child is to live",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "a local authority foster parent",
+    "to": "be entitled to apply for a child arrangements order with respect to a child",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the child has lived with him for a period of at least one year immediately preceding the application",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "a relative of a child",
+    "to": "be entitled to apply for a child arrangements order with respect to the child",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the child has lived with the relative for a period of at least one year immediately preceding the application",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "any person who would not otherwise be entitled to apply for the variation or discharge of a section 8 order",
+    "to": "be entitled to do so",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the order was made on his application",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      {
+        "type": "OR",
+        "text": "in the case of a child arrangements order, he is named in provisions of the order regulating arrangements relating to with whom the child concerned is to spend time or otherwise have contact",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "have particular regard to certain factors when deciding whether or not to grant leave",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the person applying for leave to make an application for a section 8 order is not the child concerned",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "grant leave if it is satisfied that the child concerned has sufficient understanding to make the proposed application for the section 8 order",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the person applying for leave to make an application for a section 8 order is the child concerned",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/10"
+      },
+      null
+    ]
+  }
+]

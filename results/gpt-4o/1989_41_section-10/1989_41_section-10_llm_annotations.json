@@ -1,0 +1,160 @@
+[
+  {
+    "main_section": "section-10-1",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make a section 8 order with respect to the child",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "a question arises with respect to the welfare of any child",
+        "section": "section-10-1"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-1-b",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make a section 8 order even though no application has been made",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the court considers that the order should be made",
+        "section": "section-10-1-b"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-2",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "make a section 8 order on the application of a person",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the person is entitled to apply for a section 8 order or has obtained the leave of the court",
+        "section": "section-10-2"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-3",
+    "type": "SUBJECT TO",
+    "for": "this section",
+    "to": "the restrictions imposed by section 9",
+    "conditions": []
+  },
+  {
+    "main_section": "section-10-4",
+    "type": "PERMITTED",
+    "for": "any parent, guardian, or special guardian of the child",
+    "to": "apply to the court for any section 8 order with respect to a child",
+    "conditions": []
+  },
+  {
+    "main_section": "section-10-5",
+    "type": "PERMITTED",
+    "for": "any party to a marriage or civil partnership in relation to whom the child is a child of the family",
+    "to": "apply for a child arrangements order with respect to a child",
+    "conditions": []
+  },
+  {
+    "main_section": "section-10-5A",
+    "type": "PERMITTED",
+    "for": "a local authority foster parent",
+    "to": "apply for a child arrangements order",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the child has lived with him for a period of at least one year immediately preceding the application",
+        "section": "section-10-5A"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-5B",
+    "type": "PERMITTED",
+    "for": "a relative of a child",
+    "to": "apply for a child arrangements order",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the child has lived with the relative for a period of at least one year immediately preceding the application",
+        "section": "section-10-5B"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-6",
+    "type": "PERMITTED",
+    "for": "a person who would not otherwise be entitled",
+    "to": "apply for the variation or discharge of a section 8 order",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the order was made on his application or he is named in provisions of the order",
+        "section": "section-10-6"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-7",
+    "type": "PERMITTED",
+    "for": "any person who falls within a category of person prescribed by rules of court",
+    "to": "apply for any such section 8 order as may be prescribed",
+    "conditions": []
+  },
+  {
+    "main_section": "section-10-7A",
+    "type": "PERMITTED",
+    "for": "an application for a child arrangements order",
+    "to": "be made with respect to a child",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the leave of the court is obtained",
+        "section": "section-10-7A"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-8",
+    "type": "PERMITTED",
+    "for": "the court",
+    "to": "grant leave to a child to make an application for a section 8 order",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the court is satisfied that the child has sufficient understanding",
+        "section": "section-10-8"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-9",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "have particular regard to specified factors when deciding whether to grant leave",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the person applying for leave is not the child concerned",
+        "section": "section-10-9"
+      }
+    ]
+  },
+  {
+    "main_section": "section-10-10",
+    "type": "PERMITTED",
+    "for": "a person",
+    "to": "apply for a child arrangements order",
+    "conditions": [
+      {
+        "type": "WHEN",
+        "text": "the period of three years mentioned need not be continuous but must not have begun more than five years before, or ended more than three months before, the making of the application",
+        "section": "section-10-10"
+      }
+    ]
+  }
+]

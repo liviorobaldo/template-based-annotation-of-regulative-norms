@@ -1,0 +1,54 @@
+[
+  {
+    "main_section": "section-11D",
+    "type": "PROHIBITED",
+    "for": "individual who is a child",
+    "to": "have an activity condition imposed on them",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the individual is a parent of the child concerned",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11D",
+    "type": "PROHIBITED",
+    "for": "child arrangements order",
+    "to": "impose an activity condition",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the child arrangements order is an excepted order (within the meaning given by section 11B(4))",
+        "section": "11B(4)"
+      }
+    ]
+  },
+  {
+    "main_section": "section-11D",
+    "type": "PROHIBITED",
+    "for": "individual",
+    "to": "have an activity condition imposed on them",
+    "conditions": [
+      {
+        "type": "ONLY IF",
+        "text": "the individual is habitually resident in England and Wales",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11D",
+    "type": "OBLIGATORY",
+    "for": "activity condition",
+    "to": "cease to have effect",
+    "conditions": [
+      {
+        "type": "IF",
+        "text": "the individual subject to the condition ceases to be habitually resident in England and Wales",
+        "section": null
+      }
+    ]
+  }
+]

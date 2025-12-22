@@ -1,0 +1,17 @@
+{
+  "exactly_identical": [],
+  "reasonably_equal": [
+    {
+      "pair_id": "0-0",
+      "annotation": "IT IS OBLIGATORY\nFOR the court\nTO attach to the child arrangements order (or the order varying the contact order) a notice warning of the consequences of failing to comply with the child arrangements order\nWHEN the court makes (or varies) a child arrangements order [source: section-11I]",
+      "groundtruth": "IT IS OBLIGATORY\nFOR a court\nTO attach to the child arrangements order (or the order varying the contact order) a notice warning of the consequences of failing to comply with the child arrangements order\nWHEN/IF/WHERE the court makes (or varies) a child arrangements order. [source: https://www.legislation.gov.uk/ukpga/1989/41/section/11I]",
+      "annotation_index": 0,
+      "groundtruth_index": 0,
+      "llm_category": "reasonably_equal"
+    }
+  ],
+  "same_meaning_substantial_paraphrase": [],
+  "same_norm_different_meaning": [],
+  "only_in_annotations": [],
+  "only_in_groundtruth": []
+}

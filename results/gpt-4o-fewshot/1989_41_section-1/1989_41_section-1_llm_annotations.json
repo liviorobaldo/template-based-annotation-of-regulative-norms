@@ -1,0 +1,77 @@
+[
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "consider the child’s welfare as the paramount consideration",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "a court determines any question with respect to— (a) the upbringing of a child; or (b) the administration of a child’s property or the application of any income arising from it",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "have regard to the general principle that any delay in determining the question is likely to prejudice the welfare of the child",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "any proceedings in which any question with respect to the upbringing of a child arises",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "presume that involvement of each parent will further the child's welfare",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in the circumstances mentioned in subsection (4)(a) or (7)",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      },
+      {
+        "type": "UNLESS",
+        "text": "the contrary is shown",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "OBLIGATORY",
+    "for": "the court",
+    "to": "have regard in particular to the factors listed in subsection (3)",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "in the circumstances mentioned in subsection (4)",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  },
+  {
+    "main_section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+    "type": "PROHIBITED",
+    "for": "the court",
+    "to": "make the order or any of the orders",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "the court is considering whether or not to make one or more orders under this Act with respect to a child",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      },
+      {
+        "type": "UNLESS",
+        "text": "it considers that doing so would be better for the child than making no order at all",
+        "section": "https://www.legislation.gov.uk/ukpga/1989/41/section/1"
+      }
+    ]
+  }
+]

@@ -1,4 +1,0 @@
-2025-11-12 11:39:25,170 - __main__ - INFO - Sending all sections together in one prompt to the LLM using LangChain. Total characters: 0
-2025-11-12 11:39:27,441 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-11-12 11:39:27,461 - __main__ - INFO - Received annotation result for all sections together (LangChain). Attempting to parse JSON.
-2025-11-12 11:39:27,461 - __main__ - ERROR - Failed to parse LLM output as JSON: Expecting value: line 1 column 1 (char 0)

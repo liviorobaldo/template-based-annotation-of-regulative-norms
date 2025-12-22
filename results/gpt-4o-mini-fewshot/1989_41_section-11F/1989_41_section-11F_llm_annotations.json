@@ -1,0 +1,122 @@
+[
+  {
+    "main_section": "section-11F",
+    "type": "OBLIGATORY",
+    "for": "the Secretary of State",
+    "to": "make payments to assist individuals falling within subsection (2) in paying relevant charges or fees",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11F",
+    "type": "OBLIGATORY",
+    "for": "an individual",
+    "to": "take part in an activity that is expected to help to establish, maintain or improve the involvement of that or another individual in the life of a child, not being a child ordinarily resident in Wales",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "required by an activity direction or condition",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "OBLIGATORY",
+    "for": "the National Assembly for Wales",
+    "to": "make payments to assist individuals falling within subsection (4) in paying relevant charges or fees",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11F",
+    "type": "OBLIGATORY",
+    "for": "an individual",
+    "to": "take part in an activity that is expected to help to establish, maintain or improve the involvement of that or another individual in the life of a child who is ordinarily resident in Wales",
+    "conditions": [
+      {
+        "type": "WHEN/IF/WHERE",
+        "text": "required by an activity direction or condition",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "receive assistance",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "the individual satisfies such conditions as regards his financial resources as may be set out in the regulations",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "receive assistance",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "the activity in which the individual is required to take part is provided to him in England or Wales",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "receive assistance",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "where the activity in which the individual is required to take part is provided to him in England, it is provided by a person who is for the time being approved by the Secretary of State as a provider of activities required by an activity direction or condition",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PROHIBITED",
+    "for": "an individual",
+    "to": "receive assistance",
+    "conditions": [
+      {
+        "type": "UNLESS",
+        "text": "where the activity in which the individual is required to take part is provided to him in Wales, it is provided by a person who is for the time being approved by the National Assembly for Wales as a provider of activities required by an activity direction or condition",
+        "section": null
+      }
+    ]
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PERMITTED",
+    "for": "regulations under this section",
+    "to": "provide that no assistance is available to an individual",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PERMITTED",
+    "for": "regulations under this section",
+    "to": "make provision as to the maximum amount of assistance that may be paid to or in respect of an individual",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PERMITTED",
+    "for": "regulations under this section",
+    "to": "make provision where the amount may vary according to an individual's financial resources, as to the method by which the amount is to be determined",
+    "conditions": []
+  },
+  {
+    "main_section": "section-11F",
+    "type": "PERMITTED",
+    "for": "regulations under this section",
+    "to": "authorise payments by way of assistance to be made directly to persons providing activities required by an activity direction or condition",
+    "conditions": []
+  }
+]

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <annotations>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>The Appropriate National Authority</p>
@@ -34,12 +34,12 @@
           <li>and (b) the inspection relates to a private children’s home or a care home (see,</li>
           <li>instead the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)).</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>an inspection under this section</p>
@@ -50,7 +50,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PROHIBITED</type>
     <for>
       <p>an officer of a local authority</p>
@@ -61,7 +61,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Appropriate National Authority</p>
@@ -87,12 +87,12 @@
           <li>and (b) the inspection relates to a private children’s home or a care home (see,</li>
           <li>instead the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)).</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>any person inspecting any home or other premises under this section</p>
@@ -113,12 +113,12 @@
           <li>and (b) the inspection relates to a private children’s home or a care home (see,</li>
           <li>instead the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)).</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/105</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/105</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any person authorised by the Appropriate National Authority to exercise the power to inspect records conferred by subsection (4)</p>
@@ -129,7 +129,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>any person authorised by the Appropriate National Authority to exercise the power to inspect records conferred by subsection (4)</p>
@@ -140,7 +140,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>a person authorised to inspect any premises under this section</p>
@@ -151,7 +151,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any person exercising that power</p>
@@ -163,12 +163,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>so required.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PROHIBITED</type>
     <for>
       <p>any person</p>
@@ -179,7 +179,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Appropriate National Authority</p>
@@ -190,7 +190,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>any such order</p>
@@ -201,7 +201,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -217,7 +217,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -228,7 +228,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -245,12 +245,12 @@
           <li>or ceases to be used as,</li>
           <li>secure accommodation.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -266,7 +266,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -281,7 +281,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -297,7 +297,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>any local authority</p>
@@ -313,7 +313,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>every local authority</p>
@@ -329,7 +329,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>every voluntary organisation</p>
@@ -340,7 +340,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>particulars required to be transmitted under subsection (3) or (4)</p>
@@ -351,7 +351,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -366,7 +366,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -377,7 +377,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -388,7 +388,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>The Secretary of State</p>
@@ -405,7 +405,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -417,12 +417,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the Secretary of State is satisfied that the authority has failed, without reasonable excuse, to comply with any of the duties imposed on them by or under this Act.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the accommodating authority</p>
@@ -439,12 +439,12 @@
           <li>on the part of that authority,</li>
           <li>of accommodating him for such a period.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>accommodating authority</p>
@@ -456,12 +456,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>subsection (1) applies with respect to a child.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>subsections (1) and (2)</p>
@@ -478,12 +478,12 @@
           <li>and (b)pursuant to arrangements made by the Secretary of State,</li>
           <li>NHS England or an integrated care board under the National Health Service Act 2006</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the local authority</p>
@@ -498,12 +498,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the appropriate officer of a local authority in England has been notified under this section, or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities).</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>anyone</p>
@@ -515,12 +515,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the child is not in the area of the local authority.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the person carrying on the establishment in question</p>
@@ -537,12 +537,12 @@
           <li>on the part of the person taking the decision to accommodate him,</li>
           <li>of accommodating him for such period.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the person carrying on the establishment</p>
@@ -554,12 +554,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>subsection (1) applies with respect to a child.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the local authority</p>
@@ -574,12 +574,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the appropriate officer of a local authority has been notified under this section.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PROHIBITED</type>
     <for>
       <p>the person carrying on any care home or independent hospital</p>
@@ -590,7 +590,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>a person authorised by a local authority in England</p>
@@ -601,7 +601,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PROHIBITED</type>
     <for>
       <p>any person</p>
@@ -612,7 +612,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any person exercising the power of entry</p>
@@ -624,12 +624,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>so required.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the local authority</p>
@@ -640,7 +640,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>Regulations under this section</p>
@@ -656,7 +656,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>a local authority</p>
@@ -668,12 +668,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>choosing a representative.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the relevant person</p>
@@ -685,12 +685,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>a school or college provides accommodation for any child.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the appropriate authority</p>
@@ -702,12 +702,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>accommodation is provided for a child by any school or college the appropriate.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -719,12 +719,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>accommodation is provided for a child by a school or college in England.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>the Welsh Ministers</p>
@@ -736,12 +736,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>accommodation is provided for a child by a school or college in Wales.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Chief Inspector for England</p>
@@ -760,12 +760,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>he is of the opinion that there has been a failure to comply with subsection (1) in relation to a child provided with accommodation by a school or college in England.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the National Assembly for Wales</p>
@@ -782,12 +782,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>they are of the opinion that there has been a failure to comply with subsection (1) in relation to a child provided with accommodation by a school or college in Wales.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>a person authorised by the appropriate authority</p>
@@ -799,12 +799,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>accommodation is, or is to be, provided for a child by any school or college.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>PERMITTED</type>
     <for>
       <p>any person exercising the power conferred by subsection (5)</p>
@@ -815,7 +815,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>anyon exercising that power</p>
@@ -827,12 +827,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>asked to do so.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/80</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/80</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any person authorised by the regulations to inspect records</p>
@@ -843,7 +843,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
     <type>PERMITTED</type>
     <for>
       <p>any person authorised by the regulations to inspect records</p>
@@ -854,7 +854,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
     <type>PROHIBITED</type>
     <for>
       <p>any person</p>
@@ -865,7 +865,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
     <type>OBLIGATORY</type>
     <for>
       <p>an authority</p>
@@ -877,12 +877,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the Chief Inspector for England or the National Assembly for Wales exercises the power conferred by subsection (5) in relation to a child.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
     <type>OBLIGATORY</type>
     <for>
       <p>Chief Inspector for England or the National Assembly for Wales</p>
@@ -897,12 +897,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>it publishes a report under this section.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -918,12 +918,12 @@
           <li>(a)that person already acts as an inspector for other purposes in relation to schools or colleges to which section 87(1) applies,</li>
           <li>and (b)the Secretary of State is satisfied that the person is an appropriate person to determine whether the welfare of children provided with accommodation by such schools or colleges is adequately safeguarded and promoted while accommodation for the children is provided by them.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the appropriate authority’s duty under section 87(3) in relation to any school or college that has been suspended</p>
@@ -939,7 +939,7 @@
           <li>(a)a notice under subsection (4) relating to the inspector,</li>
           <li>or (b)a notice under subsection (5) relating to the relevant agreement.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
       <condition>
         <type>UNLESS</type>
@@ -949,12 +949,12 @@
           <li>(b) the agreement provides for the person so appointed to have in relation to the school or college the function of determining whether section 87(1) is being complied with,</li>
           <li>and (c) the appropriate authority receive from the person mentioned in paragraph (b) (“the inspector”) notice in writing that the agreement has come into effect</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -972,12 +972,12 @@
           <li>in relation to that person,</li>
           <li>to be satisfied that he is such a person as is mentioned in paragraph (b) of that subsection.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -995,12 +995,12 @@
           <li>in relation to that person,</li>
           <li>to be satisfied that he is such a person as is mentioned in paragraph (b) of that subsection.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -1012,12 +1012,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>deciding whether to appoint a person to be an inspector for the purposes of this section in relation to schools or colleges in England, or to terminate the appointment of such a person under subsection (4)(b).</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the inspector</p>
@@ -1033,12 +1033,12 @@
           <li>(a)the appropriate authority’s duty under section 87(3) in relation to any school or college is suspended under this section,</li>
           <li>and (b)the relevant agreement ceases to have effect.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87B</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87B</section>
     <type>PERMITTED</type>
     <for>
       <p>Secretary of State</p>
@@ -1049,7 +1049,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87B</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87B</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the inspector</p>
@@ -1068,12 +1068,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>, in the course of carrying out under a substitution agreement the function mentioned in section 87A(2)(b), it appears to the authorised inspector that there has been a failure to comply with section 87(1) in the case of a child provided with accommodation by the school or college to which the agreement relates.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87B</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87B</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87B</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87B</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the inspector</p>
@@ -1090,12 +1090,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>, in the course of carrying out under a substitution agreement the function mentioned in section 87A(2)(b), it appears to the authorised inspector that a child provided with accommodation by the school or college to which the agreement relates is suffering, or is likely to suffer, significant harm.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87B</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87B</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87BA</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87BA</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Chief Inspector for England</p>
@@ -1106,7 +1106,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87BA</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87BA</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Chief Inspector for England</p>
@@ -1118,12 +1118,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>preparing a report under this section.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87BA</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87BA</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87BA</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87BA</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -1138,7 +1138,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87C</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87C</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -1149,7 +1149,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87C</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87C</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -1160,7 +1160,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87C</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87C</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -1172,12 +1172,12 @@
       <condition>
         <type>BEFORE</type>
         <p>issuing a statement, or an amended statement which in the opinion of the Secretary of State effects a substantial change in the standards.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87C</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87C</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87D</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87D</section>
     <type>PERMITTED</type>
     <for>
       <p>regulations under subsection (2)</p>
@@ -1188,7 +1188,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/87D</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/87D</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -1199,7 +1199,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/90</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/90</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the powers given by that Act to include requirements in supervision orders</p>
@@ -1211,12 +1211,12 @@
       <condition>
         <type>SUBJECT TO</type>
         <p>amendments made by Schedule 12.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/90</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/90</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>a care order</p>
@@ -1228,17 +1228,17 @@
       <condition>
         <type>SUBJECT TO</type>
         <p>the emergency protection order</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>an emergency protection order is made with respect to a child who is in care</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any order made under section 4(1) 4ZA(1),4A(1) or 5(1)</p>
@@ -1250,12 +1250,12 @@
       <condition>
         <type>UNLESS</type>
         <p>it is brought to an end earlier.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p/>
@@ -1271,12 +1271,12 @@
       <condition>
         <type>UNLESS</type>
         <p>it is brought to an end earlier.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>a section 8 order</p>
@@ -1288,17 +1288,17 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>it would otherwise still be in force</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
       <condition>
         <type>UNLESS</type>
         <p>it is to have effect beyond that age by virtue of section 9(6).</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>a section 8 order</p>
@@ -1310,17 +1310,17 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>it would otherwise still be in force</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>a section 8 order has effect with respect to a child who has reached the age of sixteen</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any care order, other than an interim care order</p>
@@ -1332,12 +1332,12 @@
       <condition>
         <type>UNLESS</type>
         <p>it is brought to an end earlier.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any order made under any other provision of this Act in relation to a child</p>
@@ -1349,12 +1349,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>it would otherwise still be in force.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1366,12 +1366,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>disposing of any application for an order under this Act.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>PROHIBITED</type>
     <for>
       <p>a further application of a kind mentioned in paragraphs</p>
@@ -1393,17 +1393,17 @@
           <li>(d) the substitution of a supervision order for a care order;</li>
           <li>or (e) a child assessment order,</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
       <condition>
         <type>UNLESS</type>
         <p>the period between the disposal of the previous application and the making of the further application exceeds six months.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
     <type>PROHIBITED</type>
     <for>
       <p>a person</p>
@@ -1420,17 +1420,17 @@
           <li>(b) the application has been refused,</li>
           <li>and (c) a period of less than six months has elapsed since the refusal</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
       <condition>
         <type>UNLESS</type>
         <p>he has obtained the leave of the court.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the court</p>
@@ -1442,17 +1442,17 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>a person who is named in a section 91(14) order applies for leave to make an application of a specified kind</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91A</section>
       </condition>
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>determining whether to grant leave.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91A</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91A</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/91A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/91A</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1469,7 +1469,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/93</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/93</section>
     <type>PERMITTED</type>
     <for>
       <p>an authority having power to make rules of court</p>
@@ -1485,7 +1485,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/93</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/93</section>
     <type>PERMITTED</type>
     <for>
       <p>the rules</p>
@@ -1508,7 +1508,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1520,12 +1520,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>dealing with any proceedings in which a court is hearing an application for an order under Part IV or V, or is considering whether to make any such order.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the power conferred by subsection (1)</p>
@@ -1536,7 +1536,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1551,7 +1551,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1562,7 +1562,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1574,12 +1574,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the court has reason to believe that the person has information about the whereabouts of the child.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/95</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/95</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/96</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/96</section>
     <type>PERMITTED</type>
     <for>
       <p>a child's evidence</p>
@@ -1595,12 +1595,12 @@
           <li>(a)he understands that it is his duty to speak the truth,</li>
           <li>and (b)he has sufficient understanding to justify his evidence being heard.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/96</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/96</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/96</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/96</section>
     <type>PERMITTED</type>
     <for>
       <p>The Lord of Justice Chancellor, with occurence of the Lord Chief Justice</p>
@@ -1611,7 +1611,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/96</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/96</section>
     <type>PERMITTED</type>
     <for>
       <p>an order under subsection (3)</p>
@@ -1629,7 +1629,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/96</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/96</section>
     <type>PERMITTED</type>
     <for>
       <p>an order under subsection (3)</p>
@@ -1645,7 +1645,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/97</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/97</section>
     <type>PERMITTED</type>
     <for>
       <p>a person</p>
@@ -1660,7 +1660,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/97</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/97</section>
     <type>PERMITTED</type>
     <for>
       <p>the court or the Lord Chancellor</p>
@@ -1672,17 +1672,17 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>satisfied that the welfare of the child requires it and, in the case of the Lord Chancellor</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/97</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/97</section>
       </condition>
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>the Lord Chief Justice agrees</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/97</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/97</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/97</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/97</section>
     <type>PERMITTED</type>
     <for>
       <p>the Lord Chief Justice</p>
@@ -1693,7 +1693,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/98</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/98</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any person</p>
@@ -1705,12 +1705,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>in proceedings in which a court is hearing an application for an order under Part IV or V, EVEN IF doing so might incriminate him or his spouse or civil partner of an offence.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/98</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/98</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/98</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/98</section>
     <type>PROHIBITED</type>
     <for>
       <p>a statement or admission made in such proceedings</p>
@@ -1721,7 +1721,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/100</section>
     <type>PROHIBITED</type>
     <for>
       <p>a court</p>
@@ -1742,7 +1742,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/100</section>
     <type>PROHIBITED</type>
     <for>
       <p>any application for any exercise of the court’s inherent jurisdiction with respect to children</p>
@@ -1754,12 +1754,12 @@
       <condition>
         <type>UNLESS</type>
         <p>the authority have obtained the leave of the court.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/100</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/100</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1775,12 +1775,12 @@
           <li>(a)the result which the authority wish to achieve could not be achieved through the making of any order of a kind to which subsection (5) applies,</li>
           <li>and (b)there is reasonable cause to believe that if the court’s inherent jurisdiction is not exercised with respect to the child he is likely to suffer significant harm.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/100</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/100</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/101</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/101</section>
     <type>PERMITTED</type>
     <for>
       <p>the Secretary of State</p>
@@ -1803,7 +1803,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/101</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/101</section>
     <type>PERMITTED</type>
     <for>
       <p>regulations under subsection (1)</p>
@@ -1815,12 +1815,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>prescribed conditions are satisfied.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/101</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/101</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/101</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/101</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the Secretary of State</p>
@@ -1837,7 +1837,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/101</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/101</section>
     <type>PERMITTED</type>
     <for>
       <p>any regulation made under this section</p>
@@ -1855,7 +1855,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>PERMITTED</type>
     <for>
       <p>the court</p>
@@ -1870,12 +1870,12 @@
         <ul>
           <li>(a)that a person attempting to exercise powers under any enactment mentioned in subsection (6) has been prevented from doing so by being refused entry to the premises concerned or refused access to the child concerned or (b)that any such person is likely to be so prevented from exercising any such powers.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>OBLIGATORY</type>
     <for>
       <p>every warrant issued under this section</p>
@@ -1891,12 +1891,12 @@
           <li>(a)that person so desires,</li>
           <li>and (b)the court by whom the warrant is issued does not direct otherwise.</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>PERMITTED</type>
     <for>
       <p>a court granting an application for a warrant under this section</p>
@@ -1907,7 +1907,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>OBLIGATORY</type>
     <for>
       <p>an application for a warrant under this section</p>
@@ -1918,7 +1918,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the application and any warrant granted on the application</p>
@@ -1934,12 +1934,12 @@
           <li>(a)an application for a warrant under this section relates to a particular child,</li>
           <li>and (b)it is reasonably practicable to do so,</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the application and any warrant granted on the application</p>
@@ -1951,7 +1951,7 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>it does not name him</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
       </condition>
       <condition>
         <type>WHEN/IF/WHERE</type>
@@ -1960,12 +1960,12 @@
           <li>(a)an application for a warrant under this section relates to a particular child,</li>
           <li>and (b)it is reasonably practicable to do so,</li>
         </ul>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/102</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/102</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any power of the Lord Chancellor , the Treasury , the Secretary of State or the National Assembly for Wales under this Act to make an order, regulations, or rules, except an order under section 54(2), 56(4)</p>
@@ -1981,7 +1981,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
     <type>PROHIBITED</type>
     <for>
       <p>an order under section 4(1B) , 4ZA(3)</p>
@@ -1993,12 +1993,12 @@
       <condition>
         <type>UNLESS</type>
         <p>a draft of it has been laid before, and approved by a resolution of, each House of Parliament</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
     <type>PROHIBITED</type>
     <for>
       <p>an order under section 4(1B) , 4ZA(3) or 17(4) or regulations which fall within subsection (3AA), (3AB), (3B) , (3BA) , (3BB) or (3C)</p>
@@ -2010,12 +2010,12 @@
       <condition>
         <type>UNLESS</type>
         <p>a draft of the statutory instrument containing the order or regulations has been laid before, and approved by a resolution of, each House of Parliament.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104</section>
     <type>PERMITTED</type>
     <for>
       <p>any statutory instrument made under this Act</p>
@@ -2031,7 +2031,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/104A</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/104A</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any power of the Welsh Ministers under section 31A or Part 7 to make regulations</p>
@@ -2042,7 +2042,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/105</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/105</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any notice or other document required under this Act to be served on any person</p>
@@ -2053,7 +2053,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/105</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/105</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any notice or other document required to be served on a body corporate or a firm</p>
@@ -2064,7 +2064,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/106</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/106</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any</p>
@@ -2078,7 +2078,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/106</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/106</section>
     <type>OBLIGATORY</type>
     <for>
       <p>any sums received by the Secretary of State under section 58, or by way of the repayment of any grant made under section 82(2) or (4)</p>
@@ -2089,7 +2089,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/107</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/107</section>
     <type>PERMITTED</type>
     <for>
       <p>Her Majesty</p>
@@ -2100,7 +2100,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>PERMITTED</type>
     <for>
       <p>this Act</p>
@@ -2111,7 +2111,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>PERMITTED</type>
     <for>
       <p>different dates</p>
@@ -2122,7 +2122,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the minor amendments set out in Schedule 12</p>
@@ -2133,7 +2133,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the consequential amendments set out in Schedule 13</p>
@@ -2144,7 +2144,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>OBLIGATORY</type>
     <for>
       <p>transitional provisions and savings set out in Schedule 14</p>
@@ -2155,7 +2155,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>OBLIGATORY</type>
     <for>
       <p>the repeals set out in Schedule 15</p>
@@ -2166,7 +2166,7 @@
     <conditions/>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>PERMITTED</type>
     <for>
       <p>an order under subsection (2)</p>
@@ -2183,12 +2183,12 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>as appear necessary or expedient in consequence of the partial operation of this Act.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
       </condition>
     </conditions>
   </annotation>
   <annotation>
-    <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+    <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
     <type>PERMITTED</type>
     <for>
       <p>the Lord Chancellor</p>
@@ -2200,7 +2200,7 @@
       <condition>
         <type>WHEN/IF/WHERE</type>
         <p>they appear necessary or expedient in consequence of any provision of this Act.</p>
-        <section>https://www.legislation.gov.uk/ukpga/2014/6/section/108</section>
+        <section>https://www.legislation.gov.uk/ukpga/1989/41/section/108</section>
       </condition>
     </conditions>
   </annotation>

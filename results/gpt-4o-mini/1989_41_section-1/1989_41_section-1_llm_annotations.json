@@ -1,0 +1,50 @@
+[
+  {
+    "main_section": "section-1",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "consider the child's welfare as the paramount consideration",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-2",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "have regard to the general principle that any delay in determining the question is likely to prejudice the welfare of the child",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-2A",
+    "type": "OBLIGATORY",
+    "for": "court",
+    "to": "presume that involvement of a parent in the child's life will further the child's welfare unless the contrary is shown",
+    "conditions": [
+      {
+        "type": "SUBJECT TO",
+        "text": "the circumstances mentioned in subsection (4)(a) or (7)",
+        "section": "section-1-2A"
+      }
+    ]
+  },
+  {
+    "main_section": "section-1-5",
+    "type": "PROHIBITED",
+    "for": "court",
+    "to": "make an order with respect to a child unless it considers that doing so would be better for the child than making no order at all",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-6-a",
+    "type": "OBLIGATORY",
+    "for": "parent",
+    "to": "be involved in the child's life in a way that does not put the child at risk of suffering harm",
+    "conditions": []
+  },
+  {
+    "main_section": "section-1-6-b",
+    "type": "PROHIBITED",
+    "for": "parent",
+    "to": "be treated as being within paragraph (a) if there is evidence suggesting that involvement would put the child at risk of suffering harm",
+    "conditions": []
+  }
+]
