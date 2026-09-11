@@ -1,0 +1,655 @@
+{
+	"to-exclude": ["section-98-1", "section-98-6", "section-98-7", "section-99-2", "section-99-5", "section-100-1", "section-100-2", "section-100-4", "section-101-1", "section-101-2", "section-101-3", "section-101-4", "section-101-5", "section-101-6", "section-101-11", "section-102-1", "section-103-2", "section-103-3", "section-103-4", "section-105-2", "section-105-3", "section-106-4", "section-106-7", "section-106-9", "section-106-10", "section-107-1", "section-107-2", "section-107-3", "section-107-4", "section-107-5", "section-107-6", "section-107-7", "section-108-2", "section-108-4", "section-109-2", "section-109-4", "section-110-1", "section-110-2", "section-110-3", "section-110-4", "section-110-5", "section-110-6", "section-110-8", "section-110-11", "section-111-6", "section-112-5", "section-113-1", "section-113-4", "section-114-2", "section-116-7", "section-117-3", "section-118-2", "section-118-3", "section-118-4", "section-120-4", "section-120-5"],
+
+	"section-98-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an authorised person",
+			"TO": "give a diversionary caution to a person aged 18 or over",
+			"IN RESPECT OF": "an offence",
+			"IN ACCORDANCE WITH": "this Part"
+		}
+	],
+
+	"section-98-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an authorised person",
+			"TO": "give a community caution to a person aged 18 or over",
+			"IN ACCORDANCE WITH": "this Part",
+			"IN RESPECT OF": "an offence other than an excluded offence"
+		}
+	],
+
+	"section-98-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Diversionary and community cautions",
+			"TO": "have one or more conditions attached to them"
+		}
+	],
+
+	"section-98-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Breach of a condition",
+			"TO": "result in prosecution for the offence",
+			"IN ACCORDANCE WITH": "this Part",
+			"IN THE CASE OF": "a diversionary caution"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Breach of a condition",
+			"TO": "result in a financial penalty",
+			"IN ACCORDANCE WITH": "this Part",
+			"IN THE CASE OF": "a community caution"
+		}
+	],
+
+	"section-99-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "give a diversionary caution to a person aged 18 or over (“the offender”)",
+			"IN RESPECT OF": "an offence",
+			"IF": "the following requirements are met"
+		}
+	],
+
+	"section-99-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the authorised person",
+			"TO": "give a diversionary caution to the offender",
+			"IF": "the offence is an indictable-only offence",
+			"EXCEPT": "— (a) in exceptional circumstances relating to the person or the offence, and (b) with the consent of the Director of Public Prosecutions"
+		}
+	],
+
+	"section-99-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a diversionary caution",
+			"TO": "be given",
+			"IN RESPECT OF": "an offence committed before the coming into force of this section"
+		}
+	],
+
+	"section-100-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person or prosecution authority",
+			"TO": "— (a) make reasonable efforts, or ensure that reasonable efforts are or have been made, to obtain the views of any victim or victims of the offence, and (b) take those views into account",
+			"WHEN": "deciding what conditions to attach to a diversionary caution"
+		}
+	],
+
+	"section-100-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person or prosecution authority",
+			"TO": "attach a particular action listed in the community remedy document as a condition",
+			"WHERE": "it is the view of the victim or all the victims that the offender should carry out that",
+			"UNLESS": "it seems to the authorised person or prosecution authority— (a) the action is not one that can be attached as a condition to a diversionary caution, or (b) it would be inappropriate to do so"
+		}
+	],
+
+	"section-101-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an attendance condition",
+			"TO": "require the offender to pay for the reasonable cost of the provision of the education, training or service to the offender",
+			"WHERE": "the attendance condition requires the offender to attend somewhere for the purpose of participating in any education or training, or receiving any other service"
+		}
+	],
+
+	"section-101-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "amend subsection (5) or (6)(b) (or both) so as to substitute a different number of hours"
+		}
+	],
+
+	"section-101-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a condition authorised by this section",
+			"TO": "— (a) contain further details as to how it must be complied with (including the times at or between which something must or must not be done); (b) provide for those details to be supplied, after the giving of the caution, by a specified person or a person of a specified description"
+		}
+	],
+
+	"section-101-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a condition authorised by this section",
+			"TO": "require a person to remain at their own or anyone else’s residence for any period of time"
+		}
+	],
+
+	"section-102-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The condition",
+			"TO": "specify— (a) the amount of the financial penalty, (b) the person to whom the financial penalty must be paid, (c) how it must or may be paid, and (d) the date on or before which it must be paid"
+		}
+	],
+
+	"section-102-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The amount specified under subsection (2)(a)",
+			"TO": "exceed an amount prescribed in regulations"
+		}
+	],
+
+	"section-102-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person specified under subsection (2)(b)",
+			"TO": "give the penalty to the designated officer for a magistrates’ court",
+			"WHERE": "they are not such an officer",
+			"ONCE": "the penalty is paid to that person"
+		}
+	],
+
+	"section-102-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The date specified under subsection (2)(d)",
+			"TO": "be the last day of the period of 28 days beginning with the day on which the caution is given"
+		}
+	],
+
+	"section-103-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a condition with one or both of the objects in subsection (2)",
+			"TO": "be attached to a diversionary caution",
+			"WHERE": "the diversionary caution is given to a relevant foreign offender"
+		}
+	],
+
+	"section-105-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "criminal proceedings",
+			"TO": "be instituted against the offender for the offence in respect of which the caution was given",
+			"WHERE": "a diversionary caution is given",
+			"IF BUT ONLY IF": "the offender fails without reasonable excuse to comply with any of the conditions attached to the caution"
+		}
+	],
+
+	"section-106-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a constable",
+			"TO": "arrest the offender without warrant",
+			"IF": "the constable has reasonable grounds for believing that the offender has failed without reasonable excuse to comply with any of the conditions attached to a diversionary caution"
+		}
+	],
+
+	"section-106-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person arrested under this section",
+			"TO": "be— (a) charged with the offence in question, or (b) released without charge"
+		}
+	],
+
+	"section-106-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person released without charge under subsection (2)(b)",
+			"TO": "be released on bail",
+			"IF": "the release is to enable a decision to be made as to whether the offender should be charged with the offence, and the pre-conditions for bail are satisfied"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person released without charge under subsection (2)(b)",
+			"TO": "be released without bail (with or without any variation in the conditions attached to the caution)",
+			"IN": "any other case"
+		}
+	],
+
+	"section-106-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the custody officer",
+			"TO": "inform a person that the release is to enable a decision to be made as to whether the person should be charged with the offence in question",
+			"WHERE": "the person is released on bail under subsection (3)(a)"
+		}
+	],
+
+	"section-106-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person arrested under this section, or any other person in whose case subsection (2) applies",
+			"TO": "be kept in police detention— (a) to enable the person to be dealt with in accordance with that subsection, or (b) where applicable, to enable the power under section 47(4A) of the 1984 Act (power of custody officer to appoint a different or additional time for answering to police bail), as applied by section 107 below, to be exercised"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person arrested under this section, or any other person in whose case subsection (2) applies",
+			"TO": "be kept in police detention",
+			"IF": "the person is not in a fit state to be dealt with in that way, or to enable that power to be exercised",
+			"UNTIL": "they are"
+		}
+	],
+
+	"section-106-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-108-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "give a community caution to a person aged 18 or over (“the offender”)",
+			"IN RESPECT OF": "an offence, other than an excluded offence",
+			"IF": "the following requirements are met"
+		}
+	],
+
+	"section-108-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A community caution",
+			"TO": "be given",
+			"IN RESPECT OF": "an offence committed before the coming into force of this section"
+		}
+	],
+
+	"section-109-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the conditions attached to a community caution",
+			"TO": "be decided upon by an authorised person"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the conditions attached to a community caution",
+			"TO": "be decided upon by the prosecution authority",
+			"IN A CASE WHERE": "a prosecution authority has taken the decision that the caution should be given"
+		}
+	],
+
+	"section-109-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person or prosecution authority",
+			"TO": "— (a) make reasonable efforts, or ensure that reasonable efforts are or have been made, to obtain the views of any victim or victims of the offence, and (b) take those views into account",
+			"WHEN": "deciding what conditions to attach to a community caution"
+		}
+	],
+
+	"section-109-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person or prosecution authority",
+			"TO": "attach a particular action listed in the community remedy document as a condition",
+			"WHERE": "it is the view of the victim or all the victims that the offender should carry out that",
+			"UNLESS": "it seems to the authorised person or prosecution authority— (a) the action is not one that can be attached as a condition to a community caution, or (b) it would be inappropriate to do so"
+		}
+	],
+
+	"section-110-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an attendance condition",
+			"TO": "also require the offender to pay for the reasonable cost of the provision of the education, training or service to the offender",
+			"WHERE": "the attendance condition requires the offender to attend somewhere for the purpose of participating in any education or training, or receiving any other service"
+		}
+	],
+
+	"section-110-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a condition authorised by this section",
+			"TO": "— (a) contain further details as to how it must be complied with (including the times at or between which something must or must not be done); (b) provide for those details to be supplied, after the giving of the caution, by a specified person or a person of a specified description"
+		}
+	],
+
+	"section-110-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a condition authorised by this section",
+			"TO": "require a person to remain at their own or anyone else’s residence for any period of time"
+		}
+	],
+
+	"section-111-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a condition requiring the offender to pay a financial penalty",
+			"TO": "be attached to a community caution with the object of punishing the offender"
+		}
+	],
+
+	"section-111-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The condition",
+			"TO": "specify— (a) the amount of the financial penalty, (b) the person to whom the financial penalty must be paid, (c) how it must or may be paid, (d) the date on or before which the penalty must be paid, and (e) the consequences of non-payment"
+		}
+	],
+
+	"section-111-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The amount specified under subsection (2)(a)",
+			"TO": "exceed an amount prescribed in regulations"
+		}
+	],
+
+	"section-111-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person specified under subsection (2)(b)",
+			"TO": "give the penalty to the designated officer for a magistrates’ court",
+			"WHERE": "they are not such an officer",
+			"ONCE": "the penalty is paid to that person"
+		}
+	],
+
+	"section-111-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The date specified under subsection (2)(d)",
+			"TO": "be the last day of the period of 28 days beginning with the day on which the caution is given"
+		}
+	],
+
+	"section-111-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the amount of the increased penalty",
+			"TO": "be registered under section 112 for enforcement against the offender as a fine",
+			"WHERE": "subsection (6) applies",
+			"IF": "the increased penalty is not paid within the period of 21 days beginning with the day after the date specified under subsection (2)(d)"
+		}
+	],
+
+	"section-112-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The chief officer of police",
+			"TO": "issue a certificate (“a registration certificate”)— (a) giving particulars of the financial penalty, (b) stating that the amount is registrable for enforcement against the offender as a fine, and (c) stating the name and last known address of the offender",
+			"IN RESPECT OF": "any amount registrable under section 111 (7)"
+		}
+	],
+
+	"section-112-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The chief officer of police issuing a registration certificate",
+			"TO": "cause it to be sent to the designated officer for the local justice area in which the offender appears to the chief officer to reside"
+		}
+	],
+
+	"section-112-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The designated officer for a local justice area in receipt of a registration certificate",
+			"TO": "register the amount for enforcement as a fine in that area by entering it in the register of a magistrates’ court acting for that area"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The designated officer for a local justice area in receipt of a registration certificate",
+			"TO": "cause the certificate to be sent to the person appearing to the officer to be the designated officer for the local justice area in which the offender resides",
+			"IF": "it appears to the designated officer that the offender does not reside in that area"
+		}
+	],
+
+	"section-112-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A designated officer registering an amount under this section for enforcement as a fine",
+			"TO": "give the offender notice of the registration which— (a) specifies the amount registered, and (b) gives the information with respect to the financial penalty, and the authority for registration, that was included in the registration certificate"
+		}
+	],
+
+	"section-113-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "adjourn the proceedings for the purpose of allowing the claim to be investigated",
+			"ON": "one or more occasions"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "more than 28 days in total",
+			"TO": "adjourn"
+		}
+	],
+
+	"section-113-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The court",
+			"TO": "accept a claim under subsection (1)(a) or (b)",
+			"UNLESS": "it is shown, on the balance of probabilities, that the claim is unfounded"
+		}
+	],
+
+	"section-113-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "accept the claim so far as relating to the facts claimed (leaving aside any question as to the reasonableness of the excuse)",
+			"IN": "the case of a claim under subsection (1)(c)",
+			"UNLESS": "it is shown, on the balance of probabilities, that the claim so far as relating to those facts is unfounded"
+		}
+	],
+
+	"section-113-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "order that the condition of the caution by virtue of which the amount is required to be paid— (a) ceases to have effect, or (b) is varied so as to reduce the amount payable or to extend the time for payment (or both)",
+			"WHERE": "the court accepts a claim under subsection (1)(c)"
+		}
+	],
+
+	"section-114-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person or prosecution authority",
+			"TO": "vary the conditions attached to a community caution by— (a) varying or omitting any of the conditions; (b) adding a condition",
+			"WITH": "the consent of the offender"
+		}
+	],
+
+	"section-115-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "criminal proceedings",
+			"TO": "be instituted against the offender for the offence in respect of which the caution was given",
+			"WHERE": "a community caution is given"
+		}
+	],
+
+	"section-115-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an authorised person or prosecution authority",
+			"TO": "— (a) rescind the condition, and (b) attach a condition imposing a financial penalty (or further such condition) under section 111",
+			"IF": "the offender fails without reasonable excuse to comply with any condition imposed under section 110"
+		}
+	],
+
+	"section-116-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "prepare a code of practice in relation to diversionary and community cautions"
+		}
+	],
+
+	"section-116-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The code",
+			"TO": "include provision as to— (a) the circumstances in which diversionary and community cautions may be given; (b) the procedure to be followed in connection with the giving of diversionary and community cautions; (c) the conditions which may be attached to diversionary and community cautions and the time for which they may have effect; (d) the category of constable or investigating officer by whom diversionary and community cautions may be given; (e) the persons whom a prosecution authority may authorise as authorised persons for the purposes of this Part; (f) the form which diversionary and community cautions are to take and the manner in which they are to be given and recorded; (g) the places where diversionary and community cautions may be given; (h) the provision which may be made in a condition under section 102 (2)(b) or 111 (2)(b); (i) the monitoring of compliance with conditions attached to diversionary and community cautions; (j) the exercise of the power of arrest conferred by section 106 (1); (k) who is to decide how a person should be dealt with under section 106 (2) and (3)"
+		}
+	],
+
+	"section-116-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "— (a) publish the draft, (b) consider any representations made to the Secretary of State about the draft",
+			"AFTER": "preparing a draft of the code",
+			"WITHOUT": "the consent of the Attorney General"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "amend the draft accordingly",
+			"AFTER": "preparing a draft of the code"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Secretary of State",
+			"TO": "publish or amend the draft without the consent of the Attorney General"
+		}
+	],
+
+	"section-116-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay the code before each House of Parliament",
+			"AFTER": "complying with subsection (3)"
+		}
+	],
+
+	"section-116-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "bring the code into force by regulations",
+			"AFTER": "complying with subsection (4)"
+		}
+	],
+
+	"section-116-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time revise a code of practice brought into force under this section"
+		}
+	],
+
+	"section-117-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "prohibit the giving of a diversionary or community caution to a person in respect of an offence where the person has already been given one or more cautions"
+		}
+	],
+
+	"section-117-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a prohibition under subsection (1)",
+			"TO": "be framed by reference to— (a) the kinds of caution previously given to the person; (b) the number of times any kind of caution has been given to the person; (c) the period preceding the commission of the offence within which any kind of caution has been given to the person; (d) the offence or description of offences in respect of which any kind of caution has been given to the person"
+		}
+	],
+
+	"section-118-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a caution other than a diversionary or community caution",
+			"TO": "be given to a person aged 18 or over who admits to having committed an offence"
+		}
+	],
+
+	"section-120-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this Part",
+			"TO": "be made by the Secretary of State by statutory instrument"
+		}
+	],
+
+	"section-120-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this Part",
+			"TO": "make— (a) different provision for different purposes; (b) consequential, supplementary, incidental, transitional and transitory provision and savings"
+		}
+	],
+
+	"section-120-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing the regulations specified in subsection (4) (with or without other provision)",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before, and approved by resolution of, each House of Parliament"
+		}
+	]
+}

@@ -1,0 +1,433 @@
+{
+	"to-exclude": ["section-164-1", "section-164-4", "section-164-5", "section-164-8", "section-164-9", "section-164-10", "section-165-6", "section-166-2", "section-166-7", "section-166-9", "section-167-2", "section-167-3", "section-168-3", "section-169-2", "section-169-4", "section-169-5", "section-169-9", "section-173-2", "section-173-5", "section-173-6", "section-173-7", "section-173-8", "section-173-9", "section-173-10", "section-173-11", "section-174-1", "section-174-2", "section-174-3", "section-175-2"],
+
+	"section-162-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "give guidance— (a) about the operation of this Act and of any order made under it; (b) about the operation of any rules made by the Board under this Act; (c) about any matter relating to the Board's functions; (d) for the purpose of meeting the regulatory objectives; (e) about the content of licensing rules; (f) about any other matters about which it appears to the Board to be desirable to give guidance"
+		}
+	],
+
+	"section-162-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Guidance under this section",
+			"TO": "consist of such information and advice as the Board considers appropriate"
+		}
+	],
+
+	"section-162-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "give financial or other assistance to persons giving information or advice of a kind which the Board could give under this section"
+		}
+	],
+
+	"section-162-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "— (a) publish its guidance, (b) offer copies of its published guidance for sale at a reasonable price"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "make a reasonable charge for that guidance",
+			"IF": "it gives guidance in response to a request made by any person"
+		}
+	],
+
+	"section-162-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Board",
+			"TO": "have regard to the extent to which an approved regulator has complied with any guidance issued under this section which is applicable to the approved regulator",
+			"WHEN": "exercising its functions"
+		}
+	],
+
+	"section-162-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "have regard to any guidance it has issued under this section",
+			"WHEN": "exercising its functions— (a) in its capacity as an approved regulator by virtue of an order under section 62(1)(a), or (b) in its capacity as a licensing authority under Part 5"
+		}
+	],
+
+	"section-163-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "enter into arrangements with any person under which the Board is to provide assistance for the purpose of improving standards of service and promoting best practice in connection with the carrying on of any legal activity"
+		}
+	],
+
+	"section-163-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "These arrangements",
+			"TO": "provide for the Board to give advice on— (a) the best regulatory practice, or (b) the contents of codes of practice or other voluntary arrangements"
+		}
+	],
+
+	"section-163-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Arrangements under this section",
+			"TO": "include provision as to the terms on which assistance is to be provided by the Board (including provision as to payment)"
+		}
+	],
+
+	"section-163-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "publish a statement giving details of the arrangements and explaining what they are intended to achieve",
+			"WHERE": "the Board enters into arrangements under this section"
+		}
+	],
+
+	"section-164-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "make rules (“voluntary scheme rules”) establishing such a scheme (“the voluntary scheme”)",
+			"ONLY IN RELATION TO": "such kinds of legal services complaints as may be specified by order made by the Lord Chancellor for the purposes of this section"
+		}
+	],
+
+	"section-164-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "specify a kind of legal services complaint by reference to the description of the complainant, of the respondent, or of the legal services to which the complaint relates"
+		}
+	],
+
+	"section-164-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "redress",
+			"TO": "be provided to the complainant",
+			"UNDER": "the voluntary scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "disciplinary action",
+			"TO": "be taken against the respondent",
+			"UNDER": "the voluntary scheme"
+		}
+	],
+
+	"section-164-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Voluntary scheme rules",
+			"TO": "confer functions on ombudsmen for the purposes of the voluntary scheme"
+		}
+	],
+
+	"section-165-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make an order under section 164(2)",
+			"ONLY ON": "the recommendation of an interested body"
+		}
+	],
+
+	"section-165-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "consider whether or not it is appropriate to make a recommendation for such an order",
+			"IF": "requested to do so by the Lord Chancellor"
+		}
+	],
+
+	"section-165-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "— (a) publish a draft of the proposed recommendation, (b) invite representations regarding the proposed recommendation, and (c) consider any such representations which are made",
+			"BEFORE": "making a recommendation for such an order"
+		}
+	],
+
+	"section-165-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "consider whether to follow the recommendation",
+			"WHERE": "the Lord Chancellor receives a recommendation from an interested body for an order under section 164(2)"
+		}
+	],
+
+	"section-165-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "publish a notice to that effect which includes the Lord Chancellor's reasons for the decision",
+			"IF": "the Lord Chancellor decides not to follow the recommendation"
+		}
+	],
+
+	"section-166-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a complaint",
+			"TO": "be determined under the voluntary scheme",
+			"ONLY IF": "— (a) the complainant falls within a class of persons specified in voluntary scheme rules as qualified to make a complaint, (b) the complainant wishes to have the complaint dealt with under the scheme, (c) at the time of the act or omission to which the complaint relates, the respondent was participating in the scheme and voluntary scheme rules were in force in relation to the legal services in question, and (d) at the time the complaint is made under the scheme the respondent has not withdrawn from the scheme in accordance with its provisions"
+		}
+	],
+
+	"section-166-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a complaint",
+			"TO": "be dealt with under the voluntary scheme even though subsection (1)(c) would otherwise prevent that",
+			"IN": "such circumstances as may be specified in voluntary scheme rules"
+		}
+	],
+
+	"section-166-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3"]
+		}
+	],
+
+	"section-166-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Complaints",
+			"TO": "be dealt with and determined under the voluntary scheme on standard terms fixed by the OLC with the consent of the Board"
+		}
+	],
+
+	"section-166-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "modify standard terms",
+			"ONLY WITH": "the consent of the Board"
+		}
+	],
+
+	"section-166-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The standard terms",
+			"TO": "make provision— (a) requiring the making of payments to the OLC by persons participating in the scheme of such amounts, at such times and in such circumstances, as may be determined by the OLC; (b) as to the award of costs on the determination of a complaint (including provision for an award of costs in favour of the OLC for the purpose of providing a contribution to resources deployed in dealing with the complaint"
+		}
+	],
+
+	"section-167-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "— (a) a restricted person, or (b) any person who receives the information directly or indirectly from a restricted person",
+			"TO": "disclose restricted information",
+			"EXCEPT AS": "provided by section 168"
+		}
+	],
+
+	"section-168-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a restricted person",
+			"TO": "disclose restricted information to another restricted person"
+		}
+	],
+
+	"section-168-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Restricted information",
+			"TO": "be disclosed for the purposes of enabling or assisting the Board to exercise its functions (whether as an approved regulator, a licensing authority or otherwise)"
+		}
+	],
+
+	"section-168-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-168-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order prevent the disclosure of restricted information by virtue of subsection (2) or (3) in such circumstances, or for such purposes, as may be prescribed in the order"
+		}
+	],
+
+	"section-169-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Information which is held by or on behalf of a permitted person (whether obtained before or after this section comes into force)",
+			"TO": "be disclosed to the Board for the purposes of enabling or assisting the Board to exercise its functions (whether as an approved regulator, a licensing authority or otherwise)"
+		}
+	],
+
+	"section-169-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "everyone",
+			"TO": "disclose— (a) which contravenes the data protection legislation, or (b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016"
+		}
+	],
+
+	"section-169-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order designate as permitted persons other persons who exercise functions which the Lord Chancellor considers are of a public nature (including a person discharging regulatory functions in relation to any description of activities)"
+		}
+	],
+
+	"section-169-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Information",
+			"TO": "be disclosed under this section on behalf of the Commissioners for Her Majesty's Revenue and Customs",
+			"UNLESS": "the Commissioners authorise the disclosure"
+		}
+	],
+
+	"section-169-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power to authorise a disclosure under subsection (7)",
+			"TO": "be delegated (either generally or for a specific purpose) to an officer of Revenue and Customs"
+		}
+	],
+
+	"section-172-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "— (a) pay to the Board such sums as the Lord Chancellor may determine as appropriate for the purpose of meeting the expenditure of the Board incurred under or for the purposes of this Act or any other enactment (including any expenditure incurred by it in its capacity as an approved regulator or its capacity as a licensing authority), and (b) pay to the OLC such sums as the Lord Chancellor may determine as appropriate for the purposes of meeting the expenditure of the OLC incurred under or for the purposes of this Act"
+		}
+	],
+
+	"section-172-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "— (a) determine the manner in which and times at which the sums mentioned in subsection (1) are to be paid, and (b) impose conditions on the payment of those sums"
+		}
+	],
+
+	"section-173-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "make rules providing for the imposition of a levy on leviable bodies for the purpose of raising an amount corresponding to the aggregate of— (a) the leviable Board expenditure, (b) the leviable OLC expenditure, and (c) the leviable Lord Chancellor expenditure"
+		}
+	],
+
+	"section-173-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "satisfy itself that the apportionment of the levy as between different leviable bodies will be in accordance with fair principles",
+			"BEFORE": "making rules under this section"
+		}
+	],
+
+	"section-173-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Board",
+			"TO": "make rules under this section",
+			"EXCEPT WITH": "the consent of the Lord Chancellor"
+		}
+	],
+
+	"section-174-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The levy rules",
+			"TO": "provide for different parts of the levy to be payable at different rates"
+		}
+	],
+
+	"section-174-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any amount which is owed to the Board in accordance with the levy rules",
+			"TO": "be recovered as a debt due to the Board"
+		}
+	],
+
+	"section-174-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The levy rules",
+			"TO": "require the Board— (a) to calculate the amount of the levy payable by each leviable body, (b) to notify each leviable body of its liability to pay an amount of levy and the time or times at which it becomes payable"
+		}
+	],
+
+	"section-174-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the levy rules",
+			"TO": "Without prejudice to subsections (2) to (6), — (a) make provision about the collection and recovery of the levy; (b) make provision about the circumstances in which any amount of the levy payable may be waived; (c) provide that if the whole or any part of an amount of the levy payable under the levy rules is not paid by the time when it is required to be paid under the rules, the unpaid balance from time to time carries interest at the rate determined by or in accordance with the levy rules"
+		}
+	],
+
+	"section-175-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) any application fee received by the Board; (b) any sum received by the Board under sections 37 to 40 (financial penalties and interest); (c) amounts paid to the Board under section 49(10) or 50(5) (charges for providing draft and final policy statements); (d) any sums received by the Board in its capacity as an approved regulator by virtue of rules within section 64(2)(f) (practising fees etc); (e) any sums received by the Board in its capacity as a licensing authority by virtue of its licensing rules within paragraph 1, 4, 6, 7 or 21 of Schedule 11 or by virtue of paragraph 17 or 18 of Schedule 14; (f) any sums received by the Board in its capacity as a licensing authority under sections 95 to 97 (financial penalties and interest); (g) any charges received by the OLC by virtue of rules under section 136 (charges payable by respondents), together with any interest payable in accordance with those rules; (h) any amount payable to the OLC in accordance with scheme rules within subsection (3)(i) of section 133 (costs of OLC payable by the complainant or the respondent in relation to a complaint), together with any interest payable on such an amount under subsection (6) of that section; (i) any amount payable to the OLC by virtue of standard terms within section 166(8); (j) any sum received by the Board in accordance with rules under section 173 (the levy); (k) amounts paid to the Board under section 162(4)(c) (charges for providing copies of guidance); (l) any amount payable to the Board under arrangements entered into under section 163 (voluntary arrangements); (m) amounts paid to the Board under subsection (8) of section 205 (charges for providing copies of rules and draft rules); (n) amounts paid to the OLC under that subsection",
+			"TO": "be paid into the Consolidated Fund"
+		}
+	]
+}

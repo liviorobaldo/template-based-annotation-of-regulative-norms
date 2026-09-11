@@ -1,0 +1,296 @@
+{
+	"to-exclude": ["section-91-1", "section-91-2", "section-91-3", "section-92-1", "section-92-2", "section-92-3", "section-93-1", "section-93-2", "section-93-3", "section-93-4", "section-93-5", "section-96-1", "section-96-7", "section-96-8", "section-97-1", "section-97-2", "section-97-6", "section-98-1", "section-98-2", "section-99-1", "section-99-3", "section-99-4", "section-100-1", "section-100-2", "section-100-3", "section-100-5", "section-101-1", "section-101-9", "section-101-10", "section-102-1", "section-102-3", "section-102-4", "section-102-5", "section-102-6", "section-102-8", "section-102-9", "section-103-6", "section-103-7", "section-104-1", "section-104-2", "section-104-3", "section-105-1", "section-105-2"],
+
+	"section-93-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-95-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person who is the creditor in relation to a judgment debt",
+			"TO": "apply to the High Court, the family court or the county court for information about what kind of action it would be appropriate to take in court to recover that particular debt"
+		}
+	],
+
+	"section-95-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application under subsection (1)",
+			"TO": "comply with any provision made in regulations about the making of such applications"
+		}
+	],
+
+	"section-96-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant court",
+			"TO": "make one or more of the following in relation to the debtor— (a) a departmental information request; (b) an information order"
+		}
+	],
+
+	"section-96-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant court",
+			"TO": "exercise its powers under subsection (2)",
+			"ONLY IF": "it is satisfied that to do so will help it to deal with the creditor's application"
+		}
+	],
+
+	"section-96-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the relevant court",
+			"TO": "give notice to the debtor that the court intends to make a request or order",
+			"BEFORE": "exercising its powers under subsection (2)"
+		}
+	],
+
+	"section-96-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The relevant court",
+			"TO": "make a departmental information request to the Commissioners",
+			"UNLESS": "regulations are in force that have been made under section 102(4) and (7) and relate to the use or disclosure of debtor information disclosed by the Commissioners"
+		}
+	],
+
+	"section-96-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant court",
+			"TO": "disclose such information (including information identifying the debtor) as it considers necessary to assist the recipient of a request or order to comply with the request or order"
+		}
+	],
+
+	"section-97-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the disclosure of some or all of the following information— (a) the full name of the debtor; (b) the address of the debtor; (c) the date of birth of the debtor; (d) the national insurance number of the debtor; (e) prescribed information",
+			"TO": "be requested",
+			"IN": "the case of a request made to the designated Secretary of State"
+		}
+	],
+
+	"section-97-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the disclosure of some or all of the following information — (a) whether or not the debtor is employed; (b) the name and address of the employer (if the debtor is employed); (c) the national insurance number of the debtor; (d) prescribed information",
+			"TO": "be requested",
+			"IN": "the case of a request made to the Commissioners"
+		}
+	],
+
+	"section-97-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the disclosure of prescribed information",
+			"TO": "be requested",
+			"IN": "the case of any other request"
+		}
+	],
+
+	"section-98-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "be made by reference to— (a) particular persons or particular descriptions of person (or both); (b) particular information or particular descriptions of information (or both)"
+		}
+	],
+
+	"section-98-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "be made under this section so as to ensure that— (a) an information order made against a particular person, or a person of a particular description, may order that person to disclose only particular information, or information of a particular description; (b) an information order that orders the disclosure of particular information, or information of a particular description, may only be made against a particular person, or a person of a particular description"
+		}
+	],
+
+	"section-98-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision that would allow the relevant court to order— (a) the disclosure of information by the debtor, or (b) the disclosure of information held by, or on behalf of, a government department"
+		}
+	],
+
+	"section-99-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The recipient of the request",
+			"TO": "disclose to the relevant court any information (whether held by the department or on its behalf) that the recipient considers is necessary to comply with the request"
+		}
+	],
+
+	"section-100-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The certificate",
+			"TO": "state— (a) which of the required information is not being disclosed; (b) what the permitted reason is, or permitted reasons are, for the failure to disclose that information"
+		}
+	],
+
+	"section-101-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant court",
+			"TO": "use the debtor information for the purpose of making another request or order under section 96 in relation to the debtor"
+		}
+	],
+
+	"section-101-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant court",
+			"TO": "use the debtor information for the purpose of providing the creditor with information about what kind of action (if any) it would be appropriate to take in court (whether the relevant court or another court) to recover the judgment debt"
+		}
+	],
+
+	"section-101-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant court",
+			"TO": "use the debtor information in carrying out functions in relation to that action",
+			"IF": "the creditor takes any action in the relevant court to recover the judgment debt"
+		}
+	],
+
+	"section-101-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant court",
+			"TO": "disclose the debtor information to the other court",
+			"IF": "the creditor takes any action in another court to recover the judgment debt"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the other court",
+			"TO": "use that information in carrying out functions in relation to that action",
+			"IF": "the creditor takes any action in another court to recover the judgment debt"
+		}
+	],
+
+	"section-101-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Debtor information",
+			"TO": "be used or disclosed under any of subsections (3) to (5)",
+			"ONLY IF": "— (a) regulations about such use or disclosure of information are in force, and (b) the use or disclosure complies with those regulations"
+		}
+	],
+
+	"section-101-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the information",
+			"TO": "be used or disclosed under any of subsections (3) to (5)",
+			"ONLY WITH": "the consent of the Commissioners",
+			"IF": "the debtor information was disclosed by the Commissioners"
+		}
+	],
+
+	"section-101-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Consent for the purposes of subsection (7)",
+			"TO": "be given",
+			"IN RELATION TO": "particular use or a particular disclosure"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Consent for the purposes of subsection (7)",
+			"TO": "be given",
+			"IN RELATION TO": "use, or a disclosure made, in such circumstances as may be specified or described in the consent"
+		}
+	],
+
+	"section-102-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person to whom the debtor information is disclosed",
+			"TO": "use or disclose the debtor information",
+			"IF": "the use or disclosure is not authorised by any of subsections (3) to (6)"
+		}
+	],
+
+	"section-102-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about the circumstances, if any, in which rules of court may allow access to, or the supply of, information disclosed in accordance with a department information request or an information order"
+		}
+	],
+
+	"section-103-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "make information regulations"
+		}
+	],
+
+	"section-103-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Lord Chancellor",
+			"TO": "make the following regulations — (a) regulations under section 97(4)(d); (b) regulations under section 102(4) or (7) so far as the regulations relate to the use or disclosure of debtor information disclosed by the Commissioners",
+			"ONLY WITH": "the agreement of the Commissioners"
+		}
+	],
+
+	"section-103-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Information regulations",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-103-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing information regulations",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-103-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-4"]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"to-exclude": ["section-196-1", "section-196-2", "section-196-3", "section-196-4", "section-198-1", "d25e36474", "d25e36483", "d25e36504", "d25e36519", "d25e36540", "d25e36573", "d25e36612", "section-198-2", "section-198-3", "section-198-4", "section-198-5", "d25e36800", "d25e36826", "d25e36835", "section-200-1", "d25e37048", "d25e37072", "d25e37190", "d25e37219", "d25e37237", "section-200-2", "section-200-3", "section-201-1", "section-201-2", "section-202-1", "section-202-4", "section-202-5", "section-202-6"],
+
+	"section-202-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "be made without a draft of the instrument containing them having been laid before and approved by a resolution of each House of Parliament (notwithstanding section 108(3) of the Courts Act 2003)"
+		}
+	],
+
+	"section-202-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the statutory instrument containing regulations",
+			"TO": "be laid before Parliament",
+			"IF": "they are made in reliance on subsection (2)",
+			"AFTER": "being made"
+		}
+	]
+}

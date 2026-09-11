@@ -1,0 +1,236 @@
+{
+	"to-exclude": ["section-70-3", "section-70-6", "section-70-7", "section-71-1", "section-71-2", "section-71-3", "section-71-4", "section-72-1", "section-72-5", "section-72-9", "section-72-11", "section-73-1", "section-73-2", "section-73-5", "section-74-2", "section-74-4", "section-75-1", "section-75-3", "section-75-4", "section-77-1", "section-77-2", "section-77-3"],
+
+	"section-70-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An interested party who is aggrieved by the making of a subsidy decision",
+			"TO": "apply to the Competition Appeal Tribunal for a review of the decision"
+		}
+	],
+
+	"section-70-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an application for a review of a subsidy decision",
+			"TO": "be made for a review of the decision to make the subsidy scheme",
+			"WHERE": "the application relates to a subsidy given under a subsidy scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an application for a review of a subsidy decision",
+			"TO": "be made in respect of a decision to give a subsidy under that scheme",
+			"WHERE": "the application relates to a subsidy given under a subsidy scheme"
+		}
+	],
+
+	"section-70-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice of appeal",
+			"TO": "be sent",
+			"WITHIN": "the period specified, in relation to the decision appealed against, in Part 5A of the Tribunal Procedure Rules"
+		}
+	],
+
+	"section-70-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Tribunal",
+			"TO": "apply the same principles as would be applied by the High Court in determining proceedings on judicial review",
+			"IN THE CASE OF": "proceedings in England and Wales or Northern Ireland",
+			"IN": "determining the application"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Tribunal",
+			"TO": "apply the same principles as would be applied by the Court of Session on an application to the supervisory jurisdiction of that Court",
+			"IN THE CASE OF": "proceedings in Scotland",
+			"IN": "determining the application"
+		}
+	],
+
+	"section-72-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Tribunal",
+			"TO": "either dismiss the application or grant the following kinds of relief— (a) a mandatory order; (b) a prohibiting order; (c) a quashing order; (d) a declaration; (e) an injunction"
+		}
+	],
+
+	"section-72-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Tribunal",
+			"TO": "refer relief under subsection (2)(c) back to the person who made the decision with a direction to reconsider and make a new decision in accordance with its ruling",
+			"WHERE": "it grants the matter"
+		}
+	],
+
+	"section-72-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Tribunal",
+			"TO": "direct the person who made the decision to take any action that the person would not otherwise have the power to take in relation to the decision",
+			"IN": "making a reference under subsection (3)"
+		}
+	],
+
+	"section-72-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Tribunal",
+			"TO": "apply the principles that the High Court would apply in deciding whether to grant that relief on an application for judicial review",
+			"IN": "deciding whether to grant relief under subsection (2)"
+		}
+	],
+
+	"section-72-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Tribunal",
+			"TO": "make a recovery order in accordance with section 74",
+			"WHERE": "it grants relief under subsection (2)"
+		}
+	],
+
+	"section-72-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Tribunal",
+			"TO": "refuse to grant any relief sought on an application",
+			"IF": "the Tribunal considers— (a) that there has been undue delay in making the application, or (b) that granting the relief sought on the application would be likely to cause substantial hardship to, or substantially prejudice the rights of, any person or would be detrimental to good administration"
+		}
+	],
+
+	"section-72-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Tribunal",
+			"TO": "certify that the condition in section 31(2B) as so applied is satisfied",
+			"IF": "the Tribunal grants relief in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (9)"
+		}
+	],
+
+	"section-73-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Tribunal",
+			"TO": "make a recovery order in accordance with section 74",
+			"IN": "the exercise of its powers by virtue of subsection (2)"
+		}
+	],
+
+	"section-73-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Tribunal",
+			"TO": "apply principles that the Court of Session would apply in deciding an application to the supervisory jurisdiction of that Court",
+			"IN": "deciding how to exercise its powers"
+		}
+	],
+
+	"section-74-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Tribunal",
+			"TO": "make a recovery order",
+			"IF": "— (a) in exercise of its powers under section 72 or 73, it grants relief in respect of a decision of a public authority to give a subsidy or make a subsidy scheme, and (b) in granting that relief the Tribunal finds that the decision did not comply with a requirement of Chapter 1 or 2 of Part 2"
+		}
+	],
+
+	"section-74-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A recovery order",
+			"TO": "— (a) provide for how the right to recover a subsidy under the order is to be exercised; (b) require that the right is exercised by such time as the order may specify; (c) relate to the whole of a subsidy or to such part as the order may provide; (d) where made in relation to subsidies given under a subsidy scheme, relate to all such subsidies or only to those subsidies specified in the order; (e) require the payment of interest in accordance with the order"
+		}
+	],
+
+	"section-75-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) a party to the proceedings before the Tribunal, or (b) any other person who has a sufficient interest in the matter",
+			"TO": "bring an appeal under this section"
+		}
+	],
+
+	"section-76-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An interested party",
+			"TO": "make a request to a public authority for information about a subsidy, or subsidy scheme, that the authority has given or made"
+		}
+	],
+
+	"section-76-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A request under subsection (1)",
+			"TO": "— (a) be made in writing, and (b) state that it is being made only for the purpose of deciding whether to apply for a review of a subsidy decision under section 70, on the ground that the decision did not comply with a requirement of Chapter 1 or 2 of Part 2"
+		}
+	],
+
+	"section-76-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a public authority",
+			"TO": "provide such information as would enable, or assist in, the making of a determination as to whether the subsidy was given, or the scheme was made, in accordance with the requirements of Chapters 1 and 2 of Part 2",
+			"WHERE": "the authority receives a request under subsection (1)"
+		}
+	],
+
+	"section-76-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The information",
+			"TO": "be provided by the public authority— (a) in writing, and (b) within 28 days of receiving the request for information"
+		}
+	],
+
+	"section-76-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a public authority",
+			"TO": "impose such restrictions as it considers proportionate in order to protect— (a) commercially sensitive information, (b) confidential information, (c) information subject to legal privilege, or (d) information, the disclosure of which would be contrary to the public interest",
+			"IN": "providing information"
+		}
+	],
+
+	"section-76-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Information provided in response to a request made under this section",
+			"TO": "be used",
+			"ONLY FOR": "the purpose for which it was requested"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Information provided in response to a request made under this section",
+			"TO": "be used",
+			"ONLY IN ACCORDANCE WITH": "any restrictions imposed by the public authority under subsection (5)"
+		}
+	]
+}

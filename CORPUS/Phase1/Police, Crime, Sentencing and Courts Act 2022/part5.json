@@ -1,0 +1,32 @@
+{
+	"to-exclude": ["section-86-1", "section-86-2", "section-86-3", "section-86-4", "section-86-5", "section-86-6", "section-86-7", "section-86-8", "section-86-9", "section-87-1", "section-87-2", "section-87-3", "section-87-4", "section-89-1", "d25e15312", "section-89-2", "section-89-4", "section-89-6", "section-90-1", "section-90-2", "section-90-3", "section-91-1", "section-91-2", "section-91-3", "section-92-1", "section-92-2", "section-93-1", "section-93-2", "section-93-3", "section-93-4", "d25e16218", "section-94-1", "section-94-2", "section-94-3", "section-94-4", "section-97-1", "section-97-2", "section-97-3"],
+
+	"section-89-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the purpose of making provision corresponding or similar to section 90G or 90H of that Act in relation to courses offered as an alternative to prosecution in Scotland for a fixed penalty offence",
+			"TO": "by regulations amend Part 3B of the Road Traffic Offenders Act 1988"
+		}
+	],
+
+	"section-89-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Lord Advocate",
+			"BEFORE": "making regulations under subsection (3)"
+		}
+	],
+
+	"section-89-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing regulations under subsection (3)",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament"
+		}
+	]
+}

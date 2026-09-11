@@ -1,0 +1,1993 @@
+{
+	"to-exclude": ["section-8-2", "section-8-11", "section-8-12", "section-8-13", "section-9-1", "section-9-2", "section-9-7", "section-9-11", "section-9-12", "section-9-13", "section-9-14", "section-10-3", "section-10-7", "section-10-8", "section-10-10", "section-11-1", "section-11-2", "section-11-3", "section-11-4", "section-11-5", "section-11-6", "section-12-1", "section-12-2", "section-13-1", "section-13-2", "section-13-3", "section-13-4", "section-13-5", "section-14-6", "section-14-7", "section-15-1", "section-15-7", "section-15-8", "section-15-10", "section-15-11", "section-16-2", "section-16-3", "section-16-4", "section-16-5", "section-16-6", "section-16-7", "section-17-2", "section-17-5", "section-17-6", "section-18-1", "section-19-2", "section-20-1", "section-20-2", "section-20-3", "section-20-4", "section-20-5", "section-20-6", "section-20-7", "section-20-8", "section-20-9", "section-20-10", "section-20-11", "section-20-12", "section-22-5", "section-22-6", "section-24-1", "section-24-2", "section-24-3", "section-24-4", "section-24-5", "section-24-6", "section-24-8", "section-26-1", "section-27-4", "section-27-7", "section-27-8", "section-28-2", "section-29-3", "section-29-4", "section-30-1", "section-30-2", "section-30-3", "section-30-4", "section-30-5", "section-34-2", "section-34-3", "section-34-6", "section-35-5", "section-36-1", "section-37-3", "section-37-4", "section-37-6", "section-37-8", "section-37-10", "section-37-12", "section-37-13", "section-37-14", "section-37-15", "section-38-1", "section-38-2", "section-38-3", "section-38-5", "section-38-6", "section-38-8", "section-38-10", "section-38-11", "section-39-1", "section-40-2", "section-40-3", "section-40-4", "section-40-5", "section-41-3", "section-41-5", "section-41-7", "section-41-9", "section-41-11", "section-42-6", "section-42-7", "section-42-9", "section-42-11", "section-43-1", "section-43-2", "section-44-1", "section-44-10", "section-44A-2", "section-44A-5", "section-44A-6", "section-44A-7", "section-44A-10", "section-44A-12", "section-44B-4", "section-44B-5", "section-44B-6", "section-44C-2", "section-44D-3", "section-44D-8", "section-44D-10", "section-44D-12", "section-44E-1", "section-44E-5", "section-44F-1", "section-44F-2", "section-44F-3", "section-44F-4", "section-45-1", "section-45-2", "section-45-3", "section-46-1", "section-46-2", "section-46-3", "section-47-1", "section-47-2", "section-47-3", "section-48-1", "section-48-2", "section-48-3", "section-48-4", "section-50-1", "section-50-2", "d25e8229", "d25e8252", "d25e8272", "d25e8302", "section-50-3", "section-52-1", "section-52-2", "d25e8369", "d25e8395", "d25e8425", "d25e8445", "d25e8475", "d25e8499", "section-52-3", "section-52-4", "section-52-5", "section-52-6", "section-52-7", "section-52-8", "section-53-1", "section-53-2", "section-53-3", "section-53-4", "section-53-5", "section-53-6", "section-54-1", "section-54-2", "section-54-3", "d25e9140", "section-54-4", "section-54-5", "d25e9285", "section-54-7", "section-54-8", "section-54-9", "section-54-10", "section-55-2", "section-55-3", "section-55-4", "section-55-5", "section-55-10", "section-55-11", "section-55-12", "section-56-1", "section-56-2", "section-58-1", "section-58-2", "section-58-3", "section-58-4", "section-58-5", "section-58-6", "section-58-7", "section-58-8", "section-59-1", "section-59-2", "section-59-3", "section-59-4", "section-60-2", "section-60-3", "section-60-7", "section-60-8", "section-61-6", "section-61-7", "section-62-1", "section-62-2", "section-62-3", "section-62-4", "section-62-5", "section-62-6", "section-62-7", "section-62-8", "section-62-9", "section-62-10", "section-63-3", "section-63-4", "section-64-2", "section-64-3", "section-64-4", "section-64-5", "section-65-1", "section-65-3", "section-65-5", "section-66-1", "section-66-7", "section-66-9", "section-66-10", "section-67-4", "section-67-8", "section-67-9", "section-68-7", "section-69-3", "section-69-8", "section-69-9", "section-70-1", "section-70-5", "section-70-6", "section-71-2", "section-71-3", "section-72-2"],
+
+	"section-27-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a review partner",
+			"TO": "notify the Secretary of State of the review partner’s decision on the matter",
+			"ONCE": "it has been taken",
+			"IF": "the review partner gives a notification under subsection (1)(c)"
+		}
+	],
+
+	"section-27-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the review partner",
+			"TO": "notify the Secretary of State",
+			"WHERE": "a review under section 24 of a death is discontinued because the review partner considers that a condition mentioned in section 24(1)(a) to (c) is not satisfied in relation to the death (see section 24(3))"
+		}
+	],
+
+	"section-27-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a review partner",
+			"TO": "notify the Secretary of State of the decision that the review partner is under that duty in respect of that death",
+			"WHERE": "the review partner— (a) notifies the Secretary of State that the review partner is not under a duty to arrange a review under section 24 of a death, but (b) afterwards takes that decision"
+		}
+	],
+
+	"section-28-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the review partners that arranged it",
+			"TO": "co-operate in and contribute to the carrying out of the review",
+			"WHERE": "a review under section 24 of a person’s death takes place"
+		}
+	],
+
+	"section-28-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the review partners",
+			"TO": "inform a person",
+			"WHERE": "they consider that it would be appropriate for that person to take action as mentioned in subsection (2)(b)"
+		}
+	],
+
+	"section-28-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The review partners",
+			"TO": "prepare a report on the review and send it to the Secretary of State"
+		}
+	],
+
+	"section-28-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The report",
+			"TO": "include— (a) the findings of the review, (b) any conclusions drawn by the review partners, and (c) recommendations made in light of those findings and conclusions (including those referred to in subsection (3))"
+		}
+	],
+
+	"section-28-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The review partners",
+			"TO": "include in the report sent to the Secretary of State material that they consider— (a) might jeopardise the safety of any person, or (b) might prejudice the investigation or prosecution of an offence"
+		}
+	],
+
+	"section-28-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish, or make arrangements for the publication of, the report",
+			"UNLESS": "the Secretary of State considers it inappropriate for the report to be published"
+		}
+	],
+
+	"section-28-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "publish, or make arrangements for the publication of, so much of the contents of the report as the Secretary of State considers appropriate to be published",
+			"IF": "the Secretary of State considers it inappropriate for the report to be published"
+		}
+	],
+
+	"section-29-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a review partner",
+			"TO": "request a person to provide information specified in the request to the review partner or another review partner"
+		}
+	],
+
+	"section-29-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a review partner",
+			"TO": "make a request to a person under this section",
+			"ONLY IF": "the conditions in subsections (3) and (4) are satisfied"
+		}
+	],
+
+	"section-29-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person to whom a request under this section is made",
+			"TO": "comply with the request"
+		}
+	],
+
+	"section-29-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The review partner that made the request",
+			"TO": "enforce the duty under subsection (5) against the person by making an application to the High Court or the county court for an injunction"
+		}
+	],
+
+	"section-29-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a review partner",
+			"TO": "provide information to another review partner for the purpose of enabling or assisting the performance of functions under sections 24 to 28"
+		}
+	],
+
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision enabling the relevant review partners in respect of a person’s death to act jointly to appoint— (a) one of themselves, or (b) another person, to carry out on their behalf, in relation to the person’s death, one or more of the functions specified in the regulations"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "specify some or all of the functions of a review partner under section 28 or 29 relating to a review under section 24 or a report on the review"
+		}
+	],
+
+	"section-31-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision enabling— (a) a county council, and (b) a district council for an area that is within the area of the county council, to agree that one of them carry out on behalf of the other one or more of the functions specified in the regulations"
+		}
+	],
+
+	"section-31-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (3)",
+			"TO": "specify some or all of the functions of a review partner under sections 24 to 29"
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Review partners",
+			"TO": "have regard to any guidance issued by the Secretary of State in connection with functions conferred on them under sections 24 to 31"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) persons appearing to the Secretary of State to represent review partners, (b) the Welsh Ministers, so far as the proposed guidance relates to a devolved Welsh authority, and (c) such other persons as the Secretary of State considers appropriate",
+			"BEFORE": "issuing guidance under this section"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay a copy of the guidance before Parliament",
+			"AFTER": "issuing guidance under this section"
+		}
+	],
+
+	"section-34-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "exercise the power in section 208(1) so as to bring sections 24 to 30, 32 and 33 into force— (a) for all purposes, and (b) in relation to the whole of England and Wales",
+			"ONLY IF": "the conditions in subsections (2) and (3) are met"
+		}
+	],
+
+	"section-34-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 208(1) which bring any provision of sections 24 to 30, 32 and 33 into force only for a specified purpose or in relation to a specified area",
+			"TO": "— (a) provide for that provision to be in force for that purpose or in relation to that area for a specified period; (b) make transitional or saving provision in connection with that provision ceasing to be in force at the end of the specified period"
+		}
+	],
+
+	"section-34-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations containing provision by virtue of subsection (4)(a)",
+			"TO": "be amended by subsequent regulations under section 208(1) so as to continue any provision of sections 24 to 30, 32 and 33 in force— (a) for the specified purpose, or (b) in relation to the specified area, for a further specified period"
+		}
+	],
+
+	"section-35-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this Chapter",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-35-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this Chapter",
+			"TO": "— (a) make different provision for different purposes and different provision for different areas; (b) make consequential, supplementary, incidental, transitional, transitory or saving provision."
+		}
+	],
+
+	"section-35-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing regulations under this Chapter",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-35-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3"]
+		}
+	],
+
+	"section-36-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend the definition of 'review partner', and (b) make such consequential amendments of this Chapter as appear to the Secretary of State to be appropriate"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) such persons as appear to the Secretary of State to represent review partners, (b) the Welsh Ministers, so far as the proposed regulations relate to a devolved Welsh authority, and (c) such other persons as the Secretary of State considers appropriate",
+			"BEFORE": "making regulations under subsection (2)"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "extract information stored on an electronic device from that device",
+			"IF": "— (a) a user of the device has voluntarily provided the device to an authorised person, and (b) that user has agreed to the extraction of information from the device by an authorised person"
+		}
+	],
+
+	"section-37-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power in subsection (1)",
+			"TO": "be exercised",
+			"ONLY FOR": "the purposes of— (a) preventing, detecting, investigating or prosecuting crime, (b) helping to locate a missing person, or (c) protecting a child or an at-risk adult from neglect or physical, mental or emotional harm"
+		}
+	],
+
+	"section-37-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "exercise the power in subsection (1)",
+			"ONLY IF": "the authorised person reasonably believes that information stored on the electronic device is relevant to a reasonable line of enquiry which is being, or is to be, pursued by an authorised person",
+			"IN A CASE WHERE": "the authorised person proposes to exercise the power for a purpose within subsection (2)(a)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "exercise the power in subsection (1)",
+			"ONLY IF": "the authorised person reasonably believes that information stored on the electronic device is relevant to that purpose",
+			"IN A CASE WHERE": "the authorised person proposes to exercise the power for a purpose within subsection (2)(b) or (c)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "exercise the power in subsection (1)",
+			"ONLY IF": "the authorised person is satisfied that exercise of the power is necessary and proportionate to achieve the purpose within subsection (2) for which the person proposes to exercise the power",
+			"IN": "any case"
+		}
+	],
+
+	"section-37-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "be satisfied that the exercise of the power in subsection (1) is proportionate, be satisfied that— (a) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or (b) there are such other means, but it is not reasonably practicable to use them"
+		}
+	],
+
+	"section-37-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "to be satisfied that the exercise of the power is proportionate— (a) have regard to the matters in subsection (10), and (b) be satisfied that— (i) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or (ii) there are such other means, but it is not reasonably practicable to use them"
+		}
+	],
+
+	"section-37-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorised person",
+			"TO": "have regard to the code of practice for the time being in force under section 42",
+			"IN": "exercising, or deciding whether to exercise, the power in subsection (1)"
+		}
+	],
+
+	"section-38-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised person",
+			"TO": "— (a) ascertain the views of the child, and (b) have regard to any views so ascertained, taking account of the child’s age and maturity",
+			"BEFORE": "exercising the power under section 37(1) by virtue of subsection (2)",
+			"SO FAR AS": "it is reasonably practicable to do so"
+		}
+	],
+
+	"section-38-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person who is not a user of an electronic device but is listed in subsection (8)",
+			"TO": "— (a) voluntarily provide the device to an authorised person for the purposes of section 37(1), and (b) agree for those purposes to the extraction of information from the device by an authorised person",
+			"IF": "a user of the device is an adult without capacity"
+		}
+	],
+
+	"section-38-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "any other user of an electronic device who is not a child or an adult without capacity",
+			"TO": "— (a) voluntarily providing the device to an authorised person for the purposes of section 37(1), or (b) agreeing for those purposes to the extraction of information from the device by an authorised person"
+		}
+	],
+
+	"section-38-12": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-39-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorised person",
+			"TO": "have placed undue pressure on P to provide the device or agree to the extraction of information from it"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorised person",
+			"TO": "have given P notice in writing— (a) specifying or describing the information that is sought, (b) specifying the reason why the information is sought, (c) specifying how the information will be dealt with once it has been extracted, (d) stating that P may refuse to provide the device or agree to the extraction of information from it, and (e) stating that the investigation or enquiry for the purposes of which the information is sought will not be brought to an end merely because P refuses to provide the device or agree to the extraction of information from it"
+		}
+	],
+
+	"section-39-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "P",
+			"TO": "have confirmed in writing that P has— (a) voluntarily provided the device to an authorised person, and (b) agreed to the extraction of information from the device by an authorised person",
+			"SUBJECT TO": "subsection (5)"
+		}
+	],
+
+	"section-39-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "P",
+			"TO": "have given that confirmation orally",
+			"IF": "P was unable to provide that confirmation in writing as a result of P’s physical impairment or lack of literacy skills"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised person",
+			"TO": "have recorded P’s confirmation in writing",
+			"IF": "P was unable to provide that confirmation in writing as a result of P’s physical impairment or lack of literacy skills"
+		}
+	],
+
+	"section-39-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person",
+			"TO": "have given P a copy of that confirmation (in hard copy or electronic form)",
+			"IF": "P’s confirmation was given in writing and in hard copy form"
+		}
+	],
+
+	"section-39-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authorised person",
+			"TO": "have given P a copy of the record of that confirmation (in hard copy or electronic form)",
+			"IF": "P’s confirmation was given orally"
+		}
+	],
+
+	"section-40-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an authorised person",
+			"TO": "exercise the power in section 37(1) to extract information stored on an electronic device from that device even though— (a) the device has not been voluntarily provided to an authorised person by a user of the device, or (b) no user of the device has agreed to the extraction of information from the device by an authorised person",
+			"IF": "any of conditions A to C is met"
+		}
+	],
+
+	"section-41-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "extract information stored on an electronic device from that device",
+			"IF": "— (a) a person who was a user of the electronic device has died, and (b) the person was a user of the device immediately before their death"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power in subsection (1)",
+			"TO": "be exercised",
+			"ONLY FOR": "the purposes of — (a) an investigation into the person’s death under Chapter 1 of Part 1 of the Coroners and Justice Act 2009, (b) an inquest into the person’s death under the Coroners Act (Northern Ireland) 1959, or (c) an investigation into the person’s death by the Lord Advocate"
+		}
+	],
+
+	"section-41-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorised person",
+			"TO": "exercise the power in subsection (1)",
+			"ONLY IF": "— (a) the authorised person reasonably believes that information stored on the electronic device is relevant to a purpose within subsection (2), and (b) the authorised person is satisfied that exercise of the power is necessary and proportionate to achieve that purpose"
+		}
+	],
+
+	"section-41-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "to be satisfied that the exercise of the power is proportionate, be satisfied that— (a) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or (b) there are such other means, but it is not reasonably practicable to use them"
+		}
+	],
+
+	"section-41-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "be satisfied that the exercise of the power is proportionate— (a) have regard to the matters in subsection (9), and (b) be satisfied that— (i) there are no other means of obtaining the information sought by the authorised person which avoid that risk, or (ii) there are such other means, but it is not reasonably practicable to use them"
+		}
+	],
+
+	"section-41-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorised person",
+			"TO": "have regard to the code of practice for the time being in force under section 42",
+			"IN": "exercising, or deciding whether to exercise, the power in subsection (1)"
+		}
+	],
+
+	"section-42-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "prepare a code of practice containing guidance about the exercise of the powers in sections 37(1) and 41(1)"
+		}
+	],
+
+	"section-42-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The code",
+			"TO": "make different provision for different purposes or areas"
+		}
+	],
+
+	"section-42-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Information Commissioner, (b) the Scottish Ministers, (c) the Department of Justice in Northern Ireland, (d) the Commissioner for Victims and Witnesses, (e) the Domestic Abuse Commissioner, (f) the Commission for Victims and Survivors for Northern Ireland, and (g) such other persons as the Secretary of State considers appropriate",
+			"IN": "preparing the code"
+		}
+	],
+
+	"section-42-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3-f"]
+		}
+	],
+
+	"section-42-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay the code before Parliament and publish it",
+			"AFTER": "preparing the code"
+		}
+	],
+
+	"section-42-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "from time to time revise the code",
+			"AFTER": "it has come into force"
+		}
+	],
+
+	"section-42-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "take into account a failure to act in accordance with it",
+			"IN": "determining a question in the proceedings"
+		}
+	],
+
+	"section-42-12": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3"]
+		}
+	],
+
+	"section-44-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power in subsection (1) of section 37",
+			"TO": "be exercised for a purpose mentioned in subsection (2)(b) or (c) of that section",
+			"ONLY BY": "a person listed in Part 1 or 2 of Schedule 3"
+		}
+	],
+
+	"section-44-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the power in section 41(1)",
+			"TO": "be exercised",
+			"ONLY BY": "a person listed in Part 1 of Schedule 3"
+		}
+	],
+
+	"section-44-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations made by statutory instrument amend Schedule 3— (a) so as to add a reference to a person; (b) so as to remove a reference to a person; (c) so as to modify a description of a person mentioned in that Schedule"
+		}
+	],
+
+	"section-44-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (4)",
+			"TO": "contain transitional, transitory or saving provision"
+		}
+	],
+
+	"section-44-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Scottish Ministers",
+			"BEFORE": "making regulations under subsection (4)",
+			"IF AND SO FAR AS": "the regulations make provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament"
+		}
+	],
+
+	"section-44-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Department of Justice in Northern Ireland",
+			"BEFORE": "making regulations under subsection (4)",
+			"IF AND SO FAR AS": "the regulations make provision that, if it were contained in an Act of the Northern Ireland Assembly— (a) would be within the legislative competence of that Assembly, and (b) would not require the consent of the Secretary of State"
+		}
+	],
+
+	"section-44-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a statutory instrument containing regulations under subsection (4)(a) (whether alone or with other provision)",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament",
+			"SUBJECT TO": "subsection (9)"
+		}
+	],
+
+	"section-44-9": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-8"]
+		}
+	],
+
+	"section-44A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A victim information request",
+			"TO": "be made",
+			"IN ACCORDANCE WITH": "this Chapter"
+		}
+	],
+
+	"section-44A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a victim information request",
+			"TO": "be made",
+			"ONLY IF": "the authorised person— (a) has reason to believe that the person to whom the request is made holds the information sought, (b) has reason to believe that the information sought is relevant to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person, and (c) is satisfied that the request is necessary and proportionate to achieve the purpose of preventing, detecting, investigating or prosecuting crime"
+		}
+	],
+
+	"section-44A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A counselling information request",
+			"TO": "be made",
+			"ONLY IF": "the authorised person has reason to believe that the information sought is likely to have substantial probative value to a reasonable line of enquiry which is being pursued, or is to be pursued, by the authorised person or another authorised person"
+		}
+	],
+
+	"section-44A-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "to be satisfied that the request is proportionate, be satisfied that— (a) there are no other means of obtaining the information sought, or (b) there are such other means, but it is not reasonably practicable to use them"
+		}
+	],
+
+	"section-44A-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised person",
+			"TO": "have regard to the code of practice for the time being in force under section 44D",
+			"IN": "making a victim information request or deciding whether to make such a request (including giving notice under section 44B or deciding whether to give such notice)"
+		}
+	],
+
+	"section-44A-11": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-44B-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authorised person",
+			"TO": "give notice of a victim information request to the person to whom the information sought relates (“V”)",
+			"SUBJECT TO": "subsection (5)"
+		}
+	],
+
+	"section-44B-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Notice under this section",
+			"TO": "be in writing— (a) specifying or describing the information sought by the victim information request, (b) specifying the reason why the information is sought, and (c) specifying how the information will be dealt with once it has been obtained"
+		}
+	],
+
+	"section-44B-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Notice under this section",
+			"TO": "be given",
+			"ON OR BEFORE": "the date on which the victim information request is made"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Notice under this section",
+			"TO": "be given",
+			"IF": "that is not reasonably practicable",
+			"AS SOON AS": "is reasonably practicable after that date"
+		}
+	],
+
+	"section-44C-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A victim information request",
+			"TO": "be in writing― (a) specifying or describing the information sought, (b) specifying the reason why the information is sought, and (c) specifying how the information will be dealt with once it has been obtained"
+		}
+	],
+
+	"section-44D-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "prepare a code of practice for authorised persons about victim information requests and compliance with this Chapter"
+		}
+	],
+
+	"section-44D-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The code",
+			"TO": "— (a) provide that an authorised person must, when considering whether they are satisfied as required by paragraph (c) of section 44A(3) in relation to a counselling information request, start from the presumption that the request is not necessary and proportionate to achieve a purpose in that paragraph, and (b) set out the steps that must be taken by an authorised person when deciding whether that presumption is rebutted"
+		}
+	],
+
+	"section-44D-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The code",
+			"TO": "make different provision for different purposes or areas"
+		}
+	],
+
+	"section-44D-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult― (a) the Information Commissioner, (b) the Commissioner for Victims and Witnesses, (c) the Domestic Abuse Commissioner, and (d) such other persons as the Secretary of State considers appropriate",
+			"IN": "preparing the code"
+		}
+	],
+
+	"section-44D-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay the code before Parliament and publish it",
+			"AFTER": "preparing the code"
+		}
+	],
+
+	"section-44D-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The code",
+			"TO": "be brought into force by regulations made by statutory instrument"
+		}
+	],
+
+	"section-44D-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "from time to time revise the code",
+			"AFTER": "it has come into force"
+		}
+	],
+
+	"section-44D-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "take into account a failure to act in accordance with it",
+			"IN": "determining a question in the proceedings"
+		}
+	],
+
+	"section-44D-13": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-5"]
+		}
+	],
+
+	"section-44E-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations made by statutory instrument amend subsection (1)— (a) so as to add a reference to a person; (b) so as to remove a reference to a person; (c) so as to modify a description of a person mentioned"
+		}
+	],
+
+	"section-44E-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (2)",
+			"TO": "contain transitional, transitory or saving provision"
+		}
+	],
+
+	"section-44E-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing regulations under subsection (2)(a) or (b) (whether alone or with other provision)",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-8-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The specified authorities for a local government area",
+			"TO": "collaborate with each other to prevent and reduce serious violence in the area"
+		}
+	],
+
+	"section-8-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the specified authorities for a local government area",
+			"TO": "— (a) identify the kinds of serious violence that occur in the area, (b) identify the causes of serious violence in the area, so far as it is possible to do so, and (c) prepare and implement a strategy for exercising their functions to prevent and reduce serious violence in the area"
+		}
+	],
+
+	"section-8-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the specified authorities for a local government area",
+			"TO": "ensure that the following are consulted— (a) each educational authority for the area; (b) each prison authority for the area; (c) each youth custody authority for the area",
+			"IN": "preparing a strategy under this section for the area"
+		}
+	],
+
+	"section-8-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a strategy under this section for a local government area",
+			"TO": "specify an action to be carried out by— (a) an educational authority for the area, (b) a prison authority for the area, or (c) a youth custody authority for the area"
+		}
+	],
+
+	"section-8-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the specified authorities for a local government area",
+			"TO": "invite participation from— (a) in the case of a strategy for a local government area in England, a person of a description for the time being prescribed by order of the Secretary of State under section 5(3) of the Crime and Disorder Act 1998; (b) in the case of a strategy for a local government area in Wales, a person of a description for the time being prescribed by order of the Welsh Ministers under section 5(3) of that Act",
+			"IN": "preparing a strategy under this section for the area"
+		}
+	],
+
+	"section-8-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the specified authorities for a local government area",
+			"TO": "— (a) publish a strategy prepared under this section for the area, (b) keep the strategy under review, and (c) from time to time prepare and implement a revised strategy",
+			"ON": "Once the strategy has been prepared"
+		}
+	],
+
+	"section-8-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A strategy under this section",
+			"TO": "include any material that the specified authorities consider— (a) might jeopardise the safety of any person, (b) might prejudice the prevention or detection of crime or the investigation or prosecution of an offence, or (c) might compromise the security of, or good order or discipline within, an institution of a kind mentioned in the first column of a table in Schedule 2"
+		}
+	],
+
+	"section-8-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A strategy under this section",
+			"TO": "cover an area that is wider than a local government area",
+			"IF": "it is also prepared in the exercise of the powers in section 9"
+		}
+	],
+
+	"section-8-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make further provision for or in connection with the publication and dissemination of a strategy under this section"
+		}
+	],
+
+	"section-9-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the specified authorities",
+			"TO": "— (a) identify the kinds of serious violence that occur in a relevant area, (b) identify the causes of serious violence in the area, and (c) prepare and implement a strategy for exercising their functions to prevent and reduce serious violence in the area"
+		}
+	],
+
+	"section-9-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the specified authorities preparing the strategy",
+			"TO": "ensure that the following are consulted— (a) every other specified authority for the area; (b) each educational authority for the area; (c) each prison authority for the area; (d) each youth custody authority for the area",
+			"IN": "preparing a strategy under this section for a relevant area"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a strategy under this section for a relevant area",
+			"TO": "specify actions to be carried out by— (a) an educational authority for the area, (b) a prison authority for the area, or (c) a youth custody authority for the area"
+		}
+	],
+
+	"section-9-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the specified authorities for the area",
+			"TO": "invite participation from— (a) in the case of a strategy for a relevant area in England, an eligible person for the time being prescribed by order of the Secretary of State under section 5(3) of the Crime and Disorder Act 1998; (b) in the case of a strategy for a relevant area in Wales, an eligible person for the time being prescribed by order of the Welsh Ministers under section 5(3) of that Act; (c) in the case of a strategy for a relevant area partly in England and partly in Wales, an eligible person for the time being prescribed by order of the Secretary of State or the Welsh Ministers under section 5(3) of that Act",
+			"IN": "preparing a strategy under this section for a relevant area"
+		}
+	],
+
+	"section-9-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the specified authorities for a relevant area",
+			"TO": "publish a strategy prepared under this section for the area",
+			"ONCE": "the strategy has been prepared"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the specified authorities for a relevant area",
+			"TO": "keep a strategy prepared under this section for the area under review",
+			"ONCE": "the strategy has been prepared"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the specified authorities for a relevant area",
+			"TO": "from time to time prepare and implement a revised strategy",
+			"ONCE": "a strategy has been prepared"
+		}
+	],
+
+	"section-9-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A strategy under this section",
+			"TO": "include any material that the specified authorities consider— (a) might jeopardise the safety of any person, (b) might prejudice the prevention or detection of crime or the investigation or prosecution of an offence, or (c) might compromise the security of, or good order or discipline within, an institution of a kind mentioned in the first column of a table in Schedule 2"
+		}
+	],
+
+	"section-9-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make further provision for or in connection with the publication and dissemination of a strategy under this section"
+		}
+	],
+
+	"section-10-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) confer powers on a specified authority to collaborate with a prescribed person to prevent and reduce serious violence in a prescribed area; (b) confer powers on a prescribed person to collaborate with a specified authority to prevent and reduce serious violence in a prescribed area"
+		}
+	],
+
+	"section-10-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations authorise the disclosure of information— (a) by a prescribed person to any person listed in subsection (3) for the purposes of preventing and reducing serious violence in a prescribed area; (b) by any person listed in subsection (3) to a prescribed person for such purposes"
+		}
+	],
+
+	"section-10-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (2)",
+			"TO": "provide that a disclosure under the regulations does not breach— (a) any obligation of confidence owed by the person making the disclosure, or (b) any other restriction on the disclosure of information (however imposed)"
+		}
+	],
+
+	"section-10-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "regulations under subsection (2)",
+			"TO": "provide that they do not authorise a disclosure of information that— (a) would contravene the data protection legislation (but in determining whether a disclosure would do so, any power conferred by the regulations is to be taken into account), or (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016",
+			"IF": "they contain provision under subsection (4)(b)"
+		}
+	],
+
+	"section-10-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Regulations under subsection (2)",
+			"TO": "authorise— (a) the disclosure of patient information, or (b) the disclosure of personal information by a specified authority which is a health or social care authority"
+		}
+	],
+
+	"section-10-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "prescribe persons by reference to the fact that they have been invited under section 8(6) or 9(6) to participate in the preparation of a strategy under section 8 or 9"
+		}
+	],
+
+	"section-11-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend Schedule 1 by adding, modifying or removing a reference to a specified authority or a local government area"
+		}
+	],
+
+	"section-12-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend Schedule 2 by adding, modifying or removing an entry in a table in that Schedule"
+		}
+	],
+
+	"section-13-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "account",
+			"TO": "be taken in particular of the following factors— (a) the maximum penalty which could be imposed for the offence (if any) involved in the violence, (b) the impact of the violence on any victim, (c) the prevalence of the violence in the area, and (d) the impact of the violence on the community in the area",
+			"IN": "considering whether violence in an area amounts to serious violence for the purposes of this Chapter"
+		}
+	],
+
+	"section-14-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local policing body for a police area",
+			"TO": "assist a specified authority in the exercise of— (a) the authority’s functions under or in accordance with section 8 in relation to a local government area which coincides with or falls within the police area, or (b) the authority’s functions under or in accordance with section 9 in relation to a relevant area which, or any part of which, coincides with or falls within the police area"
+		}
+	],
+
+	"section-14-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local policing body for a police area",
+			"TO": "— (a) monitor the exercise by specified authorities of their functions under or in accordance with section 8 in relation to a local government area which coincides with or falls within the police area, or (b) monitor the exercise by specified authorities of their functions under or in accordance with section 9 in relation to a relevant area which, or any part of which, coincides with or falls within the police area"
+		}
+	],
+
+	"section-14-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local policing body",
+			"TO": "report its findings under subsection (2) to the Secretary of State"
+		}
+	],
+
+	"section-14-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision conferring functions on a local policing body for a police area for the purposes of subsection (1)"
+		}
+	],
+
+	"section-14-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision under subsection (4)",
+			"TO": "include provision— (a) for a local policing body to provide funding to a specified authority, (b) for a local policing body to arrange for meetings to be held for the purpose of assisting the exercise by specified authorities of their functions under or in accordance with section 8 or 9, (c) for the local policing body or a representative of the body to chair the meetings, and (d) for such descriptions and numbers of persons as the local policing body may specify to be required to attend the meetings"
+		}
+	],
+
+	"section-15-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a relevant authority for a relevant area and a specified authority for that area",
+			"TO": "collaborate with each other to prevent and reduce serious violence in that area"
+		}
+	],
+
+	"section-15-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant authority and a specified authority",
+			"TO": "collaborate with each other as mentioned in subsection (1) or (2)",
+			"IF": "either the relevant authority or the specified authority requests the other to do so"
+		}
+	],
+
+	"section-15-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant authority",
+			"TO": "carry out any actions which are specified under section 8(5) or 9(5) as actions to be carried out by the authority"
+		}
+	],
+
+	"section-15-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A relevant authority for a local government area",
+			"TO": "prevent and reduce serious violence in that area"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "those purposes",
+			"TO": "collaborate with another relevant authority for that area",
+			"IF": "requested by that other relevant authority to do so"
+		}
+	],
+
+	"section-15-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A relevant authority (“RA1”)",
+			"TO": "prevent and reduce serious violence in an area which is made up of— (a) all or part of the local government area for which RA1 is a relevant authority, and (b) all or part of the local government area for which RA2 is a relevant authority"
+		}
+	],
+
+	"section-15-9": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-7", "subsection-8"]
+		}
+	],
+
+	"section-16-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the purposes of the exercise by the other person of its functions under or in accordance with this Chapter",
+			"TO": "disclose information that it holds for the purposes of its functions to another person listed in that subsection"
+		}
+	],
+
+	"section-17-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the purposes of enabling or assisting it to exercise its functions under section 14 in relation to an area",
+			"TO": "request any person listed in subsection (2) to supply it with such information as may be specified in the request"
+		}
+	],
+
+	"section-17-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Information requested under subsection (1)",
+			"TO": "be information that is held by the person to whom the request is made and that relates to— (a) the person to whom the request was made, (b) a function of the person to whom the request was made, or (c) a person in respect of whom a function is exercisable by the person requested to supply the information"
+		}
+	],
+
+	"section-17-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person who is requested to supply information under subsection (1)",
+			"TO": "comply with the request",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-17-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Information supplied to a local policing body under this section",
+			"TO": "be used by the body",
+			"ONLY FOR": "the purpose of enabling or assisting it to exercise its functions under section 14"
+		}
+	],
+
+	"section-18-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the purpose of securing compliance with the duty",
+			"TO": "give directions to the authority"
+		}
+	],
+
+	"section-18-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a mandatory order",
+			"TO": "enforce a direction under subsection (2)",
+			"ON": "an application made on behalf of the Secretary of State"
+		}
+	],
+
+	"section-18-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "obtain the consent of the Welsh Ministers",
+			"BEFORE": "giving a direction under this section to a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act)"
+		}
+	],
+
+	"section-18-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-19-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person listed in subsection (2)",
+			"TO": "have regard to guidance issued by the Secretary of State",
+			"IN": "exercising any function conferred by or by virtue of this Chapter"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person listed in subsection (2)",
+			"TO": "have regard to guidance issued by the Secretary of State",
+			"IN": "exercising any function in accordance with this Chapter"
+		}
+	],
+
+	"section-19-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "issuing guidance relating to the exercise of functions as mentioned in subsection (1) by a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act)"
+		}
+	],
+
+	"section-19-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay a copy of the guidance before Parliament",
+			"AFTER": "issuing guidance under this section"
+		}
+	],
+
+	"section-22-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this Chapter",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-22-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this Chapter",
+			"TO": "— (a) may make different provision for different purposes or areas; (b) may make consequential, supplementary, incidental, transitional, transitory or saving provision"
+		}
+	],
+
+	"section-22-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "making regulations under this Chapter",
+			"IF AND TO EXTENT THAT": "the regulations make provision that applies in relation to a devolved Welsh authority within the meaning of the Government of Wales Act 2006 (see section 157A of that Act)"
+		}
+	],
+
+	"section-22-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing regulations under this Chapter",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-54-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the High Court",
+			"TO": "declare unlawful any act or omission of the Crown which constitutes such a contravention"
+		}
+	],
+
+	"section-55-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a justice of the peace",
+			"TO": "issue a warrant authorising a constable to enter and search premises",
+			"ON": "an application made by a constable",
+			"IF": "the justice of the peace is satisfied that the following conditions are met"
+		}
+	],
+
+	"section-55-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the justice of the peace",
+			"TO": "be satisfied— (a) that there are reasonable grounds for believing that it is necessary to search premises occupied or controlled by the person in question which are not specified in the application in order to find the material referred to in subsection (2), and (b) that it is not reasonably practicable to specify in the application all the premises which the person occupies or controls and which might need to be searched",
+			"IF": "the application is for an all premises warrant"
+		}
+	],
+
+	"section-55-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The warrant",
+			"TO": "authorise entry to and search of premises on more than one occasion",
+			"IF": "on the application, the justice of the peace is satisfied that it is necessary to authorise multiple entries in order to achieve the purpose for which the justice of the peace issues the warrant"
+		}
+	],
+
+	"section-55-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the number of entries authorised",
+			"TO": "be unlimited, or limited to a maximum",
+			"IF": "the warrant authorises multiple entries"
+		}
+	],
+
+	"section-55-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a constable",
+			"TO": "seize and retain anything for which a search has been authorised under subsection (1)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a constable",
+			"TO": "use reasonable force in the exercise of a power conferred by a warrant issued under this section",
+			"IF": "necessary"
+		}
+	],
+
+	"section-60-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a code of practice about the processing by a relevant person of personal data relating to a hate incident"
+		}
+	],
+
+	"section-60-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a code of practice under this section",
+			"TO": "make provision about— (a) the processing of personal data for the purposes of a criminal investigation, or (b) the processing of personal data relating to the alleged perpetrator of a hate incident at any time after they have been charged with an offence relating to the hate incident"
+		}
+	],
+
+	"section-60-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A code of practice under this section",
+			"TO": "different provision for different purposes"
+		}
+	],
+
+	"section-60-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant person",
+			"TO": "have regard to the code of practice that is for the time being in force under this section in processing personal data relating to a hate incident"
+		}
+	],
+
+	"section-61-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a code of practice under section 60",
+			"UNLESS": "a draft of the code has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-61-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time revise and reissue a code of practice under section 60"
+		}
+	],
+
+	"section-61-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay a draft of a code of practice as proposed to be reissued before Parliament",
+			"BEFORE": "reissuing the code"
+		}
+	],
+
+	"section-61-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "prepare another code",
+			"IF": "within the 40-day period, either House of Parliament resolves not to approve the code of practice laid under subsection (3)"
+		}
+	],
+
+	"section-61-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "reissue the code of practice",
+			"IF": "no such resolution is passed within the 40-day period"
+		}
+	],
+
+	"section-63-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "trespass on land with the intention of— (a) using a dog to search for or to pursue a hare, (b) facilitating or encouraging the use of a dog to search for or to pursue a hare, or (c) enabling another person to observe the use of a dog to search for or to pursue a hare"
+		}
+	],
+
+	"section-63-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person charged with an offence under subsection (1)",
+			"TO": "prove that they had a reasonable excuse for the trespass mentioned in that subsection"
+		}
+	],
+
+	"section-64-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "have an article with them in a place other than a dwelling with the intention that it will be used in the course of or in connection with the commission by any person of an offence under section 63 (trespass with intent to search for or to pursue hares with dogs etc)"
+		}
+	],
+
+	"section-65-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an order (a 'recovery order') requiring the offender to pay all the expenses incurred by reason of the dog’s seizure and detention"
+		}
+	],
+
+	"section-65-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make a recovery order whether or not it deals with the offender in any other way for the offence",
+			"WHERE": "such an order is available for an offence"
+		}
+	],
+
+	"section-66-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an order (a “disqualification order”) disqualifying the offender, for such period as the court thinks fit, from— (a) owning dogs, (b) keeping dogs, or (c) both"
+		}
+	],
+
+	"section-66-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The disqualification order",
+			"TO": "specify a period during which the offender may not make an application under section 68 to terminate the order"
+		}
+	],
+
+	"section-66-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "suspend the operation of the disqualification order for such period as it thinks necessary for enabling alternative arrangements to be made in respect of the dog",
+			"WHERE": "it appears to the court that the offender owns or keeps a dog"
+		}
+	],
+
+	"section-66-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "— (a) give its reasons for making a disqualification order in open court, and (b) cause them to be entered in the register of its proceedings",
+			"WHERE": "it makes the order"
+		}
+	],
+
+	"section-66-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "breach a disqualification order"
+		}
+	],
+
+	"section-66-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make a disqualification order whether or not it deals with the offender in any other way for the offence",
+			"WHERE": "such an order is available for an offence"
+		}
+	],
+
+	"section-67-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "order that a dog be taken into possession",
+			"WHERE": "it appears to the court that the person to whom the order applies owns or keeps a dog contrary to the order",
+			"ON": "the court making a disqualification order"
+		}
+	],
+
+	"section-67-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court by which a person is convicted",
+			"TO": "order that all dogs owned or kept in breach of the order be taken into possession",
+			"WHERE": "the person is convicted of an offence under section 66(6) by reason of owning or keeping a dog in breach of a disqualification order"
+		}
+	],
+
+	"section-67-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An order under subsection (1) or (2)",
+			"TO": "make provision for disposal of any dog owned by the person to whom the disqualification order applies",
+			"SO FAR AS": "relating to the dog"
+		}
+	],
+
+	"section-67-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an order under subsection (4)",
+			"TO": "provide for the dog to be— (a) destroyed, or (b) disposed of for the purposes of vivisection"
+		}
+	],
+
+	"section-67-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an order for disposal of the dog under subsection (4)",
+			"UNLESS": "— (a) it has given the owner of the dog an opportunity to be heard, or (b) it is satisfied that it is not reasonably practicable to communicate with the owner"
+		}
+	],
+
+	"section-67-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the owner of the dog",
+			"TO": "appeal against the order to the Crown Court",
+			"WHERE": "a court makes an order under subsection (4) for the disposal of the dog"
+		}
+	],
+
+	"section-68-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the order to be terminated",
+			"TO": "apply to an appropriate court"
+		}
+	],
+
+	"section-68-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an application under subsection (1)",
+			"TO": "be made",
+			"BEFORE": "the end of the period of one year beginning with the date on which the disqualification order was made"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an application under subsection (1)",
+			"TO": "be made",
+			"WHERE": "a previous application under that subsection has been made in relation to the same order",
+			"BEFORE": "the end of the period of one year beginning with the date on which the previous application was determined"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an application under subsection (1)",
+			"TO": "be made",
+			"BEFORE": "the end of any period specified under section 66(3), or subsection (5), in relation to the order"
+		}
+	],
+
+	"section-68-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "— (a) terminate the disqualification order, (b) vary the order so as to make it less onerous, or (c) refuse the application",
+			"ON": "an application under subsection (1)"
+		}
+	],
+
+	"section-68-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard to— (a) the character of the applicant, (b) the applicant’s conduct since the disqualification order was made, and (c) any other relevant circumstances",
+			"WHEN": "determining an application under subsection (1)"
+		}
+	],
+
+	"section-68-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "specify a period during which the applicant may not make a further application under that subsection in relation to the order concerned",
+			"WHERE": "the court refuses an application under subsection (1) or varies a disqualification order on such an application"
+		}
+	],
+
+	"section-68-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "order an applicant to pay all or part of the costs of an application"
+		}
+	],
+
+	"section-69-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court by which an order under section 67 is made",
+			"TO": "— (a) appoint a person to carry out, or arrange for the carrying out of, the order; (b) require any person who has possession of a dog to which the order applies to deliver it up to enable the order to be carried out; (c) give directions with respect to the carrying out of the order; (d) confer additional powers (including power to enter premises where a dog to which the order applies is being kept) for the purpose of, or in connection with, the carrying out of the order; (e) order the person who committed the offence in relation to which the order was made, or another person, to reimburse the expenses of carrying out the order"
+		}
+	],
+
+	"section-69-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "fail to comply with a requirement imposed under subsection (1)(b)"
+		}
+	],
+
+	"section-69-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (1)(c)",
+			"TO": "— (a) specify the manner in which a dog is to be disposed of, or (b) delegate the decision about the manner in which a dog is to be disposed of to a person appointed under subsection (1)(a)"
+		}
+	],
+
+	"section-69-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard (amongst other things) to— (a) the desirability of protecting the value of any dog to which the order under section 67 applies, and (b) the desirability of avoiding increasing any expenses which a person may be ordered to reimburse",
+			"IN": "determining how to exercise its powers under section 67 and this section"
+		}
+	],
+
+	"section-69-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person",
+			"TO": "have regard, amongst other things, to the things mentioned in subsection (5)(a) and (b)",
+			"IN": "determining how to exercise a power delegated under subsection (4)(b)"
+		}
+	],
+
+	"section-69-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "any amount to which the owner of a dog ordered to be disposed of under section 67 is entitled as a result of sale of the dog",
+			"TO": "be reduced by an amount equal to that liability",
+			"IF": "the owner is subject to a liability by virtue of subsection (1)(e)"
+		}
+	],
+
+	"section-70-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "give directions about how any dog to which the order applies is to be dealt with during the suspension",
+			"WHERE": "the effect of an order is suspended under subsection (1)"
+		}
+	],
+
+	"section-70-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (2)(b)",
+			"TO": "— (a) authorise the dog to be taken into possession; (b) authorise the dog to be cared for either on the premises where it was being kept when it was taken into possession or at some other place; (c) appoint a person to carry out, or arrange for the carrying out of, the directions; (d) require any person who has possession of the dog to deliver it up for the purposes of the directions; (e) confer additional powers (including power to enter premises where the dog is being kept) for the purpose of, or in connection with, the carrying out of the directions; (f) provide for the recovery of any expenses in relation to the removal or care of the dog which are incurred in carrying out the directions"
+		}
+	],
+
+	"section-70-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "fail to comply with a requirement imposed under subsection (3)(d)"
+		}
+	],
+
+	"section-71-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare and publish a report— (i) about the nature and prevalence of the conduct described in subsection (2), and (ii) setting out any steps Her Majesty’s Government has taken or intends to take in relation to the matters referred to in sub-paragraph (i), and (b) lay the report before Parliament",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-72-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare and publish a response to Recommendation 8 of the Law Commission report on hate crime (adding sex or gender as a protected characteristic for the purposes of aggravated offences and enhanced sentencing), and (b) lay the response before Parliament",
+			"BEFORE": "the end of the period of 12 months beginning with the day on which this Act is passed"
+		}
+	],
+
+	"section-24-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend this section so as to alter the meaning of “qualifying homicide”, and (b) make such consequential amendments of this Chapter as appear to the Secretary of State to be appropriate"
+		}
+	],
+
+	"section-25-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision for identifying which review partners are to be the relevant review partners in respect of a person’s death"
+		}
+	],
+
+	"section-25-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide that the relevant review partners in respect of a person’s death are— (a) a chief officer of police for a police area in England or Wales of a description specified in the regulations, (b) a local authority of a description specified in the regulations or, in a case of a description specified in the regulations, a county council and a district council of a description specified in the regulations, and (c) an integrated care board or a local health board of a description specified in the regulations"
+		}
+	],
+
+	"section-25-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide that the relevant review partners in respect of a person’s death are— (a) the chief officer of police for the police area in England or Wales in which the death occurred or is likely to have occurred, (b) the local authority in whose area the death occurred or is likely to have occurred or, if the death occurred or is likely to have occurred within the area of a district council whose area is within the area of a county council, both of those local authorities, and (c) the integrated care board or the local health board in whose area the death occurred or is likely to have occurred",
+			"IN": "a case of a description specified in the regulations"
+		}
+	],
+
+	"section-25-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "include provision for identifying the relevant review partners in respect of a person’s death by reference to other matters, including— (a) the last known place of residence of the person who died; (b) an earlier place of residence of the person who died; (c) the place of residence of the person who caused or is likely to have caused, or of any of the persons who caused or are likely to have caused, the person’s death; (d) the police area in England or Wales of the police force that is investigating or has investigated the person’s death"
+		}
+	],
+
+	"section-25-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "— (a) provide for a group of review partners to agree with another group of review partners to be the relevant review partners in respect of a person’s death instead of that other group; (b) provide for review partners of a description specified in the regulations to agree between them which of them is a relevant review partner in respect of a person’s death; (c) provide for the Secretary of State to give a direction specifying which review partners are the relevant review partners in respect of a person’s death"
+		}
+	],
+
+	"section-26-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about the duty in section 24(1) not applying in the case of a death which may or must be investigated under arrangements made by NHS bodies with respect to deaths caused by persons who are receiving or have received any health services relating to mental health"
+		}
+	],
+
+	"section-26-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-24-1"]
+		}
+	],
+
+	"section-26-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about the duty in section 24(1) not applying in the case of a death, caused by a person who is receiving or has received any health services relating to mental health, where there may be a review of, or investigation into, the provision of that health care under section 70 of the Health and Social Care (Community Health and Standards) Act 2003"
+		}
+	],
+
+	"section-27-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a review partner",
+			"TO": "notify the Secretary of State of one of the following— (a) that the review partner is under a duty to arrange for there to be a review under section 24 of the person’s death, (b) that the review partner is not under that duty in respect of the death, or (c) that the review partner has not been able to take a decision on the matter",
+			"IF": "the review partner becomes aware of qualifying circumstances in relation to a person’s death",
+			"BEFORE": "the end of the notification period"
+		}
+	],
+
+	"section-27-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	]
+}

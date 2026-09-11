@@ -1,0 +1,58 @@
+{
+	"to-exclude": ["section-205-3", "section-205-6", "section-205-7", "section-207-1", "section-207-2", "section-207-3", "section-207-4", "section-207-5", "section-207-6", "section-207-7", "section-207-8", "section-207-9", "section-207-10", "section-207-11", "section-207-12", "section-208-1", "section-208-3", "section-208-4", "section-208-5"],
+
+	"section-205-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations made by statutory instrument make provision that is consequential on this Act"
+		}
+	],
+
+	"section-205-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "amend, repeal or revoke any enactment passed or made before, or in the same Session as, this Act"
+		}
+	],
+
+	"section-205-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "— (a) make different provision for different purposes; (b) make transitional, transitory or saving provision"
+		}
+	],
+
+	"section-205-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing (whether alone or with any other provision) regulations under subsection (1) which amend, repeal or revoke primary legislation",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-208-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "appoint different days for different purposes or areas"
+		}
+	],
+
+	"section-208-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act"
+		}
+	]
+}

@@ -1,0 +1,310 @@
+{
+	"to-exclude": ["section-35-1", "section-35-2", "section-35-3", "section-36-1", "section-36-2", "section-36-3", "section-36-4", "section-36-6", "section-36-7", "section-37-2", "section-37-5", "section-37-8", "section-38-1", "section-38-2", "section-38-3", "section-38-4", "section-38-5", "section-38-6", "section-38-7", "section-39-2", "section-39-5", "section-39-8", "section-40-1", "section-40-2", "section-40-3", "section-40-4", "section-40-5", "section-40-6", "section-40-7", "section-41-1", "section-42-3", "section-42-7", "section-42-8", "section-42-9", "section-42-10", "section-42-11", "section-43-1", "section-43-2", "section-43-5", "section-47-1", "section-47-2", "section-47-8", "section-48-1", "section-48-2", "section-48-3", "section-48-4", "section-48-5", "section-50-3", "section-50-4"],
+
+	"section-36-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the gross cash amount given",
+			"TO": "for the purpose of this section, be used in determining the amount of assistance",
+			"IF": "minimal financial assistance is provided in cash"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the amount of assistance given",
+			"TO": "for the purpose of this section, be determined by reference to the gross cash equivalent of the assistance",
+			"IF": "minimal financial assistance is provided otherwise than in cash"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a public authority",
+			"TO": "give to the enterprise a minimal financial assistance notification",
+			"BEFORE": "giving minimal financial assistance"
+		}
+	],
+
+	"section-37-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The public authority",
+			"TO": "proceed to give the assistance",
+			"ONLY AFTER": "it has received the confirmation referred to in subsection (2)(c)"
+		}
+	],
+
+	"section-37-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority",
+			"TO": "provide to the enterprise a minimal financial assistance confirmation",
+			"ON": "giving the assistance"
+		}
+	],
+
+	"section-37-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The enterprise",
+			"TO": "keep a written record detailing— (a) that it has received a subsidy by way of minimal financial assistance, (b) the date on which it was given, and (c) the gross value amount of the assistance"
+		}
+	],
+
+	"section-37-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The record required by subsection (6)",
+			"TO": "be kept for at least three years beginning with the date mentioned in paragraph (b) of that subsection"
+		}
+	],
+
+	"section-39-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a public authority",
+			"TO": "give to the enterprise a SPEI assistance notification",
+			"BEFORE": "giving SPEI assistance"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The public authority",
+			"TO": "proceed to give the assistance",
+			"ONLY AFTER": "it has received the confirmation referred to in subsection (2)(c)"
+		}
+	],
+
+	"section-39-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority",
+			"TO": "provide to the enterprise a SPEI assistance confirmation",
+			"ON": "giving the assistance"
+		}
+	],
+
+	"section-39-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The enterprise",
+			"TO": "keep a written record detailing— (a) that it has received a subsidy by way of SPEI assistance, (b) the date on which it was given, and (c) the gross value amount of the assistance"
+		}
+	],
+
+	"section-39-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The record required by subsection (6)",
+			"TO": "be kept for at least three years beginning with the date mentioned in paragraph (b) of that subsection"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the gross cash amount given",
+			"TO": "For the purposes of subsection (1), be used in determining the amount of the assistance",
+			"IF": "assistance is provided in cash"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the amount of assistance given",
+			"TO": "For the purposes of subsection (1), be determined by reference to the gross cash equivalent of the assistance",
+			"IF": "assistance is provided otherwise than in cash"
+		}
+	],
+
+	"section-42-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend section 36(1), 38(1) or 41(1) so as to substitute a different amount for the amount specified; (b) provide for a lower amount to apply, instead of an amount specified in section 36(1), 38(1) or 41(1), in the case of particular descriptions of subsidy; (c) amend section 36(4) or 38(4) so as to substitute a different amount for the amount specified; (d) provide for a different amount to apply, instead of an amount specified in section 36(4) or 38(4), in the case of particular descriptions of subsidy"
+		}
+	],
+
+	"section-42-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power to make regulations under subsection (1)(a)",
+			"TO": "be exercised so as to substitute a higher amount for the purpose of securing that the amount specified in sterling is up to an equivalent of— (a) 325,000 special drawing rights, in the case of the amount specified in section 36(1); (b) 750,000 special drawing rights, in the case of the amount specified in section 38(1); (c) 15,000,000 special drawing rights, in the case of the amount specified in section 41(1)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The amount determined as a result of the currency conversion carried out for this purpose",
+			"TO": "be rounded up or down to such convenient number as the Secretary of State thinks appropriate"
+		}
+	],
+
+	"section-42-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An amount specified in regulations under subsection (1)(c) or (d) which amend section 36(4)",
+			"TO": "exceed the amount specified in section 36(1)"
+		}
+	],
+
+	"section-42-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An amount specified in regulations under subsection (1)(c) or (d) which amend section 38(4)",
+			"TO": "exceed the amount specified in section 38(1)"
+		}
+	],
+
+	"section-42-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-43-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a subsidy",
+			"TO": "be given in respect of a natural disaster, or another exceptional occurrence, in reliance on the exemption under this section",
+			"ONLY IF": "— (a) a notice is published by the Secretary of State for the purposes of this section declaring that the exemption applies in respect of that natural disaster or occurrence, and (b) that notice has not been withdrawn by the publication of a further notice"
+		}
+	],
+
+	"section-43-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A copy of a notice under this section",
+			"TO": "be laid before Parliament"
+		}
+	],
+
+	"section-44-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-15", "subsection-16", "subsection-17", "subsection-18", "subsection-19", "subsection-20", "subsection-21", "subsection-22", "subsection-23", "subsection-24", "subsection-25", "subsection-26", "subsection-27", "subsection-28", "subsection-29"]
+		}
+	],
+
+	"section-44-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-44-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A subsidy",
+			"TO": "be given in respect of a national or global economic emergency in reliance on the exemption under this section",
+			"ONLY IF": "— (a) a notice is published by the Secretary of State for the purposes of this section declaring that the exemption applies in respect of that emergency, and (b) that notice has not been withdrawn by the publication of a further notice"
+		}
+	],
+
+	"section-44-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A copy of a notice under this section",
+			"TO": "be laid before Parliament"
+		}
+	],
+
+	"section-47-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Treasury",
+			"TO": "give a financial stability direction",
+			"ONLY IF": "it considers it appropriate for prudential reasons, for example— (a) the protection of investors, depositors, policy-holders or persons to whom a fiduciary duty is owed by a financial service supplier, or (b) ensuring the integrity and stability of the financial system of the United Kingdom"
+		}
+	],
+
+	"section-47-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Treasury",
+			"TO": "consult the Bank of England",
+			"BEFORE": "giving a financial stability direction"
+		}
+	],
+
+	"section-47-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Treasury",
+			"TO": "give a financial stability direction that relates only to a subsidy given, or subsidy scheme made, by the Bank of England",
+			"ONLY IF": "the Bank of England has requested the Treasury to give the direction"
+		}
+	],
+
+	"section-47-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a financial stability direction",
+			"TO": "— (a) be published in whatever manner the Treasury considers appropriate, and (b) be laid before Parliament",
+			"SUBJECT TO": "subsection (7)"
+		}
+	],
+
+	"section-47-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Treasury",
+			"TO": "delay the carrying out of the steps required by subsection (6)",
+			"UNTIL": "such time as it is satisfied that to do so would not have that effect",
+			"IF": "the Treasury considers that those steps would have the effect of undermining the purpose for which the direction is given"
+		}
+	],
+
+	"section-50-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-12-1"]
+		}
+	],
+
+	"section-50-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-12-3"]
+		}
+	],
+
+	"section-51-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-13-1"]
+		}
+	],
+
+	"section-51-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-13-3"]
+		}
+	]
+}

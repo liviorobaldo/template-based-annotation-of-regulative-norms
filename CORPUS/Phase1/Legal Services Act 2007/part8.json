@@ -1,0 +1,333 @@
+{
+	"to-exclude": ["section-176-2", "section-176-3", "section-178-1", "section-178-2", "section-178-3", "section-178-4", "section-178-6", "section-181-1", "section-181-2", "section-181-3", "section-183-1", "section-183-2", "section-183-8", "section-184-1", "section-184-2", "section-184-3", "section-184-4", "section-184-5", "section-184-6", "section-185-1", "section-185-2", "section-185-3", "section-185-4", "section-185-5", "section-185-6", "section-186-1", "section-186-2", "section-188-1", "section-188-2", "section-188-3", "section-188-4", "section-188-5", "section-189-1", "section-189-2", "section-190-1", "section-190-2", "section-190-3", "section-190-4", "section-190-5", "section-190-6", "section-190-7", "section-192-1", "section-192-6", "section-193-1", "section-193-2", "section-193-3", "section-193-4", "section-193-5", "section-193-6", "section-194-1", "section-194-2", "section-194-6", "section-194-8", "section-194-9", "section-194-10", "section-194A-1", "section-194A-2", "section-194A-4", "section-194A-5", "section-194A-8", "section-194A-9", "section-194A-11", "section-194A-12", "section-194A-14", "section-194B-1", "section-194B-2", "section-194B-4", "section-194B-5", "section-194B-8", "section-194B-9", "section-194B-11", "section-194C-3", "section-194C-4", "section-195-1", "section-195-2", "section-195-3", "section-195-4", "section-195-5", "section-196-1", "section-196-2"],
+
+	"section-176-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person who is a regulated person in relation to an approved regulator",
+			"TO": "comply with the regulatory arrangements of the approved regulator as they apply to that person"
+		}
+	],
+
+	"section-178-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (4)",
+			"TO": "be specific or general"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "publish a direction under subsection (4)"
+		}
+	],
+
+	"section-183-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A relevant authorised person",
+			"TO": "carry on the administration of oaths in any proceedings in which that person represents any of the parties or is interested"
+		}
+	],
+
+	"section-183-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant authorised person before whom an oath or affidavit is taken or made",
+			"TO": "state in the jurat or attestation at which place and on what date the oath or affidavit is taken or made"
+		}
+	],
+
+	"section-183-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A document containing such a statement and purporting to be sealed or signed by a relevant authorised person",
+			"TO": "be admitted in evidence without proof of the seal or signature, and without proof that that person is a relevant authorised person"
+		}
+	],
+
+	"section-183-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order prescribe the fees to be charged by relevant authorised persons in respect of the administration of an oath or the taking of an affidavit"
+		}
+	],
+
+	"section-183-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make an order under subsection (6)",
+			"ONLY AFTER": "consultation with the Board",
+			"ONLY WITH": "the consent of the Lord Chief Justice and the Master of the Rolls"
+		}
+	],
+
+	"section-192-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "give its reasons for refusing",
+			"WHERE": "it refuses to hear a person as mentioned in subsection (1)"
+		}
+	],
+
+	"section-192-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "exercise a right of audience before the court solely by virtue of being entitled to do so under this Act",
+			"IN RELATION TO": "any proceedings",
+			"WHERE": "— (a) immediately before the commencement of section 13 (entitlement to carry on reserved legal activities), or (b) by virtue of any provision made by or under an enactment passed subsequently, a court does not permit the appearance of advocates, or permits the appearance of advocates only with leave"
+		}
+	],
+
+	"section-192-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "limit the right to appear before the court in any proceedings to only some of those who are entitled to exercise that right by virtue of this Act"
+		}
+	],
+
+	"section-192-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "limit the right to conduct litigation",
+			"IN RELATION TO": "proceedings before the court to only some of those who are entitled to exercise that right by virtue of this Act"
+		}
+	],
+
+	"section-194-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "order any person to make a payment to the prescribed charity in respect of R's representation of P"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "order any person to make a payment to the prescribed charity in respect of part of R's representation of P",
+			"IF": "only that part was provided free of charge"
+		}
+	],
+
+	"section-194-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard to whether it would have ordered the person to make a payment to P in respect of the costs payable to R by P in respect of that representation",
+			"HAD": "R's representation of P not been provided free of charge",
+			"IN": "considering whether to make such an order and the terms of such an order"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard to what the terms of the order would have been",
+			"IF": "it would",
+			"IN": "considering whether to make such an order and the terms of such an order"
+		}
+	],
+
+	"section-194-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court",
+			"TO": "make an order under subsection (3) against a person represented in the proceedings",
+			"IF": "the person's representation was at all times within subsection (6)"
+		}
+	],
+
+	"section-194-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "make further provision as to the making of orders under subsection (3)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "— (a) provide that such orders may not be made in civil proceedings of a description specified in the rules; (b) make provision about the procedure to be followed in relation to such orders; (c) specify matters (in addition to those mentioned in subsection (4)) to which the court must have regard in deciding whether to make such an order, and the terms of any order"
+		}
+	],
+
+	"section-194-11": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court",
+			"TO": "make an order under subsection (3) in respect of representation",
+			"IF OR TO THE EXTENT THAT": "it is provided before this section comes into force"
+		}
+	],
+
+	"section-194A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "make an order under this section against a person",
+			"IF": "the condition in subsection (5) is met in respect of that person",
+			"IF_2": "subsection (7) does not apply"
+		}
+	],
+
+	"section-194A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "have regard to whether it would have made an order against that person as described in subsection (5)",
+			"HAD": "R’s representation of P not been provided free of charge",
+			"IN": "considering whether to make an order under this section against a person, and the terms of such an order"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "have regard to what the terms of the order would have been",
+			"IF": "it would",
+			"IN": "considering whether to make an order under this section against a person, and the terms of such an order"
+		}
+	],
+
+	"section-194A-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The tribunal",
+			"TO": "make an order under this section against a person represented in the proceedings",
+			"IF": "the person’s representation was at all times within subsection (8)"
+		}
+	],
+
+	"section-194A-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Procedure rules",
+			"TO": "make further provision as to the making of orders under this section"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Procedure rules",
+			"TO": "— (a) provide that such orders may not be made in proceedings of a description specified in the rules; (b) make provision about the procedure to be followed in relation to such orders; (c) specify matters (in addition to those mentioned in subsection (6)) to which the tribunal must have regard in deciding whether to make such an order, and the terms of any order"
+		}
+	],
+
+	"section-194A-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by regulations— (a) amend subsection (11) so as to add a tribunal to the list in that subsection, and (b) make consequential amendments of the definition of “procedure rules” in subsection (14)"
+		}
+	],
+
+	"section-194A-15": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under this section",
+			"TO": "be made in respect of representation",
+			"IF OR TO THE EXTENT THAT": "it was provided before section 48 of the Judicial Review and Courts Act 2022 came into force"
+		}
+	],
+
+	"section-194B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Court",
+			"TO": "make an order under this section against a person",
+			"IF": "subsection (7) does not apply"
+		}
+	],
+
+	"section-194B-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Court",
+			"TO": "have regard to whether it would have made an order against that person as described in subsection (5)",
+			"HAD": "R’s representation of P not been provided free of charge",
+			"IN": "considering whether to make an order under this section against a person, and the terms of such an order"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Court",
+			"TO": "have regard to what the terms of the order would have been",
+			"IF": "it would",
+			"IN": "considering whether to make an order under this section against a person, and the terms of such an order"
+		}
+	],
+
+	"section-194B-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Court",
+			"TO": "make an order under this section against a person represented in the proceedings",
+			"IF": "the person’s representation was at all times within subsection (8)"
+		}
+	],
+
+	"section-194B-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Supreme Court Rules",
+			"TO": "make further provision as to the making of orders under this section"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Supreme Court Rules",
+			"TO": "— (a) provide that such orders may not be made in proceedings of a description specified in the Rules; (b) make provision about the procedure to be followed in relation to such orders; (c) specify matters (in addition to those mentioned in subsection (6)) to which the Court must have regard in deciding whether to make such an order, and the terms of any order"
+		}
+	],
+
+	"section-194B-12": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under this section",
+			"TO": "be made",
+			"IN RESPECT OF": "representation in proceedings in a relevant civil appeal— (a) from a court in Northern Ireland, or (b) from the Upper Tribunal under section 14B(4) of the Tribunals, Courts and Enforcement Act 2007",
+			"IF OR TO THE EXTENT THAT": "the representation was provided before section 48 of the Judicial Review and Courts Act 2022 came into force"
+		}
+	],
+
+	"section-194C-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order prescribe a registered charity for the purposes of sections 194 to 194B"
+		}
+	],
+
+	"section-194C-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The charity",
+			"TO": "be one which provides financial support to persons who provide, or organise or facilitate the provision of, legal advice or assistance (by way of representation or otherwise) which is free of charge"
+		}
+	]
+}

@@ -1,0 +1,1784 @@
+{
+	"to-exclude": ["section-2-2", "section-2-4", "section-3-1", "section-3-2", "section-4-1", "section-4-2", "section-4-3", "section-4-4", "section-5-1", "section-5-2", "section-5-3", "section-6-1", "section-6-2", "section-7-4", "section-7-5", "section-7-8", "section-8-3", "section-8-4", "section-8-5", "section-9-2", "section-9-9", "section-9-11", "section-10-2", "section-10-7", "section-10-9", "section-11-1", "section-11-2", "section-11-5", "section-11A-1", "section-11A-2", "section-11A-3", "section-11A-6", "section-11A-7", "section-12-1", "section-13-1", "section-13-2", "section-13-7", "section-13-8", "section-13-12", "section-13-13", "section-14-1", "section-14-7", "section-14A-4", "section-14A-5", "section-14A-7", "section-14A-8", "section-14B-4", "section-14B-6", "section-15-1", "section-15-3", "section-15-5A", "section-15-6", "section-16-1", "section-16-3D", "section-16-4", "section-16-6A", "section-17-A1", "section-17-2", "section-17-3", "section-18-1", "section-18-4", "section-18-5", "section-18-6", "section-18-7", "section-18-8", "section-18-11", "section-18-12", "section-19-1", "section-19-2", "section-19-3", "section-19-4", "section-19-6", "section-20-2", "section-20-3", "section-20-4", "section-20-5", "section-20-5A", "section-20-6", "section-20-7", "section-20-8", "section-20A-1", "section-20A-2", "section-20A-3", "section-20A-4", "section-21-1", "section-21-2", "section-21-4", "section-21-5", "section-22-1", "section-22-2", "section-22-3", "section-22-4", "section-22-5", "section-23-3", "section-23-6", "section-24-1", "section-24-3", "section-24-6", "section-25-1", "section-25-2", "section-25-3", "section-25-4", "section-27-1", "section-27-3", "section-29-2", "section-29-3", "section-29-5", "section-29-6", "section-29-7", "section-29B-2", "section-29B-4", "section-29B-5", "section-29C-1", "section-29C-2", "section-29D-5", "section-29D-7", "section-29D-8", "section-29E-1", "section-29E-6", "section-29E-7", "section-30-2", "section-30-9", "section-31-3", "section-31-6", "section-31-8", "section-31-10", "section-32-1", "section-32-4", "section-33-1", "section-33-4", "section-34-1", "section-34-4", "section-35-2", "section-35-3", "section-35-6", "section-35-8", "section-35-9", "section-35-10", "section-36-7", "section-36-8", "section-37-2", "section-37-3", "section-37-4", "section-37-5", "section-38-2", "section-38-3", "section-39-2", "section-41-3", "section-41-4", "section-42-3", "section-42-6", "section-42-8", "section-42-10", "section-43-3", "section-46-2", "section-46-4", "section-46-6", "section-46-7", "section-47-1", "section-47-2", "section-47-3", "section-47-4", "section-47-5", "section-48-1", "section-48-2", "section-49-1", "section-49-2", "section-49-3", "section-49-4", "section-49-6", "section-49-7", "section-49-8", "section-49-9", "section-49-10"],
+
+	"section-2-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Her Majesty",
+			"TO": "appoint a person to the office of Senior President of Tribunals",
+			"ON": "the recommendation of the Lord Chancellor"
+		}
+	],
+
+	"section-2-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A holder of the office of Senior President of Tribunals",
+			"TO": "have regard to— (a) the need for tribunals to be accessible, (b) the need for proceedings before tribunals— (i) to be fair, and (ii) to be handled quickly and efficiently, (c) the need for members of tribunals to be experts in the subject-matter of, or the law to be applied in, cases in which they decide matters, and (d) the need to develop innovative methods of resolving disputes that are of a type that may be brought before tribunals",
+			"IN": "carrying out the functions of that office"
+		}
+	],
+
+	"section-29B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "give directions to an authorised person"
+		}
+	],
+
+	"section-29B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "delegate to one or more of the following the Senior President of Tribunals' functions under subsection (1)— (a) a judicial office holder; (b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of this Act"
+		}
+	],
+
+	"section-29C-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court in which the action is brought",
+			"TO": "dismiss the action",
+			"IF": "an action is brought in a court in Scotland in circumstances in which subsection (1) or (2) provides that no action lies",
+			"ON": "the application of the defender"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court in which the action is brought",
+			"TO": "find the person bringing the action liable in expenses",
+			"IF": "an action is brought in a court in Scotland in circumstances in which subsection (1) or (2) provides that no action lies",
+			"IF_2": "it does so"
+		}
+	],
+
+	"section-29C-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court in which the action is brought",
+			"TO": "strike out the proceedings in the action",
+			"IF": "an action is brought in any other court in circumstances in which subsection (1) or (2) provides that no action lies",
+			"ON": "the application of the defendant"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court in which the action is brought",
+			"TO": "order the person bringing the action to pay costs",
+			"IF": "an action is brought in any other court in circumstances in which subsection (1) or (2) provides that no action lies",
+			"IF_2": "it does so",
+			"IF_3": "it thinks fit"
+		}
+	],
+
+	"section-29D-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "order an authorised person to pay costs in any proceedings in respect of what the person does or omits to do in the execution (or purported execution) of the person's duty as an authorised person exercising, by virtue of paragraph 3 of Schedule 5, a function of a tribunal"
+		}
+	],
+
+	"section-29D-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-29D-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court which is prevented by subsection (1) from ordering an authorised person to pay costs in any proceedings",
+			"TO": "order the Lord Chancellor to make a payment in respect of the costs of a person in the proceedings"
+		}
+	],
+
+	"section-29D-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make regulations specifying— (a) circumstances in which a court must or must not exercise the power conferred on it by subsection (3), and (b) how the amount of any payment ordered under subsection (3) is to be determined",
+			"AFTER": "consulting the Senior President of Tribunals"
+		}
+	],
+
+	"section-29D-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "delegate the Senior President of Tribunals' functions under subsection (4) to a person who is a judicial office holder"
+		}
+	],
+
+	"section-29E-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "indemnify an authorised person in respect of indemnifiable amounts",
+			"IF": "in respect of the matters giving rise to the proceedings or claim, the person acted reasonably and in good faith"
+		}
+	],
+
+	"section-29E-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "indemnify an authorised person in respect of other indemnifiable amounts",
+			"UNLESS": "it is proved, in respect of the matters giving rise to the proceedings or claim, that the person acted in bad faith"
+		}
+	],
+
+	"section-29E-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any question whether, or to what extent, an authorised person is to be indemnified under this section",
+			"TO": "be determined by the Lord Chancellor"
+		}
+	],
+
+	"section-29E-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make a determination for the purposes of this section with respect to— (a) costs such as are mentioned in subsection (1)(a) or (b), or (b) sums such as are mentioned in subsection (1)(d)",
+			"IF": "an authorised person claiming to be indemnified so requests",
+			"BEFORE": "the costs are incurred or the settlement in connection with which the sums are payable is made"
+		}
+	],
+
+	"section-3-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each of the First-tier Tribunal, and the Upper Tribunal",
+			"TO": "consist of its judges and other members"
+		}
+	],
+
+	"section-3-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "preside over both of the First-tier Tribunal and the Upper Tribunal"
+		}
+	],
+
+	"section-3-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Upper Tribunal",
+			"TO": "be a superior court of record"
+		}
+	],
+
+	"section-7-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for the organisation of each of the First-tier Tribunal and the Upper Tribunal into a number of chambers",
+			"WITH": "the concurrence of the Senior President of Tribunals"
+		}
+	],
+
+	"section-7-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person, or two persons",
+			"TO": "preside over each chamber of the First-tier Tribunal"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person, or two persons",
+			"TO": "preside over each chamber of the Upper Tribunal"
+		}
+	],
+
+	"section-7-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "— (a) preside over more than one chamber of the First-tier Tribunal; (b) preside over more than one chamber of the Upper Tribunal; (c) preside over— (i) one or more chambers of the First-tier Tribunal, and (ii) one or more chambers of the Upper Tribunal",
+			"AT": "a particular time"
+		}
+	],
+
+	"section-7-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "appoint a person who is the Chamber President of a chamber to preside instead, or to preside also, over another chamber",
+			"CONSISTENTLY WITH": "subsection (2)"
+		}
+	],
+
+	"section-7-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "appoint a person who is not a Chamber President to preside over a chamber",
+			"CONSISTENTLY WITH": "subsection (2)"
+		}
+	],
+
+	"section-7-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Each of the Lord Chancellor and the Senior President of Tribunals",
+			"TO": "by order — (a) make provision for the allocation of the First-tier Tribunal's functions between its chambers; (b) make provision for the allocation of the Upper Tribunal's functions between its chambers; (c) amend or revoke any order made under this subsection",
+			"WITH": "the concurrence of the other"
+		}
+	],
+
+	"section-8-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "delegate any function he has in his capacity as Senior President of Tribunals— (a) to any judge, or other member, of the Upper Tribunal or First-tier Tribunal; (b) to staff appointed under section 40(1)"
+		}
+	],
+
+	"section-8-1A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a function under paragraph 1(1) or 2(1) of Schedule 2",
+			"TO": "be delegated under subsection (1)",
+			"ONLY TO": "a Chamber President of a chamber of the Upper Tribunal"
+		}
+	],
+
+	"section-8-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-9-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The First-tier Tribunal",
+			"TO": "review a decision made by it on a matter in a case, other than a decision that is an excluded decision for the purposes of section 11(1)"
+		}
+	],
+
+	"section-9-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "— (a) provide that the First-tier Tribunal may not under subsection (1) review (whether of its own initiative or on application under subsection (2)(b)) a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules; (b) provide that the First-tier Tribunal's power under subsection (1) to review a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules is exercisable only of the tribunal's own initiative; (c) provide that an application under subsection (2)(b) that is of a description specified for the purposes of this paragraph in Tribunal Procedure Rules may be made only on grounds specified for the purposes of this paragraph in Tribunal Procedure Rules; (d) provide, in relation to a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules, that the First-tier Tribunal's power under subsection (1) to review the decision of its own initiative is exercisable only on grounds specified for the purposes of this paragraph in Tribunal Procedure Rules"
+		}
+	],
+
+	"section-9-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the First-tier Tribunal",
+			"TO": "do any of the following— (a) correct accidental errors in the decision or in a record of the decision; (b) amend reasons given for the decision; (c) set the decision aside",
+			"WHERE": "the First-tier Tribunal has under subsection (1) reviewed a decision",
+			"IN THE LIGHT OF": "the review"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the First-tier Tribunal",
+			"TO": "either— (a) re-decide the matter concerned, or (b) refer that matter to the Upper Tribunal",
+			"WHERE": "under subsection (4)(c) the First-tier Tribunal sets a decision aside"
+		}
+	],
+
+	"section-9-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "re-decide a matter",
+			"WHERE": "the matter is referred to the Upper Tribunal under subsection (5)(b)"
+		}
+	],
+
+	"section-9-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "make any decision which the First-tier Tribunal could make if the First-tier Tribunal were re-deciding the matter",
+			"WHERE": "the Upper Tribunal is under subsection (6) re-deciding a matter"
+		}
+	],
+
+	"section-9-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a tribunal",
+			"TO": "make such findings of fact as it considers appropriate",
+			"WHERE": "it is acting under subsection (5)(a) or (6)"
+		}
+	],
+
+	"section-9-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a decision of the First-tier Tribunal",
+			"TO": "be reviewed under subsection (1) more than once"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the First-tier Tribunal",
+			"TO": "decide to review that earlier decision under that subsection",
+			"ONCE": "it has decided that an earlier decision should not be reviewed under subsection (1)"
+		}
+	],
+
+	"section-10-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Upper Tribunal",
+			"TO": "review a decision made by it on a matter in a case, other than a decision that is an excluded decision for the purposes of section 13(1)"
+		}
+	],
+
+	"section-10-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "— (a) provide that the Upper Tribunal may not under subsection (1) review (whether of its own initiative or on application under subsection (2)(b)) a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules; (b) provide that the Upper Tribunal's power under subsection (1) to review a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules is exercisable only of the tribunal's own initiative; (c) provide that an application under subsection (2)(b) that is of a description specified for the purposes of this paragraph in Tribunal Procedure Rules may be made only on grounds specified for the purposes of this paragraph in Tribunal Procedure Rules; (d) provide, in relation to a decision of a description specified for the purposes of this paragraph in Tribunal Procedure Rules, that the Upper Tribunal's power under subsection (1) to review the decision of its own initiative is exercisable only on grounds specified for the purposes of this paragraph in Tribunal Procedure Rules"
+		}
+	],
+
+	"section-10-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "do any of the following— (a) correct accidental errors in the decision or in a record of the decision; (b) amend reasons given for the decision; (c) set the decision aside",
+			"WHERE": "the Upper Tribunal has under subsection (1) reviewed a decision",
+			"IN THE LIGHT OF": "the review"
+		}
+	],
+
+	"section-10-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "re-decide the matter concerned",
+			"WHERE": "under subsection (4)(c) the Upper Tribunal sets a decision aside"
+		}
+	],
+
+	"section-10-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "make such findings of fact as it considers appropriate",
+			"WHERE": "it is acting under subsection (5)"
+		}
+	],
+
+	"section-10-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a decision of the Upper Tribunal",
+			"TO": "be reviewed under subsection (1) more than once"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Upper Tribunal",
+			"TO": "decide to review that earlier decision under that subsection",
+			"ONCE": "it has decided that an earlier decision should not be reviewed under subsection (1)"
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "That right",
+			"TO": "be exercised",
+			"ONLY WITH": "permission (or, in Northern Ireland, leave)"
+		}
+	],
+
+	"section-11-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the First-tier Tribunal, or (b) the Upper Tribunal",
+			"TO": "give permission (or leave)",
+			"ON": "an application by the party"
+		}
+	],
+
+	"section-11-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a description",
+			"TO": "be specified under subsection (5)(f)",
+			"ONLY IF": "— (a) in the case of a decision of that description, there is a right to appeal to a court, the Upper Tribunal or any other tribunal from the decision and that right is, or includes, something other than a right (however expressed) to appeal on any point of law arising from the decision, or (b) decisions of that description are made in carrying out a function transferred under section 30 and prior to the transfer of the function under section 30(1) there was no right to appeal from decisions of that description"
+		}
+	],
+
+	"section-11-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an order under subsection (5)(f)",
+			"TO": "be framed so as to come into force no later than the time when the transfer under section 30 of the function takes effect",
+			"WHERE": "— (a) the order specifies a description of decisions, and (b) decisions of that description are made in carrying out a function transferred under section 30"
+		}
+	],
+
+	"section-11-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for a person to be treated as being, or to be treated as not being, a party to a case for the purposes of subsection (2)"
+		}
+	],
+
+	"section-11A-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-11A-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-12-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Upper Tribunal",
+			"TO": "set aside the decision of the First-tier Tribunal"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Upper Tribunal",
+			"TO": "either— (i) remit the case to the First-tier Tribunal with directions for its reconsideration, or (ii) re-make the decision",
+			"IF": "it does"
+		}
+	],
+
+	"section-12-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "— (a) direct that the members of the First-tier Tribunal who are chosen to reconsider the case are not to be the same as those who made the decision that has been set aside; (b) give procedural directions in connection with the reconsideration of the case by the First-tier Tribunal",
+			"IN": "acting under subsection (2)(b)(i)"
+		}
+	],
+
+	"section-12-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "— (a) make any decision which the First-tier Tribunal could make if the First-tier Tribunal were re-making the decision, and (b) make such findings of fact as it considers appropriate",
+			"IN": "acting under subsection (2)(b)(ii)"
+		}
+	],
+
+	"section-13-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "That right",
+			"TO": "be exercised",
+			"ONLY WITH": "permission (or, in Northern Ireland, leave)"
+		}
+	],
+
+	"section-13-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the Upper Tribunal, or (b) the relevant appellate court",
+			"TO": "give Permission (or leave)",
+			"ON": "an application by the party"
+		}
+	],
+
+	"section-13-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application",
+			"TO": "be made under subsection (4) to the relevant appellate court",
+			"ONLY IF": "permission (or leave) has been refused by the Upper Tribunal"
+		}
+	],
+
+	"section-13-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for permission (or leave) not to be granted on the application",
+			"AS RESPECTS": "an application under subsection (4) that falls within subsection (7) and for which the relevant appellate court is the Court of Appeal in England and Wales or the Court of Appeal in Northern Ireland",
+			"UNLESS": "the Upper Tribunal or (as the case may be) the relevant appellate court considers— (a) that the proposed appeal would raise some important point of principle or practice, or (b) that there is some other compelling reason for the relevant appellate court to hear the appeal"
+		}
+	],
+
+	"section-13-6A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "make provision for permission not to be granted on an application under subsection (4) to the Court of Session that falls within subsection (7)",
+			"UNLESS": "the court considers— (a) that the proposed appeal would raise some important point of principle or practice, or (b) that there is some other compelling reason for the court to hear the appeal"
+		}
+	],
+
+	"section-13-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a description",
+			"TO": "be specified under subsection (8)(f)",
+			"ONLY IF": "— (a) in the case of a decision of that description, there is a right to appeal to a court from the decision and that right is, or includes, something other than a right (however expressed) to appeal on any point of law arising from the decision, or (b) decisions of that description are made in carrying out a function transferred under section 30 and prior to the transfer of the function under section 30(1) there was no right to appeal from decisions of that description"
+		}
+	],
+
+	"section-13-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an order under subsection (8)(f)",
+			"TO": "be framed so as to come into force no later than the time when the transfer under section 30 of the function takes effect",
+			"WHERE": "— (a) the order specifies a description of decisions, and (b) decisions of that description are made in carrying out a function transferred under section 30"
+		}
+	],
+
+	"section-13-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "specify the court that is to be the relevant appellate court as respects the proposed appeal",
+			"BEFORE": "the Upper Tribunal decides an application made to it under subsection (4)"
+		}
+	],
+
+	"section-13-14": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for a person to be treated as being, or to be treated as not being, a party to a case for the purposes of subsection (2)"
+		}
+	],
+
+	"section-13-15": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "make provision as to the time within which an application under subsection (4) to the relevant appellate court must be made"
+		}
+	],
+
+	"section-14-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant appellate court",
+			"TO": "set aside the decision of the Upper Tribunal"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant appellate court",
+			"TO": "either— (i) remit the case to the Upper Tribunal or, where the decision of the Upper Tribunal was on an appeal or reference from another tribunal or some other person, to the Upper Tribunal or that other tribunal or person, with directions for its reconsideration, or (ii) re-make the decision",
+			"IF": "it does set aside the decision of the Upper Tribunal"
+		}
+	],
+
+	"section-14-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant appellate court",
+			"TO": "— (a) direct that the persons who are chosen to reconsider the case are not to be the same as those who— (i) where the case is remitted to the Upper Tribunal, made the decision of the Upper Tribunal that has been set aside, or (ii) where the case is remitted to another tribunal or person, made the decision in respect of which the appeal or reference to the Upper Tribunal was made; (b) give procedural directions in connection with the reconsideration of the case by the Upper Tribunal or other tribunal or person",
+			"IN": "acting under subsection (2)(b)(i)"
+		}
+	],
+
+	"section-14-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant appellate court",
+			"TO": "make any decision which the Upper Tribunal could make if the Upper Tribunal were re-making the decision or (as the case may be) which the other tribunal or person could make if that other tribunal or person were re-making the decision",
+			"IN": "acting under subsection (2)(b)(ii)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant appellate court",
+			"TO": "make such findings of fact as it considers appropriate",
+			"IN": "acting under subsection (2)(b)(ii)"
+		}
+	],
+
+	"section-14-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "(instead of reconsidering the case itself) remit the case to that other tribunal or person, with the directions given by the relevant appellate court for its reconsideration",
+			"WHERE": "— (a) under subsection (2)(b)(i) the relevant appellate court remits a case to the Upper Tribunal, and (b) the decision set aside under subsection (2)(a) was made by the Upper Tribunal on an appeal or reference from another tribunal or some other person"
+		}
+	],
+
+	"section-14-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "— (a) direct that the persons who are chosen to reconsider the case are not to be the same as those who made the decision in respect of which the appeal or reference to the Upper Tribunal was made; (b) give procedural directions in connection with the reconsideration of the case by the other tribunal or person",
+			"IN": "acting under subsection (5)"
+		}
+	],
+
+	"section-14A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "grant a certificate to that effect",
+			"IF": "the Upper Tribunal is satisfied that— (a) the conditions in subsection (4) or (5) are fulfilled in relation to the Upper Tribunal's decision in any proceedings, and (b) as regards that decision, a sufficient case for an appeal to the Supreme Court has been made out to justify an application under section 14B"
+		}
+	],
+
+	"section-14A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Upper Tribunal",
+			"TO": "grant a certificate under this section",
+			"ONLY ON": "an application made by a party to the proceedings"
+		}
+	],
+
+	"section-14A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Upper Tribunal",
+			"TO": "grant a certificate under this section",
+			"ONLY IF": "the relevant appellate court as regards the proceedings is— (a) the Court of Appeal in England and Wales, or (b) the Court of Appeal in Northern Ireland"
+		}
+	],
+
+	"section-14A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "specify the court that would be the relevant appellate court if the application were an application for permission (or leave) under section 13",
+			"BEFORE": "the Upper Tribunal decides an application made to it under this section"
+		}
+	],
+
+	"section-14B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a party to those proceedings",
+			"TO": "apply to the Supreme Court for permission to appeal directly to the Supreme Court",
+			"IF": "the Upper Tribunal grants a certificate under section 14A in relation to any proceedings"
+		}
+	],
+
+	"section-14B-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application under subsection (1)",
+			"TO": "be made",
+			"WITHIN": "one month from the date on which that certificate is granted"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application under subsection (1)",
+			"TO": "be made",
+			"WITHIN": "such time as the Supreme Court may allow in a particular case"
+		}
+	],
+
+	"section-14B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Supreme Court",
+			"TO": "grant permission for such an appeal",
+			"IF": "it appears to the Supreme Court to be expedient to do so",
+			"ON": "such an application"
+		}
+	],
+
+	"section-14B-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application under subsection (1)",
+			"TO": "be determined without a hearing"
+		}
+	],
+
+	"section-14C-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a certificate",
+			"TO": "be granted under section 14A",
+			"IN RESPECT OF": "a decision of the Upper Tribunal in any proceedings where, by virtue of any enactment (other than sections 14A and 14B), no appeal would lie from that decision of the Upper Tribunal to the relevant appellate court, with or without the permission (or leave) of the Upper Tribunal or the relevant appellate court"
+		}
+	],
+
+	"section-14C-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a certificate",
+			"TO": "be granted under section 14A",
+			"IN RESPECT OF": "a decision of the Upper Tribunal in any proceedings where, by virtue of any enactment, no appeal would lie from a decision of the relevant appellate court on that decision of the Upper Tribunal to the Supreme Court, with or without the permission (or leave) of the relevant appellate court or the Supreme Court"
+		}
+	],
+
+	"section-14C-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a certificate",
+			"TO": "be granted under section 14A",
+			"IN RESPECT OF": "a decision of the Upper Tribunal",
+			"WHERE": "no appeal would lie to the relevant appellate court from the decision of the Upper Tribunal except with the permission (or leave) of the Upper Tribunal or the relevant appellate court",
+			"UNLESS": "it appears to the Upper Tribunal that it would be a proper case for giving permission (or leave) to appeal to the relevant appellate court"
+		}
+	],
+
+	"section-14C-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a certificate",
+			"TO": "be granted under section 14A",
+			"IN RESPECT OF": "a decision or order of the Upper Tribunal made by it in the exercise of its jurisdiction to punish for contempt"
+		}
+	],
+
+	"section-15-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the power under subsection (1)",
+			"TO": "be exercised by the Upper Tribunal",
+			"IF": "— (a) certain conditions are met (see section 18), or (b) the tribunal is authorised to proceed even though not all of those conditions are met (see section 19(3) and (4))"
+		}
+	],
+
+	"section-15-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "apply the principles that the High Court would apply in deciding whether to grant that relief on an application for judicial review",
+			"IN": "deciding whether to grant relief under subsection (1)(a), (b) or (c)"
+		}
+	],
+
+	"section-15-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "— (a) in cases arising under the law of England and Wales apply the principles that the High Court would apply in deciding whether to grant that relief under section 31(2) of the Supreme Court Act 1981 (c. 54) on an application for judicial review, and (b) in cases arising under the law of Northern Ireland apply the principles that the High Court would apply in deciding whether to grant that relief on an application for judicial review",
+			"IN": "deciding whether to grant relief under subsection (1)(d) or (e)"
+		}
+	],
+
+	"section-15-5B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "certify that the condition in section 31(2B) as so applied is satisfied",
+			"IF": "the tribunal grants relief in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (5A)"
+		}
+	],
+
+	"section-16-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The application",
+			"TO": "be made",
+			"ONLY IF": "permission (or, in a case arising under the law of Northern Ireland, leave) to make it has been obtained from the tribunal"
+		}
+	],
+
+	"section-16-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The tribunal",
+			"TO": "grant permission (or leave) to make the application",
+			"UNLESS": "it considers that the applicant has a sufficient interest in the matter to which the application relates"
+		}
+	],
+
+	"section-16-3C": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": "of its own initiative consider whether the outcome for the applicant would have been substantially different if the conduct complained of had not occurred",
+			"IN": "cases arising under the law of England and Wales",
+			"WHEN": "considering whether to grant permission to make the application"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "consider that question",
+			"IN": "cases arising under the law of England and Wales",
+			"WHEN": "considering whether to grant permission to make the application",
+			"IF": "the respondent asks it to do so"
+		}
+	],
+
+	"section-16-3E": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "refuse to grant permission",
+			"IF": "it appears to the tribunal to be highly likely that the outcome for the applicant would not have been substantially different",
+			"ON": "considering the question mentioned in subsection (3C)(a) and (b)"
+		}
+	],
+
+	"section-16-3F": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "disregard the requirement in subsection (3E)",
+			"IF": "it considers that it is appropriate to do so for reasons of exceptional public interest"
+		}
+	],
+
+	"section-16-3G": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "certify that the condition in subsection (3F) is satisfied",
+			"IF": "the tribunal grants permission in reliance on subsection (3F)"
+		}
+	],
+
+	"section-16-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "— (a) refuse to grant permission (or leave) for the making of the application; (b) refuse to grant any relief sought on the application"
+		}
+	],
+
+	"section-16-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "award to the applicant damages, restitution or the recovery of a sum due",
+			"IF": "— (a) the application includes a claim for such an award arising from any matter to which the application relates, and (b) the tribunal is satisfied that such an award would have been made by the High Court if the claim had been made in an action begun in the High Court by the applicant at the time of making the application"
+		}
+	],
+
+	"section-16-6B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "certify that the condition in section 31(2B) as so applied is satisfied",
+			"IF": "the tribunal makes an award in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (6A)"
+		}
+	],
+
+	"section-16-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An award under subsection (6)",
+			"TO": "be enforced as if it were an award of the High Court"
+		}
+	],
+
+	"section-16-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Court of Appeal",
+			"TO": "go on to decide the application for relief under section 15(1)",
+			"WHERE": "— (a) the tribunal refuses to grant permission (or leave) to apply for relief under section 15(1), (b) the applicant appeals against that refusal, and (c) the Court of Appeal grants the permission (or leave)"
+		}
+	],
+
+	"section-16-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "limit the time within which applications may be made"
+		}
+	],
+
+	"section-17-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Upper Tribunal",
+			"TO": "— (a) remit the matter concerned to the court, tribunal or authority that made the decision, with a direction to reconsider the matter and reach a decision in accordance with the findings of the Upper Tribunal, or (b) substitute its own decision for the decision in question",
+			"IF": "it makes a quashing order under section 15(1)(c) in respect of a decision"
+		}
+	],
+
+	"section-18-2": 
+	[
+		{
+			"IT IS": "CONFERRED",
+			"FOR": "the tribunal",
+			"TO": "decide the application",
+			"IF": "Conditions 1 to 4 are met"
+		}
+	],
+
+	"section-18-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "by order transfer the application to the High Court",
+			"IF": "it does not have the function of deciding the application"
+		}
+	],
+
+	"section-18-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the application",
+			"TO": "be treated for all purposes as if it— (i) had been made to the High Court, and (ii) sought things corresponding to those sought from the tribunal",
+			"WHERE": "the application is transferred to the High Court under subsection (3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "any steps taken, permission (or leave) given or orders made by the tribunal in relation to the application",
+			"TO": "be treated as taken, given or made by the High Court",
+			"WHERE": "the application is transferred to the High Court under subsection (3)"
+		}
+	],
+
+	"section-18-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "make provision for the purpose of supplementing subsection (9)"
+		}
+	],
+
+	"section-19-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "make further provision for the purposes of supplementing subsections (3) and (4)"
+		}
+	],
+
+	"section-20-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Court",
+			"TO": "by order transfer the application to the Upper Tribunal",
+			"WHERE": "an application is made to the supervisory jurisdiction of the Court of Session",
+			"IF": "Conditions 1 and 2 are met"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Court",
+			"TO": "by order transfer the application to the Upper Tribunal",
+			"WHERE": "an application is made to the supervisory jurisdiction of the Court of Session",
+			"IF": "Conditions 1 and 3 are met, but Condition 2 is not"
+		}
+	],
+
+	"section-21-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Upper Tribunal",
+			"TO": "apply principles that the Court of Session would apply in deciding an application to the supervisory jurisdiction of that Court",
+			"IN": "deciding an application by virtue of subsection (1)"
+		}
+	],
+
+	"section-21-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "make further provision for the purposes of supplementing subsection (5)"
+		}
+	],
+
+	"section-23-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Senior President of Tribunals",
+			"TO": "give directions— (a) as to the practice and procedure of the First-tier Tribunal; (b) as to the practice and procedure of the Upper Tribunal"
+		}
+	],
+
+	"section-23-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Chamber President",
+			"TO": "give directions as to the practice and procedure of the chamber over which he presides"
+		}
+	],
+
+	"section-23-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Directions under subsection (1)",
+			"TO": "be given without the approval of the Lord Chancellor"
+		}
+	],
+
+	"section-23-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Directions under subsection (2)",
+			"TO": "be given without the approval of— (a) the Senior President of Tribunals, and (b) the Lord Chancellor"
+		}
+	],
+
+	"section-23-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "directions",
+			"TO": "be given",
+			"ONLY AFTER": "consulting the Lord Chancellor",
+			"TO THE EXTENT THAT": "they consist of criteria for determining which members of the First-tier Tribunal or Upper Tribunal may be chosen to decide particular categories of matter"
+		}
+	],
+
+	"section-24-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Practice directions",
+			"TO": "provide for members to act as mediators in relation to disputed matters in a case that is the subject of proceedings"
+		}
+	],
+
+	"section-24-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a member",
+			"TO": "decide matters in the case only with the consent of the parties",
+			"ONCE": "the member has begun to act as a mediator in relation to a disputed matter in a case that is the subject of proceedings"
+		}
+	],
+
+	"section-24-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Staff appointed under section 40(1)",
+			"TO": "act as mediators",
+			"IN RELATION TO": "disputed matters in a case that is the subject of proceedings",
+			"SUBJECT TO": "their terms of appointment"
+		}
+	],
+
+	"section-27-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order for the payment of a sum payable in pursuance of a decision of the First-tier Tribunal or Upper Tribunal made in Scotland (or a copy of such an order certified in accordance with Tribunal Procedure Rules)",
+			"TO": "be enforced as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland"
+		}
+	],
+
+	"section-27-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-27-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for subsection (1) or (3) to apply in relation to a sum of a description specified in the order with the omission of one (but not both) of paragraphs (a) and (b)"
+		}
+	],
+
+	"section-27-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "make provision as to where, for purposes of this section, a decision is to be taken to be made"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Tribunal Procedure Rules",
+			"TO": "provide for all or any of subsections (1) to (3) to apply only, or not to apply except, in relation to sums of a description specified in Tribunal Procedure Rules"
+		}
+	],
+
+	"section-28-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the First-tier Tribunal or the Upper Tribunal",
+			"TO": "direct that in dealing with a matter before it requiring special expertise not otherwise available to it, it shall have the assistance of a person or persons appearing to it to have relevant knowledge or experience",
+			"IF": "it appears to it that the matter before it requires special expertise not otherwise available to it"
+		}
+	],
+
+	"section-28-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The remuneration of a person who gives assistance to either tribunal as mentioned in subsection (1)",
+			"TO": "be determined and paid by the Lord Chancellor"
+		}
+	],
+
+	"section-28-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "— (a) establish panels of persons from which either tribunal may (but need not) select persons to give it assistance as mentioned in subsection (1); (b) under paragraph (a) establish different panels for different purposes; (c) after carrying out such consultation as he considers appropriate, appoint persons to a panel established under paragraph (a); (d) remove a person from such a panel"
+		}
+	],
+
+	"section-29-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The costs of and incidental to— (a) all proceedings in the First-tier Tribunal, and (b) all proceedings in the Upper Tribunal",
+			"TO": "be in the discretion of the Tribunal in which the proceedings take place"
+		}
+	],
+
+	"section-29-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the relevant Tribunal",
+			"TO": "— (a) disallow, or (b) (as the case may be) order the legal or other representative concerned to meet, the whole of any wasted costs or such part of them as may be determined in accordance with Tribunal Procedure Rules",
+			"IN": "any proceedings mentioned in subsection (1)"
+		}
+	],
+
+	"section-30-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order provide for a function of a scheduled tribunal to be transferred— (a) to the First-tier Tribunal, (b) to the Upper Tribunal, (c) to the First-tier Tribunal and the Upper Tribunal with the question as to which of them is to exercise the function in a particular case being determined by a person under provisions of the order, (d) to the First-tier Tribunal to the extent specified in the order and to the Upper Tribunal to the extent so specified, (e) to the First-tier Tribunal and the Upper Tribunal with the question as to which of them is to exercise the function in a particular case being determined by, or under, Tribunal Procedure Rules, (f) to an employment tribunal, (g) to the Employment Appeal Tribunal, (h) to an employment tribunal and the Employment Appeal Tribunal with the question as to which of them is to exercise the function in a particular case being determined by a person under provisions of the order, or (i) to an employment tribunal to the extent specified in the order and to the Employment Appeal Tribunal to the extent so specified"
+		}
+	],
+
+	"section-30-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order provide for a function transferred under subsection (1) or this subsection to be further transferred as mentioned in any of paragraphs (a) to (i) of subsection (1)",
+			"AS RESPECTS": "the function"
+		}
+	],
+
+	"section-30-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1) or (3)",
+			"TO": "include provision for the purposes of or in consequence of, or for giving full effect to, a transfer under that subsection"
+		}
+	],
+
+	"section-30-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a function of a tribunal",
+			"TO": "be transferred under subsection (1) or (3)",
+			"IF OR TO THE EXTENT THAT": "the provision conferring the function— (a) would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament, or (b) would be within the legislative competence of the Northern Ireland Assembly if it were included in an Act of that Assembly"
+		}
+	],
+
+	"section-30-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-5"]
+		}
+	],
+
+	"section-30-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Functions of an adjudicator under section 5 of the Criminal Injuries Compensation Act 1995 (c. 53), so far as they relate to Scotland",
+			"TO": "be transferred under subsection (1) or (3)",
+			"ONLY WITH": "the consent of the Scottish Ministers"
+		}
+	],
+
+	"section-30-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a function of a tribunal",
+			"TO": "be transferred under subsection (1) or (3)",
+			"ONLY WITH": "the consent of the Welsh Ministers",
+			"IF": "any relevant function is exercisable in relation to the tribunal by the Welsh Ministers (whether by the Welsh Ministers alone, or by the Welsh Ministers jointly or concurrently with any other person)"
+		}
+	],
+
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for abolishing the tribunal by whom a function transferred under section 30(1) is exercisable immediately before its transfer"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision for a person— (a) who is the tribunal (but is not the Secretary of State), or (b) who is a member of the tribunal, or (c) who is an authorised decision-maker for the tribunal, to (instead or in addition) be the holder of an office specified in subsection (3)",
+			"WHERE": "functions of a tribunal are transferred under section 30(1)"
+		}
+	],
+
+	"section-31-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "exercise the power under subsection (2) so as to secure that each person who immediately before the end of the tribunal's life— (a) is the tribunal, (b) is a member of the tribunal, or (c) is an authorised decision-maker for the tribunal, becomes the holder of an office specified in subsection (3) with effect from the end of the tribunal's life (if the person is not then already the holder of such an office)",
+			"WHERE": "functions of a tribunal are transferred under section 30(1)"
+		}
+	],
+
+	"section-31-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-4"]
+		}
+	],
+
+	"section-31-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Lord Chancellor",
+			"TO": "by order provide for procedural rules in force immediately before the transfer to have effect, or to have effect with appropriate modifications, after the transfer (and, accordingly, to be capable of being varied or revoked) as if they were— (a) Tribunal Procedure Rules, or (b) employment tribunal procedure regulations, or Appeal Tribunal procedure rules, within the meaning given by section 42(1) of the Employment Tribunals Act 1996 (c. 17)",
+			"WHERE": "a function of a tribunal is transferred under section 30(1)"
+		}
+	],
+
+	"section-31-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make by order such incidental, supplemental, transitional or consequential provision, or provision for savings, as the Lord Chancellor thinks fit, including provision applying only in relation to cases selected by a member— (a) of the First-tier Tribunal, (b) of the Upper Tribunal, (c) of the Employment Appeal Tribunal, or (d) of a panel of members of employment tribunals",
+			"IN CONNECTION WITH": "provision made by order under section 30 or the preceding provisions of this section"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order— (a) provide for an appeal against a decision to be made to the Upper Tribunal instead of to the court to which an appeal would otherwise fall to be made where the decision is made in exercising, in relation to Wales, the function mentioned in subsection (1)(a) or (as the case may be) the corresponding function mentioned in subsection (1)(b); (b) provide for a reference of any matter to be made to the Upper Tribunal instead of to the court to which a reference would otherwise fall to be made where the matter arises in exercising, in relation to Wales, the function mentioned in subsection (1)(a) or (as the case may be) the corresponding function mentioned in subsection (1)(b)"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order provide for an appeal against a decision of a scheduled tribunal to be made to the Upper Tribunal, instead of to the court to which an appeal would otherwise fall to be made",
+			"WHERE": "the decision is made by the tribunal in exercising a function in relation to Wales"
+		}
+	],
+
+	"section-32-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2) or (3)",
+			"TO": "include provision for the purposes of or in consequence of, or for giving full effect to, provision made by the order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2) or (3)",
+			"TO": "include such incidental, supplemental, transitional or consequential provision or savings as the Lord Chancellor thinks fit"
+		}
+	],
+
+	"section-33-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order provide for an appeal against any such corresponding decision to be made to the Upper Tribunal"
+		}
+	],
+
+	"section-33-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "include provision for the purposes of or in consequence of, or for giving full effect to, provision made by the order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "include such incidental, supplemental, transitional or consequential provision or savings as the Lord Chancellor thinks fit"
+		}
+	],
+
+	"section-34-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order provide for an appeal against any such corresponding decision to be made to the Upper Tribunal"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "include provision for the purposes of or in consequence of, or for giving full effect to, provision made by the order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "include such incidental, supplemental, transitional or consequential provision or savings as the Lord Chancellor thinks fit"
+		}
+	],
+
+	"section-35-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order— (a) transfer any relevant function, so far as that function is exercisable by a Minister of the Crown— (i) to the Lord Chancellor, or (ii) to two (or more) Ministers of the Crown of whom one is the Lord Chancellor; (b) provide for any relevant function that is exercisable by a Minister of the Crown other than the Lord Chancellor to be exercisable by the other Minister of the Crown concurrently with the Lord Chancellor; (c) provide for any relevant function that is exercisable by the Lord Chancellor concurrently with another Minister of the Crown to cease to be exercisable by the other Minister of the Crown"
+		}
+	],
+
+	"section-35-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a relevant function",
+			"TO": "be transferred under subsection (1)",
+			"IF, OR TO THE EXTENT THAT": "the provision conferring the function— (a) would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament, or (b) would be within the legislative competence of the Northern Ireland Assembly if it were included in an Act of that Assembly"
+		}
+	],
+
+	"section-35-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-4"]
+		}
+	],
+
+	"section-35-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "relate to a function either wholly or in cases (including cases framed by reference to areas) specified in the order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "include provision for the purposes of, or in consequence of, or for giving full effect to, the transfer or (as the case may be) other change as regards exercise"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "include such incidental, supplementary, transitional or consequential provision or savings as the Lord Chancellor thinks fit"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "include provision for the transfer of any property, rights or liabilities of the person who loses functions or whose functions become shared with the Lord Chancellor"
+		}
+	],
+
+	"section-36-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order transfer any power to make procedural rules for a scheduled tribunal to— (a) himself, or (b) the Tribunal Procedure Committee"
+		}
+	],
+
+	"section-36-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a power",
+			"TO": "be transferred under subsection (1)",
+			"IF, OR TO THE EXTENT THAT": "the provision conferring the power— (a) would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament, or (b) would be within the legislative competence of the Northern Ireland Assembly if it were included in an Act of that Assembly"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-36-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under subsection (1)(b)",
+			"TO": "alter any parliamentary procedure relating to the making of the procedural rules concerned"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)(b)",
+			"TO": "otherwise include provision for the purpose of assimilating the procedure for making them to the procedure for making Tribunal Procedure Rules"
+		}
+	],
+
+	"section-36-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)(b)",
+			"TO": "include provision requiring the Tribunal Procedure Committee to make procedural rules for purposes notified to it by the Lord Chancellor"
+		}
+	],
+
+	"section-36-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "relate to a power either wholly or in cases (including cases framed by reference to areas) specified in the order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include provision for the purposes of or in consequence of, or for giving full effect to, the transfer"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include such incidental, supplementary, transitional or consequential provision or savings as the Lord Chancellor thinks fit"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order amend Schedule 6— (a) for the purpose of adding a tribunal to a list in the Schedule; (b) for the purpose of removing a tribunal from a list in the Schedule; (c) for the purpose of removing a list from the Schedule; (d) for the purpose of adding to the Schedule a list of tribunals that has effect for the purposes of any one or more of sections 30, 32(3), 35 and 36"
+		}
+	],
+
+	"section-38-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision in an order under any of sections 30 to 36",
+			"TO": "take the form of amendments, repeals or revocations of enactments"
+		}
+	],
+
+	"section-39-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "ensure that there is an efficient and effective system to support the carrying on of the business of— (a) the First-tier Tribunal, (b) the Upper Tribunal, (c) employment tribunals, and (d) the Employment Appeal Tribunal, and that appropriate services are provided for those tribunals (referred to in this section and in sections 40 and 41 as “the tribunals”)"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "annually prepare and lay before each House of Parliament a report as to the way in which he has discharged his general duty in relation to the tribunals"
+		}
+	],
+
+	"section-40-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "appoint such staff as appear to him appropriate for the purpose of discharging his general duty in relation to the tribunals"
+		}
+	],
+
+	"section-40-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Lord Chancellor",
+			"TO": "enter into such contracts with other persons for the provision, by them or their sub-contractors, of staff or services as appear to him appropriate for the purpose of discharging his general duty in relation to the tribunals",
+			"SUBJECT TO": "subsections (3) and (4)"
+		}
+	],
+
+	"section-40-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Lord Chancellor",
+			"TO": "enter into contracts for the provision of staff to discharge functions which involve making judicial decisions or exercising any judicial discretion"
+		}
+	],
+
+	"section-40-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Lord Chancellor",
+			"TO": "enter into contracts for the provision of staff to carry out the administrative work of the tribunals",
+			"UNLESS": "an order made by the Lord Chancellor authorises him to do so"
+		}
+	],
+
+	"section-40-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "consult the Senior President of Tribunals as to what effect (if any) the order might have on the proper and efficient administration of justice",
+			"BEFORE": "making an order under subsection (4)"
+		}
+	],
+
+	"section-40-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (4)",
+			"TO": "authorise the Lord Chancellor to enter into contracts for the provision of staff to discharge functions— (a) wholly or to the extent specified in the order, (b) generally or in cases or areas specified in the order, and (c) unconditionally or subject to the fulfilment of conditions specified in the order"
+		}
+	],
+
+	"section-41-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "provide, equip, maintain and manage such tribunal buildings, offices and other accommodation as appear to him appropriate for the purpose of discharging his general duty in relation to the tribunals"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "enter into such arrangements for the provision, equipment, maintenance or management of tribunal buildings, offices or other accommodation as appear to him appropriate for the purpose of discharging his general duty in relation to the tribunals"
+		}
+	],
+
+	"section-42-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order prescribe fees payable in respect of— (a) anything dealt with by the First-tier Tribunal, (b) anything dealt with by the Upper Tribunal, (d) anything dealt with by an added tribunal, and (e) mediation conducted by staff appointed under section 40(1)"
+		}
+	],
+
+	"section-42-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "contain provision as to— (a) scales or rates of fees; (b) exemptions from or reductions in fees; (c) remission of fees in whole or in part"
+		}
+	],
+
+	"section-42-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A tribunal",
+			"TO": "be specified in an order under subsection (3)",
+			"ONLY IF": "— (a) it is established by or under an enactment, whenever passed or made, and (b) is not an ordinary court of law"
+		}
+	],
+
+	"section-42-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "consult the Senior President of Tribunals",
+			"BEFORE": "making an order under this section"
+		}
+	],
+
+	"section-42-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "take such steps as are reasonably practicable to bring information about fees under subsection (1) to the attention of persons likely to have to pay them"
+		}
+	],
+
+	"section-42-9": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-8"]
+		}
+	],
+
+	"section-43-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Senior President of Tribunals",
+			"TO": "give the Lord Chancellor a report covering, in relation to relevant tribunal cases— (a) matters that the Senior President of Tribunals wishes to bring to the attention of the Lord Chancellor, and (b) matters that the Lord Chancellor has asked the Senior President of Tribunals to cover in the report",
+			"EACH": "year"
+		}
+	],
+
+	"section-43-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "publish each report given to him under subsection (1)"
+		}
+	],
+
+	"section-46-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chief Justice of England and Wales",
+			"TO": "nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise any of his functions under the provisions listed in subsection (2)"
+		}
+	],
+
+	"section-46-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord President of the Court of Session",
+			"TO": "nominate any of the following to exercise any of his functions under the provisions listed in subsection (4)— (a) a judge who is a member of the First or Second Division of the Inner House of the Court of Session; (b) the Senior President of Tribunals"
+		}
+	],
+
+	"section-46-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chief Justice of Northern Ireland",
+			"TO": "nominate any of the following to exercise any of his functions under the provisions listed in subsection (6)— (a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002 (c. 26); (b) a Lord Justice of Appeal (as defined in section 88 of that Act); (c) the Senior President of Tribunals"
+		}
+	],
+
+	"section-49-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an order or regulation mentioned in subsection (6)",
+			"TO": "be made",
+			"UNLESS": "a draft of the statutory instrument containing the order or regulations (whether alone or with other provision) has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	]
+}

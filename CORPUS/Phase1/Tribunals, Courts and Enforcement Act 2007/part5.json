@@ -1,0 +1,451 @@
+{
+	"to-exclude": ["section-106-1", "section-106-2", "section-107-1", "section-107-2", "section-107-3", "section-108-1", "section-108-2", "section-108-3", "section-109-1", "section-109-3", "section-110-1", "section-110-4", "section-113-1", "section-113-2", "section-114-1", "section-114-2", "section-114-3", "section-114-4", "section-115-1", "section-115-2", "section-115-4", "section-116-1", "section-116-2", "section-116-4", "section-117-1", "section-117-2", "section-118-1", "section-118-2", "section-118-3", "section-118-4", "section-118-5", "section-118-6", "section-118-7", "section-118-9", "section-118-10", "section-119-1", "section-119-4", "section-120-2", "section-121-1", "section-121-2", "section-121-3", "section-121-7", "section-121-8", "section-121-9", "section-122-1", "section-122-3", "section-122-4", "section-123-1", "section-123-6", "section-124-2", "section-127-2", "section-128-3", "section-128-5", "section-128-6", "section-129-1", "section-129-2", "section-129-3", "section-129-5", "section-130-1", "section-130-2", "section-130-3", "section-130-9", "section-131-1", "section-131-2", "section-132-1", "section-132-2", "section-133-1", "section-133-2", "section-133-3", "section-133-4", "section-133-5"],
+
+	"section-106-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-109-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The scheme",
+			"TO": "be open to some or all non-business debtors"
+		}
+	],
+
+	"section-109-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The scheme",
+			"TO": "provide that (a) a decision must be made about whether a debt repayment plan is to be arranged for the non-business debtor, and (b) such a plan must be arranged (if that is the decision made)",
+			"IF": "such a request is made"
+		}
+	],
+
+	"section-109-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The scheme",
+			"TO": "be operated by a body of persons (whether a body corporate or not)"
+		}
+	],
+
+	"section-110-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The plan",
+			"TO": "specify all of the debtor's qualifying debts"
+		}
+	],
+
+	"section-110-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The plan",
+			"TO": "require the debtor to make payments in respect of each of the specified debts"
+		}
+	],
+
+	"section-111-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The supervising authority",
+			"TO": "approve one or more debt management schemes"
+		}
+	],
+
+	"section-111-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about any or all of the following— (a) conditions that must be met before the supervising authority may approve a debt management scheme; (b) considerations that the supervising authority must, or must not, take into account in deciding whether to approve a debt management scheme"
+		}
+	],
+
+	"section-111-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about conditions or considerations that relate to any matter listed in Schedule 21"
+		}
+	],
+
+	"section-111-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The supervising authority",
+			"TO": "approve a debt management scheme whether a body is— (a) operating the scheme at the time of the approval, or (b) proposing to operate the scheme from a time in the future"
+		}
+	],
+
+	"section-112-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "specify a procedure for making an application for approval of a debt management scheme"
+		}
+	],
+
+	"section-112-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "specify a procedure that requires any or all of the following— (a) an application to be made in a particular form; (b) information to be supplied in support of an application; (c) a fee to be paid in respect of an application"
+		}
+	],
+
+	"section-113-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Relevant terms",
+			"TO": "deal with all or any of the following— (a) the start of the approval; (b) the expiry of the approval; (c) the termination of the approval, including termination because of the breach of some other term"
+		}
+	],
+
+	"section-113-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Relevant terms",
+			"TO": "impose requirements on the scheme operator"
+		}
+	],
+
+	"section-113-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Relevant terms",
+			"TO": "relate to any matter listed in Schedule 21"
+		}
+	],
+
+	"section-113-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about terms that the supervising authority must, or must not, include in an approval"
+		}
+	],
+
+	"section-115-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "give permission for the purposes of subsection (2)(b)",
+			"SUBJECT TO": "such conditions as it thinks fit"
+		}
+	],
+
+	"section-116-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "give permission for the purposes of subsection (2)(b)",
+			"SUBJECT TO": "such conditions as it thinks fit"
+		}
+	],
+
+	"section-117-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "give permission for the purposes of subsection (2)(b)",
+			"SUBJECT TO": "such conditions as it thinks fit"
+		}
+	],
+
+	"section-118-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "give permission for the purposes of subsection (7)",
+			"SUBJECT TO": "such conditions as it thinks fit"
+		}
+	],
+
+	"section-119-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The county court",
+			"TO": "stay the proceedings"
+		}
+	],
+
+	"section-119-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "allow costs already incurred by the creditor"
+		}
+	],
+
+	"section-119-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The operator of the approved scheme",
+			"TO": "add the costs to the amount specified in the plan in respect of the debt",
+			"IF": "requested to do so by— (a) the non-business debtor, or (b) the creditor under the qualifying debt"
+		}
+	],
+
+	"section-119-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the operator",
+			"TO": "add the costs under subsection (5)",
+			"IF": "the operator is under a duty to terminate the plan",
+			"UNDER": "the terms of the approved scheme"
+		}
+	],
+
+	"section-120-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about the registration of either or both of the following— (a) any request made to the operator of an approved scheme for a debt repayment plan to be arranged in accordance with the scheme; (b) any debt repayment plan arranged for a non-business debtor in accordance with an approved scheme"
+		}
+	],
+
+	"section-120-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "amend section 98 of the 2003 Act"
+		}
+	],
+
+	"section-121-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the operator of the approved scheme",
+			"TO": "give the relevant authority notice that the plan has been arranged",
+			"IF": "the operator is aware of the other debt management arrangements"
+		}
+	],
+
+	"section-121-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the operator",
+			"TO": "give the notice",
+			"IN": "a case where the operator is aware of other debt management arrangements at the time the plan is arranged",
+			"AS SOON AS": "practicable",
+			"AFTER": "the plan is arranged"
+		}
+	],
+
+	"section-121-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the operator",
+			"TO": "give the notice",
+			"IN": "a case where the operator becomes aware of those arrangements after the plan is arranged",
+			"AS SOON AS": "practicable",
+			"AFTER": "becoming aware of them"
+		}
+	],
+
+	"section-122-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An affected creditor",
+			"TO": "appeal to the county court against any of the following— (a) the fact that the plan has been arranged; (b) the fact that a debt owed to the affected creditor has been specified in the plan; (c) the terms of the plan (including any provision included in the plan in accordance with section 110(3))"
+		}
+	],
+
+	"section-123-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "determine the appeal in any way that it thinks fit"
+		}
+	],
+
+	"section-123-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "make such orders as may be necessary to give effect to the determination of the appeal"
+		}
+	],
+
+	"section-123-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "order the scheme operator to do any of the following— (a) to reconsider the decision to arrange the plan; (b) to reconsider any decision about the terms of the plan; (c) to modify the debt repayment plan; (d) to revoke the debt repayment plan"
+		}
+	],
+
+	"section-123-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "make such interim provision as it thinks fit in relation to the period before the appeal is determined"
+		}
+	],
+
+	"section-124-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The operator of an approved scheme",
+			"TO": "recover its costs by charging debtors or affected creditors (or both)"
+		}
+	],
+
+	"section-125-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "specify a procedure for terminating the approval of a debt management scheme"
+		}
+	],
+
+	"section-125-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "specify a procedure that requires any or all of the following— (a) notice of, or the reasons for, an intended termination to be given (whether to the supervising authority, the scheme operator, the Lord Chancellor or any other person); (b) conditions to be met before a termination takes effect; (c) a particular period of time to elapse before a termination takes effect"
+		}
+	],
+
+	"section-127-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision to allow the supervising authority to deal with a termination case other than by terminating the approval"
+		}
+	],
+
+	"section-127-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision to allow the supervising authority to transfer the operation of the scheme— (a) to itself, or (b) to any other body"
+		}
+	],
+
+	"section-128-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about the effects",
+			"IF": "the approval of a debt management scheme comes to an end"
+		}
+	],
+
+	"section-128-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about the treatment of debt repayment plans arranged for non-business debtors",
+			"BEFORE": "the scheme came to an end"
+		}
+	],
+
+	"section-128-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about cases where, at the time the scheme comes to an end, the scheme operator is in breach of a relevant obligation"
+		}
+	],
+
+	"section-129-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The new supervising authority",
+			"TO": "exercise all of its functions in relation to an approval that is in force at the relevant time as though it had given the approval itself"
+		}
+	],
+
+	"section-130-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3"]
+		}
+	],
+
+	"section-130-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the statutory instrument",
+			"TO": "be made",
+			"UNLESS": "a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-130-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make different provision",
+			"IN RELATION TO": "different cases"
+		}
+	],
+
+	"section-130-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make any or all of the following provision — (a) supplementary, incidental or consequential provision; (b) transitory, transitional or saving provision",
+			"IF": "the Lord Chancellor thinks it is necessary or expedient"
+		}
+	],
+
+	"section-130-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision under subsection (7)",
+			"TO": "amend section 122 or 123 (including by making provision for further grounds of appeal)"
+		}
+	]
+}

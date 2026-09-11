@@ -1,0 +1,192 @@
+{
+	"to-exclude": ["section-78-1", "section-78-2", "section-79-3", "section-80-1", "section-80-2", "section-80-3", "section-80-4", "section-80-5", "section-81-1", "section-81-2", "section-81-3", "section-81-4", "section-81-5", "section-81-6", "section-81-7", "section-85-1", "section-85-2", "section-87-1", "section-87-2", "section-87-4", "section-87-7", "section-89-1", "section-89-2", "section-90-1", "section-90-2", "section-91-1", "section-91-2", "section-91-3", "section-91-5"],
+
+	"section-79-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue guidance about the practical application of— (a) the subsidy control principles; (b) the energy and environment principles; (c) the subsidy control requirements in Chapters 2 and 3 of Part 2; (d) the exemptions under Part 3 in respect of the subsidy control requirements; (e) Chapter 1 of Part 4 (including the criteria to be used in determining whether a subsidy or subsidy scheme falls within the meaning of a subsidy, or subsidy scheme, of interest or particular interest under section 11 when applying that Chapter); (f) section 76 (duty to provide pre-action information); (g) section 77 (misuse of subsidies); (h) section 81 (modifications to subsidies and schemes)"
+		}
+	],
+
+	"section-79-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Guidance under subsection (1)(a) to (c)",
+			"TO": "deal with (or with any matter connected with)— (a) the determination of whether financial assistance constitutes a subsidy for the purposes of this Act; (b) the meaning or effect of the subsidy control principles; (c) the meaning or effect of the energy and environment principles; (d) the operation of the duty under section 12 or 13 as it applies to— (i) public authorities generally, or (ii) public authorities of a particular description",
+			"WHEN": "exercising functions within the scope of the duty"
+		}
+	],
+
+	"section-79-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish guidance issued under this section"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "keep the guidance under review"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time revise or replace the guidance"
+		}
+	],
+
+	"section-79-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult such persons as the Secretary of State considers appropriate",
+			"BEFORE": "issuing guidance under this section"
+		}
+	],
+
+	"section-79-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "have regard to guidance issued under this section",
+			"SO FAR AS": "applicable to the authority and the circumstances of the case",
+			"WHEN": "giving a subsidy or making a subsidy scheme"
+		}
+	],
+
+	"section-79-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The requirement in subsection (5)",
+			"TO": "be met by consultation carried out before this section comes into force"
+		}
+	],
+
+	"section-82-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about how the gross cash amount, and the gross cash equivalent amount, is to be determined for the purposes of— (a) section 33(8); (b) section 36(5); (c) section 38(5); (d) section 41(2); (e) provision in regulations or schemes made under this Act"
+		}
+	],
+
+	"section-82-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-86-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision that is consequential on this Act"
+		}
+	],
+
+	"section-86-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "amend, repeal, revoke or otherwise modify any provision of primary legislation, assimilated direct legislation or subordinate legislation"
+		}
+	],
+
+	"section-86-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-86-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-87-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "regulations under this Act",
+			"TO": "be made",
+			"WHERE": "the regulations are subject to 'the affirmative procedure'",
+			"UNLESS": "a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-87-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any provision that may be made by regulations under this Act subject to the negative procedure",
+			"TO": "be made in regulations subject to the affirmative procedure"
+		}
+	],
+
+	"section-87-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Any power to make regulations under Part 4 to amend a provision of this Act",
+			"TO": "be exercised",
+			"AFTER": "the period of one year beginning with the day on which the CMA publishes its second report under section 65"
+		}
+	],
+
+	"section-87-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-88-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A direction under this Act",
+			"TO": "be given in writing"
+		}
+	],
+
+	"section-88-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under this Act",
+			"TO": "be varied or revoked by a further direction"
+		}
+	],
+
+	"section-91-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act"
+		}
+	],
+
+	"section-91-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this section",
+			"TO": "be made by statutory instrument"
+		}
+	]
+}

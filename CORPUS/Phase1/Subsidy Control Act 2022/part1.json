@@ -1,0 +1,50 @@
+{
+	"to-exclude": ["section-1-1", "section-1-2", "section-1-3", "section-1-4", "section-1-5", "section-1-6", "section-1-7", "section-1-8", "section-2-1", "section-2-2", "section-2-3", "section-2-4", "section-2-5", "section-2-6", "section-3-1", "section-3-2", "section-4-1", "section-4-2", "section-4-3", "section-4-4", "section-4-5", "section-4-6", "section-4-7", "section-5-1", "section-5-2", "section-6-1", "section-6-2", "section-6-3", "section-6-4", "section-6-5", "section-7-1", "section-7-2", "section-7-3", "section-7-4", "section-7-5", "section-8-1", "section-8-2", "section-8-3", "section-8-4", "section-8-5", "section-9-1", "section-9-2", "section-10-1", "section-10-2", "section-10-3", "section-10-4", "section-10-7", "section-10-8", "section-10-9", "section-10-10", "section-11-1", "section-11-4"],
+
+	"section-10-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A streamlined subsidy scheme",
+			"TO": "be laid before Parliament",
+			"AFTER": "it is made"
+		}
+	],
+
+	"section-10-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a streamlined subsidy scheme as modified",
+			"TO": "be laid before Parliament",
+			"IF": "the scheme is modified after it is laid"
+		}
+	],
+
+	"section-10-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A subsidy scheme or streamlined subsidy scheme",
+			"TO": "provide for the value of a subsidy to be determined by reference to its gross cash amount or the gross cash equivalent"
+		}
+	],
+
+	"section-11-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section defining “subsidy, or subsidy scheme, of interest” or “subsidy, or subsidy scheme, of particular interest”",
+			"TO": "make provision by reference (among other things) to— (a) the value of the subsidy or the value of the subsidies given under the subsidy scheme, and (b) the sector in which the expected beneficiaries of the subsidy or subsidy scheme operate, and any characteristics of that sector"
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision under subsection (2)(a)",
+			"TO": "provide for the value of a subsidy to be determined by reference to its gross cash amount or the gross cash equivalent"
+		}
+	]
+}

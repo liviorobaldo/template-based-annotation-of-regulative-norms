@@ -1,0 +1,153 @@
+{
+	"to-exclude": ["section-165-1", "d25e26712", "d25e26755", "d25e27002", "section-165-2", "section-165-3", "section-166-2", "section-166-3", "section-166-7", "section-166-8", "section-167-1", "section-167-4", "section-168-1", "section-168-2", "section-168-3", "section-169-1", "section-169-2", "section-169-3", "section-169-4", "section-169-5", "section-169-6", "section-169-7", "section-169-8", "section-170-1", "section-170-2", "section-170-3", "section-170-4", "section-170-5", "section-170-6", "section-171-1", "section-171-2", "section-171-3", "section-171-4", "section-171-5", "section-171-6", "section-171-7", "section-171-8", "section-171-9", "section-171-10", "section-171-11", "section-171-12", "section-171-13", "section-171-14", "section-172-5", "section-172-10", "section-172-11", "section-173-1", "section-173-2", "section-173-3", "section-173-4", "section-173-5", "section-173-6", "section-173-7", "section-173-8", "section-173-9", "section-174-1", "section-174-2", "section-174-3", "section-175-1", "section-175-2", "section-175-3", "section-175-4", "section-175-5", "section-175-6", "section-175-7", "section-175-8", "section-175-9", "section-175-10", "section-175-11", "section-175-12", "section-175-13", "section-176-1", "section-176-2", "section-176-3", "section-176-4", "section-176-5", "section-176-6", "section-177-1", "section-177-2", "section-177-3", "section-177-4", "section-177-5", "section-177-6", "section-177-7", "section-178-1", "section-178-2", "section-178-3", "section-178-4", "section-178-5", "section-178-6", "section-178-7", "section-178-8", "section-178-9", "section-178-10", "d25e31420", "section-178-11", "section-178-12", "section-178-13", "section-178-14", "d25e31721", "section-178-15", "section-178-16", "section-180-1", "section-180-2", "section-180-3", "section-180-4", "section-180-5", "section-180-6", "section-180-7", "section-181-1", "section-181-2", "section-182-1", "section-182-2", "section-182-3", "section-182-4", "section-182-5", "section-182-6", "section-182-7", "section-183-1", "section-183-2", "section-184-1", "d25e32999", "d25e33062", "section-184-2", "d25e33374", "d25e33527", "section-189-1", "section-189-2", "section-189-3", "section-189-4", "section-189-5", "section-189-6", "section-189-7", "section-189-8", "section-189-9", "section-189-10", "d25e34210", "d25e34216", "d25e34246", "d25e34317", "section-190-1", "section-190-2", "section-190-3", "section-190-4", "section-190-5", "section-190-6", "section-190-7", "section-190-8", "section-190-9", "section-190-10", "section-190-11", "section-190-12", "section-191-1", "section-191-2", "section-191-3", "section-191-4", "section-192-1", "section-192-2", "section-192-3", "section-192-4", "section-192-5"],
+
+	"section-166-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "exercise the power in section 208(1)",
+			"SO AS TO": "bring section 165 into force— (a) for all purposes, and (b) in relation to the whole of England and Wales",
+			"ONLY IF": "the conditions in subsections (2) and (3) are met"
+		}
+	],
+
+	"section-166-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A report under subsection (3)",
+			"TO": "include— (a) information about the number of offenders in respect of whom serious violence reduction orders have been made; (b) information about the offences that were the basis for applications as a result of which serious violence reduction orders were made; (c) information about the exercise by constables of the powers in section 342E of the Sentencing Code (serious violence reduction orders: powers of constables); (d) an assessment of the impact of the operation of Chapter 1A of Part 11 of the Sentencing Code on people with protected characteristics (within the meaning of the Equality Act 2010); (e) an initial assessment of the impact of serious violence reduction orders on the reoffending rates of offenders in respect of whom such orders have been made; (f) an assessment of the impact on offenders of being subject to a serious violence reduction order; (g) information about the number of offences committed under section 342G of the Sentencing Code (offences relating to a serious violence reduction order) and the number of suspected offences under that section that have been investigated"
+		}
+	],
+
+	"section-166-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 208(1) which bring section 165 into force only for a specified purpose or in relation to a specified area",
+			"TO": "— (a) provide for section 165 to be in force for that purpose or in relation to that area for a specified period; (b) make transitional or saving provision in connection with section 165 ceasing to be in force at the end of the specified period"
+		}
+	],
+
+	"section-166-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations containing provision by virtue of subsection (5)(a)",
+			"TO": "be amended by subsequent regulations under section 208(1)",
+			"SO AS TO": "continue section 165 in force— (a) for the specified purpose, or (b) in relation to the specified area, for a further specified period"
+		}
+	],
+
+	"section-167-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 208(1) which bring subsection (1) into force only for a specified purpose or in relation to a specified area",
+			"TO": "— (a) provide for that provision to be in force for that purpose or in relation to that area for a specified period; (b) make transitional or saving provision in relation to that provision ceasing to be in force at the end of the specified period"
+		}
+	],
+
+	"section-167-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations containing provision by virtue of subsection (2)(a)",
+			"TO": "be amended by subsequent regulations under section 208(1)",
+			"SO AS TO": "continue subsection (1) in force for the specified purpose or in relation to the specified area for a further specified period"
+		}
+	],
+
+	"section-172-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare a list of countries and territories outside the United Kingdom in which the Secretary of State considers children are at a high risk of sexual abuse or sexual exploitation from United Kingdom nationals or United Kingdom residents, or (b) direct a relevant person to prepare a list of countries and territories outside the United Kingdom in which the relevant person considers children are at a high risk of sexual abuse or sexual exploitation from United Kingdom nationals or United Kingdom residents"
+		}
+	],
+
+	"section-172-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay the list before Parliament",
+			"IF": "a list is prepared by the Secretary of State"
+		}
+	],
+
+	"section-172-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a relevant person",
+			"TO": "submit a list to the Secretary of State",
+			"IF": "the list is prepared by the relevant person"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay a list before Parliament",
+			"IF": "the list is prepared by a relevant person"
+		}
+	],
+
+	"section-172-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person who prepared a list",
+			"TO": "publish it",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the list has been laid before Parliament"
+		}
+	],
+
+	"section-172-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person who prepared a list",
+			"TO": "keep it under review",
+			"IF": "it has been published"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person who prepared a list",
+			"TO": "from time to time, prepare a revised list",
+			"IF": "it has been published"
+		}
+	],
+
+	"section-172-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "direct a relevant person to exercise the function under subsection (6)",
+			"IF": "for the time being that function is exercisable by the Secretary of State"
+		}
+	],
+
+	"section-172-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "direct that the function is to be exercisable by another relevant person or by the Secretary of State",
+			"IF": "the function under subsection (6) is for the time being exercisable by a relevant person"
+		}
+	],
+
+	"section-172-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "withdraw a list published under this section",
+			"AT": "any time"
+		}
+	]
+}
