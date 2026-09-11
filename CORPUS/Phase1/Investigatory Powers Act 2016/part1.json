@@ -1,0 +1,150 @@
+{
+	"to-exclude": ["section-1-1", "section-1-2", "section-1-3", "section-1-4", "section-1-5", "section-1-6", "section-1-7", "section-2-1", "section-2-3", "section-2-5", "section-2-6", "section-3-3", "section-3-4", "section-3-5", "section-3-6", "section-4-1", "section-4-2", "section-4-3", "section-4-4", "section-4-5", "section-4-6", "section-4-7", "section-4-8", "section-5-1", "section-5-2", "section-5-2-b", "section-6-1", "section-6-2", "section-6-3", "section-7-2", "section-7-3", "section-7-4", "section-7-6", "section-7-7", "section-7-8", "section-8-1", "section-8-2", "section-8-3", "section-8-3-b", "section-8-4", "section-8-5", "section-8-6", "section-9-1", "section-10-1", "section-10-3", "section-11-2", "section-11-3A", "section-11-3B", "section-11-4", "section-12-1", "section-12-2", "section-12-2A", "section-12-2B", "section-12-2C", "section-12-2D", "section-12-3", "section-12-5", "section-12-5A", "section-12-6", "section-13-2", "section-13-3", "section-13-4", "section-14-2"],
+
+	"section-2-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The public authority",
+			"TO": "have regard to— (a) whether what is sought to be achieved by the warrant, authorisation or notice could reasonably be achieved by other less intrusive means, (b) whether the level of protection to be applied in relation to any obtaining of information by virtue of the warrant, authorisation or notice is higher because of the particular sensitivity of that information, (c) the public interest in the integrity and security of telecommunication systems and postal services, and (d) any other aspects of the public interest in the protection of privacy"
+		}
+	],
+
+	"section-2-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The other considerations",
+			"TO": "include— (a) the interests of national security or of the economic well-being of the United Kingdom, (b) the public interest in preventing or detecting serious crime, (c) other considerations which are relevant to— (i) whether the conduct authorised or required by the warrant, authorisation or notice is proportionate, or (ii) whether it is necessary to act for a purpose provided for by this Act, (d) the requirements of the Human Rights Act 1998, and (e) other requirements of public law"
+		}
+	],
+
+	"section-3-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "(a) intentionally intercept a communication in the course of its transmission by means of— (i) a public telecommunication system, (ii) a private telecommunication system, or (iii) a public postal service, (b) the interception is carried out in the United Kingdom, and (c) not have lawful authority to carry out the interception"
+		}
+	],
+
+	"section-3-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "intercept a communication in the course of its transmission by means of a private telecommunication system",
+			"IF": "the person— (a) is a person with a right to control the operation or use of the system, or (b) has the express or implied consent of such a person to carry out the interception"
+		}
+	],
+
+	"section-3-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings for any offence which is an offence by virtue of this section",
+			"TO": "be instituted— (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions; (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland"
+		}
+	],
+
+	"section-7-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "serve a monetary penalty notice on a person",
+			"IF": "conditions A and B are met"
+		}
+	],
+
+	"section-7-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The amount of a monetary penalty determined by the Commissioner under this section",
+			"TO": "exceed £50,000"
+		}
+	],
+
+	"section-9-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a request to which this section applies",
+			"TO": "be made by or on behalf of a person in the United Kingdom",
+			"UNLESS": "— (a) a targeted interception warrant has been issued under Chapter 1 of Part 2 authorising the person to whom it is addressed to secure the interception of communications sent by, or intended for, that individual, or (b) a targeted examination warrant has been issued under that Chapter authorising the person to whom it is addressed to carry out the selection of the content of such communications for examination"
+		}
+	],
+
+	"section-10-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a request to which this section applies",
+			"TO": "be made by or on behalf of a person in the United Kingdom to the competent authorities of a country or territory outside the United Kingdom",
+			"UNLESS": "a mutual assistance warrant has been issued under Chapter 1 of Part 2 authorising the making of the request"
+		}
+	],
+
+	"section-10-2A": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-11-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A relevant person",
+			"TO": "without lawful authority, knowingly or recklessly obtain communications data from— (a) a telecommunications operator which is not wholly or mainly funded out of public funds, or (b) a postal operator"
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-12-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations modify any enactment in consequence of subsection (2)"
+		}
+	],
+
+	"section-12-5B": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State or the Treasury",
+			"TO": "by regulations modify Schedule 2A by— (a) adding a public authority to, or (b) removing a public authority from, the list in that Schedule"
+		}
+	],
+
+	"section-13-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "for the purpose of obtaining communications, private information or equipment data, engage in conduct which could be authorised by an equipment interference warrant",
+			"EXCEPT UNDER": "the authority of such a warrant",
+			"IF": "— (a) the intelligence service considers that the conduct would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences), and (b) there is a British Islands connection"
+		}
+	],
+
+	"section-14-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "for the purpose of obtaining communications, private information or equipment data, make an application under section 93 of the Police Act 1997 for authorisation to engage in conduct which could be authorised by a targeted equipment interference warrant under Part 5",
+			"IF": "the applicant considers that the conduct would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences)"
+		}
+	]
+}

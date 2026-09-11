@@ -1,0 +1,41 @@
+{
+	"to-exclude": ["section-131-1", "section-131-2", "section-132-1", "section-132-2", "section-132-3", "section-132-4", "section-132-5", "section-133-1", "section-133-2", "section-133-3", "section-133-4", "section-133-5", "section-133-6"],
+
+	"section-134-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time — (a) carry out a review of sections 131 to 133, (b) set out the conclusions of the review in a report, and (c) publish the report"
+		}
+	],
+
+	"section-134-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The report",
+			"TO": "— (a) set out the objectives intended to be achieved by the amendments of the Employment Rights Act 1996 made by sections 131 to 133, (b) assess the extent to which those objectives are achieved, and (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a way that imposes less regulation"
+		}
+	],
+
+	"section-134-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The first report to be published under this section",
+			"TO": "be published",
+			"BEFORE": "the end of the period of seven years beginning with the day on which sections 131 to 133 come into force"
+		}
+	],
+
+	"section-134-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Reports under this section",
+			"TO": "afterwards be published",
+			"AT": "intervals not exceeding seven years"
+		}
+	]
+}

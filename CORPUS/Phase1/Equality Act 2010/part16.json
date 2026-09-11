@@ -1,0 +1,28 @@
+{
+	"to-exclude": ["section-202-1", "section-202-2", "section-202-3", "section-202-4", "section-205-1", "section-205-2", "section-205-3", "section-205-4", "section-205-5", "section-205-6", "section-205-7", "section-205-8", "section-207-1", "section-207-5", "section-207-6", "section-207-7", "section-207-8", "section-208-1", "section-208-2", "section-208-3", "section-208-4", "section-208-5", "section-208-6", "section-208-7", "section-208-8", "section-208-9", "section-208-10", "section-209-1", "section-209-2", "section-209-3", "section-209-4", "section-209-5", "section-209-6", "section-209-7", "section-210-1", "section-210-2", "section-210-3", "section-210-4", "section-210-5", "section-210-6", "section-210-7", "section-211-1", "section-211-2", "section-212-1", "section-212-2", "section-212-3", "section-212-4", "section-212-5", "section-212-6", "section-212-7", "section-212-8", "section-212-9", "section-212-10", "section-212-11", "section-212-12", "section-212-13", "section-213-1", "section-213-2", "section-213-3", "section-213-4", "section-213-5", "section-213-6", "section-213-7", "section-213-8", "section-216-1", "section-216-2", "section-216-3", "section-216-4", "section-216-5", "section-216-6", "section-216-7", "section-217-1", "section-217-2", "section-217-3"],
+
+	"section-207-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Orders, regulations or rules under this Act",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-207-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-207-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Orders or regulations under this Act",
+			"TO": "— (a) may make different provision for different purposes; (b) may include consequential, incidental, supplementary, transitional, transitory or saving provision"
+		}
+	]
+}

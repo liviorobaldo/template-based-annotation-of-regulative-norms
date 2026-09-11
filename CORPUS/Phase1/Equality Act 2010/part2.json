@@ -1,0 +1,72 @@
+{
+	"to-exclude": ["section-5-1", "section-5-2", "section-6-1", "section-6-2", "section-6-3", "section-6-4", "section-6-6", "section-7-1", "section-7-2", "section-7-3", "section-8-1", "section-8-2", "section-9-1", "section-9-2", "section-9-3", "section-9-4", "section-9-6", "section-10-1", "section-10-2", "section-10-3", "section-12-1", "section-12-2", "section-13-1", "section-13-2", "section-13-3", "section-13-4", "section-13-5", "section-13-6", "section-13-7", "section-13-8", "section-14-1", "section-14-2", "section-14-3", "section-14-4", "section-14-5", "section-14-7", "section-15-1", "section-15-2", "section-16-1", "section-16-2", "section-16-3", "section-17-1", "section-17-2", "section-17-3", "section-17-4", "section-17-5", "section-17-6", "section-18-1", "section-18-2", "section-18-3", "section-18-4", "section-18-5", "section-18-6", "section-18-6A", "section-18-7", "section-19-1", "section-19-2", "section-19-3", "section-19A-1", "section-19A-2", "section-20-1", "section-20-2", "section-20-3", "section-20-4", "section-20-5", "section-20-6", "section-20-7", "section-20-8", "section-20-9", "section-20-10", "section-20-11", "section-20-12", "section-20-13", "section-21-1", "section-21-2", "section-21-3", "section-23-1", "section-23-2", "section-23-3", "section-23-4", "section-24-1", "section-24-2", "section-25-1", "section-25-2", "section-25-3", "section-25-4", "section-25-5", "section-25-6", "section-25-7", "section-25-8", "section-25-9", "section-26-1", "section-26-2", "section-26-3", "section-26-5", "section-27-1", "section-27-2", "section-27-3", "section-27-4", "section-27-5"],
+
+	"section-6-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "issue guidance about matters to be taken into account in deciding any question for the purposes of subsection (1)"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend this section so as to provide for caste to be an aspect of race"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend this Act so as to provide for an exception to a provision of this Act to apply, or not to apply, to caste or to apply, or not to apply, to caste in specified circumstances"
+		}
+	],
+
+	"section-14-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend this section so as to— (a) make further provision about circumstances in which B can, or in which B cannot, establish a contravention of this Act by virtue of subsection (1); (b) specify other circumstances in which subsection (1) does not apply"
+		}
+	],
+
+	"section-22-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "prescribe— (a) matters to be taken into account in deciding whether it is reasonable for A to take a step for the purposes of a prescribed provision of an applicable Schedule; (b) descriptions of persons to whom the first, second or third requirement does not apply"
+		}
+	],
+
+	"section-22-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision as to— (a) circumstances in which it is, or in which it is not, reasonable for a person of a prescribed description to have to take steps of a prescribed description; (b) what is, or what is not, a provision, criterion or practice; (c) things which are, or which are not, to be treated as physical features; (d) things which are, or which are not, to be treated as alterations of physical features; (e) things which are, or which are not, to be treated as auxiliary aids"
+		}
+	],
+
+	"section-22-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision made by virtue of this section",
+			"TO": "amend an applicable Schedule"
+		}
+	],
+
+	"section-26-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "each of the following",
+			"TO": "be taken into account— (a) the perception of B; (b) the other circumstances of the case; (c) whether it is reasonable for the conduct to have that effect",
+			"IN": "deciding whether conduct has the effect referred to in subsection (1)(b)"
+		}
+	]
+}

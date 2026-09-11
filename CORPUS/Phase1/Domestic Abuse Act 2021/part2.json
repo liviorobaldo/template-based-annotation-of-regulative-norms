@@ -1,0 +1,658 @@
+{
+	"to-exclude": ["section-4-2", "section-4-3", "section-7-2", "section-7-5", "section-7-6", "section-11-2", "section-12-6", "section-13-2", "section-14-6", "section-15-3", "section-15-7", "section-16-1", "section-16-3", "section-17-1", "section-17-2", "section-18-3", "section-18-5", "section-18-6", "section-18-7", "section-20-2", "section-20-3", "section-21-1", "section-21-2", "section-21-3"],
+
+	"section-4-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "appoint a person as the Domestic Abuse Commissioner (“the Commissioner”)"
+		}
+	],
+
+	"section-5-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make payments to the Commissioner out of money provided by Parliament for the purpose of enabling the Commissioner to meet expenditure incurred in the exercise of the Commissioner's functions"
+		}
+	],
+
+	"section-5-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Payments",
+			"TO": "be made at such times, and subject to any such conditions, as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-5-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "pay, or make provision for paying, to or in respect of the Commissioner— (a) remuneration; (b) allowances; (c) sums by way of or in respect of pensions"
+		}
+	],
+
+	"section-6-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "provide the Commissioner with— (a) such staff, and (b) such accommodation, equipment and other facilities, as the Secretary of State considers necessary for the carrying out of the Commissioner's functions"
+		}
+	],
+
+	"section-6-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "— (a) consult the Commissioner, and (b) obtain the Commissioner's approval as to the persons to be provided as staff",
+			"BEFORE": "providing any staff"
+		}
+	],
+
+	"section-6-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Commissioner",
+			"BEFORE": "providing any accommodation, equipment or other facilities"
+		}
+	],
+
+	"section-7-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "encourage good practice in— (a) the prevention of domestic abuse; (b) the prevention, detection, investigation and prosecution of offences involving domestic abuse; (c) the identification of— (i) people who carry out domestic abuse; (ii) victims of domestic abuse; (iii) children affected by domestic abuse; (d) the provision of protection and support to people affected by domestic abuse"
+		}
+	],
+
+	"section-7-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Commissioner",
+			"TO": "do anything in pursuance of the general duty under subsection (1) that— (a) relates to a devolved Welsh authority, or (b) otherwise relates to Welsh devolved matters",
+			"SUBJECT TO": "subsection (4)"
+		}
+	],
+
+	"section-7-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Commissioner",
+			"TO": "— (a) do something falling within subsection (2)(c), (d) or (e), to the extent that the thing done does not relate to Welsh devolved matters; (b) do something falling within subsection (2)(f) or (g); (c) disclose information to a devolved Welsh authority, or information which relates to Welsh devolved matters, under section 18"
+		}
+	],
+
+	"section-8-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "report to the Secretary of State on any matter relating to domestic abuse"
+		}
+	],
+
+	"section-8-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "publish every report made under this section"
+		}
+	],
+
+	"section-8-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Commissioner",
+			"TO": "send a draft of a report under this section to the Secretary of State",
+			"BEFORE": "publishing the report"
+		}
+	],
+
+	"section-8-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct the Commissioner to omit material from any report under this section before publication",
+			"IF": "the Secretary of State thinks the publication of that material— (a) might jeopardise the safety of any person, or (b) might prejudice the investigation or prosecution of an offence"
+		}
+	],
+
+	"section-8-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Commissioner",
+			"BEFORE": "making any direction under subsection (4)"
+		}
+	],
+
+	"section-8-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "arrange for a copy of any report published under this section to be laid before Parliament"
+		}
+	],
+
+	"section-9-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "provide the Secretary of State with any advice or assistance that the Secretary of State may request"
+		}
+	],
+
+	"section-9-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "provide advice or assistance relating to the exercise of any of the person's functions, or the carrying out of any activities by the person, in relation to people affected by domestic abuse",
+			"AT": "the request of any other person"
+		}
+	],
+
+	"section-9-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "charge a person for providing the person with advice or assistance under subsection (2)"
+		}
+	],
+
+	"section-9-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "publish any advice given to a person under subsection (2)"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Commissioner",
+			"TO": "send a draft of what is proposed to be published to the Secretary of State",
+			"BEFORE": "publishing any advice given under this section"
+		}
+	],
+
+	"section-9-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct the Commissioner to omit anything contained in the advice before publication",
+			"IF": "the Secretary of State thinks the publication of that material— (a) might jeopardise the safety of any person, or (b) might prejudice the investigation or prosecution of an offence"
+		}
+	],
+
+	"section-9-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Commissioner",
+			"BEFORE": "making any direction under subsection (6)"
+		}
+	],
+
+	"section-10-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "do anything which the Commissioner considers will facilitate, or is incidental or conducive to, the carrying out of the Commissioner's functions"
+		}
+	],
+
+	"section-10-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Commissioner",
+			"TO": "borrow money"
+		}
+	],
+
+	"section-11-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue a document (a 'framework document') that deals with matters relating to the Commissioner"
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "have regard to the framework document",
+			"WHEN": "exercising any of the Commissioner's functions"
+		}
+	],
+
+	"section-11-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "have regard to the framework document",
+			"WHEN": "exercising any functions in relation to the Commissioner"
+		}
+	],
+
+	"section-11-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "keep the framework document under review"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a revised framework document"
+		}
+	],
+
+	"section-11-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Commissioner",
+			"IN": "preparing or revising a framework document"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a framework document without the agreement of the Commissioner"
+		}
+	],
+
+	"section-11-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "issuing— (a) the first framework document under this section, or (b) any other framework document which is, in the opinion of the Secretary of State, significantly different from the framework document it replaces"
+		}
+	],
+
+	"section-11-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) arrange for any framework document issued under this section to be published in the manner which the Secretary of State considers appropriate, (b) send a copy of the framework document to the Welsh Ministers, and (c) lay a copy of the framework document before Parliament"
+		}
+	],
+
+	"section-11-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Welsh Ministers",
+			"TO": "lay before Senedd Cymru a copy of any framework document sent to them under subsection (8)(b)"
+		}
+	],
+
+	"section-12-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "establish an Advisory Board (“the Board”) for the purposes of providing advice to the Commissioner about the exercise of the Commissioner's functions"
+		}
+	],
+
+	"section-12-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "consist of not fewer than six and not more than ten members appointed by the Commissioner"
+		}
+	],
+
+	"section-12-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each member of the Board",
+			"TO": "hold and vacate office in accordance with the terms and conditions of the member's appointment"
+		}
+	],
+
+	"section-12-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The members of the Board",
+			"TO": "include— (a) at least one person appearing to the Commissioner to represent the interests of victims of domestic abuse; (b) at least one person appearing to the Commissioner to represent the interests of charities and other voluntary organisations that work with victims of domestic abuse in England; (c) at least one person appearing to the Commissioner to represent the interests of persons who provide, or have functions relating to, health care services in England; (d) at least one person appearing to the Commissioner to represent the interests of persons who provide, or have functions relating to, social care services in England; (e) at least one person appearing to the Commissioner to represent the interests of persons with functions relating to policing or criminal justice; (f) at least one person appearing to the Commissioner to have academic expertise in relation to domestic abuse"
+		}
+	],
+
+	"section-12-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "pay such remuneration or allowances to members of the Board as the Commissioner may determine"
+		}
+	],
+
+	"section-13-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "prepare and publish a strategic plan",
+			"AS SOON AS": "reasonably practicable after the Commissioner's appointment"
+		}
+	],
+
+	"section-13-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A strategic plan",
+			"TO": "— (a) state the Commissioner's objectives and priorities for the period to which the plan relates; (b) state any matters on which the Commissioner proposes to report under section 8 during that period; (c) state any other activities the Commissioner proposes to undertake during that period in the exercise of the Commissioner's functions"
+		}
+	],
+
+	"section-13-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "— (a) prepare a strategic plan for a period immediately following the current period, and (b) publish that plan",
+			"BEFORE": "the end of the period to which the strategic plan relates (“the current period”)"
+		}
+	],
+
+	"section-13-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Commissioner",
+			"TO": "revise the strategic plan",
+			"AT": "any time during the period to which a strategic plan relates"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Commissioner",
+			"TO": "publish any revised plan",
+			"AT": "any time during the period to which a strategic plan relates"
+		}
+	],
+
+	"section-13-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Commissioner",
+			"TO": "consult— (a) the Secretary of State, (b) the Advisory Board established under section 12, and (c) such other persons as the Commissioner considers appropriate",
+			"IN": "preparing or revising a strategic plan"
+		}
+	],
+
+	"section-13-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "arrange for a copy of any plan (or revised plan) published under this section to be laid before Parliament"
+		}
+	],
+
+	"section-14-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Commissioner",
+			"TO": "submit to the Secretary of State an annual report on the exercise of the Commissioner's functions during the year",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each financial year"
+		}
+	],
+
+	"section-14-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The annual report",
+			"TO": "include— (a) an assessment of the extent to which the Commissioner's objectives and priorities have been met in that year; (b) a statement of the matters on which the Commissioner has reported under section 8 during the year; (c) a statement of the other activities the Commissioner has undertaken during the year in the exercise of the Commissioner's functions"
+		}
+	],
+
+	"section-14-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "arrange for a copy of every annual report under this section to be laid before Parliament"
+		}
+	],
+
+	"section-14-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct the Commissioner to omit material from any report under this section before it is laid before Parliament",
+			"IF": "the Secretary of State thinks the publication of that material— (a) might jeopardise the safety of any person, or (b) might prejudice the investigation or prosecution of an offence"
+		}
+	],
+
+	"section-14-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Commissioner",
+			"BEFORE": "making any direction under subsection (4)"
+		}
+	],
+
+	"section-15-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "request a specified public authority to co-operate with the Commissioner in any way that the Commissioner considers necessary for the purposes of the Commissioner's functions"
+		}
+	],
+
+	"section-15-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A specified public authority",
+			"TO": "comply with a request made to it under this section",
+			"SO FAR AS": "reasonably practicable"
+		}
+	],
+
+	"section-15-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend this section so as to— (a) add a public authority as a specified public authority for the purposes of this section; (b) remove a public authority added by virtue of paragraph (a); (c) vary any description of a public authority"
+		}
+	],
+
+	"section-15-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Commissioner",
+			"BEFORE": "making regulations under subsection (4)"
+		}
+	],
+
+	"section-15-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Regulations under subsection (4)",
+			"TO": "contain provision adding a devolved Welsh authority as a specified public authority for the purposes of this section"
+		}
+	],
+
+	"section-16-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant person",
+			"TO": "prepare comments on the report"
+		}
+	],
+
+	"section-16-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The comments",
+			"TO": "include an explanation of— (a) the action which the relevant person has taken, or proposes to take, in response to the recommendation, or (b) why the relevant person has not taken, or does not propose to take, any action in response",
+			"IN RESPECT OF": "each recommendation made in the report"
+		}
+	],
+
+	"section-16-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant person",
+			"TO": "arrange for the comments to be published in such manner as the person considers appropriate"
+		}
+	],
+
+	"section-16-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The comments",
+			"TO": "be published",
+			"BEFORE": "the end of the period of 56 days beginning with the day on which the report is published"
+		}
+	],
+
+	"section-16-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant person",
+			"TO": "send a copy of anything published under subsection (5) to the Commissioner"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant person",
+			"TO": "send a copy of anything published under subsection (5) to the Secretary of State",
+			"WHERE": "the relevant person is a specified public authority for the purposes of section 15"
+		}
+	],
+
+	"section-18-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "disclose to a person any information received by the Commissioner in connection with the Commissioner's functions",
+			"IF": "the disclosure is made for a purpose connected with a function of the Commissioner"
+		}
+	],
+
+	"section-18-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "disclose any information to the Commissioner",
+			"IF": "the disclosure is made for the purposes of enabling or assisting the Commissioner to exercise any function"
+		}
+	],
+
+	"section-18-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "this Part",
+			"TO": "require or authorise any of the following— (a) the disclosure of any patient information (see subsection (5)); (b) the making of a disclosure which, although made in the exercise of a function under this Part, would contravene the data protection legislation (see subsection (6)); (c) the making of a disclosure which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016"
+		}
+	],
+
+	"section-19-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Commissioner",
+			"TO": "exercise any function in relation to an individual case"
+		}
+	],
+
+	"section-19-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Commissioner",
+			"TO": "consider individual cases and draw conclusions about them for the purpose of, or in the context of, considering a general issue"
+		}
+	],
+
+	"section-20-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "prepare and publish a report under section 8 on— (a) the need for domestic abuse services in England, and (b) the provision of such services",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-20-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations extend the relevant period for a further period of up to 6 months",
+			"WITH": "the agreement of the Commissioner"
+		}
+	],
+
+	"section-20-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power conferred by subsection (4)",
+			"TO": "be exercised only once"
+		}
+	]
+}

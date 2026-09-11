@@ -1,0 +1,31 @@
+{
+	"to-exclude": ["section-190-1", "section-190-3", "section-190-4", "section-190-6", "section-190-7", "section-190-9"],
+
+	"section-190-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the landlord",
+			"TO": "give the tenant a written statement of the reason why the consent was withheld",
+			"WHERE": "the tenant applies in writing for the consent",
+			"IF": "the landlord refuses to give consent"
+		}
+	],
+
+	"section-190-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the landlord",
+			"TO": "show that it was not",
+			"ON": "any question as to whether— (a) consent was unreasonably withheld, or (b) a condition imposed was unreasonable"
+		}
+	],
+
+	"section-190-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3", "subsection-4", "subsection-5", "subsection-6", "subsection-7"]
+		}
+	]
+}

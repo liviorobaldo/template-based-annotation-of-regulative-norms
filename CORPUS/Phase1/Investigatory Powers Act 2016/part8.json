@@ -1,0 +1,264 @@
+{
+	"to-exclude": ["section-226A-1", "section-226A-3", "section-226B-1", "section-226B-2", "section-226B-4", "section-226B-5", "section-226B-6", "section-226BA-1", "section-226BC-1", "section-226BC-4", "section-226BC-7", "section-226BC-8", "section-226C-1", "section-226C-2", "section-226C-3", "section-226CA-2", "section-226CA-4", "section-226CA-5", "section-226CA-6", "section-226CA-7", "section-226CB-3", "section-226CB-4", "section-226CC-1", "section-226CC-3", "section-226CD-1", "section-226CD-2", "section-226CD-3", "section-226D-1", "section-226D-3", "section-226D-4", "section-226D-5", "section-226DB-2", "section-226DC-1", "section-226DC-2"],
+
+	"section-226A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "everyone",
+			"TO": "have regard to all the circumstances, including in particular the factors in subsection (3)",
+			"IN": "considering whether this section applies to a bulk personal dataset"
+		}
+	],
+
+	"section-226B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on their behalf",
+			"TO": "grant an individual authorisation",
+			"WHERE": "the conditions in subsections (4) and (5) are met",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-226B-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "grant an individual authorisation from seeking the approval of a Judicial Commissioner",
+			"IN": "a case where subsection (6)(a) applies",
+			"IF": "the person considers that it would be appropriate to seek such approval"
+		}
+	],
+
+	"section-226B-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An individual authorisation relating to a bulk personal dataset (“dataset A”)",
+			"TO": "authorise the retention or examination of other bulk personal datasets (“replacement datasets”) that do not exist at the time of the grant of the authorisation but may reasonably be regarded as replacements for dataset A"
+		}
+	],
+
+	"section-226BA-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on their behalf",
+			"TO": "grant a category authorisation",
+			"WHERE": "— (a) they consider that section 226A applies to any dataset that falls within the category of datasets described in the authorisation, and (b) the decision to grant the authorisation has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-226BA-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a category authorisation",
+			"TO": "describe a category of bulk personal datasets by reference to (among other things) the use to which the datasets will be put"
+		}
+	],
+
+	"section-226BB-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the conclusions of the person who granted the authorisation as to the following matters— (a) in relation to an individual authorisation, whether section 226A applies to the bulk personal dataset described in the authorisation, and (b) in relation to a category authorisation, whether section 226A applies to any dataset that falls within the category of datasets described in the authorisation",
+			"IN": "deciding whether to approve a decision to grant an individual authorisation or a category authorisation"
+		}
+	],
+
+	"section-226BB-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-226BB-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the person who decided to grant the authorisation written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to grant an individual authorisation or a category authorisation"
+		}
+	],
+
+	"section-226BB-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the head of the intelligence service, or a person acting on their behalf",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to grant the authorisation",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to grant an individual authorisation or a category authorisation"
+		}
+	],
+
+	"section-226BC-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person who granted the authorisation",
+			"TO": "inform a Judicial Commissioner that it has been granted"
+		}
+	],
+
+	"section-226BC-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to grant the authorisation, and (b) notify the person who granted the authorisation of the Judicial Commissioner’s decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-226BC-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The authorisation",
+			"TO": "be renewed"
+		}
+	],
+
+	"section-226BC-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service",
+			"TO": "secure that anything in the process of being done in reliance on the authorisation stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-226CA-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the head of an intelligence service, or a person acting on their behalf",
+			"TO": "renew an individual authorisation or a category authorisation",
+			"AT": "any time during the renewal period",
+			"IF": "the renewal conditions are met for the authorisation"
+		}
+	],
+
+	"section-226CA-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2-b"]
+		}
+	],
+
+	"section-226CB-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on their behalf",
+			"TO": "cancel an individual authorisation or a category authorisation",
+			"AT": "any time"
+		}
+	],
+
+	"section-226CB-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the head of an intelligence service, or a person acting on their behalf",
+			"TO": "cancel the authorisation",
+			"IF": "they consider that any of the cancellation conditions are met in relation to an individual authorisation, or that the cancellation condition is met in relation to a category authorisation"
+		}
+	],
+
+	"section-226CC-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of the intelligence service, or a person acting on their behalf",
+			"TO": "decide to grant a new individual authorisation (see section 226B) to retain, or to retain and examine, any material retained by the intelligence service in reliance on the authorisation which has ceased to have effect",
+			"BEFORE": "the end of the period of 5 working days beginning with the day on which the authorisation ceases to have effect"
+		}
+	],
+
+	"section-226D-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service",
+			"TO": "secure that anything in the process of being done in relation to that part of the bulk personal dataset in reliance on the authorisation stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-226DA-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of each intelligence service",
+			"TO": "provide an annual report to the Secretary of State about the bulk personal datasets that were authorised under this Part to be retained, or retained and examined, by the intelligence service during the period to which the report relates"
+		}
+	],
+
+	"section-226DA-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The first report",
+			"TO": "relate to a period of at least one year and no more than two years, beginning with the day on which this Part comes fully into force"
+		}
+	],
+
+	"section-226DA-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Subsequent reports",
+			"TO": "relate to a period of no more than one year, beginning with the end of the period to which the previous report related"
+		}
+	],
+
+	"section-226DA-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each report",
+			"TO": "be provided to the Secretary of State",
+			"AS SOON AS": "reasonably practicable after the end of the period to which the report relates"
+		}
+	],
+
+	"section-226DB-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "for each relevant period provide to the Intelligence and Security Committee of Parliament a report setting out information about category authorisations and renewals of category authorisations granted in that period"
+		}
+	],
+
+	"section-226DB-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each report",
+			"TO": "be provided to the Committee",
+			"AS SOON AS": "reasonably practicable after the end of the period to which the report relates"
+		}
+	],
+
+	"section-226DC-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of this Part, act on behalf of the head of an intelligence service"
+		}
+	]
+}

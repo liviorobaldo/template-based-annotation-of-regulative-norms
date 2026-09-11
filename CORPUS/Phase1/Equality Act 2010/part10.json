@@ -1,0 +1,81 @@
+{
+	"to-exclude": ["section-142-1", "section-142-2", "section-142-3", "section-142-4", "section-142-5", "section-144-1", "section-144-2", "section-144-5", "section-144-6", "section-145-1", "section-145-2", "section-146-5", "section-146-6", "section-147-1", "section-147-2", "section-147-3", "section-147-4", "section-147-5", "section-147-6", "section-147-7", "section-147-8", "section-147-9", "section-148-1", "section-148-2", "section-148-3", "section-148-4", "section-148-5", "section-148-6", "section-148-7", "section-148-8"],
+
+	"section-143-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court or the sheriff",
+			"TO": "make an order for a term to be removed or modified",
+			"ON": "an application by a person who has an interest in a contract or other agreement which includes a term that is unenforceable as a result of section 142"
+		}
+	],
+
+	"section-143-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under this section",
+			"TO": "be made",
+			"UNLESS": "every person who would be affected by it— (a) has been given notice of the application (except where notice is dispensed with in accordance with rules of court), and (b) has been afforded an opportunity to make representations to the county court or sheriff"
+		}
+	],
+
+	"section-143-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include provision in respect of a period before the making of the order"
+		}
+	],
+
+	"section-144-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-144-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-146-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A qualifying person (P)",
+			"TO": "make a complaint to an employment tribunal that a term is void, or that a rule is unenforceable, as a result of section 145"
+		}
+	],
+
+	"section-146-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-146-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "make an order declaring that the term is void or the rule is unenforceable",
+			"IF": "it finds that the complaint is well-founded"
+		}
+	],
+
+	"section-146-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include provision in respect of a period before the making of the order"
+		}
+	]
+}

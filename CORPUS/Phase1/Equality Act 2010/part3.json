@@ -1,0 +1,91 @@
+{
+	"to-exclude": ["section-29-8", "section-29-9", "section-29-10", "section-30-1", "section-30-2", "section-30-3", "section-30-4", "section-30-5", "section-30-6", "section-31-1", "section-31-2", "section-31-3", "section-31-4", "section-31-5", "section-31-6", "section-31-7", "section-31-8", "section-31-9", "section-31-10"],
+
+	"section-28-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-part"]
+		}
+	],
+
+	"section-28-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-part"]
+		}
+	],
+
+	"section-28-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-part"]
+		}
+	],
+
+	"section-29-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (a “service-provider”) concerned with the provision of a service to the public or a section of the public (for payment or not)",
+			"TO": "discriminate against a person requiring the service by not providing the person with the service"
+		}
+	],
+
+	"section-29-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A service-provider (A)",
+			"TO": "discriminate against a person (B)— (a) as to the terms on which A provides the service to B; (b) by terminating the provision of the service to B; (c) by subjecting B to any other detriment",
+			"IN": "providing the service"
+		}
+	],
+
+	"section-29-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A service-provider",
+			"TO": "harass— (a) a person requiring the service, or (b) a person to whom the service-provider provides the service",
+			"IN RELATION TO": "the provision of the service"
+		}
+	],
+
+	"section-29-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A service-provider",
+			"TO": "victimise a person requiring the service by not providing the person with the service"
+		}
+	],
+
+	"section-29-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A service-provider (A)",
+			"TO": "victimise a person (B)— (a) as to the terms on which A provides the service to B; (b) by terminating the provision of the service to B; (c) by subjecting B to any other detriment",
+			"IN": "providing the service"
+		}
+	],
+
+	"section-29-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "do anything that constitutes discrimination, harassment or victimisation",
+			"IN": "the exercise of a public function that is not the provision of a service to the public or a section of the public"
+		}
+	],
+
+	"section-29-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) a service-provider (and see also section 55(7)); (b) a person who exercises a public function that is not the provision of a service to the public or a section of the public",
+			"TO": "make reasonable adjustments"
+		}
+	]
+}

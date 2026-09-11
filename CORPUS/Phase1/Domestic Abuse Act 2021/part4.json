@@ -1,0 +1,187 @@
+{
+	"to-exclude": ["section-57-2", "section-57-6", "section-57-10", "section-58-3", "section-59-3"],
+
+	"section-57-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each relevant local authority in England",
+			"TO": "— (a) assess, or make arrangements for the assessment of, the need for accommodation-based support in its area, (b) prepare and publish a strategy for the provision of such support in its area, and (c) monitor and evaluate the effectiveness of the strategy"
+		}
+	],
+
+	"section-57-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant local authority that publishes a strategy under this section",
+			"TO": "give effect to the strategy",
+			"IN": "carrying out its functions"
+		}
+	],
+
+	"section-57-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a relevant local authority",
+			"TO": "consult— (a) the domestic abuse local partnership board appointed by the relevant local authority under section 58, (b) any local authority for an area within the relevant local authority's area, and (c) such other persons as the relevant local authority considers appropriate",
+			"BEFORE": "publishing a strategy under this section"
+		}
+	],
+
+	"section-57-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant local authority that publishes a strategy under this section",
+			"TO": "keep the strategy under review"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant local authority that publishes a strategy under this section",
+			"TO": "keep under review any effect of the strategy on the provision of other local authority support in its area"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A relevant local authority that publishes a strategy under this section",
+			"TO": "alter or replace the strategy"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant local authority that publishes a strategy under this section",
+			"TO": "publish any altered or replacement strategy"
+		}
+	],
+
+	"section-57-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A relevant local authority",
+			"TO": "request any local authority for an area within the relevant local authority's area to co-operate with it in any way that the relevant local authority considers necessary for the purposes of its functions under this section"
+		}
+	],
+
+	"section-57-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority",
+			"TO": "comply with a request made to it under subsection (7)",
+			"SO FAR AS": "reasonably practicable"
+		}
+	],
+
+	"section-57-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about the preparation and publication of strategies under this section"
+		}
+	],
+
+	"section-57-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Domestic Abuse Commissioner, (b) relevant local authorities, and (c) such other persons as the Secretary of State considers appropriate",
+			"BEFORE": "making regulations under this section"
+		}
+	],
+
+	"section-58-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant local authority in England",
+			"TO": "appoint a domestic abuse local partnership board for the purposes of providing advice to the authority about— (a) the exercise of the authority's functions under section 57, and (b) the provision of other local authority support in the authority's area"
+		}
+	],
+
+	"section-58-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The members of the domestic abuse local partnership board",
+			"TO": "include— (a) a representative of the relevant local authority; (b) at least one person appearing to the authority to represent the interests of local authorities for areas within its area; (c) at least one person appearing to the authority to represent the interests of victims of domestic abuse; (d) at least one person appearing to the authority to represent the interests of children of domestic abuse victims; (e) at least one person appearing to the authority to represent the interests of charities and other voluntary organisations that work with victims of domestic abuse in its area; (f) at least one person appearing to the authority to represent the interests of persons who provide, or have functions relating to, health care services in its area; (g) at least one person appearing to the authority to represent the interests of persons with functions relating to policing or criminal justice in its area"
+		}
+	],
+
+	"section-59-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a relevant local authority in England",
+			"TO": "submit to the Secretary of State an annual report",
+			"IN RELATION TO": "the exercise of the authority's functions under this Part during the year",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each financial year"
+		}
+	],
+
+	"section-59-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about— (a) the form of the report, and (b) the content of the report"
+		}
+	],
+
+	"section-60-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue guidance relating to the exercise by local authorities in England of functions under this Part"
+		}
+	],
+
+	"section-60-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Local authorities in England",
+			"TO": "have regard to the guidance",
+			"WHEN": "exercising a function to which the guidance relates"
+		}
+	],
+
+	"section-60-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time revise any guidance issued under this section"
+		}
+	],
+
+	"section-60-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Domestic Abuse Commissioner, (b) local authorities, and (c) such other persons as the Secretary of State considers appropriate",
+			"BEFORE": "issuing or revising guidance under this section"
+		}
+	],
+
+	"section-60-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-4"]
+		}
+	],
+
+	"section-60-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish— (a) any guidance issued under this section, and (b) any revisions of that guidance"
+		}
+	]
+}

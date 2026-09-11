@@ -1,0 +1,291 @@
+{
+	"to-exclude": ["section-149-3", "section-149-4", "section-149-5", "section-149-7", "section-149-8", "section-149-9", "section-150-1", "section-150-2", "section-150-3", "section-150-4", "section-150-5", "section-151-7", "section-154-3", "section-155-3", "section-155-4", "section-157-1", "section-157-2", "section-157-3", "section-157-4", "section-157-5", "section-157-6", "section-157-7", "section-157-8", "section-157-9", "section-158-1", "section-158-5", "section-158-6", "section-159-1", "section-159-3", "section-159-5", "section-159-6"],
+
+	"section-149-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "have due regard to the need to— (a) eliminate discrimination, harassment, victimisation and any other conduct that is prohibited by or under this Act; (b) advance equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it; (c) foster good relations between persons who share a relevant protected characteristic and persons who do not share it",
+			"IN": "the exercise of its functions"
+		}
+	],
+
+	"section-149-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person who is not a public authority but who exercises public functions",
+			"TO": "have due regard to the matters mentioned in subsection (1)",
+			"IN": "the exercise of those functions"
+		}
+	],
+
+	"section-149-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Compliance with the duties in this section",
+			"TO": "involve treating some persons more favourably than others"
+		}
+	],
+
+	"section-151-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend Part 1, 2 or 3 of Schedule 19"
+		}
+	],
+
+	"section-151-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Welsh Ministers",
+			"TO": "by order amend Part 2 of Schedule 19"
+		}
+	],
+
+	"section-151-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Scottish Ministers",
+			"TO": "by order amend Part 3 of Schedule 19"
+		}
+	],
+
+	"section-151-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The power under subsection (1), (2) or (3)",
+			"TO": "be exercised so as to— (a) add an entry to Part 1 relating to a relevant Welsh or Scottish authority or a cross-border Welsh or Scottish authority; (b) add an entry to Part 2 relating to a person who is not a relevant Welsh authority; (c) add an entry to Part 3 relating to a person who is not a relevant Scottish authority"
+		}
+	],
+
+	"section-151-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend Schedule 19 so as to make provision relating to a cross-border Welsh or Scottish authority"
+		}
+	],
+
+	"section-151-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Minister of the Crown",
+			"TO": "— (a) add a Part 4 to the Schedule for cross-border authorities, and (b) add the cross-border Welsh or Scottish authority to that Part",
+			"ON": "the first exercise of the power under subsection (5) to add an entry relating to a cross-border Welsh or Scottish authority to Schedule 19"
+		}
+	],
+
+	"section-151-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order",
+			"TO": "be made under this section so as to extend the application of section 149",
+			"UNLESS": "the person making it considers that the extension relates to a person by whom a public function is exercisable"
+		}
+	],
+
+	"section-151-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order",
+			"TO": "be made under this section so as to extend the application of section 149 to— (a) the exercise of a function referred to in paragraph 3 of Schedule 18 (judicial functions, etc) ; (b) a person listed in paragraph 4(2)(a) to (e) of that Schedule (Parliament, devolved legislatures and General Synod); (c) the exercise of a function listed in paragraph 4(3) of that Schedule (proceedings in Parliament or devolved legislatures)"
+		}
+	],
+
+	"section-152-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Minister of the Crown",
+			"TO": "consult the person or persons specified in the second column",
+			"BEFORE": "making an order under a provision specified in the first column of the Table"
+		}
+	],
+
+	"section-152-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Welsh Ministers",
+			"TO": "consult the Commission",
+			"BEFORE": "making an order under section 151(2)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Welsh Ministers",
+			"TO": "inform a Minister of the Crown",
+			"AFTER": "making an order under section 151(2)"
+		}
+	],
+
+	"section-152-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Scottish Ministers",
+			"TO": "consult the Commission",
+			"BEFORE": "making an order under section 151(3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Scottish Ministers",
+			"TO": "inform a Minister of the Crown",
+			"AFTER": "making an order under section 151(3)"
+		}
+	],
+
+	"section-153-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by regulations impose duties on a public authority specified in Part 1 of Schedule 19 for the purpose of enabling the better performance by the authority of the duty imposed by section 149(1)"
+		}
+	],
+
+	"section-153-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Welsh Ministers",
+			"TO": "by regulations impose duties on a public authority specified in Part 2 of Schedule 19 for that purpose"
+		}
+	],
+
+	"section-153-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Scottish Ministers",
+			"TO": "by regulations impose duties on a public authority specified in Part 3 of Schedule 19 for that purpose"
+		}
+	],
+
+	"section-153-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person making regulations under this section",
+			"TO": "consult the Commission",
+			"BEFORE": "making them"
+		}
+	],
+
+	"section-154-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Minister of the Crown",
+			"TO": "include after the entry a letter specified in the first column of the Table in subsection (3)",
+			"IF": "the Minister exercises the power in section 151(5) to add an entry for a public authority to Part 4 of Schedule 19"
+		}
+	],
+
+	"section-154-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person specified in the second column of the Table in subsection (3)",
+			"TO": "by regulations impose duties on a public authority for the purpose of enabling the better performance by the authority of the duty imposed by section 149(1), subject to such limitations as are specified in that column",
+			"SUBJECT TO": "such limitations as are specified in that column",
+			"WHERE": "a letter specified in the first column of the Table is included after an entry for the authority in Part 4 of Schedule 19"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person specified in the second column of the Table in subsection (3)",
+			"TO": "comply with the procedural requirement specified in that column",
+			"IN": "making the regulations",
+			"WHERE": "a letter specified in the first column of the Table is included after an entry for a public authority in Part 4 of Schedule 19"
+		}
+	],
+
+	"section-154-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person making regulations under subsection (2)",
+			"TO": "consult the Commission",
+			"BEFORE": "making them"
+		}
+	],
+
+	"section-155-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 153 or 154",
+			"TO": "require a public authority to consider such matters as may be specified from time to time by— (a) a Minister of the Crown, where the regulations are made by a Minister of the Crown; (b) the Welsh Ministers, where the regulations are made by the Welsh Ministers; (c) the Scottish Ministers, where the regulations are made by the Scottish Ministers"
+		}
+	],
+
+	"section-155-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 153 or 154",
+			"TO": "impose duties on a public authority that is a contracting authority within the meaning of the public procurement legislation in connection with its public procurement functions"
+		}
+	],
+
+	"section-155-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) a Minister of the Crown, where the original duty was imposed by regulations made by a Minister of the Crown; (b) the Welsh Ministers, where the original duty was imposed by regulations made by the Welsh Ministers; (c) the Scottish Ministers, where the original duty was imposed by regulations made by the Scottish Ministers",
+			"TO": "by regulations modify or remove a duty imposed on a public authority under section 153 or 154"
+		}
+	],
+
+	"section-158-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "P",
+			"TO": "take any action which is a proportionate means of achieving the aim of— (a) enabling or encouraging persons who share the protected characteristic to overcome or minimise that disadvantage, (b) meeting those needs, or (c) enabling or encouraging persons who share the protected characteristic to participate in that activity"
+		}
+	],
+
+	"section-158-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "specify action, or descriptions of action, to which subsection (2) does not apply"
+		}
+	],
+
+	"section-158-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-159-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "P",
+			"TO": "take action within subsection (3) with the aim of enabling or encouraging persons who share the protected characteristic to— (a) overcome or minimise that disadvantage, or (b) participate in that activity"
+		}
+	],
+
+	"section-159-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	]
+}

@@ -1,0 +1,833 @@
+{
+	"to-exclude": ["section-13-1", "section-13-2", "section-14-1", "section-14-2", "section-14-2ZA", "section-14-2A", "section-14-2B", "section-14-3", "section-14-5", "section-16-2", "section-16-2B", "section-16-4", "section-16-6", "section-16-7", "section-19-5", "section-19-6", "section-19-8", "section-20-2", "section-21-2", "section-21-6", "section-21-7", "section-24-5", "section-25-2", "section-26-7", "section-27-1", "section-27-1A", "section-27-4", "section-27-5", "section-27-6", "section-27-7", "section-27-8ZA", "section-27-8A", "section-28-1", "section-29-6", "section-30-7", "section-30-8", "section-31-6", "section-31-7", "section-32-3B", "section-32-3C", "section-32-4", "section-32-5", "section-32-6", "section-32-7", "section-32-8", "section-32-9", "section-32-10", "section-32-11", "section-32A-1", "section-32A-2", "section-33-6", "section-33-7", "section-34-4", "section-34-5", "section-34-6", "section-35-2", "section-35-3", "section-37-2", "section-37-3", "section-39-1", "section-39-2", "section-39-3", "section-39-4", "section-39-5", "section-39-6", "section-40-1", "section-40-2", "section-40-3", "section-41-1", "section-41-2", "section-41-3"],
+
+	"section-14-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order amend this section for the purpose of adding to the activities within the remit of the Authority"
+		}
+	],
+
+	"section-16-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "do an activity to which this section applies",
+			"OTHERWISE THAN": "under the authority of a licence granted for the purposes of this section"
+		}
+	],
+
+	"section-16-2A": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-16-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations specify circumstances in which storage of relevant material by a person who intends to use it for a scheduled purpose is excepted from subsection (2)(e)(ii)"
+		}
+	],
+
+	"section-16-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend this section for the purpose of— (a) adding to the activities to which this section applies, (b) removing an activity from the activities to which this section applies, or (c) altering the description of an activity to which this section applies"
+		}
+	],
+
+	"section-19-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the applicant",
+			"TO": "require the Authority to reconsider the decision",
+			"IF": "an application for the grant, revocation or variation of a licence is refused"
+		}
+	],
+
+	"section-19-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the holder of the licence, or the designated individual",
+			"TO": "require the Authority to reconsider the decision",
+			"IF": "a licence is— (a) revoked under paragraph 7(2) of Schedule 3, or (b) varied under paragraph 8(3) or (5) of that Schedule"
+		}
+	],
+
+	"section-19-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the applicant",
+			"TO": "require the Authority to reconsider the decision",
+			"IF": "an application for the grant, or revocation, of permission for the purposes of an authorisation condition is refused"
+		}
+	],
+
+	"section-19-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the individual concerned, (b) the holder of the licence, and (c) the designated individual",
+			"TO": "require the Authority to reconsider the decision",
+			"IF": "permission for the purposes of an authorisation condition is revoked under paragraph 12(4)(b) of Schedule 3"
+		}
+	],
+
+	"section-19-7": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1", "subsection-2", "subsection-3", "subsection-4"]
+		}
+	],
+
+	"section-20-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "maintain one or more committees to carry out its functions in pursuance of notices under section 19"
+		}
+	],
+
+	"section-20-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An appeals committee",
+			"TO": "consist of not less than five members of the Authority"
+		}
+	],
+
+	"section-20-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The quorum for an appeals committee",
+			"TO": "be three"
+		}
+	],
+
+	"section-21-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Reconsideration",
+			"TO": "be by way of fresh decision"
+		}
+	],
+
+	"section-21-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appeals committee by which a decision is reconsidered in pursuance of a notice under section 19",
+			"TO": "give the appellant notice of its decision"
+		}
+	],
+
+	"section-21-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the notice under subsection (3)",
+			"TO": "include a statement of the reasons for the appeals committee’s decision",
+			"IF": "on reconsideration an appeals committee upholds the previous decision"
+		}
+	],
+
+	"section-21-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Authority",
+			"TO": "by regulations make such other provision about procedure in relation to reconsideration as it thinks fit"
+		}
+	],
+
+	"section-23-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions",
+			"TO": "impose requirements",
+			"IN RELATION TO": "the conduct of the activity which a licence authorises to be carried on"
+		}
+	],
+
+	"section-23-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (1)",
+			"TO": "be given",
+			"IN RELATION TO": "licences generally, licences of a particular description or a particular licence"
+		}
+	],
+
+	"section-23-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person",
+			"TO": "comply with a requirement imposed by directions under subsection (1)",
+			"IF": "it is applicable to him"
+		}
+	],
+
+	"section-24-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions",
+			"TO": "make provision for the purpose of dealing with a situation arising in consequence of— (a) the variation of a licence, or (b) a licence ceasing to have effect"
+		}
+	],
+
+	"section-24-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (1)(a)",
+			"TO": "impose requirements— (a) on the holder of the licence; (b) on a person who is the designated individual immediately before, or immediately after, the variation; (c) on any other person, if he consents"
+		}
+	],
+
+	"section-24-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (1)(b)",
+			"TO": "impose requirements— (a) on the person who is the holder of the licence immediately before the licence ceases to have effect; (b) on the person who is the designated individual at that time; (c) on any other person, if he consents"
+		}
+	],
+
+	"section-24-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under subsection (1)",
+			"TO": "require anything kept, or information held, in pursuance of the licence to be transferred in accordance with the directions"
+		}
+	],
+
+	"section-25-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "contravene section 16(1)",
+			"UNLESS": "he reasonably believes— (a) that what he does is not an activity to which section 16 applies, or (b) that he acts under the authority of a licence"
+		}
+	],
+
+	"section-26-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Authority",
+			"TO": "prepare and issue codes of practice for the purpose of— (a) giving practical guidance to persons carrying on activities within its remit, and (b) laying down the standards expected in relation to the carrying-on of such activities"
+		}
+	],
+
+	"section-26-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "deal under subsection (1) with the following matters— (a) the carrying-out of anatomical examinations; (b) the storage of anatomical specimens; (c) the storage and disposal of former anatomical specimens; (d) the definition of death for the purposes of this Act and the Human Transplantation (Wales) Act 2013; (e) communication with the family of the deceased in relation to the making of a post-mortem examination; (f) the making of post-mortem examinations; (g) communication with the family of the deceased in relation to the removal from the body of the deceased, for use for a scheduled purpose, of any relevant material of which the body consists or which it contains; (h) the removal from a human body, for use for a scheduled purpose, of any relevant material of which the body consists or which it contains; (i) the storage for use for a scheduled purpose, and the use for such a purpose, of— (i) the body of a deceased person, or (ii) relevant material which has come from a human body; (j) the storage for use for a scheduled purpose, and the use for such a purpose, of an existing holding within the meaning of section 9; (k) the import, and the export, of— (i) the body of a deceased person, or (ii) relevant material which has come from a human body, for use for a scheduled purpose; (l) the disposal of relevant material which— (i) has been removed from a human body for use for a scheduled purpose, or (ii) has come from a human body and is an existing holding for the purposes of section 9"
+		}
+	],
+
+	"section-26-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "deal with consent (including consent for the purposes of the Human Transplantation (Wales) Act 2013)",
+			"IN": "dealing under subsection (1) with the matters mentioned in subsection (2)(h) and (i)"
+		}
+	],
+
+	"section-26-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "— (a) keep any code of practice under this section under review, and (b) prepare a revised code of practice when appropriate"
+		}
+	],
+
+	"section-26-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "consult such persons as it considers appropriate",
+			"BEFORE": "preparing a code of practice under this section"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "consult the National Assembly for Wales Welsh Ministers",
+			"BEFORE": "preparing a code of practice under this section",
+			"IF": "the code of practice relates to Wales"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "consult the relevant Northern Ireland department",
+			"BEFORE": "preparing a code of practice under this section",
+			"IF": "the code of practice relates to Northern Ireland"
+		}
+	],
+
+	"section-26-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "publish a code of practice issued under this section in such way as, in its opinion, is likely to bring it to the attention of those interested"
+		}
+	],
+
+	"section-26-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Codes of practice under this section",
+			"TO": "make different provision",
+			"IN RELATION TO": "England, Wales and Northern Ireland respectively"
+		}
+	],
+
+	"section-27-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the standards required to be laid down by subsection (1)",
+			"TO": "include provision to the effect set out in subsections (4) to (8)",
+			"SUBJECT TO": "subsection (3)"
+		}
+	],
+
+	"section-27-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The standards required to be laid down by subsection (1)",
+			"TO": "include provision to different effect",
+			"IN RELATION TO": "cases which appear to the Authority to be exceptional"
+		}
+	],
+
+	"section-27-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person’s relationship",
+			"TO": "be left out of account",
+			"IN": "applying the principles set out above",
+			"IF": "— (a) he does not wish to deal with the issue of consent, (b) he is not able to deal with that issue, or (c) having regard to the activity in relation to which consent is sought, it is not reasonably practicable to communicate with him within the time available if consent in relation to the activity is to be acted on"
+		}
+	],
+
+	"section-27-8B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "give guidance on how a relative or friend of long standing of the deceased can object on the basis of the deceased's wishes",
+			"IN": "giving practical guidance on the circumstances in which consent is deemed"
+		}
+	],
+
+	"section-27-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order amend subsection (4)",
+			"EXCEPT IN SO FAR AS": "it applies to section 4(3), 5(4), 6(3) or 7 of the Human Transplantation (Wales) Act 2013"
+		}
+	],
+
+	"section-27-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Welsh Ministers",
+			"TO": "by order amend subsection (4)",
+			"IN SO FAR AS": "it applies to section 4(3), 5(4), 6(3) or 7 of the Human Transplantation (Wales) Act 2013"
+		}
+	],
+
+	"section-27-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Welsh Ministers",
+			"TO": "carry out such public consultation as they consider appropriate",
+			"BEFORE": "making an order under subsection (10)"
+		}
+	],
+
+	"section-27-8ZB": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "give guidance about the provision of information of the type described in section 3(6B) by a person who stood in a qualifying relationship to the person concerned immediately before death",
+			"IN": "giving practical guidance by virtue of subsection (8ZA)"
+		}
+	],
+
+	"section-28-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Authority",
+			"TO": "take into account any relevant observance of, or failure to observe, a code of practice under section 26",
+			"IN": "carrying out its functions with respect to licences",
+			"SO FAR AS": "dealing with a matter mentioned in any of paragraphs (a) to (c) and (e) to (j) of subsection (2) of that section"
+		}
+	],
+
+	"section-29-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Authority",
+			"TO": "issue a code of practice under section 26 that deals with a matter mentioned in any of paragraphs (a) to (c) and (e) to (j) of subsection (2) of that section",
+			"UNLESS": "— (a) a draft of it has been sent to and approved by the Secretary of State and laid by him before both Houses of Parliament, and (b) the 40-day period has elapsed without either House resolving not to approve the draft"
+		}
+	],
+
+	"section-29-1A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Authority",
+			"TO": "issue a code of practice to which subsection (1) applies",
+			"WHERE": "the code deals with a matter relating to the carrying on in Wales of a transplantation activity (within the meaning of the Human Transplantation (Wales) Act 2013)",
+			"UNLESS": "— (a) a draft of it has been sent to and approved by the Welsh Ministers and laid by them before the National Assembly for Wales, and (b) the National Assembly has approved the draft by resolution"
+		}
+	],
+
+	"section-29-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the National Assembly for Wales",
+			"BEFORE": "approving a draft code of practice sent to him under subsection (1)",
+			"IF": "the code relates to Wales"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the relevant Northern Ireland department",
+			"BEFORE": "approving a draft code of practice sent to him under subsection (1)",
+			"IF": "the code relates to Northern Ireland"
+		}
+	],
+
+	"section-29-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "send a copy of a draft code of practice sent to him under subsection (1) to the National Assembly for Wales Welsh Ministers",
+			"IF": "the Secretary of State approves a draft code of practice sent to him under subsection (1)",
+			"IF_2": "the code relates to Wales"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "send a copy of a draft code of practice sent to him under subsection (1) to the relevant Northern Ireland department",
+			"IF": "the Secretary of State approves a draft code of practice sent to him under subsection (1)",
+			"IF_2": "the code relates to Northern Ireland"
+		}
+	],
+
+	"section-29-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give reasons to the Authority",
+			"IF": "he does not approve a draft sent to him under subsection (1)"
+		}
+	],
+
+	"section-29-4A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Welsh Ministers",
+			"TO": "give reasons to the Authority",
+			"IF": "they do not approve a draft sent to them under subsection (1A)"
+		}
+	],
+
+	"section-29-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant Northern Ireland department",
+			"TO": "lay before the Northern Ireland Assembly any document which it receives under subsection (3)(b)"
+		}
+	],
+
+	"section-30-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "have possession of an anatomical specimen",
+			"IF": "the specimen not be on premises in respect of which an anatomy licence is in force",
+			"SUBJECT TO": "subsections (2) to (6)"
+		}
+	],
+
+	"section-30-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-30-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-30-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-30-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-30-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "have possession of a former anatomical specimen",
+			"IF": "the specimen not be on premises in respect of which a storage licence is in force",
+			"SUBJECT TO": "subsections (2) to (5)"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-31-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-31-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-31-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) give or receive a reward for the supply of, or for an offer to supply, any controlled material; (b) seek to find a person willing to supply any controlled material for reward; (c) offer to supply any controlled material for reward; (d) initiate or negotiate any arrangement involving the giving of a reward for the supply of, or for an offer to supply, any controlled material; (e) take part in the management or control of a body of persons corporate or unincorporate whose activities consist of or include the initiation or negotiation of such arrangements"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "Without prejudice to subsection (1)(b) and (c), cause to be published or distributed, or knowingly publish or distribute, an advertisement— (a) inviting persons to supply, or offering to supply, any controlled material for reward, or (b) indicating that the advertiser is willing to initiate or negotiate any such arrangement as is mentioned in subsection (1)(d)"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "engage in an activity to which subsection (1) or (2) applies",
+			"IF": "he is designated by the Authority as a person who may lawfully engage in the activity"
+		}
+	],
+
+	"section-32-3A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Authority",
+			"TO": "designate a person under subsection (3)",
+			"IF": "doing so would be incompatible with the principles set out in— (a) Article 12 of Directive 2004/23/EC of the European Parliament and of the Council on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, or (b) Article 13 of Directive 2010/53/EU of the European Parliament and of the Council on standards of quality and safety of human organs intended for transplantation"
+		}
+	],
+
+	"section-33-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "remove any transplantable material from the body of a living person intending that the material be used for the purpose of transplantation",
+			"IF": "he knows, or might reasonably be expected to know, that the person from whose body he removes the material is alive",
+			"SUBJECT TO": "subsections (3) and (5)"
+		}
+	],
+
+	"section-33-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "use for the purpose of transplantation any transplantable material which has come from the body of a living person",
+			"IF": "he knows, or might reasonably be expected to know, that the transplantable material has come from the body of a living person",
+			"SUBJECT TO": "subsections (3) and (5)"
+		}
+	],
+
+	"section-33-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations provide that subsection (1) or (2) shall not apply in a case where— (a) the Authority is satisfied— (i) that no reward has been or is to be given in contravention of section 32, and (ii) that such other conditions as are specified in the regulations are satisfied, and (b) such other requirements as are specified in the regulations are complied with"
+		}
+	],
+
+	"section-33-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under subsection (3)",
+			"TO": "include provision for decisions of the Authority in relation to matters which fall to be decided by it under the regulations to be subject, in such circumstances as the regulations may provide, to reconsideration in accordance with such procedure as the regulations may provide"
+		}
+	],
+
+	"section-33-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "reasonably believes that the exception applies",
+			"WHERE": "under subsection (3) an exception from subsection (1) or (2) is in force"
+		}
+	],
+
+	"section-34-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations requiring such persons as may be specified in the regulations to supply to such authority as may be so specified such information as may be so specified with respect to transplants that have been or are proposed to be carried out using transplantable material removed from a human body"
+		}
+	],
+
+	"section-34-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any such authority",
+			"TO": "keep a record of information supplied to it",
+			"IN PURSUANCE OF": "regulations under this section"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "fail without reasonable excuse to comply with regulations under this section"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "knowingly or recklessly supply information which is false or misleading in a material respect",
+			"IN": "purported compliance with such regulations"
+		}
+	],
+
+	"section-35-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Arrangements",
+			"TO": "be made between the Authority and a government department, a public authority or the holder of a public office (“the other authority”) for— (a) any functions of the Authority to be carried out by, or by members of staff of, the other authority, or (b) the provision by the other authority of administrative, professional or technical services to the Authority."
+		}
+	],
+
+	"section-36-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "prepare— (a) a report for the first twelve months of its existence, and (b) a report for each succeeding period of twelve months"
+		}
+	],
+
+	"section-36-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A report under this section",
+			"TO": "deal with the activities of the Authority in the period to which the report relates"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "send each report under this section— (a) to the Secretary of State, (b) to the Welsh Ministers, and (c) to the relevant Northern Ireland department",
+			"AS SOON AS": "practicable",
+			"AFTER": "the end of the period to which the report relates"
+		}
+	],
+
+	"section-36-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "lay a copy of each report received by him under this section before each House of Parliament"
+		}
+	],
+
+	"section-36-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The relevant Northern Ireland department",
+			"TO": "lay a copy of each report received by it under this section before the Northern Ireland Assembly"
+		}
+	],
+
+	"section-36-5A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Welsh Ministers",
+			"TO": "lay a copy of each report received by them under this section before the National Assembly for Wales"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Authority",
+			"TO": "give directions for any purpose for which directions may be given under this Part"
+		}
+	],
+
+	"section-37-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Directions under this Part to a particular person",
+			"TO": "be given by serving notice of the directions on the person"
+		}
+	],
+
+	"section-37-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under this Part in respect of any licence (including one which has ceased to have effect)",
+			"TO": "be given by serving notice of the directions on the person who is (or was immediately before the cessation) the designated individual or holder of the licence"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under this Part in respect of any licence (including one which has ceased to have effect)",
+			"TO": "be given by publishing the directions in such way as, in its opinion, is likely to bring them to the attention of the persons to whom they are applicable",
+			"IF": "it appears to the Authority that it is not practicable to give notice in that way"
+		}
+	],
+
+	"section-37-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Directions under this Part which appear to the Authority to be general directions",
+			"TO": "be given by publishing them as mentioned in subsection (5)(b)"
+		}
+	],
+
+	"section-37-7": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-38-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Authority",
+			"TO": "carry out its functions effectively, efficiently and economically"
+		}
+	],
+
+	"section-38-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Authority",
+			"TO": "have regard to the principles of best regulatory practice (including the principles under which regulatory activities should be transparent, accountable, proportionate, consistent and targeted only at cases in which action is needed)",
+			"IN": "carrying out its functions",
+			"SO FAR AS": "relevant"
+		}
+	]
+}

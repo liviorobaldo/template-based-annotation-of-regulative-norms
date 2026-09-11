@@ -1,0 +1,472 @@
+{
+	"to-exclude": ["section-87-4A", "section-87-5", "section-87-6", "section-87-6A", "section-87-6B", "section-87-7", "section-87-10", "section-87-10A", "section-87-10B", "section-87-11", "section-90-2", "section-90-4", "section-90-4B", "section-90-5A", "section-90-9B", "section-90-11A", "section-90-12", "section-94-3", "section-94-5", "section-94-7", "section-94-8", "section-94-9", "section-94-10", "section-94-11", "section-94-12", "section-94-15", "section-94-16", "section-94A-2", "section-94A-3", "section-94A-5", "section-95-5", "section-96-1", "section-96-2", "section-97-2", "section-98-1", "section-98-2"],
+
+	"section-87-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by notice (a “retention notice”) and subject as follows, require a telecommunications operator to retain relevant communications data",
+			"IF": "— (a) the Secretary of State considers that the requirement is necessary and proportionate for one or more of the following purposes— (i) in the interests of national security, (ii) for the applicable crime purpose (see subsection (10A)), (iii) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security, (iv) in the interests of public safety, (v) for the purpose of preventing death or injury or any damage to a person’s physical or mental health, or of mitigating any injury or damage to a person’s physical or mental health, (vi) to assist investigations into alleged miscarriages of justice, and (b) the decision to give the notice has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-87-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a retention notice",
+			"TO": "— (a) relate to a particular operator or any description of operators, (b) require the retention of all data or any description of data, (c) identify the period or periods for which data is to be retained, (d) contain other requirements, or restrictions, in relation to the retention of data, (e) make different provision for different purposes, (f) relate to data whether or not in existence at the time of the giving, or coming into force, of the notice"
+		}
+	],
+
+	"section-87-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "require any data to be retained for more than 12 months beginning with the day of the communication concerned",
+			"IN THE CASE OF": "communications data relating to a specific communication"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "require any data to be retained for more than 12 months beginning with the day on which the entity concerned ceases to be associated with the telecommunications service concerned",
+			"IN THE CASE OF": "entity data which does not fall within paragraph (a) above but does fall within paragraph (a)(i) of the definition of 'communications data' in section 261(5)"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "require any data to be retained for more than 12 months beginning with the day on which the data is changed",
+			"IN THE CASE OF": "entity data which does not fall within paragraph (a) above but does fall within paragraph (a)(i) of the definition of 'communications data' in section 261(5)",
+			"IF": "earlier"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "require any data to be retained for more than 12 months beginning with the day on which the data is first held by the operator concerned",
+			"IN": "any other case"
+		}
+	],
+
+	"section-87-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "require an operator who controls or provides a telecommunication system (“the system operator”) to retain data, other than data which is, or can only be obtained by processing, an internet connection record, which— (a) relates to the use of a telecommunications service provided (solely or jointly with another person) by another telecommunications operator in relation to that system, (aa) does not relate to a relevant roaming service, (b) is (or is capable of being) processed by the system operator as a result of being comprised in, included as part of, attached to or logically associated with a communication transmitted by means of the system as a result of the use mentioned in paragraph (a), (c) is not needed by the system operator for the functioning of the system in relation to that communication, and (d) is not retained or used by the system operator for any other lawful purpose, and which it is reasonably practicable to separate from other data which is subject to the notice"
+		}
+	],
+
+	"section-87-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a retention notice",
+			"TO": "specify— (a) the operator (or description of operators) to whom it relates, (aa) each telecommunications service (or description of telecommunications service) to which it relates, (b) the data which is to be retained, (c) the period or periods for which the data is to be retained, (d) any other requirements, or any restrictions, in relation to the retention of the data, (e) the information required by section 249(7) (the level or levels of contribution in respect of costs incurred as a result of the notice)"
+		}
+	],
+
+	"section-87-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The requirements or restrictions mentioned in subsection (8)(d)",
+			"TO": "include— (a) a requirement to retain the data in such a way that it can be transmitted efficiently and effectively in response to requests, (b) requirements or restrictions in relation to the obtaining (whether by collection, generation or otherwise), generation or processing of— (i) data for retention, or (ii) retained data"
+		}
+	],
+
+	"section-88-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take into account— (a) the likely benefits of the notice, (aa) the telecommunications services to which the retention notice relates, (ab) the appropriateness of limiting the data to be retained by reference to— (i) location, or (ii) descriptions of persons to whom telecommunications services are provided, (b) the likely number of users (if known) of any telecommunications service to which the notice relates, (c) the technical feasibility of complying with the notice, (d) the likely cost of complying with the notice, and (e) any other effect of the notice on the telecommunications operator (or description of operators) to whom it relates",
+			"BEFORE": "giving a retention notice, including in relation to one or more of the purposes mentioned in sub-paragraphs (i) to (vi) of section 87(1)(a) (purposes for which retention of communications data may be required)"
+		}
+	],
+
+	"section-88-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take reasonable steps to consult any operator to whom it relates",
+			"BEFORE": "giving such a notice"
+		}
+	],
+
+	"section-89-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to whether the requirement to be imposed by a retention notice to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)",
+			"IN": "deciding whether to approve a decision to give the notice"
+		}
+	],
+
+	"section-89-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-89-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to give a retention notice"
+		}
+	],
+
+	"section-89-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to give the notice",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to give a retention notice"
+		}
+	],
+
+	"section-90-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A telecommunications operator to whom a retention notice is given",
+			"TO": "refer the notice back to the Secretary of State",
+			"WITHIN": "such period or circumstances as may be provided for by regulations made by the Secretary of State"
+		}
+	],
+
+	"section-90-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "each operator falling within that description",
+			"TO": "make a reference under subsection (1)",
+			"IN THE CASE OF": "a notice given to a description of operators"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "each such reference",
+			"TO": "only be in relation to the notice, or aspect of the notice",
+			"IN THE CASE OF": "a notice given to a description of operators",
+			"SO FAR AS": "it applies to that operator"
+		}
+	],
+
+	"section-90-4A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a telecommunications operator",
+			"TO": "make any relevant changes to telecommunications services or telecommunication systems to which obligations imposed by the retention notice relate",
+			"WHERE": "this subsection applies to the operator"
+		}
+	],
+
+	"section-90-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "review any notice so far as referred to the Secretary of State under subsection (1) (and accordingly decide what action to take under subsection (10))",
+			"BEFORE": "the end of the review period"
+		}
+	],
+
+	"section-90-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Technical Advisory Board, and (b) a Judicial Commissioner",
+			"BEFORE": "deciding the review"
+		}
+	],
+
+	"section-90-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "consider the technical requirements and the financial consequences, for the operator who has made the reference, of the notice so far as referred"
+		}
+	],
+
+	"section-90-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "consider whether the notice so far as referred is proportionate"
+		}
+	],
+
+	"section-90-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board and the Commissioner",
+			"TO": "— (a) give the operator concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions, and (b) report their conclusions to— (i) the operator, and (ii) the Secretary of State"
+		}
+	],
+
+	"section-90-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "decide whether to — (a) vary or revoke the retention notice under section 94, or (b) give a notice under this section to the operator concerned confirming its effect",
+			"AFTER": "considering the conclusions of the Board and the Commissioner",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-90-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "vary the notice, or give a notice under subsection (10)(b) confirming its effect",
+			"ONLY IF": "the Secretary of State's decision to do so has been approved by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-90-13": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "keep a retention notice under review (whether or not referred under subsection (1))"
+		}
+	],
+
+	"section-90-14": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (5A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State where the extension is agreed by the Secretary of State, the telecommunications operator concerned and a Judicial Commissioner"
+		}
+	],
+
+	"section-90-15": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (11A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State",
+			"WHERE": "the Secretary of State considers that there are exceptional circumstances that justify the extension"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (11A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State",
+			"IN": "any other circumstances specified in the regulations"
+		}
+	],
+
+	"section-90-16": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "regulations under subsection (11A)(a)",
+			"TO": "include provision requiring the Secretary of State to notify a Judicial Commissioner and the telecommunications operator concerned of the duration of any extended period",
+			"WHERE": "the regulations include provision mentioned in subsection (15)"
+		}
+	],
+
+	"section-90-9A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "give a direction to the operator concerned or the Secretary of State specifying the period within which the operator or the Secretary of State (as the case may be) may provide evidence, or make representations, in accordance with subsection (9)(a)"
+		}
+	],
+
+	"section-91-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "review the Secretary of State's conclusions as to whether the requirement to be imposed by the notice as varied or confirmed to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)",
+			"IN": "deciding whether to approve a decision to vary a retention notice as mentioned in section 90(10)(a), or to give a notice under section 90(10)(b) confirming the effect of a retention notice"
+		}
+	],
+
+	"section-91-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Investigatory Powers Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-91-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Investigatory Powers Commissioner refuses to approve a decision to vary a retention notice as mentioned in section 90(10)(a), or to give a notice under section 90(10)(b) confirming the effect of a retention notice"
+		}
+	],
+
+	"section-92-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A telecommunications operator who retains relevant communications data by virtue of this Part",
+			"TO": "— (a) secure that the data is of the same integrity, and subject to at least the same security and protection, as the data on any system from which it is derived, (b) secure, by appropriate technical and organisational measures, that the data can be accessed only by specially authorised personnel, and (c) protect, by appropriate technical and organisational measures, the data against accidental or unlawful destruction, accidental loss or alteration, or unauthorised or unlawful retention, processing, access or disclosure"
+		}
+	],
+
+	"section-92-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A telecommunications operator who retains relevant communications data by virtue of this Part",
+			"TO": "destroy the data",
+			"IF": "the retention of the data ceases to be authorised by virtue of this Part and is not otherwise authorised by law"
+		}
+	],
+
+	"section-92-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The destruction of the data",
+			"TO": "take place",
+			"AT": "such monthly or shorter intervals as appear to the operator to be practicable"
+		}
+	],
+
+	"section-94-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "vary a retention notice"
+		}
+	],
+
+	"section-94-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "give, or publish, notice of the variation in such manner as the Secretary of State considers appropriate for bringing the variation to the attention of the telecommunications operator (or description of operators) to whom it relates"
+		}
+	],
+
+	"section-94-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a retention notice",
+			"TO": "be varied so as to require the retention of additional relevant communications data",
+			"UNLESS": "— (a) the Secretary of State considers that the requirement is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a), and (b) the decision to vary the notice has been approved by a Judicial Commissioner",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-94-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-4-b"]
+		}
+	],
+
+	"section-94-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "revoke (whether wholly or in part) a retention notice"
+		}
+	],
+
+	"section-94-14": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "give or publish notice of the revocation in such manner as the Secretary of State considers appropriate for bringing the revocation to the attention of the operator (or description of operators) to whom it relates"
+		}
+	],
+
+	"section-94A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a retention notice",
+			"TO": "be renewed by a notice given by the Secretary of State",
+			"IF": "the renewal conditions are met",
+			"AT": "any time during the renewal period"
+		}
+	],
+
+	"section-94A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "give, or publish, notice of the renewal in such manner as the Secretary of State considers appropriate for bringing the renewal to the attention of the telecommunications operator (or description of operators) to whom it relates"
+		}
+	],
+
+	"section-95-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a telecommunications operator on whom a requirement or restriction is imposed by— (a) a retention notice, or (b) section 92 or 93",
+			"TO": "comply with the requirement or restriction"
+		}
+	],
+
+	"section-95-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A telecommunications operator, or any person employed or engaged for the purposes of the business of a telecommunications operator",
+			"TO": "disclose the existence or contents of a retention notice to any other person"
+		}
+	],
+
+	"section-95-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Information Commissioner, or any member of staff of the Information Commissioner",
+			"TO": "disclose the existence or contents of a retention notice to any other person"
+		}
+	],
+
+	"section-95-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-97-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a retention notice, and any requirement or restriction imposed by virtue of a retention notice or by section 92, 93 or 95(1) to (3)",
+			"TO": "relate to conduct outside the United Kingdom and persons outside the United Kingdom"
+		}
+	]
+}

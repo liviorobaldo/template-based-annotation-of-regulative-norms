@@ -1,0 +1,1813 @@
+{
+	"to-exclude": ["section-20-1", "section-20-2", "section-20-3", "section-20-4", "section-20-5", "section-21-1", "section-21-2", "section-21-3", "section-21-4", "section-21-5", "section-21-6", "section-23-1", "section-24-1", "section-24-2", "section-25-2", "section-26-2", "section-26-7", "section-26-8", "section-27-4", "section-27-5", "section-28-2", "section-29-1", "section-29-2", "section-29-4", "section-29-5", "section-30-2", "section-30-3", "section-30-4", "section-31-1", "section-33-1", "section-33-7", "section-34-1", "section-34-5", "section-34-6", "section-34-7", "section-34-8", "section-34-9", "section-34-10", "section-35-1", "section-36-2", "section-36-6", "section-37-2", "section-38-3", "section-39-1", "section-39-4", "section-39-5", "section-40-1", "section-41-2", "section-42-1", "section-42-4", "section-42-6", "section-43-1", "section-43-3", "section-43-4", "section-45-2", "section-46-2", "section-48-1", "section-49-2", "section-49-5", "section-49-6", "section-49-7", "section-49-8", "section-51-2", "section-51-7", "section-52-1", "section-53-1", "section-53-5", "section-53-6", "section-54-1", "section-54-3", "section-55-1", "section-56-2", "section-56-3", "section-56-4", "section-57-2", "section-57-3", "section-57-5", "section-57-7", "section-57-10", "section-57-11", "section-58-4", "section-58-5", "section-59-5", "section-62-1", "section-63-1", "section-63-3", "section-64-2", "section-64-5", "section-65-1", "section-65-2", "section-66-1", "section-66-3", "section-67-1", "section-67-4", "section-68-1", "section-68-3", "section-69-1", "section-69-3", "section-69-4", "section-70-1", "section-70-5", "section-70-6", "section-71-1", "section-71-4", "section-71-7", "section-72-2", "section-72-3", "section-73-2", "section-73-6", "section-73-7", "section-74-1", "section-74-6", "section-74-7", "section-74-8", "section-75-2", "section-76-2", "section-76-7", "section-76-8", "section-78-5", "section-78-8", "section-78-9", "section-80-3", "section-80-4", "section-80-5", "section-80-6", "section-83-1", "section-83-2", "section-83-3", "section-83-4", "section-83-5", "section-83-6", "section-83-7"],
+
+	"section-23-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The board or trust",
+			"TO": "— (a) inform the child's parent of their opinion and of their duty under subsection (3), and (b) give the child's parent an opportunity to discuss their opinion with an officer of the board or trust"
+		}
+	],
+
+	"section-23-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The board or trust",
+			"TO": "bring their opinion to the attention of the appropriate local authority in England"
+		}
+	],
+
+	"section-23-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the board or trust",
+			"TO": "inform the parent of that",
+			"IF": "they think a particular voluntary organisation is likely to be able to give the parent advice or assistance in connection with any special educational needs or disability the child may have"
+		}
+	],
+
+	"section-25-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "exercise its functions under this Part with a view to ensuring the integration of educational provision and training provision with health care provision and social care provision, where it thinks that this would— (a) promote the well-being of children or young people in its area who have special educational needs or a disability, or (b) improve the quality of special educational provision— (i) made in its area for children or young people who have special educational needs, or (ii) made outside its area for children or young people for whom it is responsible who have special educational needs"
+		}
+	],
+
+	"section-26-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England and its partner commissioning bodies",
+			"TO": "make arrangements (“joint commissioning arrangements”) about the education, health and care provision to be secured for— (a) children and young people for whom the authority is responsible who have special educational needs, and (b) children and young people in the authority's area who have a disability"
+		}
+	],
+
+	"section-26-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Joint commissioning arrangements",
+			"TO": "include arrangements for considering and agreeing— (a) the education, health and care provision reasonably required by— (i) the learning difficulties and disabilities which result in the children and young people within subsection (1)(a) having special educational needs, and (ii) the disabilities of the children and young people within subsection (1)(b); (b) what education, health and care provision is to be secured; (c) by whom education, health and care provision is to be secured; (d) what advice and information is to be provided about education, health and care provision; (e) by whom, to whom and how such advice and information is to be provided; (f) how complaints about education, health and care provision may be made and are to be dealt with; (g) procedures for ensuring that disputes between the parties to the joint commissioning arrangements are resolved as quickly as possible"
+		}
+	],
+
+	"section-26-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Joint commissioning arrangements about securing education, health and care provision",
+			"TO": "include arrangements for— (a) securing EHC needs assessments; (b) securing the education, health and care provision specified in EHC plans; (c) agreeing personal budgets under section 49"
+		}
+	],
+
+	"section-26-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Joint commissioning arrangements",
+			"TO": "include other provision"
+		}
+	],
+
+	"section-26-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The parties to joint commissioning arrangements",
+			"TO": "— (a) have regard to them in the exercise of their functions, and (b) keep them under review"
+		}
+	],
+
+	"section-26-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "prescribe circumstances in which an integrated care board that would otherwise be a partner commissioning body of a local authority by virtue of subsection (8)(b) is to be treated as not being a partner commissioning body of the authority"
+		}
+	],
+
+	"section-27-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "keep under review— (a) the educational provision, training provision and social care provision made in its area for children and young people who have special educational needs or a disability, and (b) the educational provision, training provision and social care provision made outside its area for— (i) children and young people for whom it is responsible who have special educational needs, and (ii) children and young people in its area who have a disability"
+		}
+	],
+
+	"section-27-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authority",
+			"TO": "consider the extent to which the provision referred to in subsection (1)(a) and (b) is sufficient to meet the educational needs, training needs and social care needs of the children and young people concerned"
+		}
+	],
+
+	"section-27-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "consult— (a) children and young people in its area with special educational needs, and the parents of children in its area with special educational needs; (b) children and young people in its area who have a disability, and the parents of children in its area who have a disability; (c) the governing bodies of maintained schools and maintained nursery schools in its area; (d) the proprietors of Academies in its area; (e) the governing bodies, proprietors or principals of post-16 institutions in its area; (f) the governing bodies of non-maintained special schools in its area; (g) the advisory boards of children's centres in its area; (h) the providers of relevant early years education in its area; (i) the governing bodies, proprietors or principals of other schools and post-16 institutions in England and Wales that the authority thinks are or are likely to be attended by— (i) children or young people for whom it is responsible, or (ii) children or young people in its area who have a disability; (j) a youth offending team that the authority thinks has functions in relation to— (i) children or young people for whom it is responsible, or (ii) children or young people in its area who have a disability; (k) such other persons as the authority thinks appropriate",
+			"IN": "exercising its functions under this section"
+		}
+	],
+
+	"section-28-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "co-operate with each of its local partners",
+			"IN": "the exercise of the authority's functions under this Part"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "each local partner",
+			"TO": "co-operate with the authority",
+			"IN": "the exercise of the authority's functions under this Part"
+		}
+	],
+
+	"section-28-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "make arrangements for ensuring co-operation between— (a) the officers of the authority who exercise the authority's functions relating to education or training, (b) the officers of the authority who exercise the authority's social services functions for children or young people with special educational needs, and (c) the officers of the authority, so far as they are not officers within paragraph (a) or (b), who exercise the authority's functions relating to provision which is within section 30(2)(e) (provision to assist in preparing children and young people for adulthood and independent living)"
+		}
+	],
+
+	"section-28-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "prescribe circumstances in which an integrated care board that would otherwise be a local partner of a local authority by virtue of subsection (2)(l)(ii) is to be treated as not being a local partner of the authority"
+		}
+	],
+
+	"section-29-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority",
+			"TO": "co-operate with each responsible local authority",
+			"IN": "the exercise of those functions"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "each responsible local authority",
+			"TO": "co-operate with the appropriate authority",
+			"IN": "the exercise of those functions"
+		}
+	],
+
+	"section-30-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "publish information about— (a) the provision within subsection (2) it expects to be available in its area at the time of publication for children and young people who have special educational needs or a disability, and (b) the provision within subsection (2) it expects to be available outside its area at that time for— (i) children and young people for whom it is responsible, and (ii) children and young people in its area who have a disability"
+		}
+	],
+
+	"section-30-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority",
+			"TO": "keep its SEN and disability local offer under review"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "from time to time revise it"
+		}
+	],
+
+	"section-30-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority",
+			"TO": "from time to time publish— (a) comments about its SEN and disability local offer it has received from or on behalf of— (i) children and young people with special educational needs, and the parents of children with special educational needs, and (ii) children and young people who have a disability, and the parents of children who have a disability, and (b) the authority's response to those comments (including details of any action the authority intends to take)"
+		}
+	],
+
+	"section-30-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Comments published under subsection (6)(a)",
+			"TO": "be published in a form that does not enable the person making them to be identified"
+		}
+	],
+
+	"section-30-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about— (a) the information to be included in an authority's SEN and disability local offer; (b) how an authority's SEN and disability local offer is to be published; (c) who is to be consulted by an authority in preparing and reviewing its SEN and disability local offer; (d) how an authority is to involve— (i) children and young people with special educational needs, and the parents of children with special educational needs, and (ii) children and young people who have a disability, and the parents of children who have a disability, in the preparation and review of its SEN and disability local offer; (e) the publication of comments on the SEN and disability local offer, and the local authority's response, under subsection (6) (including circumstances in which comments are not required to be published)"
+		}
+	],
+
+	"section-30-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "require an authority's SEN and disability local offer to include— (a) information about how to obtain an EHC needs assessment; (b) information about other sources of information, advice and support for— (i) children and young people with special educational needs and those who care for them, and (ii) children and young people who have a disability and those who care for them; (c) information about gaining access to provision additional to, or different from, the provision mentioned in subsection (2); (d) information about how to make a complaint about provision mentioned in subsection (2)"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person or body",
+			"TO": "comply with the request",
+			"UNLESS": "the person or body considers that doing so would— (a) be incompatible with the duties of the person or body, or (b) otherwise have an adverse effect on the exercise of the functions of the person or body"
+		}
+	],
+
+	"section-31-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person or body that decides not to comply with a request under subsection (1)",
+			"TO": "give the authority that made the request written reasons for the decision"
+		}
+	],
+
+	"section-31-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "provide that a person or body must comply with a request to co-operate with a local authority in securing an EHC needs assessment, a detained person's EHC needs assessment or the preparation of an EHC plan within a prescribed period",
+			"WHERE": "the person or body is under a duty to comply with the request",
+			"UNLESS": "a prescribed exception applies"
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "arrange for children and young people for whom it is responsible, and the parents of children for whom it is responsible, to be provided with advice and information about matters relating to the special educational needs of the children or young people concerned"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "arrange for children and young people in its area with a disability, and the parents of children in its area with a disability, to be provided with advice and information about matters relating to the disabilities of the children or young people concerned"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authority",
+			"TO": "take such steps as it thinks appropriate for making the services provided under subsections (1) and (2) known to— (a) the parents of children in its area; (b) children in its area; (c) young people in its area; (d) the head teachers, proprietors and principals of schools and post-16 institutions in its area"
+		}
+	],
+
+	"section-32-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The authority",
+			"TO": "take such steps as it thinks appropriate for making the services provided under subsections (1) and (2) known to such other persons as it thinks appropriate"
+		}
+	],
+
+	"section-33-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "secure that the plan provides for the child or young person to be educated in a maintained nursery school, mainstream school or mainstream post-16 institution",
+			"IN": "a case within section 39(5) or 40(2)",
+			"UNLESS": "that is incompatible with— (a) the wishes of the child's parent or the young person, or (b) the provision of efficient education for others"
+		}
+	],
+
+	"section-33-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "rely on the exception in subsection (2)(b)",
+			"IN RELATION TO": "maintained nursery schools, mainstream schools or mainstream post-16 institutions in its area taken as a whole",
+			"ONLY IF": "it shows that there are no reasonable steps that it could take to prevent the incompatibility"
+		}
+	],
+
+	"section-33-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "rely on the exception in subsection (2)(b)",
+			"IN RELATION TO": "a particular maintained nursery school, mainstream school or mainstream post-16 institution",
+			"ONLY IF": "it shows that there are no reasonable steps that it or the governing body, proprietor or principal could take to prevent the incompatibility"
+		}
+	],
+
+	"section-33-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The governing body, proprietor or principal of a maintained nursery school, mainstream school or mainstream post-16 institution",
+			"TO": "rely on the exception in subsection (2)(b)",
+			"ONLY IF": "they show that there are no reasonable steps that they or the local authority could take to prevent the incompatibility"
+		}
+	],
+
+	"section-33-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the child or young person",
+			"TO": "be educated in an independent school, a non-maintained special school or a special post-16 institution",
+			"IF": "the cost is not to be met by a local authority or the Secretary of State"
+		}
+	],
+
+	"section-34-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The child or young person",
+			"TO": "be educated in a maintained nursery school, mainstream school or mainstream post-16 institution",
+			"SUBJECT TO": "subsections (3) and (4)"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The child or young person",
+			"TO": "be educated in an independent school, a non-maintained special school or a special post-16 institution",
+			"IF": "the cost is not to be met by a local authority or the Secretary of State"
+		}
+	],
+
+	"section-34-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The child or young person",
+			"TO": "be educated in a special school or special post-16 institution",
+			"DURING": "any period in which any of subsections (5) to (9) applies"
+		}
+	],
+
+	"section-35-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Those concerned with making special educational provision for the child",
+			"TO": "secure that the child engages in the activities of the school together with children who do not have special educational needs",
+			"SUBJECT TO": "subsection (3)"
+		}
+	],
+
+	"section-35-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-36-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a request for a local authority in England to secure an EHC needs assessment for a child or young person",
+			"TO": "be made to the authority by the child's parent, the young person or a person acting on behalf of a school or post-16 institution"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "determine whether it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan",
+			"WHEN": "a request is made to the authority under subsection (1), or the authority otherwise becomes responsible for a child or young person"
+		}
+	],
+
+	"section-36-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "consult the child's parent or the young person",
+			"IN": "making a determination under subsection (3)"
+		}
+	],
+
+	"section-36-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "notify the child's parent or the young person— (a) of the reasons for that determination, and (b) that accordingly it has decided not to secure an EHC needs assessment for the child or young person",
+			"WHERE": "it determines that it is not necessary for special educational provision to be made for the child or young person in accordance with an EHC plan"
+		}
+	],
+
+	"section-36-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The authority",
+			"TO": "notify the child's parent or the young person— (a) that it is considering securing an EHC needs assessment for the child or young person, and (b) that the parent or young person has the right to— (i) express views to the authority (orally or in writing), and (ii) submit evidence to the authority"
+		}
+	],
+
+	"section-36-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure an EHC needs assessment for the child or young person",
+			"IF": "the authority is of the opinion that— (a) the child or young person has or may have special educational needs, and (b) it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan",
+			"AFTER": "having regard to any views expressed and evidence submitted under subsection (7)"
+		}
+	],
+
+	"section-36-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "notify the child's parent or the young person of— (a) the outcome of the assessment, (b) whether it proposes to secure that an EHC plan is prepared for the child or young person, and (c) the reasons for that decision",
+			"AFTER": "an EHC needs assessment has been carried out"
+		}
+	],
+
+	"section-36-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "consider whether a young person aged over 18 requires additional time, in comparison to the majority of others of the same age who do not have special educational needs, to complete his or her education or training",
+			"IN": "making a determination or forming an opinion for the purposes of this section in relation to him or her"
+		}
+	],
+
+	"section-36-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about EHC needs assessments, in particular— (a) about requests under subsection (1); (b) imposing time limits in relation to consultation under subsection (4); (c) about giving notice; (d) about expressing views and submitting evidence under subsection (7); (e) about how assessments are to be conducted; (f) about advice to be obtained in connection with an assessment; (g) about combining an EHC needs assessment with other assessments; (h) about the use for the purposes of an EHC needs assessment of information obtained as a result of other assessments; (i) about the use of information obtained as a result of an EHC needs assessment, including the use of that information for the purposes of other assessments; (j) about the provision of information, advice and support in connection with an EHC needs assessment"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "secure that an EHC plan is prepared for the child or young person",
+			"WHERE": "it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan",
+			"IN THE LIGHT OF": "an EHC needs assessment"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "it",
+			"TO": "maintain the plan",
+			"WHERE": "it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan",
+			"IN THE LIGHT OF": "an EHC needs assessment",
+			"ONCE": "an EHC plan has been prepared"
+		}
+	],
+
+	"section-37-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An EHC plan",
+			"TO": "specify other health care and social care provision reasonably required by the child or young person"
+		}
+	],
+
+	"section-37-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans"
+		}
+	],
+
+	"section-37-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under subsection (4) about amendments of EHC plans",
+			"TO": "include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations"
+		}
+	],
+
+	"section-38-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "consult the child's parent or the young person about the content of the plan",
+			"WHERE": "the authority is required to secure that an EHC plan is prepared for a child or young person",
+			"DURING": "the preparation of a draft of the plan"
+		}
+	],
+
+	"section-38-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "— (a) send the draft plan to the child's parent or the young person, and (b) give the parent or young person notice of his or her right to— (i) make representations about the content of the draft plan, and (ii) request the authority to secure that a particular school or other institution within subsection (3) is named in the plan"
+		}
+	],
+
+	"section-38-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A notice under subsection (2)(b)",
+			"TO": "specify a period before the end of which any representations or requests must be made"
+		}
+	],
+
+	"section-38-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The draft EHC plan sent to the child's parent or the young person",
+			"TO": "— (a) name a school or other institution, or (b) specify a type of school or other institution"
+		}
+	],
+
+	"section-39-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "consult— (a) the governing body, proprietor or principal of the school or other institution, (b) the governing body, proprietor or principal of any other school or other institution the authority is considering having named in the plan, and (c) if a school or other institution is within paragraph (a) or (b) and is maintained by another local authority, that authority"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure that the EHC plan names the school or other institution specified in the request",
+			"UNLESS": "subsection (4) applies"
+		}
+	],
+
+	"section-39-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "consult— (a) the governing body, proprietor or principal of any school or other institution the authority is considering having named in the plan, and (b) if that school or other institution is maintained by another local authority, that authority",
+			"BEFORE": "securing that the plan names a school or other institution under subsection (5)(a)",
+			"IF": "it has not already done so"
+		}
+	],
+
+	"section-39-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure that any changes it thinks necessary are made to the draft EHC plan",
+			"AT": "the end of the period specified in the notice under section 38(2)(b)"
+		}
+	],
+
+	"section-39-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "send a copy of the finalised EHC plan to— (a) the child's parent or the young person, and (b) the governing body, proprietor or principal of any school or other institution named in the plan"
+		}
+	],
+
+	"section-40-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure that the plan— (a) names a school or other institution which the local authority thinks would be appropriate for the child or young person concerned, or (b) specifies the type of school or other institution which the local authority thinks would be appropriate for the child or young person"
+		}
+	],
+
+	"section-40-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "consult— (a) the governing body, proprietor or principal of any school or other institution the authority is considering having named in the plan, and (b) if that school or other institution is maintained by another local authority, that authority",
+			"BEFORE": "securing that the plan names a school or other institution under subsection (2)(a)"
+		}
+	],
+
+	"section-40-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure that any changes it thinks necessary are made to the draft EHC plan"
+		}
+	],
+
+	"section-40-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "send a copy of the finalised EHC plan to— (a) the child's parent or the young person, and (b) the governing body, proprietor or principal of any school or other institution named in the plan"
+		}
+	],
+
+	"section-41-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "approve an institution within subsection (2) for the purpose of enabling the institution to be the subject of a request for it to be named in an EHC plan"
+		}
+	],
+
+	"section-41-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "approve an institution under subsection (1)",
+			"ONLY IF": "its proprietor consents"
+		}
+	],
+
+	"section-41-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "withdraw approval given under subsection (1)"
+		}
+	],
+
+	"section-41-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about giving and withdrawing approval under this section, in particular— (a) about the types of special post-16 institutions which may be approved under subsection (1); (b) specifying criteria which an institution must meet before it can be approved under subsection (1); (c) about the matters which may or must be taken into account in deciding to give or withdraw approval; (d) about the publication of a list of all institutions who are approved under this section"
+		}
+	],
+
+	"section-42-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "secure the specified special educational provision for the child or young person"
+		}
+	],
+
+	"section-42-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the responsible commissioning body",
+			"TO": "arrange the specified health care provision for the child or young person",
+			"IF": "the plan specifies health care provision"
+		}
+	],
+
+	"section-42-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2", "subsection-3"]
+		}
+	],
+
+	"section-43-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The governing body, proprietor or principal of the school or other institution",
+			"TO": "admit the child or young person for whom the plan is maintained"
+		}
+	],
+
+	"section-44-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority",
+			"TO": "review an EHC plan that it maintains— (a) in the period of 12 months starting with the date on which the plan was first made, and (b) in each subsequent period of 12 months starting with the date on which the plan was last reviewed under this section"
+		}
+	],
+
+	"section-44-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority",
+			"TO": "secure a re-assessment of the educational, health care and social care needs of a child or young person for whom it maintains an EHC plan",
+			"IF": "a request is made to it by— (a) the child's parent or the young person, or (b) the governing body, proprietor or principal of the school, post-16 institution or other institution which the child or young person attends"
+		}
+	],
+
+	"section-44-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "secure a re-assessment of those needs",
+			"AT": "any other time",
+			"IF": "it thinks it necessary"
+		}
+	],
+
+	"section-44-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1", "subsection-2"]
+		}
+	],
+
+	"section-44-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "have regard to whether the educational or training outcomes specified in the plan have been achieved",
+			"IN": "reviewing an EHC plan maintained for a young person aged over 18, or deciding whether to secure a re-assessment of the needs of such a young person"
+		}
+	],
+
+	"section-44-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "consult the parent of the child, or the young person, for whom it maintains the EHC plan",
+			"DURING": "a review or re-assessment"
+		}
+	],
+
+	"section-44-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about reviews and re-assessments, in particular— (a) about other circumstances in which a local authority must or may review an EHC plan or secure a re-assessment (including before the end of a specified phase of a child's or young person's education); (b) about circumstances in which it is not necessary for a local authority to review an EHC plan or secure a re-assessment; (c) about amending or replacing an EHC plan following a review or re-assessment"
+		}
+	],
+
+	"section-44-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (7) about re-assessments",
+			"TO": "apply provisions of or made under this Part that are applicable to EHC needs assessments, with or without modifications"
+		}
+	],
+
+	"section-44-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under subsection (7)(c)",
+			"TO": "include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended following a review"
+		}
+	],
+
+	"section-45-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "cease to maintain an EHC plan for a child or young person",
+			"ONLY IF": "— (a) the authority is no longer responsible for the child or young person, or (b) the authority determines that it is no longer necessary for the plan to be maintained"
+		}
+	],
+
+	"section-45-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "have regard to whether the educational or training outcomes specified in an EHC plan have been achieved",
+			"WHEN": "determining whether a young person aged over 18 no longer requires the special educational provision specified in his or her EHC plan"
+		}
+	],
+
+	"section-45-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A local authority",
+			"TO": "cease to maintain an EHC plan for a child or young person",
+			"UNTIL": "— (a) after the end of the period allowed for bringing an appeal under section 51 against its decision to cease to maintain the plan, where no such appeal is brought before the end of that period; (b) after the appeal has been finally determined, where such an appeal is brought before the end of that period"
+		}
+	],
+
+	"section-45-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about ceasing to maintain an EHC plan, in particular about— (a) other circumstances in which it is no longer necessary for an EHC plan to be maintained; (b) circumstances in which a local authority may not determine that it is no longer necessary for an EHC plan to be maintained; (c) the procedure to be followed by a local authority when determining whether to cease to maintain an EHC plan"
+		}
+	],
+
+	"section-46-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "continue to maintain an EHC plan for a young person",
+			"UNTIL": "the end of the academic year during which the young person attains the age of 25"
+		}
+	],
+
+	"section-47-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision for an EHC plan maintained for a child or young person by one local authority to be transferred to another local authority in England, where the other authority becomes responsible for the child or young person"
+		}
+	],
+
+	"section-47-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "— (a) impose a duty on the other authority to maintain the plan; (b) treat the plan as if originally prepared by the other authority; (c) treat things done by the transferring authority in relation to the plan as done by the other authority"
+		}
+	],
+
+	"section-48-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "— (a) maintain the plan, and (b) review the plan as soon as reasonably practicable after the release date"
+		}
+	],
+
+	"section-48-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2-b"]
+		}
+	],
+
+	"section-49-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority that maintains an EHC plan, or is securing the preparation of an EHC plan, for a child or young person",
+			"TO": "prepare a personal budget for him or her",
+			"IF": "asked to do so by the child's parent or the young person"
+		}
+	],
+
+	"section-49-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about personal budgets, in particular— (a) about requests for personal budgets; (b) about the amount of a personal budget; (c) about the sources of the funds making up a personal budget; (d) for payments (“direct payments”) representing all or part of a personal budget to be made to a child's parent or a young person, or a person of a prescribed description in prescribed circumstances, in order to secure provision to which the budget relates; (e) about the description of provision to which personal budgets and direct payments may (and may not) relate; (f) for a personal budget or direct payment to cover the agreed cost of the provision to which the budget or payment relates; (g) about when, how, to whom and on what conditions direct payments may (and may not) be made; (h) about when direct payments may be required to be repaid and the recovery of unpaid sums; (i) about conditions with which a person or body making direct payments must comply before, after or at the time of making a direct payment; (j) about arrangements for providing information, advice or support in connection with personal budgets and direct payments"
+		}
+	],
+
+	"section-49-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the regulations",
+			"TO": "— (a) require the consent of a child's parent or a young person, or a person of a prescribed description in prescribed circumstances, to be obtained before direct payments are made; (b) require the authority to stop making direct payments where the required consent is withdrawn",
+			"IF": "they include provision authorising direct payments"
+		}
+	],
+
+	"section-51-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A child's parent or a young person",
+			"TO": "appeal to the First-tier Tribunal against the matters set out in subsection (2)",
+			"SUBJECT TO": "section 55 (mediation)"
+		}
+	],
+
+	"section-51-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A child's parent or a young person",
+			"TO": "appeal to the First-tier Tribunal under subsection (2)(c)",
+			"WHEN": "an EHC plan is first finalised for the child or young person",
+			"FOLLOWING": "an amendment or replacement of the plan"
+		}
+	],
+
+	"section-51-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about appeals to the First-tier Tribunal in respect of EHC needs assessments and EHC plans, in particular about— (a) other matters relating to EHC plans against which appeals may be brought; (b) making and determining appeals; (c) the powers of the First-tier Tribunal on determining an appeal; (d) unopposed appeals"
+		}
+	],
+
+	"section-51-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (4)(c)",
+			"TO": "include provision conferring power on the First-tier Tribunal, on determining an appeal against a matter, to make recommendations in respect of other matters (including matters against which no appeal may be brought)"
+		}
+	],
+
+	"section-51-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "without reasonable excuse fail to comply with any requirement— (a) in respect of the discovery or inspection of documents, or (b) to attend to give evidence and produce documents",
+			"WHERE": "that requirement is imposed by Tribunal Procedure Rules in relation to an appeal under this section or regulations under subsection (4)(a)"
+		}
+	],
+
+	"section-52-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "notify the child's parent or the young person of— (a) the right to mediation under section 53 or 54, and (b) the requirement to obtain a certificate under section 55 before making certain appeals",
+			"BEFORE": "the end of the prescribed period after the decision is made, or the plan is made, amended or replaced"
+		}
+	],
+
+	"section-52-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the parent or young person",
+			"TO": "inform the local authority of— (a) that fact, and (b) the issues in respect of which he or she wishes to pursue mediation (“the mediation issues”)",
+			"IF": "he or she wishes to pursue mediation under section 53 or 54"
+		}
+	],
+
+	"section-52-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the parent or young person",
+			"TO": "inform the local authority of the health care provision which he or she wishes to be specified in the plan",
+			"IF": "the mediation issues are, or include, the fact that no health care provision, or no health care provision of a particular kind, is specified in the plan"
+		}
+	],
+
+	"section-53-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "notify each relevant commissioning body of— (a) the mediation issues, and (b) anything of which it has been informed by the parent or young person under section 52(4)"
+		}
+	],
+
+	"section-53-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the responsible commissioning body (or, where there is more than one, the responsible commissioning bodies acting jointly)",
+			"TO": "— (a) arrange for mediation between it (or them) and the parent or young person, (b) ensure that the mediation is conducted by an independent person, and (c) participate in the mediation",
+			"IF": "the mediation issues are limited to the health care provision specified in the plan or the fact that no health care provision, or no health care provision of a particular kind, is specified in the plan"
+		}
+	],
+
+	"section-53-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "— (i) arrange for mediation between it, each responsible commissioning body and the parent or young person, (ii) ensure that the mediation is conducted by an independent person, and (iii) participate in the mediation",
+			"IF": "the mediation issues include anything else"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "each responsible commissioning body",
+			"TO": "participate in the mediation",
+			"IF": "the mediation issues include anything else"
+		}
+	],
+
+	"section-54-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "— (a) arrange for mediation between it and the parent or young person, (b) ensure that the mediation is conducted by an independent person, and (c) participate in the mediation"
+		}
+	],
+
+	"section-55-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-55-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The parent or young person",
+			"TO": "make the appeal",
+			"ONLY IF": "a mediation adviser has issued a certificate to him or her under subsection (4) or (5)"
+		}
+	],
+
+	"section-55-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A mediation adviser",
+			"TO": "issue a certificate under this subsection to the parent or young person",
+			"IF": "— (a) the adviser has provided him or her with information and advice about pursuing mediation under section 53 or 54, and (b) the parent or young person has informed the adviser that he or she does not wish to pursue mediation"
+		}
+	],
+
+	"section-55-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A mediation adviser",
+			"TO": "issue a certificate under this subsection to the parent or young person",
+			"IF": "the adviser has provided him or her with information and advice about pursuing mediation under section 53 or 54, and the parent or young person has— (a) informed the adviser that he or she wishes to pursue mediation under the appropriate section, and (b) participated in such mediation"
+		}
+	],
+
+	"section-56-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision for the purposes of sections 52 to 55, in particular— (a) about giving notice; (b) imposing time limits; (c) enabling a local authority or commissioning body to take prescribed steps following the conclusion of mediation; (d) about who may attend mediation; (e) where a child's parent is a party to mediation, requiring the mediator to take reasonable steps to ascertain the views of the child; (f) about the provision of advocacy and other support services for the parent or young person; (g) requiring a local authority or commissioning body to pay reasonable travel expenses and other expenses of a prescribed description, up to any prescribed limit; (h) about exceptions to the requirement in section 55(3); (i) about the training, qualifications and experience of mediators and mediation advisers; (j) conferring powers or imposing requirements on local authorities, commissioning bodies, mediators and mediation advisers"
+		}
+	],
+
+	"section-57-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "make arrangements with a view to avoiding or resolving disagreements within subsection (2) or (3)"
+		}
+	],
+
+	"section-57-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "make arrangements with a view to avoiding or resolving, in each relevant school or post-16 institution, disagreements within subsection (5)"
+		}
+	],
+
+	"section-57-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Arrangements within this section",
+			"TO": "provide for the appointment of independent persons with the function of facilitating the avoidance or resolution of the disagreements to which the arrangements apply"
+		}
+	],
+
+	"section-57-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local authority in England",
+			"TO": "take such steps as it thinks appropriate for making the arrangements under this section known to— (a) the parents of children in its area with special educational needs, (b) young people in its area with special educational needs, and (c) the head teachers, governing bodies, proprietors and principals of schools and post-16 institutions in its area"
+		}
+	],
+
+	"section-57-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority in England",
+			"TO": "take such steps as it thinks appropriate for making the arrangements under this section known to such other persons as it thinks appropriate"
+		}
+	],
+
+	"section-58-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order make pilot schemes enabling children in England to— (a) appeal to the First-tier Tribunal under section 51; (b) make a claim to the First-tier Tribunal under Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement) that a responsible body in England has contravened Chapter 1 of Part 6 of that Act because of the child's disability"
+		}
+	],
+
+	"section-58-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "make provision— (a) about the age from which children may appeal or make a claim; (b) in respect of appeals under section 51, about mediation and the application of section 55; (c) about the bringing of appeals or making of claims by a child and by his or her parent concurrently; (d) about determining whether a child is capable of bringing an appeal or making a claim, and the assistance and support a child may require to be able to do so; (e) enabling a person to exercise a child's rights under an order under subsection (1) on behalf of the child; (f) enabling children to have access to advice and information which is available to a parent or young person in respect of an appeal or claim of a kind mentioned in subsection (1); (g) about the provision of advocacy and other support services to children; (h) requiring notices to be given to a child (as well as to his or her parent); (i) requiring documents to be served on a child (as well as on his or her parent)"
+		}
+	],
+
+	"section-58-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "apply a statutory provision, with or without modifications"
+		}
+	],
+
+	"section-59-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order provide that children in England may— (a) appeal to the First-tier Tribunal under section 51; (b) make a claim to the First-tier Tribunal under Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement) that a responsible body in England has contravened Chapter 1 of Part 6 of that Act because of the child's disability"
+		}
+	],
+
+	"section-59-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Secretary of State",
+			"TO": "make an order under subsection (1)",
+			"UNTIL": "the end of two years beginning with the day on which the first order is made under section 58(1)"
+		}
+	],
+
+	"section-59-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "make provision— (a) about the age from which children may appeal or make a claim; (b) in respect of appeals under section 51, about mediation and the application of section 55; (c) about the bringing of appeals or making of claims by a child and by his or her parent concurrently; (d) about determining whether a child is capable of bringing an appeal or making a claim, and the assistance and support a child may require to be able to do so; (e) enabling a person to exercise a child's rights under an order under subsection (1) on behalf of the child; (f) enabling children to have access to advice and information which is available to a parent or young person in respect of an appeal or claim of a kind mentioned in subsection (1); (g) about the provision of advocacy and other support services to children; (h) requiring notices to be given to a child (as well as to his or her parent); (i) requiring documents to be served on a child (as well as on his or her parent)"
+		}
+	],
+
+	"section-59-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (1)",
+			"TO": "— (a) amend, repeal or revoke a statutory provision, or (b) apply a statutory provision, with or without modifications"
+		}
+	],
+
+	"section-61-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority in England",
+			"TO": "arrange for any special educational provision that it has decided is necessary for a child or young person for whom it is responsible to be made otherwise than in a school or post-16 institution or a place at which relevant early years education is provided"
+		}
+	],
+
+	"section-61-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authority",
+			"TO": "do so",
+			"ONLY IF": "satisfied that it would be inappropriate for the provision to be made in a school or post-16 institution or at such a place"
+		}
+	],
+
+	"section-61-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "consult the child's parent or the young person",
+			"BEFORE": "doing so"
+		}
+	],
+
+	"section-62-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The arrangements",
+			"TO": "include contributing to or paying— (a) fees charged by the institution; (b) the child's or young person's travelling expenses; (c) expenses reasonably incurred in maintaining the child or young person while at the institution or travelling to or from it; (d) expenses reasonably incurred by someone accompanying the child or young person while travelling to or from the institution or staying there"
+		}
+	],
+
+	"section-63-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "pay any fees payable in respect of education or training provided for the child or young person at that school, institution or place in accordance with the EHC plan"
+		}
+	],
+
+	"section-63-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "pay any fees payable in respect of the special educational provision made at the school, institution or place in question which is required to meet the special educational needs of the child or young person"
+		}
+	],
+
+	"section-63-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "pay any fees in respect of the board and lodging",
+			"WHERE": "board and lodging are provided for the child or young person at the school, post-16 institution or place mentioned in subsection (2) or (4)",
+			"IF": "satisfied that special educational provision cannot be provided at the school, post-16 institution or place unless the board and lodging are also provided"
+		}
+	],
+
+	"section-64-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority in England",
+			"TO": "supply goods and services to— (a) the governing body of a maintained school or maintained nursery school in England; (b) the proprietor of an Academy; (c) the governing body of an institution within the further education sector that the authority thinks is or is to be attended by a young person for whom the authority maintains an EHC plan",
+			"ONLY FOR": "the purpose set out in subsection (2)"
+		}
+	],
+
+	"section-64-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The goods and services",
+			"TO": "be supplied on the terms and conditions that the authority thinks fit, including terms as to payment"
+		}
+	],
+
+	"section-64-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority in England",
+			"TO": "supply goods and services to any authority or other person (other than a governing body or proprietor within subsection (1))",
+			"ONLY FOR": "the purpose set out in subsection (5)"
+		}
+	],
+
+	"section-65-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-66-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate authority",
+			"TO": "use its best endeavours to secure that the special educational provision called for by the special educational needs of a registered pupil or a student at a school or other institution is made",
+			"IF": "the pupil or the student has special educational needs",
+			"IN": "exercising its functions in relation to the school or other institution"
+		}
+	],
+
+	"section-67-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority",
+			"TO": "designate a member of staff at the school (to be known as the “SEN co-ordinator”) as having responsibility for co-ordinating the provision for pupils with special educational needs"
+		}
+	],
+
+	"section-67-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "— (a) require appropriate authorities which are subject to the duty imposed by subsection (2) to ensure that SEN co-ordinators have prescribed qualifications or prescribed experience (or both); (b) confer other functions relating to SEN co-ordinators on appropriate authorities which are subject to the duty imposed by subsection (2)"
+		}
+	],
+
+	"section-68-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority for the school",
+			"TO": "inform the child's parent or the young person that special educational provision is being made for the child or young person"
+		}
+	],
+
+	"section-69-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A governing body or proprietor",
+			"TO": "prepare a report containing SEN information"
+		}
+	],
+
+	"section-70-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-70-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "apply any provision of this Part, with or without modifications",
+			"TO OR IN RELATION TO": "a child or young person detained in pursuance of— (a) an order made by a court, or (b) an order of recall made by the Secretary of State"
+		}
+	],
+
+	"section-70-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "making regulations under subsection (3) which will apply any provision of this Part to, or in relation to, a child or young person who is detained in Wales"
+		}
+	],
+
+	"section-70-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "regulations",
+			"TO": "provide for paragraph (a) of the definition of “the home authority” in section 562J(1) of EA 1996 (the home authority of a looked after child) to apply with modifications in relation to such provisions of this Part as may be specified in the regulations"
+		}
+	],
+
+	"section-71-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the appropriate person, or (b) the person in charge of the relevant youth accommodation where the detained person is detained",
+			"TO": "make a request to the home authority to secure a detained person's EHC needs assessment for the detained person"
+		}
+	],
+
+	"section-71-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the home authority",
+			"TO": "determine whether it may be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention",
+			"WHERE": "this subsection applies"
+		}
+	],
+
+	"section-71-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the home authority",
+			"TO": "consult— (a) the appropriate person, and (b) the person in charge of the relevant youth accommodation where the detained person is detained",
+			"IN": "making a determination under subsection (3)"
+		}
+	],
+
+	"section-71-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the home authority",
+			"TO": "notify the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained— (a) of the reasons for that determination, and (b) that accordingly it has decided not to secure a detained person's EHC needs assessment for the detained person",
+			"WHERE": "it determines that it will not be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention"
+		}
+	],
+
+	"section-71-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The home authority",
+			"TO": "notify the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained— (a) that it is considering securing a detained person's EHC needs assessment for the detained person, and (b) that the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained each have the right to— (i) express views to the authority (orally or in writing), and (ii) submit evidence to the authority"
+		}
+	],
+
+	"section-71-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The home authority",
+			"TO": "secure a detained person's EHC needs assessment",
+			"IF": "the authority is of the opinion that— (a) the detained person has or may have special educational needs, and (b) it may be necessary for special educational provision to be made for the detained person in accordance with an EHC plan on release from detention",
+			"AFTER": "having regard to any views expressed and evidence submitted under subsection (8)"
+		}
+	],
+
+	"section-71-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "notify the appropriate person and the person in charge of the relevant youth accommodation where the detained person is detained of— (a) the outcome of the assessment, (b) whether it proposes to secure that an EHC plan is prepared for the detained person, and (c) the reasons for that decision",
+			"AFTER": "a detained person's EHC needs assessment has been carried out"
+		}
+	],
+
+	"section-71-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about detained persons' EHC needs assessments, in particular— (a) about requests under subsection (2); (b) imposing time limits in relation to consultation under subsection (5); (c) about giving notice; (d) about expressing views and submitting evidence under subsection (8); (e) about how detained persons' EHC needs assessments are to be conducted; (f) about advice to be obtained in connection with a detained person's EHC needs assessment; (g) about combining a detained person's EHC needs assessment with other assessments; (h) about the use for the purposes of a detained person's EHC needs assessment of information obtained as a result of other assessments; (i) about the use of information obtained as a result of a detained person's EHC needs assessment, including the use of that information for the purposes of other assessments; (j) about the provision of information, advice and support in connection with a detained person's EHC needs assessment"
+		}
+	],
+
+	"section-72-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the home authority",
+			"TO": "secure that an EHC plan is prepared for him or her",
+			"WHERE": "it is necessary for special education provision to be made for the detained person in accordance with an EHC plan on release from detention",
+			"IN THE LIGHT OF": "a detained person's EHC needs assessment"
+		}
+	],
+
+	"section-73-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An appropriate person in relation to a detained person",
+			"TO": "appeal to the First-tier Tribunal against the matters set out in subsection (2)",
+			"SUBJECT TO": "section 55 (as applied by this section)"
+		}
+	],
+
+	"section-73-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The appropriate person",
+			"TO": "appeal to the First-tier Tribunal under subsection (2)(c)",
+			"ONLY WHEN": "an EHC plan is first finalised for the detained person in accordance with section 72"
+		}
+	],
+
+	"section-73-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about appeals to the First-tier Tribunal in respect of detained persons' EHC needs assessments and EHC plans secured under section 72, in particular about— (a) making and determining appeals; (b) the powers of the First-tier Tribunal on determining an appeal; (c) unopposed appeals"
+		}
+	],
+
+	"section-73-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "without reasonable excuse fail to comply with any requirement— (a) in respect of the discovery or inspection of documents, or (b) to attend to give evidence and produce documents",
+			"WHERE": "that requirement is imposed by Tribunal Procedure Rules in relation to an appeal under this section"
+		}
+	],
+
+	"section-73-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the mediation adviser",
+			"TO": "notify the home authority",
+			"WHERE": "by virtue of subsection (7), the appropriate person has informed the adviser that he or she wishes to pursue mediation with the home authority"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the home authority",
+			"TO": "— (i) arrange for mediation between it and the appropriate person, (ii) ensure that the mediation is conducted by an independent person, and (iii) participate in the mediation",
+			"WHERE": "by virtue of subsection (7), the appropriate person has informed the mediation adviser that he or she wishes to pursue mediation with the home authority"
+		}
+	],
+
+	"section-73-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under section 56",
+			"TO": "make provision for the purposes of subsections (7) and (8) of this section"
+		}
+	],
+
+	"section-74-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The home authority",
+			"TO": "keep the EHC plan",
+			"WHILE": "the person is detained in relevant youth accommodation"
+		}
+	],
+
+	"section-74-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about the keeping of EHC plans under subsection (2), and the disclosure of such plans"
+		}
+	],
+
+	"section-74-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The home authority",
+			"TO": "arrange appropriate special educational provision for the detained person while he or she is detained in relevant youth accommodation"
+		}
+	],
+
+	"section-74-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the detained person's health services commissioner",
+			"TO": "arrange appropriate health care provision for the detained person while he or she is detained in relevant youth accommodation",
+			"IF": "the EHC plan specifies health care provision"
+		}
+	],
+
+	"section-75-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority in England",
+			"TO": "supply goods and services to any authority or other person making special educational provision for a detained person",
+			"ONLY FOR": "the purpose set out in subsection (2)"
+		}
+	],
+
+	"section-75-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The goods and services",
+			"TO": "be supplied on the terms and conditions that the authority thinks fit, including terms as to payment"
+		}
+	],
+
+	"section-76-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "exercise the powers listed in subsection (2) with a view to securing, in particular, the provision of special needs information which the Secretary of State thinks would be likely to assist the Secretary of State or others in improving the well-being of— (a) children in England with special educational needs, and (b) young people aged under 19 in England with special educational needs"
+		}
+	],
+
+	"section-76-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "publish, or arrange to be published, special needs information which has been obtained under EA 1996",
+			"IN": "each calendar year",
+			"WHERE": "the Secretary of State thinks the publication of the information would be likely to assist the Secretary of State or others in improving the well-being of — (a) children in England with special educational needs, and (b) young people aged under 19 in England with special educational needs"
+		}
+	],
+
+	"section-76-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Information published under subsection (3)",
+			"TO": "be published in the form and manner that the Secretary of State thinks fit"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the names of the children and young people to whom the information relates",
+			"TO": "be included"
+		}
+	],
+
+	"section-76-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make a charge, or arrange for a charge to be made, for documents supplied by virtue of this section"
+		}
+	],
+
+	"section-76-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A charge under subsection (5)",
+			"TO": "exceed the cost of supply"
+		}
+	],
+
+	"section-77-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue a code of practice giving guidance about the exercise of their functions under this Part to— (a) local authorities in England; (b) the governing bodies of schools; (c) the governing bodies of institutions within the further education sector; (d) the proprietors of Academies; (e) the management committees of pupil referral units; (f) the proprietors of institutions approved by the Secretary of State under section 41 (independent special schools and special post-16 institutions: approval); (g) providers of relevant early years education; (h) youth offending teams; (i) persons in charge of relevant youth accommodation; (j) NHS England; (k) integrated care boards; (l) NHS trusts; (m) NHS foundation trusts; (n) Local Health Boards"
+		}
+	],
+
+	"section-77-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "revise the code from time to time"
+		}
+	],
+
+	"section-77-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish the current version of the code"
+		}
+	],
+
+	"section-77-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The persons listed in subsection (1)",
+			"TO": "have regard to the code",
+			"IN": "exercising their functions under this Part"
+		}
+	],
+
+	"section-77-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Those who exercise functions for the purpose of the exercise by those persons of functions under this Part",
+			"TO": "have regard to the code"
+		}
+	],
+
+	"section-77-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The First-tier Tribunal",
+			"TO": "have regard to any provision of the code that appears to it to be relevant to a question arising on an appeal under this Part"
+		}
+	],
+
+	"section-78-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "prepare a draft of a code (or revised code)",
+			"WHERE": "the Secretary of State proposes to issue or revise the code under section 77"
+		}
+	],
+
+	"section-78-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult such persons as the Secretary of State thinks fit about the draft"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consider any representations made by them"
+		}
+	],
+
+	"section-78-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "lay a copy of the draft before each House of Parliament",
+			"IF": "the Secretary of State decides to proceed with the draft (in its original form or with modifications)"
+		}
+	],
+
+	"section-78-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Secretary of State",
+			"TO": "take any further steps",
+			"IN RELATION TO": "— (a) a proposed code unless the draft is approved by a resolution of each House, or (b) a proposed revised code if, within the 40-day period, either House resolves not to approve the draft"
+		}
+	],
+
+	"section-78-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue the code or revised code in the form of the draft"
+		}
+	],
+
+	"section-78-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a new draft of a proposed code (or proposed revised code)",
+			"TO": "be laid before Parliament"
+		}
+	],
+
+	"section-79-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State and the Lord Chancellor",
+			"TO": "carry out a review of how effectively disagreements about the exercise of functions under this Part are being resolved"
+		}
+	],
+
+	"section-79-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State and the Lord Chancellor",
+			"TO": "prepare a report on the outcome of the review"
+		}
+	],
+
+	"section-79-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State and the Lord Chancellor",
+			"TO": "lay the report before Parliament",
+			"BEFORE": "the end of the period of three years beginning with the earliest date on which any provision of this Part comes into force"
+		}
+	],
+
+	"section-80-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "apply any statutory provision with modifications for the purpose of giving effect to this Part",
+			"IN": "a case where the parent of a child, or a young person, lacks capacity at the relevant time"
+		}
+	],
+
+	"section-80-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "include provision for— (a) references to a child's parent to be read as references to, or as including references to, a representative of the parent; (b) references to a young person to be read as references to, or as including references to, a representative of the young person, the young person's parent, or a representative of the young person's parent; (c) modifications to have effect in spite of section 27(1)(g) of the Mental Capacity Act 2005 (Act does not permit decisions on discharging parental responsibilities in matters not relating to a child's property to be made on a person's behalf)"
+		}
+	]
+}

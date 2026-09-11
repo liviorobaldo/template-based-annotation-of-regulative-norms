@@ -1,0 +1,1676 @@
+{
+	"to-exclude": ["section-227-2", "section-227-3", "section-227-4", "section-227-6B", "section-227-7", "section-227-8A", "section-227-9A", "section-227-10", "section-227-11", "section-227-13", "section-227-14", "section-228-1", "section-228-6", "section-228A-1", "section-228A-3", "section-228A-6", "section-228A-8", "section-229-2", "section-229-3D", "section-229-4", "section-229-4C", "section-229-9", "section-231-3", "section-231-9", "section-231-10", "section-232-5", "section-233-1", "section-233-2", "section-233-3", "section-233-4", "section-233-5", "section-233-6", "section-234-10", "section-235-7", "section-235A-1", "section-235A-10", "section-235A-11", "section-236-1", "section-237-1", "section-237-3", "section-238-1", "section-238-4", "section-238-7", "section-240-1", "section-240-2", "section-240-6", "section-242-1", "section-242-2", "section-242-3", "section-242-4", "section-242-5", "section-243-1", "section-243-2", "section-243-3", "section-243-4", "section-243-5", "section-243-6", "section-245-1", "section-247-2", "section-247-5", "section-249-2", "section-251-1", "section-251-2", "section-251-3", "section-252-2", "section-252-4", "section-252-6", "section-252-9", "section-253-2", "section-253-3", "section-253-5", "section-253-9", "section-254-1", "section-255-1", "section-255-5A", "section-255-5B", "section-255-10", "section-255-11", "section-255-12", "section-256-1", "section-256-6", "section-256-8", "section-256-9", "section-256-10", "section-256-11", "section-256-12", "section-256A-2", "section-256A-3", "section-256A-4", "section-256A-6", "section-256A-7", "section-256A-8", "section-257-1", "section-257-2", "section-257-3", "section-257-3B", "section-257-4A", "section-257-8B", "section-257-10A", "section-257-11", "section-257-12", "section-257-15", "section-258-1", "section-258A-2", "section-258A-3", "section-258A-10", "section-258A-11", "section-258A-12", "section-258B-1", "section-258B-5", "section-258B-6", "section-258B-7", "section-259-1", "section-259-2", "section-259-3", "section-259-4", "section-259-5", "section-259-6", "section-259-7", "section-260-2", "section-261-1", "section-261-2", "section-261-3", "section-261-4", "section-261-5", "section-261-5A", "section-261-5B", "section-261-6", "section-261-7", "section-261-8", "section-261-9", "section-261-10", "section-261-11", "section-261-12", "section-261-13", "section-261-14", "section-262-1", "section-262-2", "section-262-3", "section-262-4", "section-262-5", "section-262-6", "section-262-7", "section-262-8", "section-263-1", "section-263-2", "section-263-3", "section-263-4", "section-263-5", "section-263-6", "section-263-7", "section-264-1", "section-264-2", "section-264-3", "section-264-4", "section-264-5", "section-264-6", "section-264-7", "section-266-1", "section-266-2", "section-266-3", "section-267-1", "section-267-2", "section-267-3", "section-267-4", "section-267-5", "section-267-6", "section-267-7", "section-267-8", "section-267-9", "section-267-10", "section-268-1", "section-268-2", "section-268-5", "section-268-10", "section-268-11", "section-270-1", "section-271-1", "section-271-4", "section-272-1", "section-272-2", "section-272-3", "section-272-4", "section-272-5", "section-272-7"],
+
+	"section-227-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "appoint— (a) the Investigatory Powers Commissioner, and (b) such number of other Judicial Commissioners as the Prime Minister considers necessary for the carrying out of the functions of the Judicial Commissioners"
+		}
+	],
+
+	"section-227-10A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a further appeal, or request for a further review",
+			"TO": "be made to the Investigatory Powers Commissioner",
+			"IN RELATION TO": "the decision of the Deputy Investigatory Powers Commissioner",
+			"WHERE": "— (a) the exercise of a function of the Investigatory Powers Commissioner mentioned in subsection (8A)(d) is delegated to a Deputy Investigatory Powers Commissioner in accordance with subsection (8)(a), and (b) the Deputy Investigatory Powers Commissioner decides the appeal or review (and any action to take as a result)"
+		}
+	],
+
+	"section-227-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Prime Minister",
+			"TO": "consult the Scottish Ministers",
+			"BEFORE": "appointing any person under subsection (1)"
+		}
+	],
+
+	"section-227-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "have regard to a memorandum of understanding agreed between the Prime Minister and the Scottish Ministers",
+			"WHEN": "exercising functions under subsection (1) or (5)"
+		}
+	],
+
+	"section-227-12": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-11"]
+		}
+	],
+
+	"section-227-6A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "appoint up to two persons who are Judicial Commissioners to be Deputy Investigatory Powers Commissioners"
+		}
+	],
+
+	"section-227-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "delegate the exercise of functions of the Investigatory Powers Commissioner to— (a) a Deputy Investigatory Powers Commissioner, or (b) any other Judicial Commissioner",
+			"TO_2": "such extent as the Investigatory Powers Commissioner may decide"
+		}
+	],
+
+	"section-227-8B": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-8-b"]
+		}
+	],
+
+	"section-227-8C": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-8"]
+		}
+	],
+
+	"section-227-8D": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the power in subsection (8)(a)",
+			"TO": "delegate to one Deputy Investigatory Powers Commissioner the exercise of the function of the Investigatory Powers Commissioner of deciding— (a) an appeal against, or a review of, a decision made by the other Deputy Investigatory Powers Commissioner, and (b) any action to take as a result",
+			"WHERE": "there are two Deputy Investigatory Powers Commissioners"
+		}
+	],
+
+	"section-228-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each Judicial Commissioner",
+			"TO": "be appointed for a term of three years"
+		}
+	],
+
+	"section-228-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person who ceases to be a Judicial Commissioner (otherwise than under subsection (5))",
+			"TO": "be re-appointed under section 227(1)"
+		}
+	],
+
+	"section-228-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A Judicial Commissioner",
+			"TO": "be removed from office",
+			"BEFORE": "the end of the term for which the Commissioner is appointed",
+			"UNLESS": "a resolution approving the removal has been passed by each House of Parliament",
+			"SUBJECT TO": "subsection (5)"
+		}
+	],
+
+	"section-228-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Prime Minister",
+			"TO": "remove a Judicial Commissioner from office",
+			"IF": "— (a) a bankruptcy order is made against the Commissioner or the Commissioner's estate is sequestrated or the Commissioner makes a composition or arrangement with, or grants a trust deed for, the Commissioner's creditors, (b) any of the following orders is made against the Commissioner— (i) a disqualification order under the Company Directors Disqualification Act 1986 or the Company Directors Disqualification (Northern Ireland) Order 2002, (ii) an order under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order), (iii) an order under section 429(2) of the Insolvency Act 1986 (disabilities on revocation of county court administration order), (c) the Commissioner's disqualification undertaking is accepted under section 7 or 8 of the Company Directors Disqualification Act 1986 or under the Company Directors Disqualification (Northern Ireland) Order 2002, or (d) the Commissioner is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and receives a sentence of imprisonment (whether suspended or not)",
+			"AFTER": "the appointment of the Commissioner"
+		}
+	],
+
+	"section-228A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "appoint one or more persons to carry out Judicial Commissioner functions"
+		}
+	],
+
+	"section-228A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a temporary Judicial Commissioner",
+			"TO": "be appointed under subsection (2) for one or more terms not exceeding six months each and not exceeding three years in total"
+		}
+	],
+
+	"section-228A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "notify the following persons of the appointment— (a) the Prime Minister; (b) the Secretary of State; (c) the Scottish Ministers; (d) the Lord Chancellor; (e) the Lord Chief Justice of England and Wales; (f) the Lord President of the Court of Session; (g) the Lord Chief Justice of Northern Ireland",
+			"AS SOON AS": "practicable",
+			"AFTER": "the appointment of any temporary Judicial Commissioner"
+		}
+	],
+
+	"section-228A-7": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-227-1", "section-227-4", "section-227-5", "section-227-6", "section-228-2"]
+		}
+	],
+
+	"section-229-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review (including by way of audit, inspection and investigation) the exercise by public authorities of statutory functions relating to— (a) the interception of communications, (b) the acquisition or retention of communications data, (c) the acquisition of secondary data or related systems data under Chapter 1 of Part 2 or Chapter 1 of Part 6, or (d) equipment interference"
+		}
+	],
+
+	"section-229-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review (including by way of audit, inspection and investigation)— (a) the acquisition, retention, use or disclosure of bulk personal datasets by an intelligence service, (b) the giving and operation of notices under section 252 (national security notices), (d) the exercise of functions by virtue of sections 1 to 4 of the Prisons (Interference with Wireless Telegraphy) Act 2012, (e) the exercise of functions by virtue of Part 2 or 3 of the Regulation of Investigatory Powers Act 2000 (surveillance, covert human intelligence sources and investigation of electronic data protected by encryption etc.) , (f) the adequacy of the arrangements by virtue of which the duties imposed by section 55 of that Act are sought to be discharged, (g) the exercise of functions by virtue of the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 11) (surveillance and covert human intelligence sources), (h) the exercise of functions under Part 3 of the Police Act 1997 (authorisation of action in respect of property), (i) the exercise by the Secretary of State of functions under sections 5 to 7 of the Intelligence Services Act 1994 (warrants for interference with wireless telegraphy, entry and interference with property etc.) , and (j) the exercise by the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998) of functions under sections 5 and 6(3) and (4) of the Act of 1994"
+		}
+	],
+
+	"section-229-3A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review the compliance by public authorities with the terms of the Agreement between the Government of the United Kingdom and the Government of the United States of America on access to electronic data for the purpose of countering serious crime dated 3rd October 2019",
+			"IN ACCORDANCE WITH": "that Agreement"
+		}
+	],
+
+	"section-229-3B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review (including by way of audit, inspection and investigation) the process operated by GCHQ for determining whether information about vulnerabilities in technology should be disclosed"
+		}
+	],
+
+	"section-229-3C": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review (including by way of audit, inspection and investigation) compliance by the persons mentioned in subsection (3D) with 'The Principles Relating to the Detention and Interviewing of Detainees Overseas and the Passing and Receipt of Intelligence Relating to Detainees', as published on 18th July 2019"
+		}
+	],
+
+	"section-229-3E": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "keep under review (including by way of audit, inspection and investigation) compliance by any part of His Majesty’s forces, or by any part of the Ministry of Defence, with policies governing— (a) the use of surveillance outside the United Kingdom, and (b) the use and conduct of covert human intelligence sources outside the United Kingdom, (whether or not authorised under the Regulation of Investigatory Powers Act 2000)"
+		}
+	],
+
+	"section-229-4A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "keep under review the exercise of the power to grant or renew authorisations under section 29B of the Regulation of Investigatory Powers Act 2000",
+			"IN": "keeping matters under review in accordance with subsection (3)(e)"
+		}
+	],
+
+	"section-229-4B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "keep under review whether public authorities are complying with any requirements imposed on them by virtue of Part 2 of the Regulation of Investigatory Powers Act 2000 in relation to juvenile criminal conduct authorisations and vulnerable adult criminal conduct authorisations",
+			"IN": "keeping under review the exercise of the power mentioned in subsection (4A)"
+		}
+	],
+
+	"section-229-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "keep under review the operation of safeguards to protect privacy",
+			"IN": "keeping matters under review in accordance with this section"
+		}
+	],
+
+	"section-229-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a Judicial Commissioner",
+			"TO": "act in a way which the Commissioner considers to be contrary to the public interest or prejudicial to— (a) national security, (b) the prevention or detection of serious crime, or (c) the economic well-being of the United Kingdom",
+			"IN": "exercising functions under this Act"
+		}
+	],
+
+	"section-229-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A Judicial Commissioner",
+			"TO": "ensure that the Commissioner does not— (a) jeopardise the success of an intelligence or security operation or a law enforcement operation, (b) compromise the safety or security of those involved, or (c) unduly impede the operational effectiveness of an intelligence service, a police force, a government department or Her Majesty's forces"
+		}
+	],
+
+	"section-229-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-6", "subsection-7"]
+		}
+	],
+
+	"section-229-8A": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-6", "subsection-7"]
+		}
+	],
+
+	"section-230-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "keep under review the carrying out of any aspect of the functions of— (a) an intelligence service, (b) a head of an intelligence service, (c) any part of Her Majesty's forces, or of the Ministry of Defence, so far as engaging in intelligence activities, or (d) any public authority not mentioned in paragraphs (a) to (c), or any part of such an authority, so far as engaging in intelligence activities",
+			"SO FAR AS": "directed to do so by the Prime Minister",
+			"SUBJECT TO": "subsection (2)"
+		}
+	],
+
+	"section-230-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-230-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Prime Minister",
+			"TO": "give a direction under this section",
+			"AT": "the request of the Investigatory Powers Commissioner or the Intelligence and Security Committee of Parliament or otherwise"
+		}
+	],
+
+	"section-230-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "publish, in a manner which the Prime Minister considers appropriate, any direction under this section (and any revocation of such a direction)",
+			"EXCEPT SO FAR AS": "it appears to the Prime Minister that such publication would be contrary to the public interest or prejudicial to— (a) national security, (b) the prevention or detection of serious crime, (c) the economic well-being of the United Kingdom, or (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-231-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "inform a person of any relevant error relating to that person of which the Commissioner is aware",
+			"IF": "the Commissioner considers that— (a) the error is a serious error, and (b) it is in the public interest for the person to be informed of the error"
+		}
+	],
+
+	"section-231-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "decide that an error is a serious error",
+			"IN": "making a decision under subsection (1)(a)",
+			"UNLESS": "the Commissioner considers that the error has caused significant prejudice or harm to the person concerned"
+		}
+	],
+
+	"section-231-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "consider— (a) the seriousness of the error and its effect on the person concerned, and (b) the extent to which disclosing the error would be contrary to the public interest or prejudicial to— (i) national security, (ii) the prevention or detection of serious crime, (iii) the economic well-being of the United Kingdom, or (iv) the continued discharge of the functions of any of the intelligence services",
+			"IN": "making a decision under subsection (1)(b)"
+		}
+	],
+
+	"section-231-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "ask the public authority which has made the error to make submissions to the Commissioner about the matters concerned",
+			"BEFORE": "making a decision under subsection (1)(a) or (b)"
+		}
+	],
+
+	"section-231-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) inform the person of any rights that the person may have to apply to the Investigatory Powers Tribunal, and (b) provide such details of the error as the Commissioner considers to be necessary for the exercise of those rights, having regard in particular to the extent to which disclosing the details would be contrary to the public interest or prejudicial to anything falling within subsection (4)(b)(i) to (iv)",
+			"WHEN": "informing a person under subsection (1) of an error"
+		}
+	],
+
+	"section-231-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "inform the person to whom it relates of a relevant error",
+			"EXCEPT AS": "provided by this section"
+		}
+	],
+
+	"section-231-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A report under section 234(1)",
+			"TO": "include information about— (a) the number of relevant errors of which the Investigatory Powers Commissioner has become aware during the year to which the report relates, (b) the number of relevant errors which the Commissioner has decided during that year were serious errors, and (c) the number of persons informed under subsection (1) during that year"
+		}
+	],
+
+	"section-232-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A Judicial Commissioner",
+			"TO": "give the Investigatory Powers Tribunal all such documents, information and other assistance (including the Commissioner's opinion as to any issue falling to be determined by the Tribunal) as the Tribunal may require— (a) in connection with the investigation of any matter by the Tribunal, or (b) otherwise for the purposes of the Tribunal's consideration or determination of any matter"
+		}
+	],
+
+	"section-232-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Judicial Commissioner",
+			"TO": "provide advice or information to any public authority or other person",
+			"IN RELATION TO": "matters for which a Judicial Commissioner is responsible"
+		}
+	],
+
+	"section-232-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "consult the Secretary of State",
+			"BEFORE": "providing any advice or information under subsection (2)",
+			"IF": "it appears to the Commissioner that providing the advice or information might be contrary to the public interest or prejudicial to— (a) national security, (b) the prevention or detection of serious crime, (c) the economic well-being of the United Kingdom, or (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-232-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "In addition to consulting the Secretary of State under subsection (3), consult the Scottish Ministers",
+			"IF": "it appears to the Commissioner that providing the advice or information might be prejudicial to— (a) the prevention or detection of serious crime by a Scottish public authority, or (b) the continued discharge of any devolved functions of a Scottish public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-232-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3", "subsection-4"]
+		}
+	],
+
+	"section-234-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "make a report to the Prime Minister about the carrying out of the functions of the Judicial Commissioners",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each calendar year"
+		}
+	],
+
+	"section-234-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A report under subsection (1)",
+			"TO": "include— (a) statistics on the use of the investigatory powers which are subject to review by the Investigatory Powers Commissioner (including the number of warrants or authorisations issued, given, considered or approved during the year), (b) information about the results of such use (including its impact), (ba) information about the use of the power to grant or renew authorisations under section 29B of the Regulation of Investigatory Powers Act 2000, (c) information about the operation of the safeguards conferred by this Act in relation to items subject to legal privilege, confidential journalistic material and sources of journalistic information, (d) information about the following kinds of warrants issued, considered or approved during the year— (i) targeted interception warrants or targeted examination warrants of the kind referred to in section 17(2), (ii) targeted equipment interference warrants relating to matters within paragraph (b), (c), (e), (f), (g) or (h) of section 101(1), and (iii) targeted examination warrants under Part 5 relating to matters within any of paragraphs (b) to (e) of section 101(2), (e) information about the operational purposes specified during the year in warrants issued under Part 6 or 7, (f) the information on errors required by virtue of section 231(8), (g) information about the work of the Technology Advisory Panel, (h) information about the funding, staffing and other resources of the Judicial Commissioners, and (i) details of public engagements undertaken by the Judicial Commissioners or their staff"
+		}
+	],
+
+	"section-234-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "make any report to the Prime Minister which has been requested by the Prime Minister",
+			"AT": "any time"
+		}
+	],
+
+	"section-234-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "make any such report to the Prime Minister, on any matter relating to the functions of the Judicial Commissioners, as the Investigatory Powers Commissioner considers appropriate",
+			"AT": "any time"
+		}
+	],
+
+	"section-234-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A report under subsection (1) or (4)",
+			"TO": "include such recommendations as the Investigatory Powers Commissioner considers appropriate about any matter relating to the functions of the Judicial Commissioners"
+		}
+	],
+
+	"section-234-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Prime Minister",
+			"TO": "— (a) publish the report, and (b) lay a copy of the published report before Parliament together with a statement as to whether any part of the report has been excluded from publication under subsection (7)",
+			"ON": "receiving a report from the Investigatory Powers Commissioner under subsection (1)"
+		}
+	],
+
+	"section-234-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Prime Minister",
+			"TO": "exclude from publication any part of a report under subsection (1)",
+			"AFTER": "consultation with the Investigatory Powers Commissioner and (so far as the report relates to functions under Part 3 of the Police Act 1997) the Scottish Ministers",
+			"IF": "in the opinion of the Prime Minister, the publication of that part would be contrary to the public interest or prejudicial to— (a) national security, (b) the prevention or detection of serious crime, (c) the economic well-being of the United Kingdom, or (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-234-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "send a copy of every report and statement as laid before Parliament under subsection (6)(b) to the Scottish Ministers"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Scottish Ministers",
+			"TO": "lay the copy report and statement before the Scottish Parliament"
+		}
+	],
+
+	"section-234-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "publish any report under subsection (3) or (4), or any part of such a report",
+			"IF": "requested to do so by the Prime Minister"
+		}
+	],
+
+	"section-234-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "send to the Intelligence and Security Committee of Parliament a copy of the report",
+			"SO FAR AS": "it relates to— (a) the investigation, inspection or audit concerned, and (b) the functions of the Committee falling within section 2 of the Justice and Security Act 2013"
+		}
+	],
+
+	"section-235-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Judicial Commissioner",
+			"TO": "carry out such investigations, inspections and audits as the Commissioner considers appropriate for the purposes of the Commissioner's functions"
+		}
+	],
+
+	"section-235-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Every relevant person",
+			"TO": "disclose or provide to a Judicial Commissioner all such documents and information as the Commissioner may require for the purposes of the Commissioner's functions"
+		}
+	],
+
+	"section-235-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Every relevant person",
+			"TO": "provide a Judicial Commissioner with such assistance as the Commissioner may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions"
+		}
+	],
+
+	"section-235-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Assistance under subsection (3)",
+			"TO": "include such access to apparatus, systems or other facilities or services as the Judicial Commissioner concerned may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions"
+		}
+	],
+
+	"section-235-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A public authority",
+			"TO": "report to the Investigatory Powers Commissioner any refusal by a telecommunications operator or postal operator to comply with any requirements imposed by virtue of this Act"
+		}
+	],
+
+	"section-235-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority, telecommunications operator or postal operator",
+			"TO": "report to the Investigatory Powers Commissioner any relevant error (within the meaning given by section 231(9)) of which it is aware"
+		}
+	],
+
+	"section-235A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The telecommunications operator",
+			"TO": "report the personal data breach to the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-235A-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "disclose information about a personal data breach to the Information Commissioner",
+			"WHERE": "a telecommunications operator reports the breach to the Investigatory Powers Commissioner under subsection (2)"
+		}
+	],
+
+	"section-235A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Information Commissioner",
+			"TO": "consider whether the breach is serious",
+			"WHERE": "a Judicial Commissioner discloses information about a personal data breach to the Information Commissioner under subsection (3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Information Commissioner",
+			"TO": "notify the Investigatory Powers Commissioner",
+			"WHERE": "a Judicial Commissioner discloses information about a personal data breach to the Information Commissioner under subsection (3)",
+			"IF": "the Information Commissioner considers that the breach is serious"
+		}
+	],
+
+	"section-235A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "inform an individual of any personal data breach relating to that individual of which the Commissioner is notified under subsection (4) (b)",
+			"IF": "the Commissioner considers that it is in the public interest for the individual to be informed of the breach"
+		}
+	],
+
+	"section-235A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "consider— (a) the seriousness of the breach and its effect on the individual concerned, and (b) the extent to which disclosing the breach would be contrary to the public interest or prejudicial to— (i) national security, (ii) the prevention or detection of serious crime, (iii) the economic well-being of the United Kingdom, or (iv) the continued discharge of the functions of any of the intelligence services",
+			"IN": "making a decision under subsection (5)"
+		}
+	],
+
+	"section-235A-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "ask— (a) the Secretary of State, and (b) any public authority that the Investigatory Powers Commissioner considers appropriate, to make submissions to the Commissioner about the matters concerned",
+			"BEFORE": "making a decision under subsection (5)"
+		}
+	],
+
+	"section-235A-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) inform the individual of any rights that the individual may have to apply to the Investigatory Powers Tribunal in relation to the breach, and (b) provide such details of the breach as the Commissioner considers to be necessary for the exercise of those rights, having regard in particular to the extent to which disclosing the details would be contrary to the public interest or prejudicial to anything falling within subsection (6) (b) (i) to (iv)",
+			"WHEN": "informing an individual under subsection (5) of a breach"
+		}
+	],
+
+	"section-235A-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "inform the individual to whom it relates of a personal data breach notified to the Commissioner under subsection (4)(b)",
+			"EXCEPT AS": "provided by this section"
+		}
+	],
+
+	"section-236-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "inform the Intelligence and Security Committee of Parliament of the Commissioner's decision as to whether to carry out the investigation, inspection or audit"
+		}
+	],
+
+	"section-237-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-238-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "provide the Judicial Commissioners with— (a) such staff, and (b) such accommodation, equipment and other facilities and services, as the Secretary of State considers necessary for the carrying out of the Commissioners' functions",
+			"AFTER": "consultation with the Investigatory Powers Commissioner",
+			"SUBJECT TO": "the approval of the Treasury as to numbers of staff"
+		}
+	],
+
+	"section-238-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Scottish Ministers",
+			"TO": "pay to the Judicial Commissioners such allowances as the Scottish Ministers consider appropriate in respect of the exercise by the Commissioners of functions which relate to the exercise by Scottish public authorities of devolved functions"
+		}
+	],
+
+	"section-238-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner or any other Judicial Commissioner",
+			"TO": "delegate the exercise of functions of that Commissioner to any member of staff of the Judicial Commissioners or any other person acting on behalf of the Commissioners",
+			"TO SUCH EXTENT AS": "the Commissioner concerned may decide"
+		}
+	],
+
+	"section-238-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-5"]
+		}
+	],
+
+	"section-239-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations modify the functions of the Investigatory Powers Commissioner or any other Judicial Commissioner"
+		}
+	],
+
+	"section-239-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "such regulations",
+			"TO": "modify any function conferred by virtue of this Act on a Judicial Commissioner to approve, quash or cancel— (a) an authorisation or warrant, or (b) the variation or renewal of an authorisation or warrant"
+		}
+	],
+
+	"section-239-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power to make regulations under this section (including that power as extended by section 267(1)(c))",
+			"TO": "be exercised by modifying any provision made by or under an enactment (including this Act)"
+		}
+	],
+
+	"section-240-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations provide for the abolition of the office of the Investigatory Powers Commissioner for Northern Ireland",
+			"WITH": "the consent of the Northern Ireland Assembly"
+		}
+	],
+
+	"section-240-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power to make regulations under subsection (3) (including that power as extended by section 267(1)(c))",
+			"TO": "be exercised by modifying any provision made by or under an enactment (including this Act)"
+		}
+	],
+
+	"section-240-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations made by virtue of subsection (4)",
+			"TO": "repeal— (a) section 61 of the Regulation of Investigatory Powers Act 2000 (the Investigatory Powers Commissioner for Northern Ireland), and (b) the words “or the Investigatory Powers Commissioner for Northern Ireland” in section 229(4)(f) of this Act"
+		}
+	],
+
+	"section-245-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The regulations providing for the membership of the Technical Advisory Board",
+			"TO": "make provision which is calculated to ensure— (a) that the membership of the Board includes persons likely effectively to represent the interests of persons on whom obligations may be imposed by virtue of retention notices under Part 4, national security notices under section 252 or technical capability notices under section 253, (b) that the membership of the Board includes persons likely effectively to represent the interests of persons entitled to apply for warrants under Part 2, 5, 6 or 7 or authorisations under Part 3, (c) that such other persons (if any) as the Secretary of State considers appropriate may be appointed to be members of the Board, and (d) that the Board is so constituted as to produce a balance between the representation of the interests mentioned in paragraph (a) and the representation of those mentioned in paragraph (b)"
+		}
+	],
+
+	"section-245-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about quorum and the filling of vacancies"
+		}
+	],
+
+	"section-246-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "ensure that there is a Technology Advisory Panel to provide advice to the Investigatory Powers Commissioner, the Secretary of State and the Scottish Ministers about— (a) the impact of changing technology on the exercise of investigatory powers whose exercise is subject to review by the Commissioner, and (b) the availability and development of techniques to use such powers while minimising interference with privacy"
+		}
+	],
+
+	"section-246-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Technology Advisory Panel",
+			"TO": "provide advice to the Investigatory Powers Commissioner about such matters falling within subsection (1)(a) or (b) as the Commissioner may direct"
+		}
+	],
+
+	"section-246-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Panel",
+			"TO": "provide advice to the Investigatory Powers Commissioner about such matters falling within subsection (1)(a) or (b) as it considers appropriate (whether or not requested to do so)",
+			"SUBJECT TO": "this"
+		}
+	],
+
+	"section-246-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Panel",
+			"TO": "provide advice to the Secretary of State or the Scottish Ministers about such matters falling within subsection (1)(a) or (b) as it considers appropriate (whether or not requested to do so)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "such advice to the Scottish Ministers",
+			"TO": "only relate to matters for which the Scottish Ministers are responsible"
+		}
+	],
+
+	"section-246-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Panel",
+			"TO": "make a report to the Investigatory Powers Commissioner about the carrying out of the functions of the Panel",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each calendar year"
+		}
+	],
+
+	"section-246-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Panel",
+			"TO": "send a copy of the report to the Secretary of State and (so far as relating to matters for which the Scottish Ministers are responsible) the Scottish Ministers",
+			"AT": "the same time"
+		}
+	],
+
+	"section-247-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "appoint such number of persons as members of the Technology Advisory Panel as the Commissioner considers necessary for the carrying out of the functions of the Panel"
+		}
+	],
+
+	"section-247-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A member of the Panel",
+			"TO": "act in a way which the member considers to be contrary to the public interest or prejudicial to— (a) national security, (b) the prevention or detection of serious crime, or (c) the economic well-being of the United Kingdom"
+		}
+	],
+
+	"section-247-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A member of the Panel",
+			"TO": "ensure that the member does not— (a) jeopardise the success of an intelligence or security operation or a law enforcement operation, (b) compromise the safety or security of those involved, or (c) unduly impede the operational effectiveness of an intelligence service, a police force, a government department or Her Majesty's forces"
+		}
+	],
+
+	"section-249-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that telecommunications operators and postal operators receive an appropriate contribution in respect of such of their relevant costs as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-249-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The arrangements",
+			"TO": "provide for payment of a contribution to be subject to terms and conditions determined by the Secretary of State"
+		}
+	],
+
+	"section-249-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Such terms and conditions",
+			"TO": "include a condition on the operator concerned to comply with any audit that may reasonably be required to monitor the claim for costs"
+		}
+	],
+
+	"section-249-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The arrangements",
+			"TO": "provide for the Secretary of State to determine— (a) the scope and extent of the arrangements, and (b) the appropriate level of contribution which should be made in each case"
+		}
+	],
+
+	"section-249-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Different levels of contribution",
+			"TO": "apply for different cases or descriptions of case"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the appropriate contribution",
+			"TO": "be nil"
+		}
+	],
+
+	"section-249-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a retention notice under Part 4 given to a telecommunications operator or a postal operator, or a national security notice under section 252 given to a telecommunications operator",
+			"TO": "specify the level or levels of contribution which the Secretary of State has determined should be made in respect of the costs incurred, or likely to be incurred, by the operator as a result of the notice in complying with that Part or (as the case may be) with the national security notice"
+		}
+	],
+
+	"section-249-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "For the purpose of complying with this section, make, or arrange for the making of, payments out of money provided by Parliament"
+		}
+	],
+
+	"section-250-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) develop, provide, maintain or improve, or (b) enter into financial or other arrangements with any person for the development, provision, maintenance or improvement of, such apparatus, systems or other facilities or services as the Secretary of State considers appropriate for enabling or otherwise facilitating compliance by the Secretary of State, another public authority or any other person with this Act"
+		}
+	],
+
+	"section-250-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Arrangements falling within subsection (1)(b)",
+			"TO": "include arrangements consisting of the giving of financial assistance by the Secretary of State"
+		}
+	],
+
+	"section-250-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Such financial assistance",
+			"TO": "be given by way of— (i) grant, (ii) loan, (iii) guarantee or indemnity, (iv) investment, or (v) incurring expenditure for the benefit of the person assisted"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Such financial assistance",
+			"TO": "be given",
+			"SUBJECT TO": "terms and conditions determined by the Secretary of State"
+		}
+	],
+
+	"section-250-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Terms and conditions imposed by virtue of subsection (3)(b)",
+			"TO": "include terms and conditions as to repayment with or without interest"
+		}
+	],
+
+	"section-252-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give any telecommunications operator in the United Kingdom a national security notice under this section",
+			"IF": "— (a) the Secretary of State considers that the notice is necessary in the interests of national security, (b) the Secretary of State considers that the conduct required by the notice is proportionate to what is sought to be achieved by that conduct, and (c) the decision to give the notice has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-252-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a national security notice",
+			"TO": "require the operator to whom it is given— (a) to carry out any conduct, including the provision of services or facilities, for the purpose of— (i) facilitating anything done by an intelligence service under any enactment other than this Act, or (ii) dealing with an emergency (within the meaning of Part 1 of the Civil Contingencies Act 2004); (b) to provide services or facilities for the purpose of assisting an intelligence service to carry out its functions more securely or more effectively"
+		}
+	],
+
+	"section-252-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Secretary of State",
+			"TO": "give any telecommunications operator a national security notice the main purpose of which is to require the operator to do something for which a warrant or authorisation under a relevant enactment is required"
+		}
+	],
+
+	"section-252-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A national security notice",
+			"TO": "specify such period as appears to the Secretary of State to be reasonable as the period within which the steps specified in the notice are to be taken"
+		}
+	],
+
+	"section-252-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Conduct required by a national security notice",
+			"TO": "be treated as lawful for all purposes",
+			"TO THE EXTENT THAT": "it would not otherwise be so treated"
+		}
+	],
+
+	"section-253-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give a relevant operator a technical capability notice under this section",
+			"IF": "— (a) the Secretary of State considers that the notice is necessary for securing that the operator or another relevant operator has the capability to provide any assistance which such operator may be required to provide in relation to any relevant authorisation, (b) the Secretary of State considers that the conduct required by the notice is proportionate to what is sought to be achieved by that conduct, and (c) the decision to give the notice has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-253-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "specify an obligation that may be imposed on any relevant operators",
+			"ONLY IF": "the Secretary of State considers it is reasonable to do so for the purpose of securing— (a) that it is (and remains) practicable to impose requirements on those relevant operators to provide assistance in relation to relevant authorisations, and (b) that it is (and remains) practicable for those relevant operators to comply with those requirements"
+		}
+	],
+
+	"section-253-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the following persons— (a) the Technical Advisory Board, (b) persons appearing to the Secretary of State to be likely to be subject to any obligations specified in the regulations, (c) persons representing persons falling within paragraph (b), and (d) persons with statutory functions in relation to persons falling within that paragraph",
+			"BEFORE": "making any regulations under this section"
+		}
+	],
+
+	"section-253-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A technical capability notice",
+			"TO": "specify such period as appears to the Secretary of State to be reasonable as the period within which the steps specified in the notice are to be taken"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A technical capability notice",
+			"TO": "specify different periods in relation to different steps"
+		}
+	],
+
+	"section-253-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a technical capability notice",
+			"TO": "be given to persons outside the United Kingdom"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a technical capability notice",
+			"TO": "require things to be done, or not to be done, outside the United Kingdom"
+		}
+	],
+
+	"section-254-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether the notice is necessary as mentioned in section 252(1)(a) or (as the case may be) section 253(1)(a), and (b) whether the conduct that would be required by the notice is proportionate to what is sought to be achieved by that conduct",
+			"IN": "deciding whether to approve a decision to give a relevant notice"
+		}
+	],
+
+	"section-254-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (2) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-254-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to give a relevant notice"
+		}
+	],
+
+	"section-254-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to give the notice",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to give a relevant notice"
+		}
+	],
+
+	"section-255-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult a person",
+			"BEFORE": "giving a relevant notice to that person"
+		}
+	],
+
+	"section-255-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take into account— (a) the likely benefits of the notice, (b) the likely number of users (if known) of any postal or telecommunications service to which the notice relates, (c) the technical feasibility of complying with the notice, (d) the likely cost of complying with the notice, and (e) any other effect of the notice on the person (or description of person) to whom it relates",
+			"BEFORE": "giving a relevant notice"
+		}
+	],
+
+	"section-255-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take into account the technical feasibility, and likely cost, of complying with any obligations relating to the removal by a person of electronic protection applied by or on behalf of that person to any communications or data",
+			"IN": "complying with subsection (3)",
+			"IN THE CASE OF": "a technical capability notice that would impose those obligations"
+		}
+	],
+
+	"section-255-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant notice",
+			"TO": "be in writing"
+		}
+	],
+
+	"section-255-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a technical capability notice",
+			"TO": "be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of giving a notice)— (a) by delivering it to the person's principal office within the United Kingdom or, if the person has no such office in the United Kingdom, to any place in the United Kingdom where the person carries on business or conducts activities; (b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept documents of the same description as a notice, by delivering it to that address"
+		}
+	],
+
+	"section-255-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make further provision about the giving of relevant notices"
+		}
+	],
+
+	"section-255-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person to whom a relevant notice is given, or any person employed or engaged for the purposes of that person's business",
+			"TO": "disclose the existence or contents of the notice to any other person without the permission of the Secretary of State"
+		}
+	],
+
+	"section-255-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person to whom a relevant notice is given",
+			"TO": "comply with the notice"
+		}
+	],
+
+	"section-256-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "keep each relevant notice under review"
+		}
+	],
+
+	"section-256-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) vary a relevant notice; (b) revoke a relevant notice (whether wholly or in part)"
+		}
+	],
+
+	"section-256-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "vary a national security notice given to a person",
+			"ONLY IF": "— (a) the Secretary of State considers that the variation is necessary in the interests of national security, (b) the Secretary of State considers that the conduct required by the notice as varied is proportionate to what is sought to be achieved by that conduct, and (c) if the variation would impose further requirements on the person, the decision to vary the notice has been approved by a Judicial Commissioner (but see subsection (6))"
+		}
+	],
+
+	"section-256-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "vary a technical capability notice given to a person",
+			"ONLY IF": "— (a) the Secretary of State considers that the variation is necessary for securing that the person has the capability to provide any assistance which the person may be required to provide in relation to any relevant authorisation (within the meaning of section 253), (b) the Secretary of State considers that the conduct required by the notice as varied is proportionate to what is sought to be achieved by that conduct, and (c) if the variation would impose further requirements on the person, the decision to vary the notice has been approved by a Judicial Commissioner (but see subsection (6))"
+		}
+	],
+
+	"section-256-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give notice of the variation or revocation to any person",
+			"IF": "the Secretary of State varies or revokes a relevant notice given to that person"
+		}
+	],
+
+	"section-256A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a relevant notice",
+			"TO": "be renewed by a notice given by the Secretary of State",
+			"AT": "any time during the renewal period",
+			"IF": "the renewal conditions are met"
+		}
+	],
+
+	"section-256A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give notice in writing of the renewal",
+			"IF": "the Secretary of State renews a relevant notice given to any person"
+		}
+	],
+
+	"section-257-3A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "make any relevant changes to telecommunications or postal services, or telecommunication systems, to which obligations imposed by the notice given under section 252 or 253 relate",
+			"WHERE": "this subsection applies to the person"
+		}
+	],
+
+	"section-257-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "review any notice so far as referred to the Secretary of State under subsection (1) (and accordingly decide what action to take under subsection (9))",
+			"BEFORE": "the end of the review period"
+		}
+	],
+
+	"section-257-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Technical Advisory Board, and (b) a Judicial Commissioner",
+			"BEFORE": "deciding the review"
+		}
+	],
+
+	"section-257-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "consider the technical requirements and the financial consequences, for the person who has made the reference, of the notice so far as referred"
+		}
+	],
+
+	"section-257-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Commissioner",
+			"TO": "consider whether the notice so far as referred is proportionate"
+		}
+	],
+
+	"section-257-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board and the Commissioner",
+			"TO": "— (a) give the person concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions, and (b) report their conclusions to— (i) the person, and (ii) the Secretary of State"
+		}
+	],
+
+	"section-257-8A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Commissioner",
+			"TO": "give a direction to the person concerned or the Secretary of State specifying the period within which the person or the Secretary of State (as the case may be) may provide evidence, or make representations, in accordance with subsection (8)(a)"
+		}
+	],
+
+	"section-257-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "decide whether to — (a) vary or revoke the notice under section 256, or (b) give a notice under this section to the person confirming its effect",
+			"AFTER": "considering the conclusions of the Board and the Commissioner",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-257-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "vary the notice, or give a notice under subsection (9)(b) confirming its effect",
+			"ONLY IF": "the Secretary of State's decision to do so has been approved by the Investigatory Powers Commissioner"
+		}
+	],
+
+	"section-257-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (4A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State where the extension is agreed by the Secretary of State, the person concerned and a Judicial Commissioner"
+		}
+	],
+
+	"section-257-14": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (10A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State",
+			"WHERE": "the Secretary of State considers that there are exceptional circumstances that justify the extension"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (10A)(a)",
+			"TO": "include provision enabling any period provided for by the regulations to be extended by the Secretary of State",
+			"IN": "any other circumstances specified in the regulations"
+		}
+	],
+
+	"section-258-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether the relevant notice as varied or confirmed is necessary as mentioned in section 252(1)(a) or (as the case may be) section 253(1)(a), and (b) whether the conduct required by the relevant notice, as varied or confirmed, is proportionate to what is sought to be achieved by that conduct",
+			"IN": "deciding whether to approve a decision to vary a relevant notice as mentioned in section 257(9)(a), or to give a notice under section 257(9)(b) confirming the effect of a relevant notice"
+		}
+	],
+
+	"section-258-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (2) with a sufficient degree of care as to ensure that the Investigatory Powers Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-258-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Investigatory Powers Commissioner refuses to approve a decision to vary a relevant notice as mentioned in section 257(9)(a), or to give a notice under section 257(9)(b) confirming the effect of a relevant notice"
+		}
+	],
+
+	"section-258A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give a relevant operator a notice in writing under this section requiring the operator to notify the Secretary of State of any proposals of the operator to make any relevant changes specified in the notice"
+		}
+	],
+
+	"section-258A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (2)",
+			"TO": "specify changes by reference to the impact of the changes on the capability of a relevant operator to provide any assistance which the operator may be required to provide in relation to any warrant, authorisation or notice issued or given under this Act"
+		}
+	],
+
+	"section-258A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give a relevant operator a notice under this section",
+			"ONLY IF": "the Secretary of State considers that— (a) the notice is necessary for maintaining the capability of the relevant operator to provide any assistance which the operator may be required to provide in relation to any warrant, authorisation or notice issued or given under this Act, and (b) the conduct required by the notice is proportionate to what is sought to be achieved by that conduct"
+		}
+	],
+
+	"section-258A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take into account— (a) the likely benefits of the notice, (b) the likely number of users (if known) of any postal or telecommunications service to which the notice relates, (c) the likely cost of complying with the notice, and (d) any other effect of the notice on the operator to whom it relates",
+			"BEFORE": "giving a notice under this section"
+		}
+	],
+
+	"section-258A-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult a relevant operator",
+			"BEFORE": "giving a notice under this section to that operator"
+		}
+	],
+
+	"section-258A-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A relevant operator to whom a notice is given under this section, or any person employed or engaged for the purposes of that relevant operator’s business",
+			"TO": "disclose the existence or contents of the notice to any other person without the permission of the Secretary of State"
+		}
+	],
+
+	"section-258A-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant operator to whom a notice is given under this section",
+			"TO": "comply with the notice",
+			"A": "reasonable time before making any relevant changes to which the notice relates"
+		}
+	],
+
+	"section-258B-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) vary a relevant notice; (b) revoke a relevant notice (whether wholly or in part)"
+		}
+	],
+
+	"section-258B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "vary a relevant notice",
+			"ONLY IF": "the Secretary of State considers that— (a) the variation is necessary for maintaining the capability of the relevant operator to provide any assistance which the operator may be required to provide in relation to any warrant, authorisation or notice issued or given under this Act, and (b) the conduct required by the notice, as varied, is proportionate to what is sought to be achieved by that conduct"
+		}
+	],
+
+	"section-258B-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give any relevant operator notice in writing of the variation or revocation",
+			"IF": "the Secretary of State varies or revokes a relevant notice given to that relevant operator"
+		}
+	],
+
+	"section-260-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "prepare a report on the operation of this Act",
+			"WITHIN": "the period of 6 months beginning with the end of the initial period"
+		}
+	],
+
+	"section-260-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "take account of any report on the operation of this Act made by a Select Committee of either House of Parliament (whether acting alone or jointly)",
+			"IN": "preparing the report under subsection (1)"
+		}
+	],
+
+	"section-260-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) publish the report prepared under subsection (1), and (b) lay a copy of it before Parliament"
+		}
+	],
+
+	"section-268-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "lay before Parliament— (a) draft regulations, and (b) a document which explains the regulations"
+		}
+	],
+
+	"section-268-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations in the terms of the draft regulations laid under subsection (3)",
+			"IF": "the draft regulations are approved by a resolution of each House of Parliament",
+			"AFTER": "the end of the 40-day period"
+		}
+	],
+
+	"section-268-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "have regard to— (a) any representations, (b) any resolution of either House of Parliament, and (c) any recommendations of a committee of either House of Parliament charged with reporting on the draft regulations, made during the 60-day period with regard to the draft regulations"
+		}
+	],
+
+	"section-268-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "make regulations in the terms of the draft regulations",
+			"IF": "the draft regulations are approved by a resolution of each House of Parliament",
+			"AFTER": "the end of the 60-day period"
+		}
+	],
+
+	"section-268-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "lay before Parliament— (a) revised draft regulations, and (b) a statement giving a summary of the changes proposed",
+			"IF": "the Secretary of State wishes to proceed with the draft regulations but with material changes",
+			"AFTER": "the end of the 60-day period"
+		}
+	],
+
+	"section-268-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "make regulations in the terms of the revised draft regulations",
+			"IF": "the revised draft regulations are approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-270-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make such transitional, transitory or saving provision as the Secretary of State considers appropriate in connection with the coming into force of any provision of this Act"
+		}
+	],
+
+	"section-271-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make such provision as the Secretary of State considers appropriate in consequence of this Act"
+		}
+	],
+
+	"section-271-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power to make regulations under subsection (2)",
+			"TO": "be exercised by modifying any provision made by or under an enactment"
+		}
+	],
+
+	"section-272-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Her Majesty",
+			"TO": "by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man or any of the British overseas territories"
+		}
+	],
+
+	"section-272-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "This Act",
+			"TO": "be cited as the Investigatory Powers Act 2016"
+		}
+	]
+}

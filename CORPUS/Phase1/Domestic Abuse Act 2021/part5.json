@@ -1,0 +1,40 @@
+{
+	"to-exclude": ["section-62-1", "section-62-2", "section-62-3", "section-63-1", "section-63-3", "section-63-5", "section-64-3", "section-64-4", "section-67-1", "section-67-2", "section-67-3"],
+
+	"section-63-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Rules of court",
+			"TO": "provide that where P is, or is at risk of being, a victim of domestic abuse carried out by a person listed in subsection (3), it is to be assumed that the following matters are likely to be diminished by reason of vulnerability— (a) the quality of P's evidence; (b) where P is a party to the proceedings, P's participation in the proceedings"
+		}
+	],
+
+	"section-63-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "provide for an exception to the provision made by virtue of subsection (2)",
+			"WHERE": "P does not wish to be deemed to be eligible for the making of a special measures direction by virtue of that subsection"
+		}
+	],
+
+	"section-64-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Rules of court",
+			"TO": "make provision enabling the court to make a special measures direction in relation to a person who is a party or witness in civil proceedings where that person— (a) is, or is at risk of being, a victim of domestic abuse; (b) is the victim, or alleged victim, of a specified offence"
+		}
+	],
+
+	"section-64-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Rules made by virtue of subsection (1)",
+			"TO": "provide for the court to consider— (a) whether— (i) the quality of the person's evidence, or (ii) where the person is a party to the proceedings, the person's participation in the proceedings, is likely to be diminished by reason of vulnerability, and (b) if so, whether it is necessary to make one or more special measures directions"
+		}
+	]
+}

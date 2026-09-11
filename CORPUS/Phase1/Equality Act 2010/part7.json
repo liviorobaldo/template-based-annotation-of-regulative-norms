@@ -1,0 +1,251 @@
+{
+	"to-exclude": ["section-103-2", "section-104-1", "section-104-3", "section-104-4", "section-104-5", "section-104-6", "section-104-8", "section-105-1", "section-105-3", "section-105-4", "section-106-1", "section-106-5", "section-107-1", "section-107-2", "section-107-4", "section-107-5", "section-107-6", "section-107-7", "section-107-8", "section-107-9"],
+
+	"section-100-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-part"]
+		}
+	],
+
+	"section-100-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-part"]
+		}
+	],
+
+	"section-101-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to admit to membership; (b) as to the terms on which A is prepared to admit B to membership; (c) by not accepting B's application for membership"
+		}
+	],
+
+	"section-101-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a member (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of membership; (c) by varying B's terms of membership; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-101-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against an associate (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of B's rights as an associate; (c) by varying B's rights as an associate; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-101-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "harass— (a) a member; (b) a person seeking to become a member; (c) an associate"
+		}
+	],
+
+	"section-101-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to admit to membership; (b) as to the terms on which A is prepared to admit B to membership; (c) by not accepting B's application for membership"
+		}
+	],
+
+	"section-101-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a member (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of membership; (c) by varying B's terms of membership; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-101-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "victimise an associate— (a) in the way it affords the associate access, or by not affording the associate access, to a benefit, facility or service; (b) by depriving the associate of the associate's rights as an associate; (c) by varying the associate's rights as an associate; (d) by subjecting the associate to any other detriment"
+		}
+	],
+
+	"section-102-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to invite, or who to permit to be invited, as a guest; (b) as to the terms on which A is prepared to invite B, or to permit B to be invited, as a guest; (c) by not inviting B, or not permitting B to be invited, as a guest"
+		}
+	],
+
+	"section-102-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a guest (B) invited by A or with A's permission (whether express or implied)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-102-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "harass— (a) a guest; (b) a person seeking to be a guest"
+		}
+	],
+
+	"section-102-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to invite, or who to permit to be invited, as a guest; (b) as to the terms on which A is prepared to invite B, or to permit B to be invited, as a guest; (c) by not inviting B, or not permitting B to be invited, as a guest"
+		}
+	],
+
+	"section-102-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a guest (B) invited by A or with A's permission (whether express or implied)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-103-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an association",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-104-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "act in accordance with selection arrangements"
+		}
+	],
+
+	"section-104-7": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-6"]
+		},
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3-c"]
+		}
+	],
+
+	"section-105-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a Minister of the Crown",
+			"TO": "by order provide that subsection (1) is to have effect with the substitution of a later time for that for the time being specified there",
+			"AT": "any time before the end of 2030"
+		}
+	],
+
+	"section-106-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the party",
+			"TO": "publish information relating to protected characteristics of persons who come within a description prescribed in the regulations in accordance with subsection (3)",
+			"IN ACCORDANCE WITH": "regulations",
+			"IF": "the party had candidates at a relevant election"
+		}
+	],
+
+	"section-106-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "One or more of the following descriptions— (a) successful applicants for nomination as a candidate at the relevant election; (b) unsuccessful applicants for nomination as a candidate at that election; (c) candidates elected at that election; (d) candidates who are not elected at that election",
+			"TO": "be prescribed for the purposes of subsection (2)"
+		}
+	],
+
+	"section-106-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+	
+	"section-106-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-106-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide that the information to be published— (a) must (subject to subsection (6)) relate to all protected characteristics or only to such as are prescribed; (b) must include a statement, in respect of each protected characteristic to which the information relates, of the proportion that the number of persons who provided the information to the party bears to the number of persons who were asked to provide it"
+		}
+	],
+
+	"section-106-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "prescribe— (a) descriptions of information; (b) descriptions of political party to which the duty is to apply; (c) the time at which information is to be published; (d) the form and manner in which information is to be published; (e) the period for which information is to be published"
+		}
+	],
+
+	"section-106-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision by virtue of subsection (8)(b)",
+			"TO": "provide that the duty imposed by subsection (2) does not apply to a party which had candidates in fewer constituencies in the election concerned than a prescribed number"
+		}
+	],
+
+	"section-106-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "— (a) provide that the duty imposed by subsection (2) applies only to such relevant elections as are prescribed; (b) provide that a by-election or other election to fill a vacancy is not to be treated as a relevant election or is to be so treated only to a prescribed extent; (c) amend this section so as to provide for the duty imposed by subsection (2) to apply in the case of additional descriptions of election."
+		}
+	],
+
+	"section-106-11": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a political party",
+			"TO": "require a person to provide information to it"
+		}
+	],
+
+	"section-107-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend subsection (2)(a) so as to substitute a different number for that for the time being specified there"
+		}
+	]
+}

@@ -1,0 +1,836 @@
+{
+	"to-exclude": ["section-60A-1", "section-60A-7", "section-60A-8", "section-60A-9", "section-60A-10", "section-61-1", "section-61-7", "section-61-7A", "section-61-8", "section-61-9", "section-61A-1", "section-61A-7", "section-61A-8", "section-61A-9", "section-61A-10", "section-62-1", "section-62-3", "section-62-4", "section-62-5", "section-62-5A", "section-62-5B", "section-62-5C", "section-62-6", "section-62-7", "section-63-2", "section-63-3", "section-65-1", "section-65-3", "section-65-3A", "section-65-7", "section-66-3", "section-66-4", "section-66-5", "section-68-1", "section-68-5", "section-69-4", "section-69-9", "section-70-1", "section-70-2", "section-70-3", "section-70-4", "section-70-5", "section-70-7", "section-71-3", "section-72-1", "section-73-1", "section-73-2", "section-73-3A", "section-73-4", "section-73-5", "section-73-6", "section-73-7", "section-76-2", "section-76-3", "section-76-4", "section-77-1", "section-77-1A", "section-77-2", "section-77-4", "section-78-1", "section-78-2", "section-78-3", "section-78-3n1", "section-78-4", "section-78-4n1", "section-78-5", "section-78-6", "section-80-1", "section-80-2", "section-80-3", "section-80-3n1", "section-80-4", "section-80-4n1", "section-80-5", "section-80-6", "section-81-1", "section-81-2", "section-81-3", "section-82-2", "section-82-3", "section-83-3", "section-83-5", "section-84-1", "section-84-2", "section-85-4", "section-85-5", "section-86-1", "section-86-2", "section-86-2A", "section-86-3"],
+
+	"section-60A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "authorise the relevant public authority to engage in any conduct which— (a) is for the purpose of obtaining the data from any person, and (b) relates to— (i) a telecommunication system, or (ii) data derived from a telecommunication system"
+		}
+	],
+
+	"section-60A-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1", "subsection-2"]
+		}
+	],
+
+	"section-60A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Authorised conduct",
+			"TO": "consist of the relevant public authority— (a) obtaining the communications data itself from any person or telecommunication system, (b) asking any person whom the relevant public authority believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the person’s possession or subsequently obtained by that person) to the relevant public authority, or (c) requiring by notice a telecommunications operator whom the relevant public authority believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the operator’s possession or subsequently obtained by the operator) to the relevant public authority"
+		}
+	],
+
+	"section-60A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "relate to data whether or not in existence at the time of the authorisation"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "authorise the obtaining or disclosure of data by a person other than the relevant public authority, or any other conduct by such a person, which enables or facilitates the obtaining of the communications data concerned"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "require a telecommunications operator who controls or provides a telecommunications system to obtain or disclose data relating to the use of a telecommunications service provided by another telecommunications operator in relation to that system"
+		}
+	],
+
+	"section-60A-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "authorise any conduct consisting in the interception of communications in the course of their transmission by means of a telecommunication system"
+		}
+	],
+
+	"section-61-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The designated senior officer",
+			"TO": "authorise any officer of the authority to engage in any conduct which— (a) is for the purpose of obtaining the data from any person, and (b) relates to— (i) a telecommunication system, or (ii) data derived from a telecommunication system"
+		}
+	],
+
+	"section-61-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1", "subsection-2"]
+		}
+	],
+
+	"section-61-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Authorised conduct",
+			"TO": "consist of an authorised officer— (a) obtaining the communications data themselves from any person or telecommunication system, (b) asking any person whom the authorised officer believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the person's possession or subsequently obtained by that person) to a person identified by, or in accordance with, the authorisation, or (c) requiring by notice a telecommunications operator whom the authorised officer believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the operator's possession or subsequently obtained by the operator) to a person identified by, or in accordance with, the authorisation"
+		}
+	],
+
+	"section-61-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "relate to data whether or not in existence at the time of the authorisation"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "authorise the obtaining or disclosure of data by a person who is not an authorised officer, or any other conduct by such a person, which enables or facilitates the obtaining of the communications data concerned"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "require a telecommunications operator who controls or provides a telecommunication system to obtain or disclose data relating to the use of a telecommunications service provided by another telecommunications operator in relation to that system"
+		}
+	],
+
+	"section-61-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "authorise any conduct consisting in the interception of communications in the course of their transmission by means of a telecommunication system"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "authorise an authorised officer to ask or require, in the circumstances mentioned in subsection (4)(b) or (c), a person to disclose the data to any person other than— (i) an authorised officer, or (ii) an officer of the same relevant public authority as an authorised officer"
+		}
+	],
+
+	"section-61A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The designated senior officer",
+			"TO": "authorise any officer of the relevant public authority to engage in any conduct which— (a) is for the purpose of obtaining the data from any person, and (b) relates to— (i) a telecommunication system, or (ii) data derived from a telecommunication system"
+		}
+	],
+
+	"section-61A-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1", "subsection-2"]
+		}
+	],
+
+	"section-61A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Authorised conduct",
+			"TO": "consist of an authorised officer— (a) obtaining the communications data themselves from any person or telecommunication system, (b) asking any person whom the authorised officer believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the person’s possession or subsequently obtained by that person) to a person identified by, or in accordance with, the authorisation, or (c) requiring by notice a telecommunications operator whom the authorised officer believes is, or may be, in possession of the communications data or capable of obtaining it— (i) to obtain the data (if not already in possession of it), and (ii) to disclose the data (whether already in the operator’s possession or subsequently obtained by the operator) to a person identified by, or in accordance with, the authorisation"
+		}
+	],
+
+	"section-61A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "relate to data whether or not in existence at the time of the authorisation"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "authorise the obtaining or disclosure of data by a person who is not an authorised officer, or any other conduct by such a person, which enables or facilitates the obtaining of the communications data concerned"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "require a telecommunications operator who controls or provides a telecommunications system to obtain or disclose data relating to the use of a telecommunications service provided by another telecommunications operator in relation to that system"
+		}
+	],
+
+	"section-61A-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "authorise any conduct consisting in the interception of communications in the course of their transmission by means of a telecommunication system"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "authorise an authorised officer to ask or require, in the circumstances mentioned in subsection (4)(b) or (c), a person to disclose the data to any person other than— (i) an authorised officer, or (ii) an officer of the same relevant public authority as an authorised officer"
+		}
+	],
+
+	"section-62-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A designated senior officer of a relevant public authority which is not a local authority",
+			"TO": "grant an authorisation under section 61 or 61A for the purpose of obtaining data which is, or can only be obtained by processing, an internet connection record",
+			"UNLESS": "condition A, B, C or D2 is met"
+		}
+	],
+
+	"section-62-A1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "grant an authorisation under section 60A for the purpose of obtaining data which is, or can only be obtained by processing, an internet connection record",
+			"ON": "the application of a local authority"
+		}
+	],
+
+	"section-62-A2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "grant an authorisation under section 60A for the purpose of obtaining data which is, or can only be obtained by processing, an internet connection record",
+			"ON": "the application of a relevant public authority which is not a local authority",
+			"UNLESS": "condition A, B, C or D1 is met"
+		}
+	],
+
+	"section-63-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A designated senior officer",
+			"TO": "grant an authorisation under section 61 for the purposes of a specific investigation or a specific operation",
+			"IF": "the officer is working on that investigation or operation"
+		}
+	],
+
+	"section-64-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorisation",
+			"TO": "specify— (aa) whether the authorisation has been granted by the Investigatory Powers Commissioner under section 60A or by a designated senior officer under section 61 or 61A; (b) the matters falling within section 60A(7), 61(7) or 61A(7) (as applicable) by reference to which it is granted, (c) the conduct that is authorised, (d) the data or description of data to be obtained, and (e) the persons or descriptions of persons to whom the data is to be, or may be, disclosed or how to identify such persons"
+		}
+	],
+
+	"section-64-1A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorisation granted by a designated senior officer under section 61 or 61A",
+			"TO": "specify the office, rank or position held by the officer"
+		}
+	],
+
+	"section-64-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorisation which authorises a person to impose requirements by notice on a telecommunications operator",
+			"TO": "specify— (a) the operator concerned, and (b) the nature of the requirements that are to be imposed"
+		}
+	],
+
+	"section-64-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice itself",
+			"TO": "specify— (i) the office, rank or position held by the person giving it, (ii) the requirements that are being imposed, and (iii) the telecommunications operator on whom the requirements are being imposed"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice itself",
+			"TO": "be given in writing or (if not in writing) in a manner that produces a record of its having been given"
+		}
+	],
+
+	"section-64-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorisation",
+			"TO": "be applied for, and granted, in writing or (if not in writing) in a manner that produces a record of its having been applied for or granted"
+		}
+	],
+
+	"section-65-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an authorisation under section 60A or 61",
+			"TO": "be renewed by the grant of a further authorisation",
+			"AT": "any time before the end of that period"
+		}
+	],
+
+	"section-65-3B": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner or an officer of the authority",
+			"TO": "cancel an authorisation under section 60A to a relevant public authority",
+			"WHERE": "the Investigatory Powers Commissioner has granted it",
+			"AT": "any time"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner or an officer of the authority",
+			"TO": "cancel an authorisation under section 60A to a relevant public authority",
+			"WHERE": "the Investigatory Powers Commissioner has granted it",
+			"IF": "the Commissioner or (as the case may be) the officer considers that the requirements of this Part would not be satisfied in relation to granting an equivalent new authorisation"
+		}
+	],
+
+	"section-65-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A designated senior officer who has granted an authorisation under section 61 or 61A",
+			"TO": "cancel it",
+			"AT": "any time"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a designated senior officer who has granted an authorisation under section 61 or 61A",
+			"TO": "cancel it",
+			"IF": "the designated senior officer considers that the requirements of this Part would not be satisfied in relation to granting an equivalent new authorisation"
+		}
+	],
+
+	"section-65-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations provide for the person by whom any function under subsection (4) is to be exercised",
+			"WHERE": "the person who would otherwise have exercised it is no longer available to do so"
+		}
+	],
+
+	"section-65-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Such regulations",
+			"TO": "provide for the person by whom the function is to be exercised to be a person appointed in accordance with the regulations"
+		}
+	],
+
+	"section-66-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a telecommunications operator on whom a requirement is imposed by notice given in pursuance of an authorisation",
+			"TO": "comply with that requirement"
+		}
+	],
+
+	"section-66-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a telecommunications operator who is obtaining or disclosing communications data, in response to a request or requirement for the data in pursuance of an authorisation",
+			"TO": "obtain or disclose the data in a way that minimises the amount of data that needs to be processed for the purpose concerned"
+		}
+	],
+
+	"section-67-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "establish, maintain and operate arrangements for the purposes of— (a) assisting a person, who is considering whether to grant an authorisation, to determine whether the requirements of this Part in relation to granting the authorisation are satisfied, or (b) facilitating the lawful, efficient and effective obtaining of communications data from any person by relevant public authorities in pursuance of an authorisation"
+		}
+	],
+
+	"section-67-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Arrangements under subsection (1) (“filtering arrangements”)",
+			"TO": "involve the obtaining of communications data in pursuance of an authorisation (“the target data”) by means of— (a) a request to the Secretary of State to obtain the target data on behalf of an authorised officer, and (b) the Secretary of State— (i) obtaining the target data or data from which the target data may be derived, (ii) processing the target data or the data from which it may be derived (and retaining data temporarily for that purpose), and (iii) disclosing the target data to the person identified for this purpose by, or in accordance with, the authorisation"
+		}
+	],
+
+	"section-67-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Filtering arrangements",
+			"TO": "involve the generation or use by the Secretary of State of information— (a) for the purpose mentioned in subsection (1)(a), or (b) for the purposes of— (i) the support, maintenance, oversight, operation or administration of the arrangements, or (ii) the functions of the Investigatory Powers Commissioner mentioned in subsection (4) or (5)"
+		}
+	],
+
+	"section-67-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Filtering arrangements",
+			"TO": "involve the generation and retention of such information or documents as the Investigatory Powers Commissioner considers appropriate for the purposes of the functions of the Commissioner under section 229(1) of keeping under review the exercise by public authorities of functions under this Part"
+		}
+	],
+
+	"section-67-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Investigatory Powers Commissioner about the principles on the basis of which the Secretary of State intends to establish, maintain or operate any arrangements for the purpose mentioned in subsection (1)(a)"
+		}
+	],
+
+	"section-68-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The filtering arrangements",
+			"TO": "be used to obtain and disclose communications data in pursuance of an authorisation",
+			"ONLY IF": "the authorisation specifically authorises the use of the arrangements to obtain and disclose the data"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The filtering arrangements",
+			"TO": "process data in pursuance of an authorisation (and to retain the data temporarily for that purpose)",
+			"ONLY IF": "the authorisation specifically authorises processing data of that description under the arrangements (and their temporary retention for that purpose)"
+		}
+	],
+
+	"section-68-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An authorisation",
+			"TO": "record the decision of the person granting the authorisation as to— (a) whether the communications data to be obtained and disclosed in pursuance of the authorisation may be obtained and disclosed by use of the filtering arrangements, (b) whether the processing of data under the filtering arrangements (and its temporary retention for that purpose) is authorised, (c) if the processing of data under the filtering arrangements is authorised, the description of data that may be processed"
+		}
+	],
+
+	"section-68-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "grant an authorisation which authorises— (a) use of the filtering arrangements, or (b) processing under the filtering arrangements",
+			"UNLESS": "the condition in subsection (5) is met"
+		}
+	],
+
+	"section-69-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "secure— (a) that no authorisation data is obtained or processed under the filtering arrangements except for the purposes of an authorisation, (b) that data which— (i) has been obtained or processed under the filtering arrangements, and (ii) is to be disclosed in pursuance of an authorisation or for the purpose mentioned in section 67(1)(a), is disclosed only to the person to whom the data is to be disclosed in pursuance of the authorisation or (as the case may be) to the person considering whether to grant the authorisation, (c) that any authorisation data which is obtained under the filtering arrangements in pursuance of an authorisation is immediately destroyed— (i) when the purposes of the authorisation have been met, or (ii) if at any time it ceases to be necessary to retain the data for the purposes or purpose concerned"
+		}
+	],
+
+	"section-69-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "secure that data (other than authorisation data) which is retained under the filtering arrangements is disclosed only— (a) for the purpose mentioned in section 67(1)(a), (b) for the purposes of support, maintenance, oversight, operation or administration of the arrangements, (c) to the Investigatory Powers Commissioner for the purposes of the functions of the Commissioner mentioned in section 67(4) or (5), or (d) otherwise as authorised by law"
+		}
+	],
+
+	"section-69-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "secure that— (a) only the Secretary of State and designated individuals are permitted to read, obtain or otherwise process data for the purposes of support, maintenance, oversight, operation or administration of the filtering arrangements, and (b) no other persons are permitted to access or use the filtering arrangements except in pursuance of an authorisation or for the purpose mentioned in section 67(1)(a)"
+		}
+	],
+
+	"section-69-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) put in place and maintain an adequate security system to govern access to, and use of, the filtering arrangements and to protect against any abuse of the power of access, and (b) impose measures to protect against unauthorised or unlawful data retention, processing, access or disclosure"
+		}
+	],
+
+	"section-69-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) put in place and maintain procedures (including the regular testing of relevant software and hardware) to ensure that the filtering arrangements are functioning properly, and (b) report, as soon as possible after the end of each calendar year, to the Investigatory Powers Commissioner about the functioning of the filtering arrangements during that year"
+		}
+	],
+
+	"section-69-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a report under subsection (6)(b)",
+			"TO": "contain information about the destruction of authorisation data during the calendar year concerned"
+		}
+	],
+
+	"section-69-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "report that significant processing errors have occurred giving rise to a contravention of any of the requirements of this Part which relate to the filtering arrangements immediately to the Investigatory Powers Commissioner",
+			"IF": "the Secretary of State believes that fact has occurred"
+		}
+	],
+
+	"section-70-2A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation under section 60A",
+			"TO": "be granted on the application of a relevant public authority listed in column 1 of the table",
+			"ONLY IF": "section 60A(1)(a) is met in relation to a purpose within one of the paragraphs of section 60A(7) specified in the corresponding entry in column 2 of the table"
+		}
+	],
+
+	"section-70-5A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person who is a designated senior officer of a relevant public authority by virtue of subsection (3) and an entry in column 3 of the table",
+			"TO": "grant an authorisation under section 61",
+			"ONLY FOR": "obtaining communications data of the kind specified in the corresponding entry in column 4 of the table",
+			"ONLY IF": "section 61(1)(a) is met in relation to a purpose within the specified paragraph or, if more than one paragraph is specified, a purpose within one of them"
+		}
+	],
+
+	"section-70-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person who is a designated senior officer of a relevant public authority by virtue of subsection (3) and an entry in column 3 of the table",
+			"TO": "grant an authorisation under section 61A",
+			"ONLY FOR": "obtaining communications data of the kind specified in the corresponding entry in column 4 of the table",
+			"ONLY IF": "section 61A(1)(a) is met in relation to a purpose within the specified paragraph or, if more than one paragraph is specified, a purpose within one of them"
+		}
+	],
+
+	"section-71-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations modify section 70 or Schedule 4"
+		}
+	],
+
+	"section-71-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "— (a) add a public authority to, or remove a public authority from, the list in column 1 of the table, (b) modify an entry in column 2 of the table, (c) impose or remove restrictions on the authorisations that may be granted ..., (d) impose or remove restrictions on the circumstances in which or purposes for which the authorisations may be granted"
+		}
+	],
+
+	"section-71-2A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations adding a public authority to, or removing a public authority from, the list in column 1 of the table",
+			"TO": "do so",
+			"IN RELATION TO": "all or any of the following— (a) authorisations under section 60A by the Investigatory Powers Commissioner; (b) authorisations by a designated senior officer under section 61; (c) authorisations by a designated senior officer under section 61A"
+		}
+	],
+
+	"section-72-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Investigatory Powers Commissioner, and (b) the public authority to which the modifications relate",
+			"BEFORE": "making regulations to which this section applies"
+		}
+	],
+
+	"section-72-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statutory instrument containing regulations to which this section applies",
+			"TO": "be made",
+			"EXCEPT IN ACCORDANCE WITH": "the enhanced affirmative procedure"
+		}
+	],
+
+	"section-73-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An authorisation",
+			"TO": "be granted under section 60A on the application of a local authority",
+			"UNLESS": "— (a) section 60A(1)(a) is met in relation to a purpose within section 60A(7)(b), (b) the local authority is a party to a collaboration agreement (whether as a supplying authority or a subscribing authority or both), and (c) that collaboration agreement is certified by the Secretary of State (having regard to guidance given by virtue of section 79(6) and (7)) as being appropriate for the local authority"
+		}
+	],
+
+	"section-76-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the designated senior officer",
+			"TO": "consult a person who is acting as a single point of contact in relation to the granting of authorisations",
+			"BEFORE": "granting an authorisation under section 61 or 61A"
+		}
+	],
+
+	"section-76-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person acting as a single point of contact",
+			"TO": "advise an officer of a relevant public authority who is considering whether to apply for an authorisation about— (a) the most appropriate methods for obtaining data where the data concerned is processed by more than one telecommunications operator, (b) the cost, and resource implications, for— (i) the relevant public authority concerned of obtaining the data, and (ii) the telecommunications operator concerned of disclosing the data, (c) any unintended consequences of the proposed authorisation, and (d) any issues as to the lawfulness of the proposed authorisation"
+		}
+	],
+
+	"section-76-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person acting as a single point of contact",
+			"TO": "advise a designated senior officer who is considering whether to grant an authorisation about— (a) whether it is reasonably practical to obtain the data sought in pursuance of the proposed authorisation, (b) the cost, and resource implications, for— (i) the relevant public authority concerned of obtaining the data, and (ii) the telecommunications operator concerned of disclosing the data, (c) any unintended consequences of the proposed authorisation, and (d) any issues as to the lawfulness of the proposed authorisation"
+		}
+	],
+
+	"section-76-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person acting as a single point of contact",
+			"TO": "provide advice about— (a) whether requirements imposed by virtue of an authorisation have been met, (b) the use in support of operations or investigations of communications data obtained in pursuance of an authorisation, and (c) any other effects of an authorisation"
+		}
+	],
+
+	"section-76-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person acting as a single point of contact",
+			"TO": "also apply for, or be granted, an authorisation"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person acting as a single point of contact",
+			"TO": "grant an authorisation",
+			"IN THE CASE OF": "a designated senior officer"
+		}
+	],
+
+	"section-76-A1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer making an application for an authorisation under section 60A",
+			"TO": "consult a person who is acting as a single point of contact in relation to the making of applications",
+			"BEFORE": "making the application"
+		}
+	],
+
+	"section-77-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant public authority for which the authorisation has been granted",
+			"TO": "apply to a Judicial Commissioner for approval of the authorisation"
+		}
+	],
+
+	"section-77-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Judicial Commissioner",
+			"TO": "approve the authorisation",
+			"ONLY IF": "the Judicial Commissioner considers that— (a) at the time of the grant, there were reasonable grounds for considering that the requirements of this Part were satisfied in relation to the authorisation, and (b) at the time when the Judicial Commissioner is considering the matter, there are reasonable grounds for considering that the requirements of this Part would be satisfied if an equivalent new authorisation were granted at that time"
+		}
+	],
+
+	"section-77-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "have regard to— (a) the public interest in protecting a source of journalistic information, and (b) the need for there to be another overriding public interest before a relevant public authority seeks to identify or confirm a source of journalistic information",
+			"IN": "considering whether the position is as mentioned in subsection (5)(a) and (b)"
+		}
+	],
+
+	"section-77-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Judicial Commissioner",
+			"TO": "quash the authorisation",
+			"WHERE": "the Judicial Commissioner refuses to approve the grant of the authorisation",
+			"ON": "an application under this section"
+		}
+	],
+
+	"section-79-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A collaboration agreement",
+			"TO": "provide for payments to be made between parties to the agreement"
+		}
+	],
+
+	"section-79-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A collaboration agreement",
+			"TO": "be in writing"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A collaboration agreement",
+			"TO": "be varied by a subsequent collaboration agreement"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A collaboration agreement",
+			"TO": "be brought to an end by agreement between the parties to it"
+		}
+	],
+
+	"section-79-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person who makes a collaboration agreement",
+			"TO": "— (a) publish the agreement, or (b) publish the fact that the agreement has been made and such other details about it as the person considers appropriate"
+		}
+	],
+
+	"section-79-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A relevant public authority",
+			"TO": "enter into a collaboration agreement as a supplying authority, a subscribing authority or both (whether or not it would have power to do so apart from this section)"
+		}
+	],
+
+	"section-79-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct a relevant public authority to enter into a collaboration agreement",
+			"AFTER": "consulting the authority",
+			"IF": "the Secretary of State considers that entering into the agreement would assist the effective exercise by the authority, or another relevant public authority, of its functions under this Part"
+		}
+	],
+
+	"section-79-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a code of practice under Schedule 7",
+			"TO": "include guidance to relevant public authorities about collaboration agreements"
+		}
+	],
+
+	"section-79-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The guidance",
+			"TO": "include guidance about the criteria the Secretary of State will use in considering whether a collaboration agreement is appropriate for a relevant public authority"
+		}
+	],
+
+	"section-82-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a telecommunications operator, or any person employed or engaged for the purposes of the business of a telecommunications operator",
+			"TO": "disclose, without reasonable excuse, to any person the existence of— (a) any requirement imposed on the operator by virtue of this Part to disclose communications data relating to that person, or (b) any request made in pursuance of an authorisation for the operator to disclose such data"
+		}
+	],
+
+	"section-83-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations provide for— (a) any function under sections 67 to 69 which is exercisable by the Secretary of State to be exercisable instead by another public authority, or (b) any function under sections 67 to 69 which is exercisable by a public authority by virtue of paragraph (a) to be exercisable instead by the Secretary of State"
+		}
+	],
+
+	"section-83-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "modify any enactment about a public authority for the purpose of enabling or otherwise facilitating any function exercisable by the Secretary of State under this Part to be exercisable on behalf of the Secretary of State by the authority concerned"
+		}
+	],
+
+	"section-83-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-2"]
+		}
+	],
+
+	"section-85-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authorisation",
+			"TO": "relate to conduct outside the United Kingdom and persons outside the United Kingdom"
+		}
+	],
+
+	"section-85-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice given in pursuance of an authorisation",
+			"TO": "relate to conduct outside the United Kingdom and persons outside the United Kingdom"
+		}
+	],
+
+	"section-85-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice",
+			"TO": "be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)— (a) by delivering it to the person's principal office within the United Kingdom",
+			"WHERE": "such a notice is to be given to the person"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice",
+			"TO": "be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)— (a) by delivering it to any place in the United Kingdom where the person carries on business or conducts activities",
+			"WHERE": "such a notice is to be given to the person",
+			"IF": "the person has no such office in the United Kingdom"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice",
+			"TO": "be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)— (b) by delivering it to that address",
+			"IF": "the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept documents of the same description as a notice"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice",
+			"TO": "be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)— (c) by notifying the person by such other means as the authorised officer considers appropriate (which may include notifying the person orally)",
+			"WHERE": "such a notice is to be given to the person"
+		}
+	]
+}

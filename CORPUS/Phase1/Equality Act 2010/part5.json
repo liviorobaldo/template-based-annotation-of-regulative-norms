@@ -1,0 +1,1104 @@
+{
+	"to-exclude": ["section-39-7", "section-40-2", "section-40-3", "section-40-4", "section-40A-2", "section-40A-3", "section-41-5", "section-41-6", "section-41-7", "section-42-1", "section-42-2", "section-42-5", "section-42-6", "section-43-1", "section-43-2", "section-43-3", "section-43-4", "section-43-5", "section-43-5A", "section-43-7", "section-43-8", "section-43-9", "section-44-8", "section-46-1", "section-46-2", "section-46-3", "section-46-4", "section-46-5", "section-46-6", "section-47-8", "section-47-9", "section-48-8", "section-48-9", "section-49-1", "section-49-2", "section-49-10", "section-49-11", "section-49-12", "section-50-1", "section-50-2", "section-51-5", "section-52-1", "section-52-2", "section-52-3", "section-52-4", "section-52-5", "section-52-6", "section-52-7", "section-52-9", "section-53-7", "section-54-1", "section-54-2", "section-54-3", "section-54-4", "section-54-5", "section-54-6", "section-55-1", "section-55-7", "section-56-1", "section-56-2", "section-56-6", "section-56-7", "section-56-8", "section-57-7", "section-58-4", "section-58-5", "section-59-1", "section-59-2", "section-59-4", "section-59-5", "section-60-2", "section-60-3", "section-60-4", "section-60-5", "section-60-7", "section-60-9", "section-60-10", "section-60-11", "section-60-12", "section-60-13", "section-60A-2", "section-60A-3", "section-60A-4", "section-60A-5", "section-60A-6", "section-60A-7", "section-60A-8", "section-60A-9", "section-60A-10", "section-61-3", "section-61-4", "section-61-5", "section-61-6", "section-61-7", "section-61-8", "section-61-10", "section-62-1", "section-62-2", "section-62-5", "section-63-1", "section-63-2", "section-64-1", "section-64-2", "section-64-3", "section-65-1", "section-65-2", "section-65-3", "section-65-4", "section-65-5", "section-65-6", "section-66-1", "section-66-2", "section-66-3", "section-66-4", "section-66-5", "section-66-6", "section-67-1", "section-67-2", "section-67-2A", "section-67-2B", "section-67-3", "section-67-4", "section-67-5", "section-67-6", "section-67-7", "section-67-8", "section-67-9", "section-67-10", "section-68-1", "section-68-2", "section-68-5", "section-69-1", "section-69-2", "section-69-3", "section-69-4", "section-69-5", "section-69-6", "section-70-1", "section-70-2", "section-70-3", "section-71-1", "section-71-2", "section-73-1", "section-73-2", "section-73-3", "section-74-1", "section-74-2", "section-74-3", "section-74-4", "section-74-5", "section-74-6", "section-74-7", "section-74-8", "section-74-9", "section-75-1", "section-75-2", "section-75-3", "section-75-4", "section-75-5", "section-75-6", "section-75-7", "section-75-9", "section-75-10", "section-76-1", "section-76-1A", "section-76-2", "section-76-3", "section-77-1", "section-77-2", "section-77-3", "section-77-4", "section-77-5", "section-78-6", "section-78A-3", "section-78A-4", "section-78A-8", "section-79-1", "section-79-2", "section-79-3", "section-79-4", "section-79-4A", "section-79-4B", "section-79-5", "section-79-6", "section-79-7", "section-79-8", "section-79-9", "section-79-10", "section-80-1", "section-80-2", "section-80-3", "section-80-4", "section-80-5", "section-80-6", "section-80-7", "section-80-8", "section-81-1", "section-81-2", "section-81-3", "section-81-4", "section-81-5", "section-81-6", "section-82-3", "section-82-4", "section-82-5", "section-82-6", "section-82-7", "section-83-1", "section-83-2", "section-83-3", "section-83-4", "section-83-5", "section-83-6", "section-83-7", "section-83-9", "section-83-10", "section-83-11"],
+
+	"section-39-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employer (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding to whom to offer employment; (b) as to the terms on which A offers B employment; (c) by not offering B employment"
+		}
+	],
+
+	"section-39-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employer (A)",
+			"TO": "discriminate against an employee of A's (B)— (a) as to B's terms of employment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by dismissing B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employer (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding to whom to offer employment; (b) as to the terms on which A offers B employment; (c) by not offering B employment"
+		}
+	],
+
+	"section-39-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employer (A)",
+			"TO": "victimise an employee of A's (B)— (a) as to B's terms of employment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for any other benefit, facility or service; (c) by dismissing B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-39-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an employer",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-39-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1-b"]
+		}
+	],
+
+	"section-39-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-7-a"]
+		}
+	],
+
+	"section-40-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employer (A)",
+			"TO": "harass a person (B)— (a) who is an employee of A's; (b) who has applied to A for employment",
+			"IN RELATION TO": "employment by A"
+		}
+	],
+
+	"section-40A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An employer (A)",
+			"TO": "take reasonable steps to prevent sexual harassment of employees of A in the course of their employment"
+		}
+	],
+
+	"section-41-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A principal",
+			"TO": "discriminate against a contract worker— (a) as to the terms on which the principal allows the worker to do the work; (b) by not allowing the worker to do, or to continue to do, the work; (c) in the way the principal affords the worker access, or by not affording the worker access, to opportunities for receiving a benefit, facility or service; (d) by subjecting the worker to any other detriment"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A principal",
+			"TO": "harass a contract worker",
+			"IN RELATION TO": "contract work"
+		}
+	],
+
+	"section-41-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A principal",
+			"TO": "victimise a contract worker— (a) as to the terms on which the principal allows the worker to do the work; (b) by not allowing the worker to do, or to continue to do, the work; (c) in the way the principal affords the worker access, or by not affording the worker access, to opportunities for receiving a benefit, facility or service; (d) by subjecting the worker to any other detriment"
+		}
+	],
+
+	"section-41-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a principal (as well as to the employer of a contract worker)",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-42-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-42-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-44-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A firm or proposed firm",
+			"TO": "discriminate against a person— (a) in the arrangements it makes for deciding to whom to offer a position as a partner; (b) as to the terms on which it offers the person a position as a partner; (c) by not offering the person a position as a partner"
+		}
+	],
+
+	"section-44-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A firm (A)",
+			"TO": "discriminate against a partner (B)— (a) as to the terms on which B is a partner; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by expelling B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-44-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A firm",
+			"TO": "harass— (a) a partner; (b) a person who has applied for the position",
+			"IN RELATION TO": "a position as a partner"
+		}
+	],
+
+	"section-44-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A proposed firm",
+			"TO": "harass a person who has applied for a position as a partner",
+			"IN RELATION TO": "the position"
+		}
+	],
+
+	"section-44-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A firm or proposed firm",
+			"TO": "victimise a person— (a) in the arrangements it makes for deciding to whom to offer a position as a partner; (b) as to the terms on which it offers the person a position as a partner; (c) by not offering the person a position as a partner"
+		}
+	],
+
+	"section-44-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A firm (A)",
+			"TO": "victimise a partner (B)— (a) as to the terms on which B is a partner; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by expelling B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-44-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) a firm; (b) a proposed firm",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-45-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An LLP or proposed LLP",
+			"TO": "discriminate against a person— (a) in the arrangements it makes for deciding to whom to offer a position as a member; (b) as to the terms on which it offers the person a position as a member; (c) by not offering the person a position as a member"
+		}
+	],
+
+	"section-45-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An LLP (A)",
+			"TO": "discriminate against a member (B)— (a) as to the terms on which B is a member; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by expelling B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-45-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An LLP",
+			"TO": "harass— (a) a member; (b) a person who has applied for the position",
+			"IN RELATION TO": "a position as a member"
+		}
+	],
+
+	"section-45-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A proposed LLP",
+			"TO": "harass a person who has applied for the position",
+			"IN RELATION TO": "a position as a member"
+		}
+	],
+
+	"section-45-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An LLP or proposed LLP",
+			"TO": "victimise a person— (a) in the arrangements it makes for deciding to whom to offer a position as a member; (b) as to the terms on which it offers the person a position as a member; (c) by not offering the person a position as a member"
+		}
+	],
+
+	"section-45-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An LLP (A)",
+			"TO": "victimise a member (B)— (a) as to the terms on which B is a member; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by expelling B; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-45-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) an LLP; (b) a proposed LLP",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-46-7": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-6-a", "subsection-6-c"]
+		}
+	],
+
+	"section-47-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A barrister (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding to whom to offer a pupillage or tenancy; (b) as to the terms on which A offers B a pupillage or tenancy; (c) by not offering B a pupillage or tenancy"
+		}
+	],
+
+	"section-47-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A barrister (A)",
+			"TO": "discriminate against a person (B) who is a pupil or tenant— (a) as to the terms on which B is a pupil or tenant; (b) in the way A affords B access, or by not affording B access, to opportunities for training or gaining experience or for receiving any other benefit, facility or service; (c) by terminating the pupillage; (d) by subjecting B to pressure to leave chambers; (e) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-47-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A barrister",
+			"TO": "harass— (a) the pupil or tenant; (b) a person who has applied for the pupillage or tenancy",
+			"IN RELATION TO": "a pupillage or tenancy"
+		}
+	],
+
+	"section-47-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A barrister (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding to whom to offer a pupillage or tenancy; (b) as to the terms on which A offers B a pupillage or tenancy; (c) by not offering B a pupillage or tenancy"
+		}
+	],
+
+	"section-47-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A barrister (A)",
+			"TO": "victimise a person (B) who is a pupil or tenant— (a) as to the terms on which B is a pupil or tenant; (b) in the way A affords B access, or by not affording B access, to opportunities for training or gaining experience or for receiving any other benefit, facility or service; (c) by terminating the pupillage; (d) by subjecting B to pressure to leave chambers; (e) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-47-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "— (a) discriminate against a barrister by subjecting the barrister to a detriment; (b) harass the barrister; (c) victimise the barrister",
+			"IN RELATION TO": "instructing a barrister"
+		}
+	],
+
+	"section-47-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a barrister",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-48-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An advocate (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to take as A's devil or to whom to offer membership of a stable; (b) as to the terms on which A offers to take B as A's devil or offers B membership of a stable; (c) by not offering to take B as A's devil or not offering B membership of a stable"
+		}
+	],
+
+	"section-48-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An advocate (A)",
+			"TO": "discriminate against a person (B) who is a devil or a member of a stable— (a) as to the terms on which B is a devil or a member of the stable; (b) in the way A affords B access, or by not affording B access, to opportunities for training or gaining experience or for receiving any other benefit, facility or service; (c) by terminating A's relationship with B (where B is a devil); (d) by subjecting B to pressure to leave the stable; (e) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-48-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An advocate",
+			"TO": "harass— (a) a devil or member; (b) a person who has applied to be taken as the advocate's devil or to become a member of the stable",
+			"IN RELATION TO": "a relationship with a devil or membership of a stable"
+		}
+	],
+
+	"section-48-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An advocate (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to take as A's devil or to whom to offer membership of a stable; (b) as to the terms on which A offers to take B as A's devil or offers B membership of a stable; (c) by not offering to take B as A's devil or not offering B membership of a stable"
+		}
+	],
+
+	"section-48-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An advocate (A)",
+			"TO": "victimise a person (B) who is a devil or a member of a stable— (a) as to the terms on which B is a devil or a member of the stable; (b) in the way A affords B access, or by not affording B access, to opportunities for training or gaining experience or for receiving any other benefit, facility or service; (c) by terminating A's relationship with B (where B is a devil); (d) by subjecting B to pressure to leave the stable; (e) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-48-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "— (a) discriminate against the advocate by subjecting the advocate to a detriment; (b) harass the advocate; (c) victimise the advocate",
+			"IN RELATION TO": "instructing an advocate"
+		}
+	],
+
+	"section-48-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an advocate",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-49-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make an appointment to a personal office",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding to whom to offer the appointment; (b) as to the terms on which A offers B the appointment; (c) by not offering B the appointment"
+		}
+	],
+
+	"section-49-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person who has the power to make an appointment to a personal office",
+			"TO": "harass a person seeking, or being considered for, the appointment",
+			"IN RELATION TO": "the office"
+		}
+	],
+
+	"section-49-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make an appointment to a personal office",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding to whom to offer the appointment; (b) as to the terms on which A offers B the appointment; (c) by not offering B the appointment"
+		}
+	],
+
+	"section-49-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who is a relevant person in relation to a personal office",
+			"TO": "discriminate against a person (B) appointed to the office— (a) as to the terms of B's appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by terminating B's appointment; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-49-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A relevant person in relation to a personal office",
+			"TO": "harass a person appointed to it",
+			"IN RELATION TO": "that office"
+		}
+	],
+
+	"section-49-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (A) who is a relevant person in relation to a personal office",
+			"TO": "victimise a person (B) appointed to the office— (a) as to the terms of B's appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by terminating B's appointment; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-49-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) a person who has the power to make an appointment to a personal office; (b) a relevant person in relation to a personal office",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-50-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make an appointment to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding to whom to offer the appointment; (b) as to the terms on which A offers B the appointment; (c) by not offering B the appointment"
+		}
+	],
+
+	"section-50-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person who has the power to make an appointment to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "harass a person seeking, or being considered for, the appointment",
+			"IN RELATION TO": "the office"
+		}
+	],
+
+	"section-50-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make an appointment to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding to whom to offer the appointment; (b) as to the terms on which A offers B the appointment; (c) by not offering B the appointment"
+		}
+	],
+
+	"section-50-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who is a relevant person in relation to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "discriminate against a person (B) appointed to the office— (a) as to B's terms of appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by terminating the appointment; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-50-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who is a relevant person in relation to a public office within subsection (2)(c)",
+			"TO": "discriminate against a person (B) appointed to the office— (a) as to B's terms of appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by subjecting B to any other detriment (other than by terminating the appointment)"
+		}
+	],
+
+	"section-50-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A relevant person in relation to a public office",
+			"TO": "harass a person appointed to it",
+			"IN RELATION TO": "that office"
+		}
+	],
+
+	"section-50-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who is a relevant person in relation to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "victimise a person (B) appointed to the office— (a) as to B's terms of appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by terminating the appointment; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-50-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who is a relevant person in relation to a public office within subsection (2)(c)",
+			"TO": "victimise a person (B) appointed to the office— (a) as to B's terms of appointment; (b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service; (c) by subjecting B to any other detriment (other than by terminating the appointment)"
+		}
+	],
+
+	"section-50-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) a relevant person in relation to a public office; (b) a person who has the power to make an appointment to a public office within subsection (2)(a), (b) or (d)",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-50-12": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-3-b"]
+		}
+	],
+
+	"section-51-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make a recommendation for or give approval to an appointment to a public office within section 50(2)(a), (b) or (d)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to recommend for appointment or to whose appointment to give approval; (b) by not recommending B for appointment to the office; (c) by making a negative recommendation of B for appointment to the office; (d) by not giving approval to the appointment of B to the office"
+		}
+	],
+
+	"section-51-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person who has the power to make a recommendation for or give approval to an appointment to a public office within section 50(2)(a), (b) or (d)",
+			"TO": "harass a person seeking or being considered for the recommendation or approval",
+			"IN RELATION TO": "the office"
+		}
+	],
+
+	"section-51-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) who has the power to make a recommendation for or give approval to an appointment to a public office within section 50(2)(a), (b) or (d)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to recommend for appointment or to whose appointment to give approval; (b) by not recommending B for appointment to the office; (c) by making a negative recommendation of B for appointment to the office; (d) by not giving approval to the appointment of B to the office"
+		}
+	],
+
+	"section-51-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person who has the power to make a recommendation for or give approval to an appointment to a public office within section 50(2)(a), (b) or (d)",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-52-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-7-a"]
+		}
+	],
+
+	"section-53-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A qualifications body (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding upon whom to confer a relevant qualification; (b) as to the terms on which it is prepared to confer a relevant qualification on B; (c) by not conferring a relevant qualification on B"
+		}
+	],
+
+	"section-53-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A qualifications body (A)",
+			"TO": "discriminate against a person (B) upon whom A has conferred a relevant qualification— (a) by withdrawing the qualification from B; (b) by varying the terms on which B holds the qualification; (c) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-53-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A qualifications body",
+			"TO": "harass— (a) a person who holds the qualification, or (b) a person who applies for it",
+			"IN RELATION TO": "conferment by it of a relevant qualification"
+		}
+	],
+
+	"section-53-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A qualifications body (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding upon whom to confer a relevant qualification; (b) as to the terms on which it is prepared to confer a relevant qualification on B; (c) by not conferring a relevant qualification on B"
+		}
+	],
+
+	"section-53-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A qualifications body (A)",
+			"TO": "victimise a person (B) upon whom A has conferred a relevant qualification— (a) by withdrawing the qualification from B; (b) by varying the terms on which B holds the qualification; (c) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-53-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a qualifications body",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-55-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employment service-provider (A)",
+			"TO": "discriminate against a person (B)— (a) as to the terms on which A provides the service to B; (b) by not providing the service to B; (c) by terminating the provision of the service to B; (d) by subjecting B to any other detriment",
+			"IN RELATION TO": "in relation to the provision of an employment service"
+		}
+	],
+
+	"section-55-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employment service-provider",
+			"TO": "harass— (a) a person who asks the service-provider to provide the service; (b) a person for whom the service-provider provides the service",
+			"IN RELATION TO": "the provision of an employment service"
+		}
+	],
+
+	"section-55-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employment service-provider (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for selecting persons to whom to provide, or to whom to offer to provide, the service; (b) as to the terms on which A offers to provide the service to B; (c) by not offering to provide the service to B"
+		}
+	],
+
+	"section-55-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An employment service-provider (A)",
+			"TO": "victimise a person (B)— (a) as to the terms on which A provides the service to B; (b) by not providing the service to B; (c) by terminating the provision of the service to B; (d) by subjecting B to any other detriment",
+			"IN RELATION TO": "the provision of an employment service"
+		}
+	],
+
+	"section-55-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an employment service-provider",
+			"TO": "make reasonable adjustments",
+			"EXCEPT IN RELATION TO": "the provision of a vocational service"
+		}
+	],
+
+	"section-56-3": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-56-4": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-56-5": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-57-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A trade organisation (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding to whom to offer membership of the organisation; (b) as to the terms on which it is prepared to admit B as a member; (c) by not accepting B's application for membership"
+		}
+	],
+
+	"section-57-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A trade organisation (A)",
+			"TO": "discriminate against a member (B)— (a) in the way it affords B access, or by not affording B access, to opportunities for receiving a benefit, facility or service; (b) by depriving B of membership; (c) by varying the terms on which B is a member; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-57-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A trade organisation",
+			"TO": "harass— (a) a member, or (b) an applicant for membership",
+			"IN RELATION TO": "membership of it"
+		}
+	],
+
+	"section-57-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A trade organisation (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding to whom to offer membership of the organisation; (b) as to the terms on which it is prepared to admit B as a member; (c) by not accepting B's application for membership"
+		}
+	],
+
+	"section-57-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A trade organisation (A)",
+			"TO": "victimise a member (B)— (a) in the way it affords B access, or by not affording B access, to opportunities for receiving a benefit, facility or service; (b) by depriving B of membership; (c) by varying the terms on which B is a member; (d) by subjecting B to any other detriment"
+		}
+	],
+
+	"section-57-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a trade organisation",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-58-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A local authority",
+			"TO": "discriminate against a member of the authority",
+			"IN RELATION TO": "the member's carrying out of official business— (a) in the way the authority affords the member access, or by not affording the member access, to opportunities for training or for receiving any other facility; (b) by subjecting the member to any other detriment"
+		}
+	],
+
+	"section-58-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A local authority",
+			"TO": "harass a member",
+			"IN RELATION TO": "the member's carrying out of official business"
+		}
+	],
+
+	"section-58-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A local authority",
+			"TO": "victimise a member of the authority",
+			"IN RELATION TO": "the member's carrying out of official business— (a) in the way the authority affords the member access, or by not affording the member access, to opportunities for training or for receiving any other facility; (b) by subjecting the member to any other detriment"
+		}
+	],
+
+	"section-58-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-59-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend subsection (2) so as to add, vary or omit a reference to a body which exercises functions that have been conferred on a local authority within paragraph (a) to (l)"
+		}
+	],
+
+	"section-60-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) to whom an application for work is made",
+			"TO": "ask about the health of the applicant (B)",
+			"BEFORE": "offering work to B"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A) to whom an application for work is made",
+			"TO": "ask about the health of the applicant (B)",
+			"WHERE": "A is not in a position to offer work to B",
+			"BEFORE": "including B in a pool of applicants from whom A intends (when in a position to do so) to select a person to whom to offer work"
+		}
+	],
+
+	"section-60-6": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-60-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-6-e"]
+		}
+	],
+
+	"section-60-14": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-60A-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A)",
+			"TO": "make a discriminatory statement",
+			"IN CONNECTION WITH": "a relevant decision that A makes or might make"
+		}
+	],
+
+	"section-61-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An occupational pension scheme",
+			"TO": "be taken to include a non-discrimination rule"
+		}
+	],
+
+	"section-61-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a responsible person (A)",
+			"TO": "discriminate against another person (B)",
+			"IN": "carrying out any of A's functions in relation to the scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a responsible person (A)",
+			"TO": "harass B",
+			"IN RELATION TO": "the scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a responsible person (A)",
+			"TO": "victimise B",
+			"IN RELATION TO": "the scheme"
+		}
+	],
+
+	"section-61-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order authorising the use of rules, practices, actions or decisions which are not in use before the order comes into force",
+			"TO": "be made",
+			"UNLESS": "the Minister consults such persons as the Minister thinks appropriate"
+		}
+	],
+
+	"section-61-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a responsible person",
+			"TO": "make reasonable adjustments"
+		}
+	],
+
+	"section-62-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The trustees or managers",
+			"TO": "by resolution make non-discrimination alterations to the scheme"
+		}
+	],
+
+	"section-62-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Non-discrimination alterations",
+			"TO": "have effect",
+			"IN RELATION TO": "a period",
+			"BEFORE": "the date on which they are made"
+		}
+	],
+
+	"section-68-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The trustees or managers",
+			"TO": "by resolution make sex equality alterations to the scheme"
+		}
+	],
+
+	"section-68-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Sex equality alterations",
+			"TO": "have effect",
+			"IN RELATION TO": "a period before the date on which they are made"
+		}
+	],
+
+	"section-74-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A reference to the protected period",
+			"TO": "be construed in accordance with section 18"
+		}
+	],
+
+	"section-75-8": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-78-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "require employers to publish information relating to the pay of employees for the purpose of showing whether, by reference to factors of such description as is prescribed, there are differences in the pay of male and female employees"
+		}
+	],
+
+	"section-78-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-78-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "prescribe— (a) descriptions of employer; (b) descriptions of employee; (c) how to calculate the number of employees that an employer has; (d) descriptions of information; (e) the time at which information is to be published; (f) the form and manner in which it is to be published"
+		}
+	],
+
+	"section-78-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Regulations under subsection (3)(e)",
+			"TO": "require an employer to publish information more frequently than at intervals of 12 months",
+			"AFTER": "the first publication of information"
+		}
+	],
+
+	"section-78-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "make provision for a failure to comply with the regulations— (a) to be an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale; (b) to be enforced, otherwise than as an offence, by such means as are prescribed"
+		}
+	],
+
+	"section-78A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "require employers to— (a) develop and publish a plan (an “equality action plan”) showing the steps that the employers are taking in relation to their employees with regard to prescribed matters related to gender equality, and (b) publish prescribed information relating to the plan"
+		}
+	],
+
+	"section-78A-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["whole-section"]
+		}
+	],
+
+	"section-78A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "make provision about— (a) the content of a plan; (b) the form and manner in which a plan or information is to be published; (c) when and how frequently a plan or information is to be published or revised; (d) requirements for senior approval before a plan or information is published; (e) descriptions of employers; (f) descriptions of employee; (g) descriptions of information"
+		}
+	],
+
+	"section-78A-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The regulations",
+			"TO": "require an employer to publish information more frequently than at intervals of 12 months",
+			"AFTER": "the first publication of information"
+		}
+	],
+
+	"section-78A-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "make provision for a failure to comply with the regulations to be enforced, otherwise than as an offence, by such means as are prescribed"
+		}
+	],
+
+	"section-78A-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A Minister of the Crown",
+			"TO": "consult— (a) the Commission, before making regulations under this section that apply to a public authority, and (b) the Welsh Ministers, before making regulations under this section that apply to a public authority specified in Part 4 of Schedule 19 with the letter “D” included after the entry"
+		}
+	],
+
+	"section-82-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Her Majesty",
+			"TO": "by Order in Council provide that in the case of persons in offshore work— (a) specified provisions of this Part apply (with or without modification); (b) Northern Ireland legislation making provision for purposes corresponding to any of the purposes of this Part applies (with or without modification)"
+		}
+	],
+
+	"section-82-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Order",
+			"TO": "— (a) provide for these provisions, as applied by the Order, to apply to individuals (whether or not British citizens) and bodies corporate (whether or not incorporated under the law of a part of the United Kingdom), whether or not such application affects activities outside the United Kingdom; (b) make provision for conferring jurisdiction on a specified court or class of court or on employment tribunals in respect of offences, causes of action or other matters arising in connection with offshore work; (c) exclude from the operation of section 3 of the Territorial Waters Jurisdiction Act 1878 (consents required for prosecutions) proceedings for offences under the provisions mentioned in subsection (1) in connection with offshore work; (d) provide that such proceedings must not be brought without such consent as may be required by the Order"
+		}
+	],
+
+	"section-83-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A reference to a personal or public office, or to an appointment to a personal or public office",
+			"TO": "be construed",
+			"IN ACCORDANCE WITH": "section 52"
+		}
+	]
+}

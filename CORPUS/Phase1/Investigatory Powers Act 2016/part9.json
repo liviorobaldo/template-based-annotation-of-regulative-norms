@@ -1,0 +1,449 @@
+{
+	"to-exclude": ["section-226E-1", "section-226E-2", "section-226F-2", "section-226FA-2", "section-226G-5", "section-226G-6", "section-226G-7", "section-226G-8", "section-226GB-1", "section-226GB-4", "section-226GB-5", "section-226GB-7", "section-226H-1", "section-226H-2", "section-226H-3", "section-226HA-2", "section-226HA-3", "section-226HA-5", "section-226HA-6", "section-226HB-3", "section-226HC-1", "section-226HC-3", "section-226I-1", "section-226I-3", "section-226I-5", "section-226I-6", "section-226IB-1", "section-226IB-7", "section-226IB-9", "section-226IB-13", "section-226IC-1", "section-226IC-5", "section-226IC-7", "section-226ID-2", "section-226ID-3", "section-226IE-1", "section-226IE-3"],
+
+	"section-226F-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "exercise a power to examine a third party bulk personal dataset",
+			"UNLESS": "the examination of the dataset is authorised by a third party BPD warrant"
+		}
+	],
+
+	"section-226F-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a third party BPD warrant",
+			"TO": "authorise the examination of a bulk personal dataset— (a) the content of which may vary from time to time, or (b) that does not exist at the time of the issue of the warrant"
+		}
+	],
+
+	"section-226FA-1": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["section-226F-1"]
+		}
+	],
+
+	"section-226G-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on their behalf",
+			"TO": "apply to the Secretary of State for a third party BPD warrant"
+		}
+	],
+
+	"section-226G-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "include a general description of the bulk personal dataset (or datasets) to which the application relates"
+		}
+	],
+
+	"section-226G-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the application",
+			"TO": "include a statement to that effect",
+			"WHERE": "the person making the application knows that subsection (6) applies to any bulk personal dataset to which the application relates"
+		}
+	],
+
+	"section-226G-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue the warrant",
+			"IF": "— (a) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, (ii) for the purposes of preventing or detecting serious crime, or (iii) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security, (b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by the conduct, (c) the Secretary of State considers that the arrangements made by the intelligence service for examining the bulk personal dataset (or datasets) to which the application relates are satisfactory, and (d) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-226G-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for a third party BPD warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-226GA-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State’s conclusions as to the following matters— (a) whether the warrant is necessary on grounds falling within section 226G (4) (a), and (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct",
+			"IN": "deciding whether to approve a decision to issue a third party BPD warrant"
+		}
+	],
+
+	"section-226GA-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-226GA-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to issue a third party BPD warrant"
+		}
+	],
+
+	"section-226GA-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue a third party BPD warrant"
+		}
+	],
+
+	"section-226GB-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that it has been issued"
+		}
+	],
+
+	"section-226GB-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to issue the warrant, and (b) notify the Secretary of State of the Judicial Commissioner’s decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-226GB-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service to whom the warrant was addressed",
+			"TO": "secure that anything in the process of being done in reliance on the warrant stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-226GC-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to issue a third party BPD warrant",
+			"TO": "be taken personally by the Secretary of State"
+		}
+	],
+
+	"section-226GC-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a third party BPD warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued"
+		}
+	],
+
+	"section-226GC-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a third party BPD warrant",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the warrant to be signed by the Secretary of State"
+		}
+	],
+
+	"section-226GC-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the warrant",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the warrant to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the issue of the warrant",
+			"IN": "such a case"
+		}
+	],
+
+	"section-226HA-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a third party BPD warrant",
+			"TO": "be renewed by an instrument issued by the Secretary of State",
+			"AT": "any time during the renewal period",
+			"IF": "the renewal conditions are met"
+		}
+	],
+
+	"section-226HA-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to renew a third party BPD warrant",
+			"TO": "be taken personally by the Secretary of State"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument renewing the warrant",
+			"TO": "be signed by the Secretary of State"
+		}
+	],
+
+	"section-226HB-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a third party BPD warrant",
+			"AT": "any time"
+		}
+	],
+
+	"section-226HB-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a third party BPD warrant",
+			"IF": "the person considers that any of the cancellation conditions are met in relation to the warrant"
+		}
+	],
+
+	"section-226HC-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service to whom the warrant was addressed",
+			"TO": "secure that anything in the process of being done in reliance on the warrant stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-226I-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of the intelligence service, or a person acting on their behalf",
+			"TO": "carry out an initial inspection of the contents of the set for the purpose of deciding whether, if the intelligence service were to examine it after that initial inspection— (a) the intelligence service would be examining a third party bulk personal dataset (see section  226E) , and (b) such examination would be necessary and proportionate in all the circumstances"
+		}
+	],
+
+	"section-226I-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service, or a person acting on their behalf",
+			"TO": "decide whether to examine the third party bulk personal dataset"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service, or a person acting on their behalf",
+			"TO": "apply for a third party BPD warrant",
+			"IF": "they decide to do so"
+		}
+	],
+
+	"section-226I-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of this section, act on behalf of the head of an intelligence service"
+		}
+	],
+
+	"section-226IA-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that any examination of data contained in the dataset is necessary and proportionate in all the circumstances",
+			"IN RELATION TO": "every third party BPD warrant which authorises the examination of a bulk personal dataset"
+		}
+	],
+
+	"section-226IA-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "have regard to the information that is reasonably available to the intelligence services in relation to the examination of such data",
+			"IN": "doing so"
+		}
+	],
+
+	"section-226IB-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be examined using the relevant criteria",
+			"IF": "the relevant criteria are referable to an individual known to be in the British Islands at the time of the examination",
+			"ONLY IF": "the Secretary of State has approved the use of those criteria"
+		}
+	],
+
+	"section-226IB-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be examined using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria",
+			"IN": "any other case"
+		}
+	],
+
+	"section-226IB-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give approval for the purposes of subsection (2)",
+			"ONLY WITH": "the approval of a Judicial Commissioner"
+		}
+	],
+
+	"section-226IB-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Approval",
+			"TO": "be given under subsection (2) or (3)",
+			"ONLY IF": "where subsection (1)(a) applies, the Secretary of State or (as the case may be) the senior official considers that there are exceptional and compelling circumstances that make it necessary to authorise the use of the relevant criteria"
+		}
+	],
+
+	"section-226IB-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State or (as the case may be) the senior official",
+			"TO": "have regard to the public interest in the confidentiality of items subject to legal privilege",
+			"IN": "deciding whether to give an approval under subsection (2) or (3) in a case where subsection (1) (a) applies"
+		}
+	],
+
+	"section-226IB-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "deciding whether to give approval for the purposes of subsection (4)"
+		}
+	],
+
+	"section-226IB-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be examined using the relevant criteria",
+			"IF": "the relevant criteria are referable to an individual known to be in the British Islands at the time of the examination",
+			"ONLY IF": "the Secretary of State has approved the use of those criteria"
+		}
+	],
+
+	"section-226IB-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be examined using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria",
+			"IN": "any other case"
+		}
+	],
+
+	"section-226IB-12": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Approval",
+			"TO": "be given under subsection (10) or (11)",
+			"ONLY IF": "the Secretary of State or (as the case may be) the senior official considers that the targeted data or the underlying material is likely to be data or underlying material created or held with the intention of furthering a criminal purpose"
+		}
+	],
+
+	"section-226IC-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person to whom the third party BPD warrant (mentioned in subsection (1)(a)) is addressed",
+			"TO": "inform the Investigatory Powers Commissioner",
+			"AS SOON AS": "reasonably practicable after retaining the item"
+		}
+	],
+
+	"section-226IC-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) direct that the item is destroyed, or (b) impose one or more conditions as to the use or retention of that item",
+			"UNLESS": "the Commissioner considers that subsection (5) applies to the item"
+		}
+	],
+
+	"section-226IC-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions under subsection (3)(b) as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of items subject to legal privilege",
+			"IF": "the Commissioner considers that subsection (5) applies to the item"
+		}
+	],
+
+	"section-226IC-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsection (3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-226ID-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "— (a) examine, in reliance on a third party BPD warrant, any data contained in a third party bulk personal dataset, (b) know or believe that the examination of that data is in breach of the requirement specified in subsection (2), and (c) deliberately examine that data in breach of that requirement"
+		}
+	],
+
+	"section-226ID-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings for any offence which is an offence by virtue of this section",
+			"TO": "be instituted— (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions; (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland"
+		}
+	]
+}
