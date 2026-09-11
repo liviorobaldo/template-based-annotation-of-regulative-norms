@@ -1,0 +1,1009 @@
+{
+	"to-exclude": ["section-85-2A", "section-85-2ZA", "section-85-3", "section-85-3A", "section-85-5", "section-86-8", "section-86A-1", "section-86A-7", "section-87-1A", "section-87-9C", "section-87-10", "section-87-11", "section-87-12", "section-87A-2", "section-87A-3", "section-87A-6", "section-87B-4", "section-88-1", "section-88-2", "section-90-1", "section-90-2", "section-90-3", "section-91-1", "section-91-1A", "section-91-2", "section-91-2A", "section-91-3", "section-91-4", "section-91-5", "section-91-5A", "section-91-6", "section-91-7", "section-91-8", "section-91-9", "section-91-10", "section-91-10A", "section-91-11", "section-91-12", "section-91-13", "section-91A-1", "section-91A-2", "section-91A-3", "section-91A-6", "section-92-1", "section-92-2", "section-92-3", "section-92-4", "section-92-5", "section-92-6", "section-92-7", "section-92-8", "section-92-9", "section-92-10", "section-92-10A", "section-92-11", "section-93-3", "section-93-4", "section-93-5", "section-95-3", "section-96-1", "section-96-6", "section-96-7", "section-97-1", "section-97-5", "section-97-7", "section-97-8", "section-99-1", "section-99-2", "section-99-3", "section-99-4", "section-99-5", "section-100-1", "section-100-5", "section-101-4", "section-102-3A", "section-102-6", "section-103-1", "section-103-2", "section-104-2", "section-104-2A", "section-104-3AA", "section-104-3AB", "section-104-3B", "section-104-3BA", "section-104-3BB", "section-104-3C", "section-104A-2", "section-105-1", "section-105-2", "section-105-3", "section-105-4", "section-105-5", "section-105-5A", "section-105-5B", "section-105-6", "section-105-7", "section-105-7B", "section-108-2", "section-108-4", "section-108-5", "section-108-6", "section-108-7", "section-108-10", "section-108-11", "section-108-12"],
+
+	"section-85-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "any Special Health Authority, National Health Service trust or NHS foundation trust or a local authority in England in the exercise of education functions (“the accommodating authority”)",
+			"TO": "notify the appropriate officer of the responsible authority",
+			"WHERE": "a child is provided with accommodation in England by the accommodating authority — (a) for a consecutive period of at least three months; or (b) with the intention, on the part of that authority, of accommodating him for such a period"
+		}
+	],
+
+	"section-85-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the accommodating authority",
+			"TO": "notify the appropriate officer of the responsible authority when they cease to accommodate a child",
+			"WHERE": "subsection (1) applies with respect to the child"
+		}
+	],
+
+	"section-85-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority in England",
+			"TO": "— (a) take such steps as are reasonably practicable to enable them to determine whether the child’s welfare is adequately safeguarded and promoted while he is accommodated by the accommodating authority; and (b) consider the extent to which (if at all) they should exercise any of their functions under this Act with respect to the child",
+			"WHERE": "the appropriate officer of the local authority has been notified under this section, or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities)"
+		}
+	],
+
+	"section-86-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person carrying on the establishment in question",
+			"TO": "notify the appropriate officer of the local authority within whose area the establishment is carried on",
+			"WHERE": "a child is provided with accommodation in England in any care home or independent hospital — (a) for a consecutive period of at least three months; or (b) with the intention, on the part of the person taking the decision to accommodate him, of accommodating him for such period"
+		}
+	],
+
+	"section-86-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person carrying on the establishment",
+			"TO": "notify the appropriate officer of that authority when he ceases to accommodate a child in the establishment",
+			"WHERE": "subsection (1) applies with respect to the child"
+		}
+	],
+
+	"section-86-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "— (a) take such steps as are reasonably practicable to enable them to determine whether the child’s welfare is adequately safeguarded and promoted while he is accommodated in the establishment in question; and (b) consider the extent to which (if at all) they should exercise any of their functions under this Act with respect to the child",
+			"WHERE": "the appropriate officer of the local authority has been notified under this section"
+		}
+	],
+
+	"section-86-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the person carrying on any care home or independent hospital",
+			"TO": "fail, without reasonable excuse, to comply with this section"
+		}
+	],
+
+	"section-86-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person authorised by a local authority in England",
+			"TO": "enter any care home or independent hospital within the authority’s area",
+			"FOR_2": "the purpose of establishing whether the requirements of this section have been complied with"
+		}
+	],
+
+	"section-86-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Any person",
+			"TO": "intentionally obstruct another in the exercise of the power of entry"
+		}
+	],
+
+	"section-86-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any person exercising the power of entry",
+			"TO": "produce some duly authenticated document showing his authority to do so",
+			"IF": "so required"
+		}
+	],
+
+	"section-86A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority",
+			"TO": "make arrangements for the child to be visited by a representative of the authority (“a representative”)",
+			"IN ACCORDANCE WITH": "regulations made under this section"
+		}
+	],
+
+	"section-86A-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a representative",
+			"TO": "provide advice and assistance to the local authority on the performance of their duties under section 85(4) or, as the case may be, 86(3)"
+		}
+	],
+
+	"section-86A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about— (a) the frequency of visits under visiting arrangements; (b) circumstances in which visiting arrangements must require a child to be visited; and (c) additional functions of a representative"
+		}
+	],
+
+	"section-86A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this section",
+			"TO": "be made by the Secretary of State"
+		}
+	],
+
+	"section-86A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "satisfy themselves that the person chosen has the necessary skills and experience to perform the functions of a representative",
+			"IN": "choosing a representative"
+		}
+	],
+
+	"section-87-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the relevant person",
+			"TO": "safeguard and promote any child’s welfare",
+			"WHERE": "a school or college provides accommodation for the child"
+		}
+	],
+
+	"section-87-2": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-1"]
+		}
+	],
+
+	"section-87-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate authority",
+			"TO": "take such steps as are reasonably practicable to enable any school or college to determine whether a child’s welfare is adequately safeguarded and promoted while accommodation for the child is provided by the school or college",
+			"WHERE": "accommodation is provided for the child by them"
+		}
+	],
+
+	"section-87-3A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "direct the Chief Inspector for England to take the steps referred to in subsection (3)",
+			"WHERE": "accommodation is provided for a child by a school or college in England",
+			"AT": "any time (including a time when the duty under subsection (3) is suspended by virtue of section 87A)"
+		}
+	],
+
+	"section-87-3B": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Welsh Ministers",
+			"TO": "take the steps referred to in subsection (3)",
+			"WHERE": "accommodation is provided for a child by a school or college in Wales",
+			"AT": "any time when the duty under subsection (3) is suspended by virtue of section 87A"
+		}
+	],
+
+	"section-87-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Chief Inspector for England",
+			"TO": "— (a) in the case of a school other than an independent school, an alternative provision Academy that is not an independent school or a special school, notify the local authority for the area in which the school is situated; (b) in the case of a special school which is maintained by a local authority, notify that authority; (c) in any other case, notify the Secretary of State",
+			"WHERE": "he is of the opinion that there has been a failure to comply with subsection (1) in relation to a child provided with accommodation by a school or college in England"
+		}
+	],
+
+	"section-87-4A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the National Assembly for Wales",
+			"TO": "— (a) in the case of a school other than an independent school or a special school, notify the local authority for the area in which the school is situated; (b) in the case of a special school which is maintained by a local authority, notify that authority",
+			"WHERE": "they are of the opinion that there has been a failure to comply with subsection (1) in relation to a child provided with accommodation by a school or college in Wales"
+		}
+	],
+
+	"section-87-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person authorised by the appropriate authority",
+			"TO": "enter premises which are, or are to be, premises of the school or college.",
+			"FOR_2": "the purpose of enabling that authority to discharge any of its functions under this section",
+			"WHERE": "accommodation is, or is to be, provided for a child by any school or college",
+			"AT": "any time"
+		}
+	],
+
+	"section-87-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any person exercising the power conferred by subsection (5)",
+			"TO": "carry out such inspection of premises, children and records as is prescribed by regulations made by the Secretary of State for the purposes of this section"
+		}
+	],
+
+	"section-87-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any person exercising that power",
+			"TO": "produce some duly authenticated document showing his authority to do so",
+			"IF": "asked to do so"
+		}
+	],
+
+	"section-87-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any person authorised by the regulations to inspect records",
+			"TO": "be entitled to have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the records in question",
+			"AT": "any reasonable time"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any person authorised by the regulations to inspect records",
+			"TO": "require— (i) the person by whom or on whose behalf the computer is or has been so used; or (ii) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material, to afford him such assistance as he may reasonably require"
+		}
+	],
+
+	"section-87-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Any person",
+			"TO": "intentionally obstruct another in the exercise of any power conferred by this section or the regulations"
+		}
+	],
+
+	"section-87-9A": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Chief Inspector for England or the National Assembly for Wales",
+			"TO": "publish a report on whether the child’s welfare is adequately safeguarded and promoted while accommodation for the child is provided by the school or college",
+			"WHERE": "that authority exercises the power conferred by subsection (5) in relation to a child"
+		}
+	],
+
+	"section-87-9B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Chief Inspector for England or the National Assembly for Wales",
+			"TO": "— (a) send a copy of the report to the school or college concerned; and (b) make copies of the report available for inspection at its offices by any person at any reasonable time",
+			"WHERE": "it publishes a report under this section"
+		}
+	],
+
+	"section-87A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "appoint a person to be an inspector",
+			"FOR_2": "the purposes of this section",
+			"IF": "— (a) that person already acts as an inspector for other purposes in relation to schools or colleges to which section 87(1) applies, and (b) the Secretary of State is satisfied that the person is an appropriate person to determine whether the welfare of children provided with accommodation by such schools or colleges is adequately safeguarded and promoted while accommodation for the children is provided by them"
+		}
+	],
+
+	"section-87A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "terminate a person’s appointment under subsection (1)",
+			"IF": "— (a) that person so requests, or (b) the Secretary of State ceases, in relation to that person, to be satisfied that he is such a person as is mentioned in paragraph (b) of that subsection"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "give notice of the termination of that person’s appointment to the appropriate authority"
+		}
+	],
+
+	"section-87A-4A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations specify matters that must be taken into account in deciding whether to appoint a person to be an inspector for the purposes of this section in relation to schools or colleges in England, or to terminate the appointment of such a person under subsection (4)(b)"
+		}
+	],
+
+	"section-87A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the inspector",
+			"TO": "give to the appropriate authority notice in writing of the fact that it has ceased to have effect",
+			"WHERE": "— (a) the appropriate authority’s duty under section 87(3) in relation to any school or college is suspended under this section, and (b) the relevant agreement ceases to have effect"
+		}
+	],
+
+	"section-87B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "impose on a person appointed under section 87A(1) (“an authorised inspector”) such requirements relating to, or in connection with, the carrying out under substitution agreements of the function mentioned in section 87A(2)(b) as the Secretary of State thinks fit"
+		}
+	],
+
+	"section-87B-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised inspector",
+			"TO": "give notice of that fact (a) in the case of a school other than an independent school, an alternative provision Academy that is not an independent school or a special school, to the local authority for the area in which the school is situated; (b) in the case of a special school which is maintained by a local authority, to that authority; (c) in any other case, to the Secretary of State",
+			"WHERE": "it appears to the inspector that there has been a failure to comply with section 87(1) in the case of a child provided with accommodation by the school or college to which the agreement relates",
+			"IN THE COURSE OF": "carrying out under a substitution agreement the function mentioned in section 87A(2)(b)"
+		}
+	],
+
+	"section-87B-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised inspector",
+			"TO": "— (a) give notice of that fact to the local authority in whose area the school or college is situated, and (b) where the inspector is required to make inspection reports to the Secretary of State, supply that local authority with a copy of the latest inspection report to have been made by the inspector to the Secretary of State in relation to the school or college",
+			"WHERE": "it appears to the inspector that a child provided with accommodation by the school or college to which the agreement relates is suffering, or is likely to suffer, significant harm",
+			"IN THE COURSE OF": "carrying out under a substitution agreement the function mentioned in section 87A(2)(b)"
+		}
+	],
+
+	"section-87BA-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Chief Inspector for England",
+			"TO": "prepare and send to the Secretary of State a report about inspectors who are appointed under section 87A in relation to schools or colleges in England",
+			"AT": "intervals of no more than a year"
+		}
+	],
+
+	"section-87BA-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Chief Inspector for England",
+			"TO": "have regard to such matters as the Secretary of State may direct",
+			"IN": "preparing a report under this section"
+		}
+	],
+
+	"section-87BA-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give directions about— (a) matters to be taken into account in preparing a report, and (b) the form and contents of a report"
+		}
+	],
+
+	"section-87C-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "prepare and publish statements of national minimum standards for safeguarding and promoting the welfare of children for whom accommodation is provided by a school or college"
+		}
+	],
+
+	"section-87C-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "keep the standards set out in the statements under review"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "publish amended statements whenever he considers it appropriate to do so"
+		}
+	],
+
+	"section-87C-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult any persons he considers appropriate",
+			"BEFORE": "issuing a statement, or an amended statement which in the opinion of the Secretary of State effects a substantial change in the standards"
+		}
+	],
+
+	"section-87C-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The standards",
+			"TO": "be taken into account— (a) in the making by the appropriate authority of any determination under section 87(4) or (4A); (b) in the making by a person appointed under section 87A(1) of any determination under section 87B(2); and (c) in any proceedings under any other enactment in which it is alleged that the person has failed to comply with section 87(1)"
+		}
+	],
+
+	"section-87D-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (2)",
+			"TO": "be made in relation to any school or college in respect of which the appropriate authority is required to take steps under section 87(3)"
+		}
+	],
+
+	"section-87D-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations require the relevant person to pay the appropriate authority an annual fee of such amount, and within such time, as the regulations may specify"
+		}
+	],
+
+	"section-87D-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a fee payable by virtue of this section",
+			"TO": "without prejudice to any other method of recovery, be recovered summarily as a civil debt"
+		}
+	],
+
+	"section-91-14": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "(whether or not it makes any other order in response to the application) order that no application for an order under this Act of any specified kind may be made with respect to the child concerned by any person named in the order without leave of the court",
+			"ON": "disposing of any application for an order under this Act"
+		}
+	],
+
+	"section-91-15": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a further application of a kind mentioned in paragraphs (a) to (e)",
+			"TO": "be made with respect to the child concerned, without leave of the court",
+			"WHERE": "an application (“the previous application”) has been made for— (a) the discharge of a care order; (b) the discharge of a supervision order; (c) the discharge of an education supervision order; (d) the substitution of a supervision order for a care order; or (e) a child assessment order",
+			"UNLESS": "the period between the disposal of the previous application and the making of the further application exceeds six months"
+		}
+	],
+
+	"section-91-16": 
+	[
+		{
+			"ADD-CONDITIONS-TO": ["subsection-15"]
+		}
+	],
+
+	"section-91-17": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "make a further application for an order under section 34 with respect to the same child",
+			"WHERE": "— (a) the person has made an application for such an order; (b) the application has been refused; and (c) a period of less than six months has elapsed since the refusal",
+			"UNLESS": "he has obtained the leave of the court"
+		}
+	],
+
+	"section-91A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "consider whether there has been a material change of circumstances since the order was made",
+			"WHERE": "a person who is named in a section 91(14) order applies for leave to make an application of a specified kind",
+			"IN": "determining whether to grant leave"
+		}
+	],
+
+	"section-91A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make a section 91(14) order— (a) on an application made— (i) by the relevant individual; (ii) by or on behalf of the child concerned; (iii) by any other person who is a party to the application being disposed of by the court; (b) of its own motion"
+		}
+	],
+
+	"section-93-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authority having power to make rules of court",
+			"TO": "make such provision for giving effect to— (a) this Act; (b) the provisions of any statutory instrument made under this Act; or (c) any amendment made by this Act in any other enactment, as appears to that authority to be necessary or expedient"
+		}
+	],
+
+	"section-93-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "make provision— (a) with respect to the procedure to be followed in any relevant proceedings (including the manner in which any application is to be made or other proceedings commenced); (b) as to the persons entitled to participate in any relevant proceedings, whether as parties to the proceedings or by being given the opportunity to make representations to the court; (bb) for children to be separately represented in relevant proceedings, (c) with respect to the documents and information to be furnished, and notices to be given, in connection with any relevant proceedings; (e) with respect to preliminary hearings; (h) enabling the court, in such circumstances as may be prescribed, to proceed on any application even though the respondent has not been given notice of the proceedings"
+		}
+	],
+
+	"section-95-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "order the child concerned to attend such stage or stages of the proceedings as may be specified in the order",
+			"IN": "any proceedings in which the court is hearing an application for an order under Part IV or V, or is considering whether to make any such order"
+		}
+	],
+
+	"section-95-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The power conferred by subsection (1)",
+			"TO": "be exercised in accordance with rules of court"
+		}
+	],
+
+	"section-95-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an order authorising a constable, or such person as may be specified in the order— (a) to take charge of the child and to bring him to the court; and (b) to enter and search any premises specified in the order if he has reasonable cause to believe that the child may be found on the premises"
+		}
+	],
+
+	"section-95-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "order any person who is in a position to do so to bring the child to the court"
+		}
+	],
+
+	"section-95-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "order a person to disclose information about the whereabouts of the child to the court",
+			"WHERE": "the court has reason to believe that the person has information about it"
+		}
+	],
+
+	"section-96-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The child’s evidence",
+			"TO": "be heard by the court",
+			"IF": "in its opinion— (a) he understands that it is his duty to speak the truth; and (b) he has sufficient understanding to justify his evidence being heard"
+		}
+	],
+
+	"section-96-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "with the concurrence of the Lord Chief Justice, by order make provision for the admissibility of evidence which would otherwise be inadmissible under any rule of law relating to hearsay"
+		}
+	],
+
+	"section-96-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (3)",
+			"TO": "only be made with respect to— (a) civil proceedings in general or such civil proceedings, or class of civil proceedings, as may be prescribed; and (b) evidence in connection with the upbringing, maintenance or welfare of a child"
+		}
+	],
+
+	"section-96-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (3)",
+			"TO": "provide for the admissibility of statements which are made orally or in a prescribed form or which are recorded by any prescribed method of recording"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (3)",
+			"TO": "make different provision for different purposes and in relation to different descriptions of court"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (3)",
+			"TO": "make such amendments and repeals in any enactment relating to evidence (other than in this Act) as the Lord Chancellor considers necessary or expedient in consequence of the provision made by the order"
+		}
+	],
+
+	"section-97-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "publish to the public at large or any section of the public any material which is intended, or likely, to identify— (a) any child as being involved in any proceedings before the High Court or the family court in which any power under this Act or the Adoption and Children Act 2002 may be exercised by the court with respect to that or any other child; or (b) an address or school as being that of a child involved in any such proceedings"
+		}
+	],
+
+	"section-97-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the accused",
+			"TO": "prove that he did not know, and had no reason to suspect, that the published material was intended, or likely, to identify the child",
+			"IN": "any proceedings for an offence under this section"
+		}
+	],
+
+	"section-97-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court or the Lord Chancellor",
+			"TO": "by order dispense with the requirements of subsection (2) to such extent as may be specified in the order",
+			"IF": "satisfied that the welfare of the child requires it and, in the case of the Lord Chancellor, if the Lord Chief Justice agrees"
+		}
+	],
+
+	"section-97-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Any person",
+			"TO": "contravene this section"
+		}
+	],
+
+	"section-97-6A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "everyone",
+			"TO": "— (a) enter material in the Adoption and Children Act Register (established under section 125 of the Adoption and Children Act 2002), or (b) permit persons to search and inspect that register pursuant to regulations made under section 128A of that Act"
+		}
+	],
+
+	"section-97-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chief Justice",
+			"TO": "nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under subsection (4)"
+		}
+	],
+
+	"section-98-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "be excused from— (a) giving evidence on any matter; or (b) answering any question put to him in the course of his giving evidence, on the ground that doing so might incriminate him or his spouse or civil partner of an offence",
+			"IN": "any proceedings in which a court is hearing an application for an order under Part IV or V"
+		}
+	],
+
+	"section-98-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A statement or admission made in such proceedings",
+			"TO": "be admissible in evidence against the person making it or his spouse or civil partner in proceedings for an offence other than perjury"
+		}
+	],
+
+	"section-100-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "exercise the High Court’s inherent jurisdiction with respect to children",
+			"SO AS TO": "require a child to be placed in the care, or put under the supervision, of a local authority"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "exercise the High Court’s inherent jurisdiction with respect to children",
+			"SO AS TO": "require a child to be accommodated by or on behalf of a local authority"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "exercise the High Court’s inherent jurisdiction with respect to children— (a) so as to require a child to be placed in the care, or put under the supervision, of a local authority",
+			"SO AS TO": "make a child who is the subject of a care order a ward of court"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "exercise the High Court’s inherent jurisdiction with respect to children",
+			"FOR_2": "the purpose of conferring on any local authority power to determine any question which has arisen, or which may arise, in connection with any aspect of parental responsibility for a child"
+		}
+	],
+
+	"section-100-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a local authority",
+			"TO": "make an application for any exercise of the court’s inherent jurisdiction with respect to children",
+			"UNLESS": "the authority have obtained the leave of the court"
+		}
+	],
+
+	"section-100-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "grant leave",
+			"ONLY IF": "it is satisfied that— (a) the result which the authority wish to achieve could not be achieved through the making of any order of a kind to which subsection (5) applies; and (b) there is reasonable cause to believe that if the court’s inherent jurisdiction is not exercised with respect to the child he is likely to suffer significant harm"
+		}
+	],
+
+	"section-101-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations providing— (a) for prescribed orders which— (i) are made by a court in Northern Ireland; and (ii) appear to the Secretary of State to correspond in their effect to orders which may be made under any provision of this Act, to have effect in prescribed circumstances, for prescribed purposes of this Act, as if they were orders of a prescribed kind made under this Act; (b) for prescribed orders which— (i) are made by a court in England and Wales; and (ii) appear to the Secretary of State to correspond in their effect to orders which may be made under any provision in force in Northern Ireland, to have effect in prescribed circumstances, for prescribed purposes of the law of Northern Ireland, as if they were orders of a prescribed kind made in Northern Ireland"
+		}
+	],
+
+	"section-101-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under subsection (1)",
+			"TO": "provide for the order concerned to cease to have effect",
+			"FOR_2": "the purposes of the law of Northern Ireland, or (as the case may be) the law of England and Wales",
+			"IF": "prescribed conditions are satisfied"
+		}
+	],
+
+	"section-101-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations providing for prescribed orders which— (a) are made by a court in the Isle of Man or in any of the Channel Islands; and (b) appear to the Secretary of State to correspond in their effect to orders which may be made under this Act, to have effect in prescribed circumstances for prescribed purposes of this Act, as if they were orders of a prescribed kind made under this Act"
+		}
+	],
+
+	"section-101-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any regulations made under this section",
+			"TO": "— (a) make such consequential amendments (including repeals) in— (i) section 25 of the Children and Young Persons Act 1969 (transfers between England and Wales and Northern Ireland); or (ii) section 26 (transfers between England and Wales and Channel Islands or Isle of Man) of that Act, as the Secretary of State considers necessary or expedient; and — (b) modify any provision of this Act, in its application (by virtue of the regulations) in relation to an order made otherwise than in England and Wales"
+		}
+	],
+
+	"section-102-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "issue a warrant authorising any constable to assist that person in the exercise of those powers, using reasonable force if necessary",
+			"WHERE": "it appears to the court— (a) that a person attempting to exercise powers under any enactment mentioned in subsection (6) has been prevented from doing so by being refused entry to the premises concerned or refused access to the child concerned; or (b) that any such person is likely to be so prevented from exercising any such powers, ",
+			"ON": "an application made by any person for a warrant under this section"
+		}
+	],
+
+	"section-102-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Every warrant issued under this section",
+			"TO": "be addressed to, and executed by, a constable who shall be accompanied by the person applying for the warrant",
+			"IF": "— (a) that person so desires; and (b) the court by whom the warrant is issued does not direct otherwise"
+		}
+	],
+
+	"section-102-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court granting an application for a warrant under this section",
+			"TO": "direct that the constable concerned may, in executing the warrant, be accompanied by a registered medical practitioner, registered nurse or registered midwife if he so chooses"
+		}
+	],
+
+	"section-102-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application for a warrant under this section",
+			"TO": "be made in the manner and form prescribed by rules of court"
+		}
+	],
+
+	"section-102-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an application for a warrant under this section and any warrant granted on the application",
+			"TO": "name the child",
+			"WHERE": "— (a) the application relates to a particular child; and (b) it is reasonably practicable to do so"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an application for a warrant under this section and any warrant granted on the application",
+			"TO": "describe him as clearly as possible",
+			"WHERE": "it does not name him"
+		}
+	],
+
+	"section-104-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any power of the Lord Chancellor, the Treasury, the Secretary of State or the National Assembly for Wales under this Act to make an order, regulations, or rules, except an order under section 54(2), 56(4)(a), 57(3), 84 or 97(4) or paragraph 1(1) of Schedule 4",
+			"TO": "be exercisable by statutory instrument"
+		}
+	],
+
+	"section-104-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under section 4(1B), 4ZA(3)",
+			"TO": "be made",
+			"UNLESS": "a draft of it has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-104-3A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Secretary of State",
+			"TO": "make an order under section 4(1B), 4ZA(3) or 17(4) or regulations which fall within subsection (3AA), (3AB), (3B), (3BA), (3BB) or (3C)",
+			"UNLESS": "a draft of the statutory instrument containing the order or regulations has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-104-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any statutory instrument made under this Act",
+			"TO": "— (a) make different provision for different cases; (b) provide for exemptions from any of its provisions; and (c) contain  . . .  incidental, supplemental and transitional provisions  . . ."
+		}
+	],
+
+	"section-104A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any power of the Welsh Ministers under section 31A or Part 7 to make regulations",
+			"TO": "be exercisable by statutory instrument"
+		}
+	],
+
+	"section-105-5Bn1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "References in this Act to acting as a child minder and to a child minder",
+			"TO": "be construed",
+			"IN RELATION TO": "Scotland",
+			"IN ACCORDANCE WITH": "section 2(17) of the Regulation of Care (Scotland) Act 2001 (asp 8)"
+		}
+	],
+
+	"section-105-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any notice or other document required under this Act to be served on any person",
+			"TO": "be served on him by being delivered personally to him, or being sent by post to him in a registered letter or by the recorded delivery service at his proper address"
+		}
+	],
+
+	"section-105-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a notice or other document required to be served on a body corporate or a firm",
+			"TO": "be duly served",
+			"IF": "it is served on the secretary or clerk of that body or a partner of that firm"
+		}
+	],
+
+	"section-105-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the proper address of a person",
+			"TO": "be that of the registered or principal office of that body",
+			"FOR_2": "the purposes of this section, and of section 7 of the Interpretation Act 1978 in its application to this section",
+			"IN THE CASE OF": "a secretary or clerk of a body corporate"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the proper address of a person",
+			"TO": "be that of the principal office of the firm",
+			"FOR_2": "the purposes of this section, and of section 7 of the Interpretation Act 1978 in its application to this section",
+			"IN THE CASE OF": "a partner of a firm"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the proper address of a person",
+			"TO": "be the last known address of the person to be served",
+			"FOR_2": "the purposes of this section, and of section 7 of the Interpretation Act 1978 in its application to this section",
+			"IN": "any other case"
+		}
+	],
+
+	"section-106-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any— (a) grants made by the Secretary of State under this Act; and (b) any other expenses incurred by the Secretary of State under this Act",
+			"TO": "be payable out of money provided by Parliament"
+		}
+	],
+
+	"section-106-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any sums received by the Secretary of State under section 58, or by way of the repayment of any grant made under section 82(2) or (4)",
+			"TO": "be paid into the Consolidated Fund"
+		}
+	],
+
+	"section-108-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "This Act",
+			"TO": "be cited as the Children Act 1989"
+		}
+	],
+
+	"section-108-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Different dates",
+			"TO": "be appointed for different provisions of this Act and in relation to different cases"
+		}
+	],
+
+	"section-108-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "make such transitional provisions or savings as appear to the person making the order to be necessary or expedient in connection with the provisions brought into force by the order, including— (a) provisions adding to or modifying the provisions of Schedule 14, and (b) such adaptations— (i) of the provisions brought into force by the order; and (ii) of any provisions of this Act then in force, as appear to him necessary or expedient in consequence of the partial operation of this Act"
+		}
+	],
+
+	"section-108-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make such amendments or repeals, in such enactments as may be specified in the order, as appear to him to be necessary or expedient in consequence of any provision of this Act"
+		}
+	]
+}
