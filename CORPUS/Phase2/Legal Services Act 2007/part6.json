@@ -1,0 +1,1223 @@
+{
+	"section-112-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The regulatory arrangements of an approved regulator",
+			"TO": "make provision requiring each relevant authorised person— (a) to establish and maintain procedures for the resolution of relevant complaints, or (b) to participate in, or make arrangements to be subject to, such procedures established and maintained by another person, and provision for the enforcement of that requirement"
+		}
+	],
+
+	"section-112-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The provision made for the purposes of subsection (1)",
+			"TO": "satisfy such requirements as the Board may, from time to time, specify for the purposes of that subsection"
+		}
+	],
+
+	"section-112-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "publish any requirements specified by it for the purposes of subsection (2)"
+		}
+	],
+
+	"section-113-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "redress",
+			"TO": "be provided to the complainant under the scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "disciplinary action",
+			"TO": "be taken against the respondent under the scheme"
+		}
+	],
+
+	"section-116-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the OLC",
+			"TO": "comply with the requirements of this section",
+			"IN": "discharging its functions"
+		}
+	],
+
+	"section-116-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "act in a way— (a) which is compatible with the regulatory objectives, and (b) which it considers most appropriate for the purpose of meeting those objectives",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-116-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "have regard to any principles appearing to it to represent the best practice of those who administer ombudsman schemes"
+		}
+	],
+
+	"section-118-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "prepare a report (“the annual report”)",
+			"FOR_2": "each financial year"
+		}
+	],
+
+	"section-118-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The annual report",
+			"TO": "deal with— (a) the discharge of the functions of the OLC, (b) the extent to which, in the OLC's opinion, the OLC has met the regulatory objectives, and (c) such other matters as the Board may from time to time direct"
+		}
+	],
+
+	"section-118-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "include in the annual report a copy of the report prepared by the Chief Ombudsman under section 123 for the financial year in question"
+		}
+	],
+
+	"section-118-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the OLC",
+			"TO": "give the Board a copy of the annual report prepared for that year",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each financial year"
+		}
+	],
+
+	"section-118-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "give a copy of the annual report to the Lord Chancellor"
+		}
+	],
+
+	"section-118-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "lay a copy of the annual report before Parliament"
+		}
+	],
+
+	"section-120-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "require the OLC to prepare and give the Board, within a specified period, a report in respect of any specified matter relating to the functions of the OLC"
+		}
+	],
+
+	"section-120-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "publish any report given to it under this section"
+		}
+	],
+
+	"section-121-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "— (a) set one or more performance targets relating to the performance by the OLC of any of its functions, or (b) direct the OLC to set one or more performance targets relating to the performance by the OLC of any of its functions"
+		}
+	],
+
+	"section-121-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (1)(b)",
+			"TO": "impose conditions with which the performance targets must conform"
+		}
+	],
+
+	"section-121-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "publish any target set or direction given by it under this section"
+		}
+	],
+
+	"section-121-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "publish any target set by it pursuant to a direction under subsection (1)(b)"
+		}
+	],
+
+	"section-121-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "take such steps as it regards as appropriate to monitor the extent to which any performance target set under this section is being, or has been, met"
+		}
+	],
+
+	"section-122-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "appoint a person to act as Chief Ombudsman for the purposes of the ombudsman scheme"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "appoint one or more other persons to act as assistant ombudsmen for those purposes",
+			"WITH": "the consent of the Chief Ombudsman"
+		}
+	],
+
+	"section-122-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person appointed under subsection (1)(a)",
+			"TO": "be a lay person"
+		}
+	],
+
+	"section-122-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each person appointed under subsection (1)(a) or (b)",
+			"TO": "be a person appearing to the OLC to have appropriate qualifications and experience to act as an ombudsman for the purposes of the ombudsman scheme"
+		}
+	],
+
+	"section-122-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The terms and conditions on which a person is appointed as an assistant ombudsman",
+			"TO": "specify the consequences of a breach of the condition imposed by subsection (3)"
+		}
+	],
+
+	"section-122-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person's appointment as an ombudsman",
+			"TO": "be on such terms and conditions (including terms as to the duration and termination of a person's appointment and as to remuneration) as the OLC considers— (a) consistent with ensuring the independence of the person appointed, and (b) otherwise appropriate",
+			"SUBJECT TO": "that"
+		}
+	],
+
+	"section-123-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Chief Ombudsman",
+			"TO": "prepare a report on the discharge of the functions of the ombudsmen",
+			"FOR_2": "each financial year"
+		}
+	],
+
+	"section-123-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a report under this section",
+			"TO": "comply with any requirements specified by the OLC"
+		}
+	],
+
+	"section-123-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "publish any requirements specified for the purposes of subsection (2)"
+		}
+	],
+
+	"section-123-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Chief Ombudsman",
+			"TO": "give the OLC a copy of the report prepared under this section for the year",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each financial year"
+		}
+	],
+
+	"section-124-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "require the Chief Ombudsman to prepare and give the OLC, within a specified period, a report in respect of any specified matter relating to the functions of the ombudsmen"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "require the Chief Ombudsman to prepare and give the OLC a report in respect of any specified matter relating to the functions of the ombudsmen",
+			"WITHIN": "a specified period"
+		}
+	],
+
+	"section-126-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Scheme rules",
+			"TO": "provide that subsection (1) does not apply in specified circumstances"
+		}
+	],
+
+	"section-127-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Scheme rules",
+			"TO": "make provision excluding complaints of a description specified in the rules from the jurisdiction of the ombudsman scheme"
+		}
+	],
+
+	"section-127-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "they",
+			"TO": "make provision excluding a complaint from the jurisdiction of the ombudsman scheme on the ground that it relates to a matter which has been or could be dealt with under the disciplinary arrangements of the respondent's relevant authorising body"
+		}
+	],
+
+	"section-130-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An interested body",
+			"TO": "recommend to the Lord Chancellor that the Lord Chancellor make an order under section 128(3)(b), (4)(d) or (5)(c)",
+			"AT": "any time"
+		}
+	],
+
+	"section-130-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "consider whether or not it is appropriate to make a recommendation under subsection (1)",
+			"IF": "requested to do so by the Lord Chancellor"
+		}
+	],
+
+	"section-130-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "— (a) publish a draft of the proposed recommendation, (b) invite representations regarding the proposed recommendation, and (c) consider any such representations which are made",
+			"BEFORE": "making a recommendation under subsection (1)"
+		}
+	],
+
+	"section-130-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "consider whether to follow the recommendation",
+			"WHERE": "the Lord Chancellor receives a recommendation under subsection (1)"
+		}
+	],
+
+	"section-130-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "publish a notice to that effect which includes the Lord Chancellor's reasons for the decision",
+			"IF": "the Lord Chancellor decides not to follow the recommendation"
+		}
+	],
+
+	"section-132-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "make provision determining the circumstances in which, for the purposes of the ombudsman scheme, an act or omission of a person (“A”) is, where A ceases to exist and another person (“B”) succeeds to the whole or substantially the whole of the business of A, to be treated as an act or omission of B"
+		}
+	],
+
+	"section-132-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Rules under subsection (2)",
+			"TO": "make provision about the treatment of complaints under the ombudsman scheme which are outstanding against A at the time A ceases to exist",
+			"IN RELATION TO": "cases where an act or omission of A is treated as an act or omission of B"
+		}
+	],
+
+	"section-132-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "make provision permitting such persons as may be specified in the rules to continue a complaint made by a person who has died or is otherwise unable to act"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "that purpose",
+			"TO": "modify references to the complainant in this Part and in scheme rules"
+		}
+	],
+
+	"section-133-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "set out the procedure for— (a) the making of complaints under the ombudsman scheme, and (b) the investigation, consideration and determination of complaints by an ombudsman"
+		}
+	],
+
+	"section-133-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "provide that a complaint is to be entertained under the ombudsman scheme only if the complainant has made the complaint under that scheme before the applicable time limit (determined in accordance with the scheme rules) has expired"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Scheme rules",
+			"TO": "provide that an ombudsman may extend that time limit in specified circumstances"
+		}
+	],
+
+	"section-133-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Scheme rules made under subsection (1)",
+			"TO": "make provision— (a) for the whole or part of a complaint to be dismissed, in specified circumstances, without consideration of its merits; (b) for the reference of a complaint, in specified circumstances and with the consent of the complainant, to another body with a view to it being determined by that body instead of by an ombudsman; (c) for a person who, at the relevant time (within the meaning of section 128(7)) was an authorised person in relation to an activity to be treated in specified circumstances, for the purposes of the scheme and this Part, as if that person were a co-respondent in relation to a complaint; (d) about the evidence which may be required or admitted and the extent to which it should be oral or written; (e) for requiring parties to the complaint to attend to give evidence and produce documents, and for authorising the administration of oaths by ombudsmen; (f) about the matters which are to be taken into account in determining whether an act or omission was fair and reasonable; (g) for an ombudsman, in such circumstances as may be specified, to award expenses to persons in connection with attendance at a hearing before an ombudsman; (h) for an ombudsman to award costs against the respondent in favour of the complainant; (i) for an ombudsman to award costs against the complainant or the respondent in favour of the OLC for the purpose of providing a contribution to resources deployed in dealing with the complaint, if in the ombudsman's opinion that person acted so unreasonably in relation to the complaint that it is appropriate in all the circumstances of the case to make such an award; (j) for the purpose of facilitating the settlement of a complaint with the agreement of the parties to it; (k) for specified persons to be notified of complaints, determinations and directions under the ombudsman scheme"
+		}
+	],
+
+	"section-133-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The circumstances specified under subsection (3)(a)",
+			"TO": "include the following— (a) the ombudsman considers the complaint or part to be frivolous or vexatious or totally without merit; (b) the ombudsman considers that the complaint or part would be better dealt with under another ombudsman scheme, by arbitration or by other legal proceedings; (c) the ombudsman considers that there has been undue delay in the making of the complaint or part, or the provision of evidence to support it; (d) the ombudsman is satisfied that the matter which is the subject of the complaint or part has previously been dealt with under another ombudsman scheme, by arbitration or by other legal proceedings; (e) the ombudsman considers that there are other compelling reasons why it is inappropriate for the complaint or part to be dealt with under the ombudsman scheme"
+		}
+	],
+
+	"section-133-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "be required by scheme rules— (a) to provide any information or give any evidence which that person could not be compelled to provide or give in evidence in civil proceedings before the High Court, or (b) to produce any document which that person could not be compelled to produce in such proceedings"
+		}
+	],
+
+	"section-133-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Scheme rules",
+			"TO": "authorise an ombudsman making an award of costs in accordance with rules within subsection (3)(h) or (i) to order that the amount payable under the award bears interest, from a time specified in or determined in accordance with the order, at a rate specified in or determined in accordance with the rules"
+		}
+	],
+
+	"section-134-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An ombudsman",
+			"TO": "delegate to a member of the OLC's staff appointed under paragraph 13 of Schedule 15— (a) any function of the ombudsman in relation to the making, investigation or consideration of a complaint; (b) any other function conferred on the ombudsman by or by virtue of this Part"
+		}
+	],
+
+	"section-135-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "notify— (a) the complainant; (b) the respondent; (c) any relevant authorising body, in relation to the respondent, notified of the complaint in accordance with rules within section 133(3)(k)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give reasons for the exclusion, dismissal or referral",
+			"IN": "a case within subsection (1)(a) or (b)"
+		}
+	],
+
+	"section-136-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "require respondents to pay to the OLC such charges as may be specified in the rules",
+			"IN RELATION TO": "complaints under the ombudsman scheme"
+		}
+	],
+
+	"section-136-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The rules",
+			"TO": "provide for charges payable in relation to a complaint to be waived (or wholly refunded) where— (a) the complaint is determined or otherwise resolved in favour of the respondent, and (b) the ombudsman is satisfied that the respondent took all reasonable steps to try to resolve the complaint under the respondent's complaints procedures"
+		}
+	],
+
+	"section-136-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "make provision as to— (a) the circumstances in which a complaint is to be treated as determined or otherwise resolved in favour of the respondent (which may include circumstances where a complaint is settled, withdrawn or abandoned (or treated as withdrawn or abandoned by virtue of scheme rules)); (b) matters to be taken into account by the ombudsman for the purposes of subsection (2)(b)"
+		}
+	],
+
+	"section-136-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "— (a) provide for the OLC to reduce or waive a charge in such other circumstances as may be specified; (b) set different charges for different stages of the proceedings on a complaint; (c) provide for charges to be wholly or partly refunded in such other circumstances as may be specified; (d) provide that if the whole or any part of a charge is not paid by the time by which it is required to be paid under the rules, the unpaid balance from time to time carries interest at the rate specified in, or determined in accordance with, the rules"
+		}
+	],
+
+	"section-136-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any charge which is owed to the OLC by virtue of rules made under this section",
+			"TO": "be recovered as a debt due to the OLC"
+		}
+	],
+
+	"section-137-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a complaint",
+			"TO": "be determined under the ombudsman scheme by reference to what is, in the opinion of the ombudsman making the determination, fair and reasonable in all the circumstances of the case"
+		}
+	],
+
+	"section-137-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The determination",
+			"TO": "contain one or more of the following— (a) a direction that the respondent make an apology to the complainant; (b) a direction that— (i) the fees to which the respondent is entitled in respect of the services to which the complaint relates (“the fees”) are limited to such amount as may be specified in the direction, and (ii) the respondent comply, or secure compliance, with such one or more of the permitted requirements as appear to the ombudsman to be necessary in order for effect to be given to the direction under sub-paragraph (i); (c) a direction that the respondent pay compensation to the complainant of such an amount as is specified in the direction in respect of any loss which has been suffered by, or any inconvenience or distress which has been caused to, the complainant as a result of any matter connected with the complaint; (d) a direction that the respondent secure the rectification, at the expense of the respondent, of any such error, omission or other deficiency arising in connection with the matter in question as the direction may specify; (e) a direction that the respondent take, at the expense of the respondent, such other action in the interests of the complainant as the direction may specify"
+		}
+	],
+
+	"section-137-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction",
+			"TO": "provide for the amount payable under the direction to carry interest from a time specified in or determined in accordance with the direction, at the rate specified in or determined in accordance with scheme rules",
+			"WHERE": "— (a) a direction is made under subsection (2)(b) which requires that the whole or part of any amount already paid by or on behalf of the complainant in respect of the fees be refunded, or (b) a direction is made under subsection (2)(c)"
+		}
+	],
+
+	"section-138-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the total value of directions under section 137(2)(c) to (e) contained in the determination",
+			"TO": "exceed £50,000",
+			"WHERE": "a determination is made under the ombudsman scheme in respect of a complaint"
+		}
+	],
+
+	"section-138-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "any interest payable on an amount within subsection (2)(a) of this section, by virtue of section 137(4)",
+			"TO": "For the purposes of determining that total value, be ignored"
+		}
+	],
+
+	"section-139-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order amend section 138(1)",
+			"IN ACCORDANCE WITH": "a recommendation made by an interested body under subsection (2)"
+		}
+	],
+
+	"section-139-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An interested body",
+			"TO": "recommend to the Lord Chancellor that section 138(1) should be amended so as to substitute the amount specified in the recommendation for the amount for the time being specified in that provision",
+			"AT": "any time"
+		}
+	],
+
+	"section-139-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "consider whether or not it is appropriate to make a recommendation under subsection (2)",
+			"IF": "requested to do so by the Lord Chancellor"
+		}
+	],
+
+	"section-139-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An interested body",
+			"TO": "— (a) publish a draft of the proposed recommendation, (b) invite representations regarding the proposed recommendation, and (c) consider any such representations which are made",
+			"BEFORE": "making a recommendation under subsection (2)"
+		}
+	],
+
+	"section-139-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "consider whether to follow the recommendation",
+			"WHERE": "the Lord Chancellor receives a recommendation under subsection (2)"
+		}
+	],
+
+	"section-139-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Lord Chancellor",
+			"TO": "publish a notice to that effect which includes the Lord Chancellor's reasons for the decision",
+			"IF": "the Lord Chancellor decides not to follow the recommendation"
+		}
+	],
+
+	"section-140-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an ombudsman",
+			"TO": "prepare a written statement of the determination",
+			"WHEN": "the ombudsman has determined a complaint"
+		}
+	],
+
+	"section-140-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The statement",
+			"TO": "— (a) give the ombudsman's reasons for the determination, (b) be signed by the ombudsman, and (c) require the complainant to notify the ombudsman, before a time specified in the statement (“the specified time”) , whether the complainant accepts or rejects the determination"
+		}
+	],
+
+	"section-140-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give a copy of the statement to— (a) the complainant, (b) the respondent, and (c) any relevant authorising body in relation to the respondent"
+		}
+	],
+
+	"section-140-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give notice of the outcome to— (a) the complainant, (b) the respondent, and (c) any relevant authorising body in relation to the respondent"
+		}
+	],
+
+	"section-140-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "that notice",
+			"TO": "contain a general description of the effect of subsection (6)",
+			"WHERE": "a determination is rejected by virtue of subsection (5)"
+		}
+	],
+
+	"section-140-11": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Both the complainant and the respondent",
+			"TO": "institute or continue legal proceedings in respect of a matter which was the subject of a complaint",
+			"IN RELATION TO": "a complaint",
+			"AFTER": "the time when a determination by an ombudsman of the complaint becomes binding and final in accordance with this section"
+		}
+	],
+
+	"section-141-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the complainant or an ombudsman",
+			"TO": "make an application to the court under this subsection",
+			"IF": "the respondent fails to comply with any other direction under section 137(2)"
+		}
+	],
+
+	"section-141-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "order the respondent to take such steps as the court directs for securing that the direction is complied with",
+			"IF": "the court decides that the respondent has failed to comply with the direction in question",
+			"ON": "an application under subsection (3)"
+		}
+	],
+
+	"section-141-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An ombudsman",
+			"TO": "make an application under subsection (2) or (3)",
+			"ONLY IN": "such circumstances as may be specified in scheme rules",
+			"WITH": "the complainant's consent"
+		}
+	],
+
+	"section-141-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "recover the amount mentioned in that subsection on behalf of the complainant",
+			"IF": "the court makes an order under subsection (2) on the application of the ombudsman",
+			"IN": "such circumstances as may be specified in scheme rules",
+			"WITH": "the complainant's consent"
+		}
+	],
+
+	"section-142-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "give the OLC notice to that effect",
+			"WHERE": "it makes an order under section 141"
+		}
+	],
+
+	"section-142-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the OLC",
+			"TO": "make arrangements to ensure that an ombudsman gives to each relevant authorising body, in relation to that person, a report which states that the order has been made",
+			"WHERE": "the order is made against a person who is an authorised person in relation to any activity which is a reserved legal activity"
+		}
+	],
+
+	"section-142-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a report under subsection (2)",
+			"TO": "require the relevant authorising body to report to the ombudsman the action which has been or is to be taken by it in response to the report under subsection (2) and the reasons for that action being taken"
+		}
+	],
+
+	"section-142-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "make a report to the Board to that effect",
+			"IF": "considers— (a) that there has been a serious failure by the relevant authorising body to discharge its regulatory functions, or (b) if such a requirement has been imposed on the body on more than one occasion, that the relevant authorising body has persistently failed adequately to discharge its regulatory functions",
+			"HAVING REGARD TO": "any report produced by the relevant authorising body in compliance with a requirement imposed under subsection (3), or any failure to comply with such a requirement"
+		}
+	],
+
+	"section-143-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give the relevant authorising body a report which— (a) states that the ombudsman is of that opinion, and (b) gives details of that conduct"
+		}
+	],
+
+	"section-143-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give the complainant a notice stating that a report under subsection (2) has been given to the relevant authorising body"
+		}
+	],
+
+	"section-143-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a report under subsection (2)",
+			"TO": "require the relevant authorising body to report to the ombudsman the action which has been or is to be taken by it in response to the report and the reasons for that action being taken"
+		}
+	],
+
+	"section-143-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "make a report to the Board to the effect that there has been a serious failure by the relevant authorising body to discharge its regulatory functions",
+			"IF": "considers that there has been a serious failure by the relevant authorising body to discharge its regulatory functions",
+			"HAVING REGARD TO": "any report produced by the relevant authorising body in compliance with a requirement imposed under subsection (4), or any failure to comply with such a requirement"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "make a report to the Board to the effect that the relevant authorising body has persistently failed adequately to discharge its regulatory functions",
+			"IF": "such a requirement has been imposed on the body on more than one occasion"
+		}
+	],
+
+	"section-144-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Scheme rules",
+			"TO": "make provision requiring persons within subsection (3) to disclose to an approved regulator information of such description as may be specified in the rules, in such circumstances as may be so specified"
+		}
+	],
+
+	"section-144-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The regulatory arrangements of an approved regulator",
+			"TO": "make provision requiring the approved regulator to disclose to persons within subsection (3) information of such description as may be specified in the arrangements, in such circumstances as may be so specified"
+		}
+	],
+
+	"section-144-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Provision made under subsection (1) or (2)",
+			"TO": "satisfy such requirements as the Board may, from time to time, specify"
+		}
+	],
+
+	"section-144-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "have regard to the need to ensure that, so far as reasonably practicable— (a) duplication of investigations is avoided; (b) the OLC assists approved regulators to carry out their regulatory functions, and approved regulators assist with the investigation, consideration and determination of complaints under the ombudsman scheme",
+			"IN": "specifying requirements under subsection (4)"
+		}
+	],
+
+	"section-144-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "publish any requirements specified by it under subsection (4)"
+		}
+	],
+
+	"section-144-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "consult each approved regulator to which the proposed rules apply",
+			"BEFORE": "publishing under section 205(2) a draft of rules it proposes to make under subsection (1)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The OLC",
+			"TO": "identify any objections made by an approved regulator to the rules and not withdrawn",
+			"WHEN": "seeking the Board's consent to such rules under section 155"
+		}
+	],
+
+	"section-144-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An approved regulator",
+			"TO": "consult the OLC",
+			"BEFORE": "making provisions in its regulatory arrangements of the kind mentioned in subsection (2)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An approved regulator",
+			"TO": "identify any objections made by the OLC to the provisions and not withdrawn",
+			"WHERE": "an application is made for the Board's approval of such provisions"
+		}
+	],
+
+	"section-145-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The regulatory arrangements of an approved regulator, and licensing rules made by the Board in its capacity as a licensing authority",
+			"TO": "make— (a) provision requiring each relevant authorised person to give ombudsmen all such assistance requested by them, in connection with the investigation, consideration or determination of complaints under the ombudsman scheme, as that person is reasonably able to give, and (b) provision for the enforcement of that requirement"
+		}
+	],
+
+	"section-145-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The provision made for the purposes of subsection (1)",
+			"TO": "satisfy such requirements as the Board may, from time to time, specify for the purposes of that subsection"
+		}
+	],
+
+	"section-145-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "publish any requirements specified by it under subsection (2)"
+		}
+	],
+
+	"section-146-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give each relevant authorising body a report which— (a) states that the ombudsman is of that opinion, and (b) gives details of the failure",
+			"IN RELATION TO": "that person"
+		}
+	],
+
+	"section-146-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a report under subsection (2)",
+			"TO": "require the relevant authorising body to report to the ombudsman the action which has been or is to be taken by it in response to the report under that subsection and the reasons for that action being taken"
+		}
+	],
+
+	"section-146-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "make a report to the Board to that effect",
+			"IF": "the ombudsman considers— (a) that there has been a serious failure by the relevant authorising body to discharge its regulatory functions, or (b) if such a requirement has been imposed on the body on more than one occasion, that the relevant authorising body has persistently failed adequately to discharge its regulatory functions",
+			"HAVING REGARD TO": "any report produced by the relevant authorising body in compliance with a requirement imposed under subsection (3), or any failure to comply with such a requirement"
+		}
+	],
+
+	"section-147-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-147-3" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An ombudsman",
+			"TO": "by notice, require a party to a complaint under the ombudsman scheme— (a) to produce documents, or documents of a description, specified in the notice, or (b) to provide information, or information of a description, specified in the notice",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		}
+	],
+
+	"section-147-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-147-3" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice under subsection (1)",
+			"TO": "require the information or documents to be provided or produced",
+			"BEFORE": "the end of such reasonable period as may be specified in the notice",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice under subsection (1)",
+			"TO": "require the information or documents to be provided or produced in such manner or form as may be so specified",
+			"IN THE CASE OF": "information",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		}
+	],
+
+	"section-147-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-147-3" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An ombudsman",
+			"TO": "— (a) take copies of or extracts from a document produced under this section, and (b) require the person producing the document to provide an explanation of it",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		}
+	],
+
+	"section-147-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-147-3" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "require a person who is required under this section to produce a document to state, to the best of that person's knowledge and belief, where the document is",
+			"IF": "that person fails to do so",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		}
+	],
+
+	"section-147-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-147-3" ]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "be required under this section— (a) to provide any information which that person could not be compelled to provide or give in evidence in civil proceedings before the High Court, or (b) to produce any document which that person could not be compelled to produce in such proceedings",
+			"ONLY IF": "this concerns information and documents the provision or production of which the ombudsman considers necessary for the determination of the complaint"
+		}
+	],
+
+	"section-148-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The ombudsman",
+			"TO": "give each relevant authorising body a report which— (a) states that the ombudsman is of that opinion, and (b) gives details of the failure",
+			"IN RELATION TO": "that person"
+		}
+	],
+
+	"section-148-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a report under subsection (2)",
+			"TO": "require the relevant authorising body to report to the ombudsman the action which has been or is to be taken by it in response to the report under that subsection and the reasons for that action being taken"
+		}
+	],
+
+	"section-148-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an ombudsman",
+			"TO": "make a report to the Board to that effect",
+			"IF": "considers— (a) that there has been a serious failure by the relevant authorising body to discharge its regulatory functions, or (b) if such a requirement has been imposed on the body on more than one occasion, that the relevant authorising body has persistently failed adequately to discharge its regulatory functions",
+			"HAVING REGARD TO": "any report produced by the relevant authorising body in compliance with a requirement imposed under subsection (3), or any failure to comply with such a requirement"
+		}
+	],
+
+	"section-149-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The ombudsman",
+			"TO": "certify the defaulter's failure to comply with the requirement to the court"
+		}
+	],
+
+	"section-149-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "enquire into the case",
+			"WHERE": "an ombudsman certifies a failure to the court under subsection (2)"
+		}
+	],
+
+	"section-149-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "deal with— (a) the defaulter, and (b) in the case of a body, any manager of the body, as if that person were in contempt",
+			"IF": "the court is satisfied that the defaulter has failed without reasonable excuse to comply with the requirement"
+		}
+	],
+
+	"section-149-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The ombudsman (“the enforcing ombudsman”)",
+			"TO": "certify the defaulter's failure to the court",
+			"UNTIL": "a report by that or another ombudsman has been made as required by section 148(2) and the enforcing ombudsman is satisfied— (a) that each relevant authorising body to whom such a report was made has been given a reasonable opportunity to take action in respect of the defaulter's failure, and (b) that the defaulter has continued to fail to provide the information or produce the documents to which the requirement under section 147 related"
+		}
+	],
+
+	"section-150-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The OLC",
+			"TO": "publish a report of the investigation, consideration and determination of a complaint made under the ombudsman scheme",
+			"IF": "it considers it appropriate to do so in any particular case"
+		}
+	],
+
+	"section-150-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A report under subsection (1)",
+			"TO": "— (a) mention the name of the complainant, or (b) include any particulars which, in the opinion of the OLC, are likely to identify the complainant",
+			"UNLESS": "the complainant consents"
+		}
+	],
+
+	"section-151-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "— (a) by a restricted person, or (b) by any person who receives the information directly or indirectly from a restricted person",
+			"TO": "disclose restricted information",
+			"EXCEPT AS": "provided by section 152"
+		}
+	],
+
+	"section-152-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a restricted person",
+			"TO": "disclose restricted information to another restricted person"
+		}
+	],
+
+	"section-152-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-152-4" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Restricted information",
+			"TO": "be disclosed for the purposes of the investigation in the course of which, or for the purposes of which, it was obtained",
+			"SUBJECT TO": "subsection (5)"
+		}
+	],
+
+	"section-152-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order prevent the disclosure of restricted information by virtue of subsection (2) or (3) in such circumstances, or for such purposes, as may be prescribed in the order"
+		}
+	],
+
+	"section-155-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the OLC",
+			"TO": "obtain the consent of the Board",
+			"BEFORE": "making scheme rules under any provision of this Part"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the OLC",
+			"TO": "obtain the consent of the Lord Chancellor",
+			"IN THE CASE OF": "rules under section 136 (charges payable by respondents)",
+			"BEFORE": "making scheme rules under any provision of this Part"
+		}
+	],
+
+	"section-156-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "direct the OLC to take such steps as are necessary— (a) to modify its scheme rules in accordance with such general requirements as are specified in the direction, or (b) to make a specified modification to its scheme rules"
+		}
+	],
+
+	"section-156-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "— (a) give the OLC a notice giving details of the proposed modification and containing a statement that representations about the proposal may be made to the Board within a period specified in the notice, (b) publish a copy of that notice, and (c) have regard to any representations duly made",
+			"BEFORE": "giving a direction under subsection (1)(b)"
+		}
+	],
+
+	"section-156-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "— (a) give the OLC notice of the revocation, and (b) publish that notice",
+			"WHERE": "it revokes a direction"
+		}
+	],
+
+	"section-157-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The regulatory arrangements of an approved regulator",
+			"TO": "include any provision relating to redress"
+		}
+	]
+}

@@ -1,0 +1,264 @@
+{
+	"section-3-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "comply with the requirements of this section",
+			"IN": "discharging its functions"
+		}
+	],
+
+	"section-3-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "act in a way— (a) which is compatible with the regulatory objectives, and (b) which the Board considers most appropriate for the purpose of meeting those objectives",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-3-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "have regard to— (a) the principles under which regulatory activities should be transparent, accountable, proportionate, consistent and targeted only at cases in which action is needed, and (b) any other principle appearing to it to represent the best regulatory practice"
+		}
+	],
+
+	"section-6-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "prepare a report (“the annual report”)",
+			"FOR_2": "each financial year"
+		}
+	],
+
+	"section-6-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The annual report",
+			"TO": "deal with— (a) the discharge of the Board's functions, (b) the extent to which, in the Board's opinion, the Board has met the regulatory objectives, and (c) such other matters as the Lord Chancellor may from time to time direct"
+		}
+	],
+
+	"section-6-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "give the Lord Chancellor a copy of the annual report prepared for that year",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "the end of each financial year"
+		}
+	],
+
+	"section-6-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "lay a copy of the annual report before Parliament"
+		}
+	],
+
+	"section-8-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "establish and maintain a panel of persons (to be known as “the Consumer Panel”) to represent the interests of consumers"
+		}
+	],
+
+	"section-8-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Consumer Panel",
+			"TO": "consist of such consumers, or persons representing the interests of consumers, as the Board may appoint with the approval of the Lord Chancellor"
+		}
+	],
+
+	"section-8-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "appoint one of the members of the Consumer Panel to be the chairman of the Panel"
+		}
+	],
+
+	"section-8-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "secure that the membership of the Consumer Panel is such as to give a fair degree of representation to both— (a) those who are using (or are or may be contemplating using), in connection with businesses carried on by them, services provided by persons who are authorised persons in relation to activities which are reserved legal activities, and (b) those who are using (or are or may be contemplating using) such services otherwise than in connection with businesses carried on by them"
+		}
+	],
+
+	"section-8-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The Consumer Panel",
+			"TO": "include any person who is— (a) a member of the Board or of its staff; (b) a member of the Office for Legal Complaints (see Part 6), an ombudsman appointed by it or a member of its staff appointed under paragraph 13 of Schedule 15; (c) a member of the governing body, or of the staff, of an approved regulator; (d) an authorised person in relation to an activity which is a reserved legal activity; (e) an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions)); (f) an advocate in Scotland; (g) a solicitor in Scotland; (h) a member of the Bar of Northern Ireland; or (i) a solicitor of the Court of Judicature of Northern Ireland"
+		}
+	],
+
+	"section-8-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The chairman and other members of the Consumer Panel",
+			"TO": "be— (a) appointed for a fixed period, and on other terms and conditions, determined by the Board, and (b) paid by the Board in accordance with provision made by or under the terms of appointment"
+		}
+	],
+
+	"section-8-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "be removed from office",
+			"IN ACCORDANCE WITH": "those terms and conditions",
+			"ONLY WITH": "the approval of the Lord Chancellor"
+		}
+	],
+
+	"section-8-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person who ceases to be chairman or another member of the Consumer Panel",
+			"TO": "be re-appointed"
+		}
+	],
+
+	"section-9-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Consumer Panel",
+			"TO": "make such arrangements as it thinks fit for committees established by the Panel to give advice to the Panel about matters relating to the carrying out of the Panel's functions"
+		}
+	],
+
+	"section-9-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Consumer Panel",
+			"TO": "make such other arrangements for regulating its own procedure, and for regulating the procedure of the committees established by it, as it thinks fit"
+		}
+	],
+
+	"section-9-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Those arrangements",
+			"TO": "include arrangements as to quorums and as to the making of decisions by a majority"
+		}
+	],
+
+	"section-9-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The committees established by the Consumer Panel",
+			"TO": "include committees the membership of which includes persons who are not members of the Panel"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The membership of every committee established by the Consumer Panel",
+			"TO": "contain at least one person who is a member of the Panel"
+		}
+	],
+
+	"section-9-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Board",
+			"TO": "pay to a person such remuneration and expenses as the Board may determine",
+			"WHERE": "that person who is not a member of the Consumer Panel is a member of a committee established by it"
+		}
+	],
+
+	"section-10-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "consider any representations made to it by the Consumer Panel"
+		}
+	],
+
+	"section-10-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "give the Consumer Panel a notice to that effect stating its reasons for disagreeing",
+			"IF": "it disagrees with a view expressed, or proposal made, in the representations"
+		}
+	],
+
+	"section-10-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Consumer Panel",
+			"TO": "publish such information as it thinks fit about any representations made by it to the Board"
+		}
+	],
+
+	"section-10-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "publish any notice it gives under subsection (2) in respect of those representations",
+			"WHERE": "the Consumer Panel publishes information about any representations made by it"
+		}
+	],
+
+	"section-11-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Consumer Panel",
+			"TO": "— (a) carry out research for the Board; (b) give advice to the Board",
+			"AT": "the request of the Board"
+		}
+	],
+
+	"section-11-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Board",
+			"TO": "consider any advice given and the results of any research carried out under this section"
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Consumer Panel",
+			"TO": "publish such information as it thinks fit about advice it gives, and about the results of research carried out by it, under this section"
+		}
+	]
+}

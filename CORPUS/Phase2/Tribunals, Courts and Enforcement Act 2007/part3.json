@@ -1,0 +1,210 @@
+{
+	"section-63-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An individual",
+			"TO": "act as an enforcement agent",
+			"ONLY IF": "one of these applies— (a) he acts under a certificate under section 64; (b) he is exempt; (c) he acts in the presence and under the direction of a person to whom paragraph (a) or (b) applies"
+		}
+	],
+
+	"section-64-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a judge of the county court",
+			"TO": "issue a certificate under this section"
+		}
+	],
+
+	"section-64-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Lord Chancellor",
+			"TO": "make regulations about certificates under this section"
+		}
+	],
+
+	"section-64-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "include provision— (a) for fees to be charged for applications; (b) for certificates to be issued subject to conditions, including the giving of security; (c) for certificates to be limited to purposes specified by or under the regulations; (d) about complaints against holders of certificates; (e) about suspension and cancellation of certificates; (f) to modify or supplement Schedule 12 for cases where a certificate is suspended or cancelled or expires; (g) requiring courts to make information available relating to certificates"
+		}
+	],
+
+	"section-70-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the High Court",
+			"TO": "stay the execution of any writ of control issued in the proceedings, for whatever period and on whatever terms it thinks fit",
+			"IF": "at any time the court is satisfied that a party to proceedings is unable to pay— (a) a sum recovered against him (by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise), or (b) any instalment of such a sum"
+		}
+	],
+
+	"section-70-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "act under subsection (1)",
+			"FROM": "time to time",
+			"UNTIL": "it appears that the cause of the inability to pay has ceased"
+		}
+	],
+
+	"section-73-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any authorisation of a person to exercise CRAR on another's behalf",
+			"TO": "be in writing and comply with any prescribed requirements"
+		}
+	],
+
+	"section-74-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A lease",
+			"TO": "be evidenced in writing"
+		}
+	],
+
+	"section-77-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "provide for subsection (5)(a) not to apply in specified cases"
+		}
+	],
+
+	"section-78-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make either or both of these orders on the application of the tenant— (a) an order setting aside the notice; (b) an order that no further step may be taken under CRAR, without further order, in relation to the rent claimed",
+			"IF": "notice of enforcement is given in exercise (or purported exercise) of CRAR"
+		}
+	],
+
+	"section-78-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision about— (a) the further orders that may be made for the purposes of subsection (1)(b); (b) grounds of which the court must be satisfied before making an order or further order"
+		}
+	],
+
+	"section-81-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The landlord",
+			"TO": "serve a notice on any sub-tenant"
+		}
+	],
+
+	"section-81-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice",
+			"TO": "state the amount of rent that the landlord has the right to recover from the immediate tenant by CRAR (the “notified amount”)"
+		}
+	],
+
+	"section-81-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "state— (a) the form of a notice under this section; (b) what it must contain; (c) how it must be served; (d) what must be done to withdraw it"
+		}
+	],
+
+	"section-82-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-82-5", "section-82-6", "section-82-7", "section-82-8", "section-82-9"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a sub-tenant",
+			"TO": "deduct an equal amount from the rent that would be due to his immediate landlord under the sub-lease",
+			"FOR_2": "any amount that he pays under a notice under section 81",
+			"UNLESS": "the landlord withdraws the notice before the payment is made",
+			"UNLESS_2": "the notified amount has already been paid (or will be exceeded by the payment), subsection (1) does not apply (or does not apply to the excess) if the sub-tenant has notice of that when making the payment",
+			"UNLESS_3": "before the payment is made, payments under the notice at least equal the notified amount",
+			"UNLESS_4": "this does not apply to a part of the payment if, with the rest of the payment, payments under the notice at least equal the notified amount",
+			"UNLESS_5": "the notice has been replaced by one served on another sub-tenant, subsection (1) does not apply if the sub-tenant has notice of that when making the payment"
+		}
+	],
+
+	"section-82-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a superior sub-tenant",
+			"TO": "deduct an equal amount from any rent due from him under his sub-lease",
+			"IF": "an amount is deducted under subsection (1) or this subsection from rent due to that sub-tenant"
+		}
+	],
+
+	"section-83-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The landlord",
+			"TO": "withdraw a notice under section 81",
+			"IF": "any of these happens— (a) the notice is replaced; (b) the notified amount is paid, unless it is paid wholly by the sub-tenant"
+		}
+	],
+
+	"section-84-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-84-4" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any payment received by the landlord that the sub-tenant purports to make under a notice under section 81, and that is not due under the notice for any reason",
+			"TO": "be treated as a payment of rent by the immediate tenant for the purposes of the retention of the payment by the landlord and (if no rent is due) for the purposes of any claim by the immediate tenant to recover the payment",
+			"UNLESS": "this affects any claim by the sub-tenant against the immediate tenant"
+		}
+	],
+
+	"section-89-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the procedure in Schedule 12",
+			"TO": "be used— (a) to recover debts due from the Crown, (b) to take control of or sell goods of the Crown (including goods owned by the Crown jointly or in common with another person), or (c) to enter premises occupied by the Crown"
+		}
+	],
+
+	"section-90-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "include any of these that the Lord Chancellor considers necessary or expedient— (a) supplementary, incidental or consequential provision; (b) transitory, transitional or saving provision"
+		}
+	],
+
+	"section-90-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make different provision for different cases"
+		}
+	]
+}

@@ -1,0 +1,192 @@
+{
+	"section-91-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A local weights and measures authority in England and Wales",
+			"TO": "enforce the provisions of this section in its area"
+		}
+	],
+
+	"section-92-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision prohibiting the sale of nicotine products to persons aged under 18"
+		}
+	],
+
+	"section-92-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-92-3"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "breach a prohibition in regulations under subsection (1)",
+			"UNLESS": "(a) at the time of the sale, the person to whom the nicotine product is sold is employed by a manufacturer of nicotine products to which regulations under subsection (1) apply or by a dealer in such products (whether wholesale or retail), and (b) the purchase of the product is for the purposes of the manufacturer's or dealer's business"
+		}
+	],
+
+	"section-92-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "claim that the person took all reasonable precautions and exercised all due diligence to avoid committing the offence",
+			"WHERE": "the person is charged with an offence under this section"
+		}
+	],
+
+	"section-92-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend section 91 (purchase of tobacco etc on behalf of persons under 18) so as to apply it (with or without modifications) in relation to nicotine products, or (b) provide for that section to apply (with or without modifications) in relation to nicotine products"
+		}
+	],
+
+	"section-92-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision",
+			"IN RELATION TO": "— (a) all nicotine products, (b) nicotine products of a specified kind, or (c) nicotine products subject to specified exceptions"
+		}
+	],
+
+	"section-92-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "obtain the consent of the Welsh Ministers",
+			"BEFORE": "making regulations under this section which would (if contained in an Act of the National Assembly for Wales) be within the legislative competence of that Assembly"
+		}
+	],
+
+	"section-93-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (whenever passed or made) in connection with provision made by or under section 92"
+		}
+	],
+
+	"section-100-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-3"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority for a school to which this section applies",
+			"TO": "make arrangements for supporting pupils at the school with medical conditions",
+			"UNLESS": "this relates to a pupil who is a young child for the purposes of Part 3 of the Childcare Act 2006 (regulation of provision of childcare in England)"
+		}
+	],
+
+	"section-100-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate authority",
+			"TO": "have regard to guidance issued by the Secretary of State",
+			"IN": "meeting the duty in subsection (1)"
+		}
+	],
+
+	"section-100A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The arrangements made under section 100 by the appropriate authority for a school to which that section applies",
+			"TO": "include an allergy safety policy"
+		}
+	],
+
+	"section-100A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about matters that must be covered in an allergy safety policy"
+		}
+	],
+
+	"section-100A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority",
+			"TO": "review the school’s allergy safety policy",
+			"AT LEAST ONCE": "every year"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority",
+			"TO": "make such changes to the policy as it considers appropriate following a review"
+		}
+	],
+
+	"section-100A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The appropriate authority",
+			"TO": "publicise the school’s allergy safety policy in the form of a written document by— (a) making the policy generally known within the school and to parents of pupils at the school, (b) taking steps, at least once a year, to bring the policy to the attention of all pupils at the school and parents and all persons who work at the school (whether or not for payment), and (c) publishing the policy on the school’s website"
+		}
+	],
+
+	"section-100A-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate authority",
+			"TO": "have particular regard to guidance issued for the purposes of section 100(2) that relates to the management of allergies (including anaphylaxis) in schools",
+			"IN": "meeting the duties under this section"
+		}
+	],
+
+	"section-100B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations impose duties on specified persons in connection with the management of allergies affecting pupils at schools to which section 100 applies (including the management of pupils at risk of anaphylaxis)"
+		}
+	],
+
+	"section-100B-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision about— (a) the keeping of, and access to, medicinal products and medical devices on school premises and at other places where pupils at a school are under the lawful control or charge of a member of the staff of the school; (b) procedures for identifying, and managing risks to, pupils with allergies; (c) provision of training on the recognition and management of allergies for teaching staff, non-teaching staff, persons providing catering services at the school and such other persons as may be specified; (d) recording and reporting of incidents"
+		}
+	],
+
+	"section-100B-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "require the appropriate authority for a school to which section 100 applies to designate a specified person to have responsibility for specified matters"
+		}
+	],
+
+	"section-100B-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person on whom a duty is imposed by regulations under this section",
+			"TO": "have regard to guidance issued by the Secretary of State",
+			"IN": "meeting the duty"
+		}
+	]
+}

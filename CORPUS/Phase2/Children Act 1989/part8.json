@@ -1,0 +1,92 @@
+{
+	"section-64-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person carrying on a private children’s home",
+			"TO": "— (a) safeguard and promote a child’s welfare; (b) make such use of the services and facilities available for children cared for by their own parents as appears to that person reasonable in the case of the child; and (c) advise, assist and befriend him with a view to promoting his welfare when he ceases to be so accommodated",
+			"WHERE": "the child is accommodated in the home"
+		}
+	],
+
+	"section-64-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person carrying on the home",
+			"TO": "ascertain the wishes and feelings of— (a) the child; (b) his parents; (c) any other person who is not a parent of his but who has parental responsibility for him; and (d) any person whose wishes and feelings the person carrying on the home considers to be relevant, regarding the matter to be decided",
+			"BEFORE": "making any decision with respect to any such child",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-64-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person concerned",
+			"TO": "give due consideration— (a) having regard to the child’s age and understanding, to such wishes and feelings of his as he has been able to ascertain; (b) to such other wishes and feelings mentioned in subsection (2) as he has been able to ascertain; and (c) to the child’s religious persuasion, racial origin and cultural and linguistic background",
+			"IN": "making any such decision"
+		}
+	],
+
+	"section-65-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person who is disqualified (under section 68) from fostering a child privately",
+			"TO": "carry on, or be otherwise concerned in the management of, or have any financial interest in a children’s home in Wales",
+			"UNLESS": "he has— (a) disclosed to the appropriate authority the fact that he is so disqualified; and (b) obtained its written consent"
+		}
+	],
+
+	"section-65-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "employ a person who is so disqualified in a children’s home in Wales",
+			"UNLESS": "he has— (a) disclosed to the appropriate authority the fact that that person is so disqualified; and (b) obtained its written consent"
+		}
+	],
+
+	"section-65-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate authority",
+			"TO": "inform the applicant by a written notice which states— (a) the reason for the refusal; (b) the applicant’s right to appeal under section 65A against the refusal to the First-tier Tribunal (c) the time within which he may do so",
+			"WHERE": "it refuses to give its consent under this section"
+		}
+	],
+
+	"section-65-A1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (“P”) who is disqualified (under section 68) from fostering a child privately",
+			"TO": "carry on, or be otherwise concerned in the management of, or have any financial interest in, a children's home in England",
+			"UNLESS": "— (a) P has, within the period of 28 days beginning with the day on which P became aware of P's disqualification, disclosed to the appropriate authority the fact that P is so disqualified, and (b) P has obtained the appropriate authority's written consent"
+		}
+	],
+
+	"section-65-A2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (“E”)",
+			"TO": "employ a person (“P”) who is so disqualified in a children's home in England",
+			"UNLESS": "— (a) E has, within the period of 28 days beginning with the day on which E became aware of P's disqualification, disclosed to the appropriate authority the fact that P is so disqualified, and (b) E has obtained the appropriate authority's written consent"
+		}
+	],
+
+	"section-65A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Tribunal",
+			"TO": "confirm the authority’s decision or direct it to give the consent in question",
+			"ON": "an appeal"
+		}
+	]
+}

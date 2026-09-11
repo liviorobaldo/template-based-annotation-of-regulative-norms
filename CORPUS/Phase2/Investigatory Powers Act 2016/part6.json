@@ -1,0 +1,1918 @@
+{
+	"section-138-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a bulk interception warrant",
+			"ON": "an application made by or on behalf of the head of an intelligence service",
+			"IF": "— (a) the Secretary of State considers that the main purpose of the warrant is one or more of the following— (i) the interception of overseas-related communications, and (ii) the obtaining of secondary data from such communications, (b) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, or (ii) on that ground and on any other grounds falling within subsection (2), (c) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct, (d) the Secretary of State considers that— (i) each of the specified operational purposes (see section 142) is a purpose for which the examination of intercepted content or secondary data obtained under the warrant is or may be necessary, and (ii) the examination of intercepted content or secondary data for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, (e) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 150 and 151 (safeguards relating to disclosure etc.) are in force in relation to the warrant, (f) in a case where the Secretary of State considers that a telecommunications operator outside the United Kingdom is likely to be required to provide assistance in giving effect to the warrant if it is issued, the Secretary of State has complied with section 139, and (g) the decision to issue the warrant has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-138-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for the issue of a bulk interception warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-139-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the operator",
+			"BEFORE": "issuing the warrant"
+		}
+	],
+
+	"section-139-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "among other matters, take into account— (a) the likely benefits of the warrant, (b) the likely number of users (if known) of any telecommunications service which is provided by the operator and to which the warrant relates, (c) the technical feasibility of complying with any requirement that may be imposed on the operator to provide assistance in giving effect to the warrant, (d) the likely cost of complying with any such requirement, and (e) any other effect of the warrant on the operator",
+			"BEFORE": "issuing the warrant"
+		}
+	],
+
+	"section-140-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether the warrant is necessary as mentioned in subsection (1)(b) of that section, (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, (c) whether— (i) each of the specified operational purposes (see section 142) is a purpose for which the examination of intercepted content or secondary data obtained under the warrant is or may be necessary, and (ii) the examination of intercepted content or secondary data for each such purpose is necessary as mentioned in section 138(1)(d)(ii), and (d) any matters taken into account in accordance with section 139",
+			"IN": "deciding whether to approve a decision to issue a warrant under section 138"
+		}
+	],
+
+	"section-140-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-140-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to issue a warrant under section 138"
+		}
+	],
+
+	"section-140-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue a warrant under section 138"
+		}
+	],
+
+	"section-141-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to issue a bulk interception warrant",
+			"TO": "be taken personally by the Secretary of State"
+		}
+	],
+
+	"section-141-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk interception warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued"
+		}
+	],
+
+	"section-142-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk interception warrant",
+			"TO": "contain a provision stating that it is a bulk interception warrant"
+		}
+	],
+
+	"section-142-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk interception warrant",
+			"TO": "be addressed to the head of the intelligence service by whom, or on whose behalf, the application for the warrant was made"
+		}
+	],
+
+	"section-142-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk interception warrant",
+			"TO": "specify the operational purposes for which any intercepted content or secondary data obtained under the warrant may be selected for examination"
+		}
+	],
+
+	"section-142-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The warrant",
+			"TO": "specify all of the operational purposes which, at the time the warrant is issued, are specified in the list of operational purposes"
+		}
+	],
+
+	"section-142-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An operational purpose",
+			"TO": "be specified in the list of operational purposes",
+			"ONLY WITH": "the approval of the Secretary of State"
+		}
+	],
+
+	"section-142-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give such approval",
+			"ONLY IF": "satisfied that the operational purpose is specified in a greater level of detail than the descriptions contained in section 138(1)(b) or (2)"
+		}
+	],
+
+	"section-142-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give a copy of the list of operational purposes to the Intelligence and Security Committee of Parliament",
+			"AT": "the end of each relevant three-month period"
+		}
+	],
+
+	"section-142-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "review the list of operational purposes",
+			"AT LEAST ONCE": "a year"
+		}
+	],
+
+	"section-144-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a bulk interception warrant",
+			"TO": "be renewed by an instrument issued by the Secretary of State",
+			"AT": "any time during the renewal period",
+			"IF": "the renewal conditions are met",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-144-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to renew a bulk interception warrant",
+			"TO": "be taken personally by the Secretary of State"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument renewing the warrant",
+			"TO": "be signed by the Secretary of State"
+		}
+	],
+
+	"section-145-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The provisions of a bulk interception warrant",
+			"TO": "be modified by an instrument issued by the person making the modification",
+			"AT": "any time"
+		}
+	],
+
+	"section-145-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "make a major modification"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a major modification",
+			"TO": "be made",
+			"ONLY IF": "the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 138(1)(b))"
+		}
+	],
+
+	"section-145-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the Secretary of State, or (b) a senior official acting on behalf of the Secretary of State",
+			"TO": "make a minor modification"
+		}
+	],
+
+	"section-145-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "be notified personally of a minor modification and the reasons for making it",
+			"WHERE": "the modification is made by a senior official"
+		}
+	],
+
+	"section-145-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to modify the provisions of a warrant",
+			"TO": "be taken personally by the person making the modification",
+			"SUBJECT TO": "subsection (10)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "be signed by that person",
+			"SUBJECT TO": "subsection (10)"
+		}
+	],
+
+	"section-145-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an instrument making a major modification",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the instrument to be signed by the Secretary of State"
+		}
+	],
+
+	"section-145-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the instrument to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the making of the modification",
+			"IN": "such a case"
+		}
+	],
+
+	"section-146-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to whether the modification is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary",
+			"IN": "deciding whether to approve a decision to make a major modification of a bulk interception warrant"
+		}
+	],
+
+	"section-146-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-146-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to make a major modification under section 145"
+		}
+	],
+
+	"section-146-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to make the modification",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to make a major modification under section 145"
+		}
+	],
+
+	"section-147-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that the modification has been made"
+		}
+	],
+
+	"section-147-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to make the modification, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-148-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk interception warrant",
+			"AT": "any time"
+		}
+	],
+
+	"section-148-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk interception warrant",
+			"IF": "the person considers that any of the cancellation conditions are met in relation to the warrant"
+		}
+	],
+
+	"section-148-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a warrant was addressed",
+			"TO": "secure that anything in the process of being done under the warrant stops as soon as possible",
+			"WHERE": "the warrant is cancelled under this section",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-148-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a warrant that has been cancelled under this section",
+			"TO": "be renewed"
+		}
+	],
+
+	"section-149-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person to whom a bulk interception warrant is addressed (“the implementing authority”)",
+			"TO": "(in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant",
+			"IN": "giving effect to the warrant"
+		}
+	],
+
+	"section-149-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the implementing authority",
+			"TO": "for the purpose of requiring any person to provide assistance in relation to a bulk interception warrant, — (a) serve a copy of the warrant on any person who the implementing authority considers may be able to provide such assistance, or (b) make arrangements for the service of a copy of the warrant on any such person"
+		}
+	],
+
+	"section-149-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A copy of a warrant",
+			"TO": "be served under subsection (2) on a person outside the United Kingdom for the purpose of requiring the person to provide such assistance in the form of conduct outside the United Kingdom"
+		}
+	],
+
+	"section-150-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing— (a) that the requirements of subsections (2) and (5) are met in relation to the material obtained under the warrant, and (b) that the requirements of section 152 are met in relation to the intercepted content or secondary data obtained under the warrant",
+			"IN RELATION TO": "every bulk interception warrant",
+			"SUBJECT TO": "subsection (8)"
+		}
+	],
+
+	"section-151-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that— (a) any material obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and (b) copies of any such material are given to overseas authorities only if those requirements are met",
+			"IN RELATION TO": "every bulk interception warrant"
+		}
+	],
+
+	"section-152-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom the warrant is addressed",
+			"TO": "notify the Secretary of State that the selection of intercepted content for examination is being carried out",
+			"IN": "a case where the selection is authorised by subsection (5)"
+		}
+	],
+
+	"section-153-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The intercepted content",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria"
+		}
+	],
+
+	"section-153-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a senior official",
+			"TO": "have regard to the public interest in the confidentiality of items subject to legal privilege",
+			"IN": "deciding whether to give an approval under subsection (2)",
+			"IN A CASE WHERE": "subsection (1)(b)(i) applies"
+		}
+	],
+
+	"section-153-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A senior official",
+			"TO": "give an approval under subsection (2)",
+			"ONLY IF": "— (a) the official considers that the arrangements made for the purposes of section 150 (safeguards relating to retention and disclosure of material) include specific arrangements for the handling, retention, use and destruction of items subject to legal privilege, and (b) where subsection (1)(b)(i) applies, the official considers that there are exceptional and compelling circumstances that make it necessary to authorise the use of the relevant criteria"
+		}
+	],
+
+	"section-153-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The intercepted content",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria"
+		}
+	],
+
+	"section-153-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A senior official",
+			"TO": "give an approval under subsection (7)",
+			"ONLY IF": "the official considers that the targeted communications are likely to be communications made with the intention of furthering a criminal purpose"
+		}
+	],
+
+	"section-153-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a bulk interception warrant is addressed",
+			"TO": "inform the Investigatory Powers Commissioner",
+			"AS SOON AS": "is reasonably practicable",
+			"WHERE": "an item subject to legal privilege which has been intercepted in accordance with the warrant is retained following its examination, for purposes other than the destruction of the item"
+		}
+	],
+
+	"section-153-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) direct that the item is destroyed, or (b) impose one or more conditions as to the use or retention of that item",
+			"UNLESS": "the Commissioner considers that subsection (12) applies to the item"
+		}
+	],
+
+	"section-153-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions under subsection (10)(b) as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of items subject to legal privilege",
+			"IF": "the Commissioner considers that subsection (12) applies to the item"
+		}
+	],
+
+	"section-153-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsection (10)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-154-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The intercepted content or secondary data",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "the use of those criteria has been approved by— (a) the Investigatory Powers Commissioner; or (b) in a case where a senior official acting on behalf of the Secretary of State considers there is an urgent need to do so, the senior official"
+		}
+	],
+
+	"section-154-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner or a senior official",
+			"TO": "give an approval under subsection (2)",
+			"ONLY IF": "the Commissioner or official considers that— (a) the public interest in obtaining the information that would be obtained by the selection of the intercepted content or secondary data for examination outweighs the public interest in the confidentiality of confidential journalistic material or sources of journalistic information, and (b) there are no less intrusive means by which the information may reasonably be obtained"
+		}
+	],
+
+	"section-154-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person to whom the warrant is addressed",
+			"TO": "inform the Investigatory Powers Commissioner of the retention of the relevant material",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-154-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "direct that the relevant material is destroyed",
+			"UNLESS": "the Commissioner considers that subsection (8) applies to the relevant material"
+		}
+	],
+
+	"section-154-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions as to the use or retention of the relevant material as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of confidential journalistic material or sources of journalistic information",
+			"IF": "the Commissioner considers that subsection (8) applies to the relevant material"
+		}
+	],
+
+	"section-154-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsections (6) and (7)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-154A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform the Investigatory Powers Commissioner that the approval has been given",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-154A-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "— (a) consider whether the relevant condition is met as regards the use of the criteria for the selection of the intercepted content or secondary data for examination, and (b) notify the Secretary of State of their decision",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-155-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) select for examination any intercepted content or secondary data obtained under a bulk interception warrant, (b) know or believe that the selection of that intercepted content or secondary data for examination does not comply with a requirement imposed by section 152 or 153, and (c) deliberately select that intercepted content or secondary data for examination in breach of that requirement"
+		}
+	],
+
+	"section-155-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings for any offence which is an offence by virtue of this section",
+			"TO": "be instituted— (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions; (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland"
+		}
+	],
+
+	"section-158-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a bulk acquisition warrant",
+			"ON": "an application made by or on behalf of the head of an intelligence service",
+			"IF": "— (a) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, or (ii) on that ground and on any other grounds falling within subsection (2), (b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct, (c) the Secretary of State considers that— (i) each of the specified operational purposes (see section 161) is a purpose for which the examination of communications data obtained under the warrant is or may be necessary, and (ii) the examination of such data for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, (d) the Secretary of State considers that satisfactory arrangements made for the purposes of section 171 (safeguards relating to the retention and disclosure of data) are in force in relation to the warrant, and (e) the decision to issue the warrant has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-158-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a warrant",
+			"TO": "be considered necessary on the ground falling within subsection (2)(b)",
+			"ONLY IF": "the communications data which it is considered necessary to obtain is communications data relating to the acts or intentions of persons outside the British Islands"
+		}
+	],
+
+	"section-158-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a bulk acquisition warrant",
+			"TO": "relate to data whether or not in existence at the time of the issuing of the warrant"
+		}
+	],
+
+	"section-158-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for the issue of a bulk acquisition warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-159-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether a warrant under section 158 is necessary as mentioned in subsection (1)(a) of that section, (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and (c) whether— (i) each of the specified operational purposes (see section 161) is a purpose for which the examination of communications data obtained under the warrant is or may be necessary, and (ii) the examination of such data for each such purpose is necessary as mentioned in section 158(1)(c)(ii)",
+			"IN": "deciding whether to approve a decision to issue the warrant"
+		}
+	],
+
+	"section-159-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-159-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to issue a warrant under section 158"
+		}
+	],
+
+	"section-159-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue a warrant under section 158",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue the warrant"
+		}
+	],
+
+	"section-160-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to issue a bulk acquisition warrant",
+			"TO": "be taken personally by the Secretary of State"
+		}
+	],
+
+	"section-160-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk acquisition warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued"
+		}
+	],
+
+	"section-161-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk acquisition warrant",
+			"TO": "contain a provision stating that it is a bulk acquisition warrant"
+		}
+	],
+
+	"section-161-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk acquisition warrant",
+			"TO": "be addressed to the head of the intelligence service by whom, or on whose behalf, the application for the warrant was made"
+		}
+	],
+
+	"section-161-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk acquisition warrant",
+			"TO": "specify the operational purposes for which any communications data obtained under the warrant may be selected for examination"
+		}
+	],
+
+	"section-161-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The operational purposes specified in the warrant",
+			"TO": "be ones specified, in a list maintained by the heads of the intelligence services (“the list of operational purposes”), as purposes which they consider are operational purposes for which communications data obtained under bulk acquisition warrants may be selected for examination"
+		}
+	],
+
+	"section-161-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The warrant",
+			"TO": "specify all of the operational purposes which, at the time the warrant is issued, are specified in the list of operational purposes"
+		}
+	],
+
+	"section-161-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An operational purpose",
+			"TO": "be specified in the list of operational purposes",
+			"ONLY WITH": "the approval of the Secretary of State"
+		}
+	],
+
+	"section-161-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give such approval",
+			"ONLY IF": "satisfied that the operational purpose is specified in a greater level of detail than the descriptions contained in section 158(1)(a) or (2)"
+		}
+	],
+
+	"section-161-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give a copy of the list of operational purposes to the Intelligence and Security Committee of Parliament",
+			"AT": "the end of each relevant three-month period"
+		}
+	],
+
+	"section-161-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "review the list of operational purposes",
+			"AT LEAST ONCE": "a year"
+		}
+	],
+
+	"section-163-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a bulk acquisition warrant",
+			"TO": "be renewed by an instrument issued by the Secretary of State",
+			"IF": "the renewal conditions are met",
+			"AT": "any time during the renewal period",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-163-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to renew a bulk acquisition warrant",
+			"TO": "be taken personally by the Secretary of State"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument renewing the warrant",
+			"TO": "be signed by the Secretary of State"
+		}
+	],
+
+	"section-164-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The provisions of a bulk acquisition warrant",
+			"TO": "be modified by an instrument issued by the person making the modification",
+			"AT": "any time"
+		}
+	],
+
+	"section-164-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a major modification",
+			"TO": "be made by the Secretary of State"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a major modification",
+			"TO": "be made by the Secretary of State",
+			"ONLY IF": "the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 158(1)(a))"
+		}
+	],
+
+	"section-164-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A minor modification",
+			"TO": "be made by— (a) the Secretary of State, or (b) a senior official acting on behalf of the Secretary of State"
+		}
+	],
+
+	"section-164-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "be notified personally of a minor modification and the reasons for making it",
+			"WHERE": "the modification is made by a senior official"
+		}
+	],
+
+	"section-164-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person mentioned in subsection (6)",
+			"TO": "modify the warrant by removing any operational purpose specified in a warrant",
+			"IF": "at any time the person considers that that operational purpose is no longer a purpose for which the examination of communications data obtained under the warrant is or may be necessary"
+		}
+	],
+
+	"section-164-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to modify the provisions of a warrant",
+			"TO": "be taken personally by the person making the modification",
+			"SUBJECT TO": "subsection (10)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "be signed by that person",
+			"SUBJECT TO": "subsection (10)"
+		}
+	],
+
+	"section-164-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an instrument making a major modification",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the instrument to be signed by the Secretary of State"
+		}
+	],
+
+	"section-164-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the instrument to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the making of the modification",
+			"IN": "such a case"
+		}
+	],
+
+	"section-165-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to whether the modification is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary",
+			"IN": "deciding whether to approve a decision to make a major modification of a bulk acquisition warrant"
+		}
+	],
+
+	"section-165-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-165-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to make a major modification under section 164"
+		}
+	],
+
+	"section-165-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to make the modification",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to make a major modification under section 164"
+		}
+	],
+
+	"section-166-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that the modification has been made"
+		}
+	],
+
+	"section-166-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to make the modification, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-167-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk acquisition warrant",
+			"AT": "any time"
+		}
+	],
+
+	"section-167-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk acquisition warrant",
+			"IF": "the person considers that any of the cancellation conditions are met in relation to the warrant"
+		}
+	],
+
+	"section-167-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a warrant was addressed",
+			"TO": "secure that anything in the process of being done under the warrant stops as soon as possible",
+			"WHERE": "the warrant is cancelled under this section",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-167-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a warrant that has been cancelled under this section",
+			"TO": "be renewed"
+		}
+	],
+
+	"section-168-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person to whom a bulk acquisition warrant is addressed (“the implementing authority”)",
+			"TO": "(in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant",
+			"IN": "giving effect to the warrant"
+		}
+	],
+
+	"section-168-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the implementing authority",
+			"TO": "for the purpose of requiring any person to provide assistance in relation to a bulk acquisition warrant — (a) serve a copy of the warrant on any person whom the implementing authority considers may be able to provide such assistance, or (b) make arrangements for the service of a copy of the warrant on any such person"
+		}
+	],
+
+	"section-168-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A copy of a warrant",
+			"TO": "be served under subsection (2) on a person outside the United Kingdom for the purpose of requiring the person to provide such assistance in the form of conduct outside the United Kingdom"
+		}
+	],
+
+	"section-169-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A copy of the warrant",
+			"TO": "be served in such a way as to bring the contents of the warrant to the attention of the person whom the implementing authority considers may be able to provide assistance in relation to it"
+		}
+	],
+
+	"section-169-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A copy of a warrant",
+			"TO": "be served on a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)— (a) by serving it at the person's principal office within the United Kingdom or, if the person has no such office in the United Kingdom, at any place in the United Kingdom where the person carries on business or conducts activities; (b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept service of documents of the same description as a copy of a warrant, by serving it at that address; (c) by making it available for inspection (whether to the person or to someone acting on the person's behalf) at a place in the United Kingdom",
+			"SUBJECT TO": "subsection (4)"
+		}
+	],
+
+	"section-169-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A copy of a warrant",
+			"TO": "be served on a person outside the United Kingdom in the way mentioned in subsection (3)(c)",
+			"ONLY IF": "— (a) it is not reasonably practicable for a copy to be served by any other means (whether as mentioned in subsection (3)(a) or (b) or otherwise), and (b) the implementing authority takes such steps as the authority considers appropriate for the purpose of bringing the contents of the warrant, and the availability of a copy for inspection, to the attention of the person"
+		}
+	],
+
+	"section-169-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The steps mentioned in subsection (4)(b)",
+			"TO": "be taken",
+			"AS SOON AS": "reasonably practicable after the copy of the warrant is made available for inspection"
+		}
+	],
+
+	"section-170-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A telecommunications operator that has been served with a copy of a bulk acquisition warrant by (or on behalf of) the implementing authority",
+			"TO": "take all steps for giving effect to the warrant that are notified to the operator by (or on behalf of) the implementing authority",
+			"SUBJECT TO": "subsection (3)"
+		}
+	],
+
+	"section-171-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing— (a) that the requirements of subsections (2) and (5) are met in relation to the communications data obtained under the warrant, and (b) that the requirements of section 172 are met in relation to that data",
+			"IN RELATION TO": "every bulk acquisition warrant",
+			"SUBJECT TO": "subsection (8)"
+		}
+	],
+
+	"section-171-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that communications data obtained under a bulk acquisition warrant, or any copy of such data, is handed over or given to an overseas authority",
+			"ONLY IF": "the Secretary of State considers that requirements corresponding to the requirements of subsections (2) and (5) and section 172 will apply, to such extent (if any) as the Secretary of State considers appropriate, in relation to such data or copy"
+		}
+	],
+
+	"section-173-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) select for examination any communications data obtained under a bulk acquisition warrant, (b) know or believe that the selection of that data for examination does not comply with a requirement imposed by section 172, and (c) deliberately select that data for examination in breach of that requirement"
+		}
+	],
+
+	"section-174-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "— (a) a telecommunications operator who is under a duty by virtue of section 170 to assist in giving effect to a bulk acquisition warrant, or (b) any person employed or engaged for the purposes of the business of such an operator",
+			"TO": "disclose to any person, without reasonable excuse, the existence or contents of the warrant"
+		}
+	],
+
+	"section-176-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "authorise or require the person to whom it is addressed to secure the obtaining of the communications, equipment data or other information to which the warrant relates"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "authorise or require the person to whom it is addressed to secure— (i) the selection for examination, in any manner described in the warrant, of any material obtained under the warrant by virtue of paragraph (a); (ii) the disclosure, in any manner described in the warrant, of any such material to the person to whom the warrant is addressed or to any person acting on that person's behalf"
+		}
+	],
+
+	"section-176-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a bulk equipment interference warrant",
+			"TO": "by virtue of subsection (4)(a), authorise a person to engage in conduct, in relation to a communication other than a stored communication, which would (unless done with lawful authority) constitute an offence under section 3(1) (unlawful interception)"
+		}
+	],
+
+	"section-178-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue a bulk equipment interference warrant",
+			"ON": "an application made by or on behalf of the head of an intelligence service",
+			"IF": "— (a) the Secretary of State considers that the main purpose of the warrant is to obtain overseas-related communications, overseas-related information or overseas-related equipment data, (b) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, or (ii) on that ground and on any other grounds falling within subsection (2), (c) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct, (d) the Secretary of State considers that— (i) each of the specified operational purposes (see section 183) is a purpose for which the examination of material obtained under the warrant is or may be necessary, and (ii) the examination of such material for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, (e) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 191 and 192 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and (f) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-178-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for the issue of a bulk equipment interference warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-179-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether a warrant under section 178 is necessary as mentioned in subsection (1)(b) of that section, (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and (c) whether— (i) each of the specified operational purposes (see section 183) is a purpose for which the examination of material obtained under the warrant is or may be necessary, and (ii) the examination of such material for each such purpose is necessary as mentioned in section 178(1)(d)(ii)",
+			"IN": "deciding whether to approve a decision to issue the warrant"
+		}
+	],
+
+	"section-179-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-179-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to issue a warrant under section 178"
+		}
+	],
+
+	"section-179-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue a warrant under section 178",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue the warrant"
+		}
+	],
+
+	"section-180-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that it has been issued"
+		}
+	],
+
+	"section-180-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to issue the warrant, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-181-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person to whom the warrant was addressed",
+			"TO": "secure that anything in the process of being done under the warrant stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-181-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) authorise further interference with equipment for the purpose of enabling the person to whom the warrant was addressed to secure that anything in the process of being done under the warrant stops as soon as possible; (b) direct that any material obtained under the warrant is destroyed; (c) impose conditions as to the use or retention of any of that material"
+		}
+	],
+
+	"section-181-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Judicial Commissioner",
+			"TO": "require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection (3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-181-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3)"
+		}
+	],
+
+	"section-181-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) confirm the Judicial Commissioner's decision, or (b) make a fresh determination",
+			"ON": "a review under subsection (6)"
+		}
+	],
+
+	"section-182-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to issue a bulk equipment interference warrant",
+			"TO": "be taken personally by the Secretary of State"
+		}
+	],
+
+	"section-182-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a bulk equipment interference warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued"
+		}
+	],
+
+	"section-182-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a warrant",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for a warrant to be signed by the Secretary of State"
+		}
+	],
+
+	"section-182-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the warrant",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the warrant to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the issue of the warrant",
+			"IN": "such a case"
+		}
+	],
+
+	"section-183-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "contain a provision stating that it is a bulk equipment interference warrant"
+		}
+	],
+
+	"section-183-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "be addressed to the head of the intelligence service by whom, or on whose behalf, the application for the warrant was made"
+		}
+	],
+
+	"section-183-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "describe the conduct that is authorised by the warrant"
+		}
+	],
+
+	"section-183-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A bulk equipment interference warrant",
+			"TO": "specify the operational purposes for which any material obtained under the warrant may be selected for examination"
+		}
+	],
+
+	"section-183-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The operational purposes specified in the warrant",
+			"TO": "be ones specified, in a list maintained by the heads of the intelligence services (“the list of operational purposes”), as purposes which they consider are operational purposes for which material obtained under bulk equipment interference warrants may be selected for examination"
+		}
+	],
+
+	"section-183-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The warrant",
+			"TO": "specify all of the operational purposes which, at the time the warrant is issued, are specified in the list of operational purposes"
+		}
+	],
+
+	"section-183-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An operational purpose",
+			"TO": "be specified in the list of operational purposes",
+			"ONLY WITH": "the approval of the Secretary of State"
+		}
+	],
+
+	"section-183-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give such approval",
+			"ONLY IF": "satisfied that the operational purpose is specified in a greater level of detail than the descriptions contained in section 178(1)(b) or (2)"
+		}
+	],
+
+	"section-183-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give a copy of the list of operational purposes to the Intelligence and Security Committee of Parliament",
+			"AT": "the end of each relevant three-month period"
+		}
+	],
+
+	"section-183-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "review the list of operational purposes",
+			"AT LEAST ONCE": "a year"
+		}
+	],
+
+	"section-185-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a bulk equipment interference warrant",
+			"TO": "be renewed by an instrument issued by the Secretary of State",
+			"IF": "the renewal conditions are met",
+			"AT": "any time during the renewal period",
+			"SUBJECT TO": "subsection (6)"
+		}
+	],
+
+	"section-185-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to renew a bulk equipment interference warrant",
+			"TO": "be taken personally by the Secretary of State"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument renewing the warrant",
+			"TO": "be signed by the Secretary of State"
+		}
+	],
+
+	"section-186-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The provisions of a bulk equipment interference warrant",
+			"TO": "be modified by an instrument issued by the person making the modification",
+			"AT": "any time"
+		}
+	],
+
+	"section-186-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a major modification adding or varying any operational purpose",
+			"TO": "be made by the Secretary of State"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a major modification adding or varying any operational purpose",
+			"TO": "be made",
+			"ONLY IF": "the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 178(1)(b))"
+		}
+	],
+
+	"section-186-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a major modification adding or varying any description of conduct",
+			"TO": "be made by the Secretary of State"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a major modification adding or varying any description of conduct",
+			"TO": "be made",
+			"ONLY IF": "the Secretary of State considers— (i) that the modification is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 178(1)(b)), and (ii) that the conduct authorised by the modification is proportionate to what is sought to be achieved by that conduct"
+		}
+	],
+
+	"section-186-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the Secretary of State, or (b) a senior official acting on behalf of the Secretary of State",
+			"TO": "make a minor modification"
+		}
+	],
+
+	"section-186-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "be notified personally of a minor modification and the reasons for making it",
+			"WHERE": "the modification is made by a senior official"
+		}
+	],
+
+	"section-186-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person mentioned in subsection (7)",
+			"TO": "modify the warrant by removing that operational purpose",
+			"IF": "at any time the person considers that any operational purpose specified in a warrant is no longer a purpose for which the examination of material obtained under the warrant is or may be necessary"
+		}
+	],
+
+	"section-186-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to modify the provisions of a warrant",
+			"TO": "be taken personally by the person making the modification",
+			"SUBJECT TO": "subsection (11)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "be signed by that person",
+			"SUBJECT TO": "subsection (11)"
+		}
+	],
+
+	"section-186-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an instrument making a major modification",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the instrument to be signed by the Secretary of State"
+		}
+	],
+
+	"section-186-12": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the instrument to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the making of the modification",
+			"IN": "such a case"
+		}
+	],
+
+	"section-187-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether the modification is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, and (b) in the case of a major modification adding or varying any description of conduct authorised by the warrant, whether the conduct authorised by the modification is proportionate to what is sought to be achieved by that conduct",
+			"IN": "deciding whether to approve a decision to make a major modification of a bulk equipment interference warrant"
+		}
+	],
+
+	"section-187-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-187-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to make a major modification under section 186"
+		}
+	],
+
+	"section-187-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to make the modification",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to make a major modification under section 186"
+		}
+	],
+
+	"section-188-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that the modification has been made"
+		}
+	],
+
+	"section-188-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to make the modification, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-188-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom the warrant is addressed",
+			"TO": "secure that anything in the process of being done under the warrant by virtue of that modification stops as soon as possible",
+			"IF": "the Judicial Commissioner refuses to approve the decision to make the modification",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-188-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Judicial Commissioner",
+			"TO": "authorise further interference with equipment for the purpose of enabling the person to whom the warrant is addressed to secure that anything in the process of being done under the warrant by virtue of the modification stops as soon as possible"
+		}
+	],
+
+	"section-189-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk equipment interference warrant",
+			"AT": "any time"
+		}
+	],
+
+	"section-189-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a bulk equipment interference warrant",
+			"IF": "the person considers that any of the cancellation conditions are met in relation to the warrant"
+		}
+	],
+	
+	"section-189-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a warrant was addressed",
+			"TO": "secure that anything in the process of being done under the warrant stops as soon as possible",
+			"WHERE": "the warrant is cancelled under this section",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-189-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a warrant that has been cancelled under this section",
+			"TO": "be renewed"
+		}
+	],
+
+	"section-190-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person to whom a bulk equipment interference warrant is addressed (“the implementing authority”)",
+			"TO": "(in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant",
+			"IN": "giving effect to the warrant"
+		}
+	],
+
+	"section-190-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the implementing authority",
+			"TO": "For the purpose of requiring any person to provide assistance in relation to a bulk equipment interference warrant, — (a) serve a copy of the warrant on any person who the implementing authority considers may be able to provide such assistance, or (b) make arrangements for the service of a copy of the warrant on any such person"
+		}
+	],
+
+	"section-190-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A copy of a warrant",
+			"TO": "be served under subsection (2) on a person outside the United Kingdom for the purpose of requiring the person to provide such assistance in the form of conduct outside the United Kingdom"
+		}
+	],
+
+	"section-191-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing— (a) that the requirements of subsections (2) and (5) are met in relation to the material obtained under the warrant, and (b) that the requirements of section 193 are met in relation to that material",
+			"IN RELATION TO": "every bulk equipment interference warrant",
+			"SUBJECT TO": "subsection (8)"
+		}
+	],
+
+	"section-192-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that— (a) any material obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and (b) copies of any such material are given to overseas authorities only if those requirements are met",
+			"IN RELATION TO": "every bulk equipment interference warrant"
+		}
+	],
+
+	"section-193-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom the warrant is addressed",
+			"TO": "notify the Secretary of State that the selection is being carried out",
+			"IN": "a case where the selection of protected material for examination is authorised by subsection (5)"
+		}
+	],
+
+	"section-194-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a senior official",
+			"TO": "have regard to the public interest in the confidentiality of items subject to legal privilege",
+			"IN": "deciding whether to give an approval under subsection (2) in a case where subsection (1)(b)(i) applies"
+		}
+	],
+
+	"section-194-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A senior official",
+			"TO": "give an approval under subsection (2)",
+			"ONLY IF": "— (a) the official considers that the arrangements made for the purposes of section 191 (safeguards relating to retention and disclosure of material) include specific arrangements for the handling, retention, use and destruction of items subject to legal privilege, and (b) where subsection (1)(b)(i) applies, the official considers that there are exceptional and compelling circumstances that make it necessary to authorise the use of the relevant criteria"
+		}
+	],
+
+	"section-194-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The material",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria"
+		}
+	],
+
+	"section-194-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A senior official",
+			"TO": "give an approval under subsection (7)",
+			"ONLY IF": "the official considers that the targeted communications or other items of information are likely to be communications made or (as the case may be) other items of information created or held with the intention of furthering a criminal purpose"
+		}
+	],
+
+	"section-194-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a bulk equipment interference warrant is addressed",
+			"TO": "inform the Investigatory Powers Commissioner",
+			"AS SOON AS": "is reasonably practicable",
+			"WHERE": "an item subject to legal privilege which has been obtained under the warrant is retained following its examination, for purposes other than the destruction of the item"
+		}
+	],
+
+	"section-194-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) direct that the item is destroyed, or (b) impose one or more conditions as to the use or retention of that item",
+			"UNLESS": "the Commissioner considers that subsection (12) applies to the item"
+		}
+	],
+
+	"section-194-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions under subsection (10)(b) as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of items subject to legal privilege",
+			"IF": "the Commissioner considers that subsection (12) applies to the item"
+		}
+	],
+
+	"section-194-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsection (10)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-195-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person to whom the warrant is addressed",
+			"TO": "inform the Investigatory Powers Commissioner of the retention of the relevant material",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-195-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "direct that the relevant material is destroyed",
+			"UNLESS": "the Commissioner considers that subsection (8) applies to the relevant material"
+		}
+	],
+
+	"section-195-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions as to the use or retention of the relevant material as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of confidential journalistic material or sources of journalistic information",
+			"IF": "the Commissioner considers that subsection (8) applies to the relevant material"
+		}
+	],
+
+	"section-195-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsections (6) and (7)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-195A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform the Investigatory Powers Commissioner that the approval has been given",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-195A-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "— (a) consider whether the relevant condition is met as regards the use of the criteria for the selection of the material for examination, and (b) notify the Secretary of State of their decision",
+			"AS SOON AS": "reasonably practicable"
+		}
+	],
+
+	"section-196-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) select for examination any material obtained under a bulk equipment interference warrant, (b) know or believe that the selection of that material does not comply with a requirement imposed by section 193 or 194, and (c) deliberately select that material in breach of that requirement"
+		}
+	],
+
+	"section-196-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings for any offence which is an offence by virtue of this section",
+			"TO": "be instituted— (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions; (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland"
+		}
+	]
+}

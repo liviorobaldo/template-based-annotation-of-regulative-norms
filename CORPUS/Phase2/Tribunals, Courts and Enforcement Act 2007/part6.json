@@ -1,0 +1,64 @@
+{
+	"section-134-4A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant authority",
+			"TO": "extend the maximum protection period for a further period of up to 3 months",
+			"IN RELATION TO": "an object that is in— (a) the United Kingdom for the purpose of public display in a temporary exhibition at a museum or gallery in England or Scotland, or (b) England or Scotland for any of the purposes listed in subsection (7)(b) to (e)"
+		}
+	],
+
+	"section-134-4C": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power under subsection (4A)",
+			"TO": "be exercised",
+			"ON": "more than one occasion",
+			"IN RELATION TO": "a particular object (whether by the same relevant authority or by different relevant authorities)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The power under subsection (4A)",
+			"TO": "be exercised concurrently by both relevant authorities",
+			"AT": "a particular time",
+			"IN RELATION TO": "a particular object",
+			"IF": "exercisable by those authorities"
+		}
+	],
+
+	"section-134-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations requiring a museum or gallery to provide persons with specified information about an object in specified circumstances (which may include in particular compliance with conditions imposed by or under the regulations)"
+		}
+	],
+
+	"section-134-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Regulations under this section",
+			"TO": "be made without the consent of the Scottish Ministers, the Welsh Ministers and the Department for Culture, Art and Leisure in Northern Ireland"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Regulations under this section",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-136-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The appropriate authority",
+			"TO": "withdraw approval from an institution",
+			"IF": "it thinks fit",
+			"IF_2": "— (a) it thinks that the institution's procedures for establishing the provenance or ownership of objects are inadequate (because of the institution's failure to comply with guidance published by the Secretary of State or for some other reason), or (b) the institution has failed to comply with a requirement of regulations under section 134(9)"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"section-145-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor (or, in relation to Chapter 3 of Part 5 only, the Secretary of State)",
+			"TO": "by order make any supplementary, incidental, consequential, transitory, transitional or saving provision which he considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to, any provision of this Act"
+		}
+	],
+
+	"section-145-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "make different provision for different purposes"
+		}
+	],
+
+	"section-145-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an order amending or repealing an enactment contained in an Act",
+			"TO": "be made under this section",
+			"UNLESS": "a draft of the order has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-148-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "make different provision",
+			"FOR_2": "different purposes"
+		}
+	]
+}

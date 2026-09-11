@@ -1,0 +1,919 @@
+{
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order— (a) placing the child with respect to whom the application is made in the care of a designated local authority; or (b) putting him under the supervision of a designated local authority",
+			"ON": "the application of any local authority or authorised person"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "make a care order or supervision order",
+			"ONLY IF": "it is satisfied— (a) that the child concerned is suffering, or is likely to suffer, significant harm; and (b) that the harm, or likelihood of harm, is attributable to— (i) the care given to the child, or likely to be given to him if the order were not made, not being what it would be reasonable to expect a parent to give to him; or (ii) the child’s being beyond parental control"
+		}
+	],
+
+	"section-31-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a care order or supervision order",
+			"TO": "be made with respect to a child who has reached the age of seventeen (or sixteen, in the case of a child who is married)"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a care order or supervision order",
+			"TO": "be made with respect to a child who has reached the age of sixteen",
+			"IN THE CASE OF": "a child who is married"
+		}
+	],
+
+	"section-31-3C": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend this section for the purpose of altering what for the purposes of subsection (3A) are the permanence provisions of a section 31A plan"
+		}
+	],
+
+	"section-31-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application under this section",
+			"TO": "be made on its own or in any other family proceedings"
+		}
+	],
+
+	"section-31-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a supervision order",
+			"ON": "an application for a care order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a care order",
+			"ON": "an application for a supervision order"
+		}
+	],
+
+	"section-31-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an authorised person",
+			"TO": "consult the local authority appearing to him to be the authority in whose area the child concerned is ordinarily resident",
+			"WHERE": "he proposes to make an application under this section",
+			"IF": "it is reasonably practicable to do so",
+			"BEFORE": "making the application"
+		}
+	],
+
+	"section-31-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "entertain an application made by an authorised person",
+			"IF": "at the time when it is made, the child concerned is— (a) the subject of an earlier application for a care order, or supervision order, which has not been disposed of; or (b) subject to— (i) a care order or supervision order; (ii) a youth rehabilitation order within the meaning given by section 173 of the Sentencing Code; or (iii) a compulsory supervision order or interim compulsory supervision order as defined by sections 83 and 86 of the Children’s Hearings (Scotland) Act 2011"
+		}
+	],
+
+	"section-31-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority designated in a care order",
+			"TO": "be the authority within whose area the child is ordinarily resident"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority designated in a care order",
+			"TO": "be the authority within whose area any circumstances arose in consequence of which the order is being made",
+			"WHERE": "the child does not reside in the area of a local authority"
+		}
+	],
+
+	"section-31-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a child's health or development",
+			"TO": "be compared with that which could reasonably be expected of a similar child",
+			"WHERE": "the question of whether harm suffered by a child is significant turns on the his health or development"
+		}
+	],
+
+	"section-31A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the appropriate local authority",
+			"TO": "prepare a plan (“a care plan”) for the future care of the child",
+			"WHERE": "an application is made on which a care order might be made with respect to a child",
+			"WITHIN": "such time as the court may direct"
+		}
+	],
+
+	"section-31A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "keep any care plan prepared by them under review",
+			"WHILE": "the application is pending"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "revise the plan, or make a new plan, accordingly",
+			"WHILE": "the application is pending",
+			"IF": "they are of the opinion some change is required"
+		}
+	],
+
+	"section-31A-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A care plan",
+			"TO": "give any prescribed information and do so in the prescribed manner"
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A court in which an application for an order under this Part is proceeding",
+			"TO": "— (a) draw up a timetable with a view to disposing of the application— (i) without delay, and (ii) in any event within twenty-six weeks beginning with the day on which the application was issued; and (b) give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that that timetable is adhered to",
+			"IN THE LIGHT OF": "any provision in rules of court that is of the kind mentioned in subsection (2)(a) or (b)"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "— (a) specify periods within which specified steps must be taken in relation to such proceedings; and (b) make other provision with respect to such proceedings for the purpose of ensuring, so far as is reasonably practicable, that they are disposed of without delay"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A court",
+			"TO": "have regard to— (a) the impact which the timetable would have on the welfare of the child to whom the application relates; and (b) the impact which the timetable would have on the conduct of the proceedings",
+			"WHEN": "drawing up a timetable under subsection (1)(a)"
+		}
+	],
+
+	"section-32-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A court",
+			"TO": "have regard to— (a) the impact which any revision would have on the welfare of the child to whom the application relates; and (b) the impact which any revision would have on the duration and conduct of the proceedings",
+			"WHEN": "revising a timetable drawn up under subsection (1)(a) or when making any decision which may give rise to a need to revise such a timetable (which does not include a decision under subsection (5))"
+		}
+	],
+
+	"section-32-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court in which an application under this Part is proceeding",
+			"TO": "extend the period that is for the time being allowed under subsection (1)(a)(ii) in the case of the application",
+			"ONLY IF": "the court considers that the extension is necessary to enable the court to resolve the proceedings justly"
+		}
+	],
+
+	"section-32-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "have regard to— (a) the impact which any ensuing timetable revision would have on the welfare of the child to whom the application relates, and (b) the impact which any ensuing timetable revision would have on the duration and conduct of the proceedings",
+			"WHEN": "deciding whether to grant an extension under subsection (5)"
+		}
+	],
+
+	"section-32-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "take account of the following guidance: extensions are not to be granted routinely and are to be seen as requiring specific justification",
+			"WHEN": "deciding whether to grant an extension under subsection (5)"
+		}
+	],
+
+	"section-32-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by regulations amend subsection (1)(a)(ii), or the opening words of subsection (8), for the purpose of varying the period for the time being specified in that provision"
+		}
+	],
+
+	"section-32-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "provide that a court must, or may or may not, have regard to matters specified in the rules, or must take account of any guidance set out in the rules",
+			"WHEN": "— (a) deciding whether to exercise the power under subsection (5), or (b) deciding how to exercise that power"
+		}
+	],
+
+	"section-33-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority designated by the order",
+			"TO": "receive the child into their care and to keep him in their care while the order remains in force",
+			"WHERE": "a care order is made with respect to a child"
+		}
+	],
+
+	"section-33-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a child",
+			"TO": "be kept in the care of a person on the application of an authorised person",
+			"WHERE": "a care order has been made with respect to the child on the application of that person but the local authority designated by the order was not informed that that person proposed to make the application",
+			"UNTIL": "received into the care of the authority"
+		}
+	],
+
+	"section-33-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority designated by the order",
+			"TO": "— (a) have parental responsibility for the child; and (b) have the power (subject to the following provisions of this section) to determine the extent to which — (i) a parent, guardian or special guardian of the child; or (ii) a person who by virtue of section 4A has parental responsibility for the child, may meet his parental responsibility for him",
+			"WHILE": "a care order is in force with respect to a child"
+		}
+	],
+
+	"section-33-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The authority",
+			"TO": "exercise the power in subsection (3)(b)",
+			"UNLESS": "they are satisfied that it is necessary to do so in order to safeguard or promote the child’s welfare"
+		}
+	],
+
+	"section-33-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person mentioned in that provision who has care of the child",
+			"TO": "do what is reasonable in all the circumstances of the case for the purpose of safeguarding or promoting his welfare"
+		}
+	],
+
+	"section-33-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the local authority designated by the order",
+			"TO": "— (a) cause the child to be brought up in any religious persuasion other than that in which he would have been brought up if the order had not been made; or (b) have the right— (ii) to agree or refuse to agree to the making of an adoption order, or an order under section 84 of the Adoption and Children Act 2002, with respect to the child; or (iii) to appoint a guardian for the child",
+			"WHILE": "a care order is in force with respect to a child"
+		}
+	],
+
+	"section-33-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) cause the child to be known by a new surname; or (b) remove him from the United Kingdom, without either the written consent of every person who has parental responsibility for the child or the leave of the court",
+			"WHILE": "a care order is in force with respect to a child"
+		}
+	],
+
+	"section-33-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the authority in whose care such a child is",
+			"TO": "remove such a child, for a period of less than one month"
+		}
+	],
+
+	"section-34-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "allow a child in their care reasonable contact with— (a) his parents; (b) any guardian or special guardian of his; (ba) any person who by virtue of section 4A has parental responsibility for him; (c) where there was a child arrangements order in force with respect to the child immediately before the care order was made, any person named in the child arrangements order as a person with whom the child was to live; and (d) where, immediately before the care order was made, a person had care of the child by virtue of an order made in the exercise of the High Court’s inherent jurisdiction with respect to children, that person",
+			"WHERE": "a child is in the care of the authority",
+			"SUBJECT TO": "the provisions of this section and their duty under section 22(3)(a)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "allow a child in their care reasonable contact with— (a) his parents; (b) any guardian or special guardian of his; (ba) any person who by virtue of section 4A has parental responsibility for him; (c) where there was a child arrangements order in force with respect to the child immediately before the care order was made, any person named in the child arrangements order as a person with whom the child was to live; and (d) where, immediately before the care order was made, a person had care of the child by virtue of an order made in the exercise of the High Court’s inherent jurisdiction with respect to children, that person",
+			"WHERE": "the local authority is in Wales",
+			"SUBJECT TO": "section 78(1)(a) of the Social Services and Well-being (Wales) Act 2014"
+		}
+	],
+
+	"section-34-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make such order as it considers appropriate with respect to the contact which is to be allowed between the child and any named person",
+			"ON": "an application made by the authority or the child"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make such order as it considers appropriate with respect to the contact which is to be allowed between the child and that person",
+			"ON": "an application made by— (a) any person mentioned in paragraphs (a) to (d) of subsection (1); or (b) any person who has obtained the leave of the court to make the application"
+		}
+	],
+
+	"section-34-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order authorising the authority to refuse to allow contact between the child and any person who is mentioned in paragraphs (a) to (d) of subsection (1) and named in the order",
+			"ON": "an application made by the authority or the child"
+		}
+	],
+
+	"section-34-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order under this section, even though no application for such an order has been made with respect to the child",
+			"WHEN": "making a care order with respect to a child",
+			"IF": "it considers that the order should be made"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order under this section, even though no application for such an order has been made with respect to the child",
+			"IN": "any family proceedings in connection with a child who is in the care of a local authority",
+			"IF": "it considers that the order should be made"
+		}
+	],
+
+	"section-34-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An authority",
+			"TO": "refuse to allow the contact that would otherwise be required by virtue of subsection (1) or an order under this section",
+			"IF": "— (a) they are satisfied that it is necessary to do so in order to safeguard or promote the child’s welfare; and (b) the refusal— (i) is decided upon as a matter of urgency; and (ii) does not last for more than seven days"
+		}
+	],
+
+	"section-34-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "impose such conditions as the court considers appropriate"
+		}
+	],
+
+	"section-34-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision as to— (za) what a local authority in England must have regard to in considering whether contact between a child and a person mentioned in any of paragraphs (a) to (d) of subsection (1) is consistent with safeguarding and promoting the child's welfare; (a) the steps to be taken by a local authority who have exercised their powers under subsection (6); (b) the circumstances in which, and conditions subject to which, the terms of any order under this section may be departed from by agreement between the local authority and the person in relation to whom the order is made; (c) notification by a local authority of any variation or suspension of arrangements made (otherwise than under an order under this section) with a view to affording any person contact with a child to whom this section applies"
+		}
+	],
+
+	"section-34-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "vary or discharge any order made under this section",
+			"ON": "the application of the authority, the child concerned or the person named in the order"
+		}
+	],
+
+	"section-34-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "be made",
+			"AT": "the same time as the care order itself or later"
+		}
+	],
+
+	"section-34-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "— (a) consider the arrangements which the authority have made, or propose to make, for affording any person contact with a child to whom this section applies; and (b) invite the parties to the proceedings to comment on those arrangements",
+			"BEFORE": "making, varying or discharging an order under this section or making a care order with respect to any child"
+		}
+	],
+
+	"section-35-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the supervisor",
+			"TO": "— (a) to advise, assist and befriend the supervised child; (b) to take such steps as are reasonably necessary to give effect to the order; and (c) where— (i) the order is not wholly complied with; or (ii) the supervisor considers that the order may no longer be necessary, to consider whether or not to apply to the court for its variation or discharge",
+			"WHILE": "a supervision order is in force"
+		}
+	],
+
+	"section-36-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order putting the child with respect to whom the application is made under the supervision of a designated local authority",
+			"ON": "the application of any local authority"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "make an education supervision order",
+			"ONLY IF": "it is satisfied that the child concerned is of compulsory school age and is not being properly educated"
+		}
+	],
+
+	"section-36-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An education supervision order",
+			"TO": "be made",
+			"WITH RESPECT TO": "a child who is in the care of a local authority"
+		}
+	],
+
+	"section-36-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority designated in an education supervision order",
+			"TO": "be the authority within whose area the child concerned is living or will live"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority designated in an education supervision order",
+			"TO": "be the authority within whose area a child's school is situated",
+			"WHERE": "the child is a registered pupil at the school; and (ii) the authority mentioned in paragraph (a) and the authority within whose area the school is situated agree"
+		}
+	],
+
+	"section-36-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "consult the appropriate local authority",
+			"WHERE": "they propose to make an application for an education supervision order",
+			"BEFORE": "making the application",
+			"IF": "different"
+		}
+	],
+
+	"section-37-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "direct the appropriate authority to undertake an investigation of the child’s circumstances",
+			"WHERE": "in any family proceedings in which a question arises with respect to the welfare of any child, it appears to the court that it may be appropriate for a care or supervision order to be made with respect to him"
+		}
+	],
+
+	"section-37-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority concerned",
+			"TO": "consider whether they should— (a) apply for a care order or for a supervision order with respect to the child; (b) provide services or assistance for the child or his family; or (c) take any other action with respect to the child",
+			"WHERE": "the court gives a direction under this section",
+			"WHEN": "undertaking the investigation"
+		}
+	],
+
+	"section-37-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "inform the court of— (a) their reasons for so deciding; (b) any service or assistance which they have provided, or intend to provide, for the child and his family; and (c) any other action which they have taken, or propose to take, with respect to the child",
+			"WHERE": "they undertake an investigation under this section, and decide not to apply for a care order or supervision order with respect to the child concerned"
+		}
+	],
+
+	"section-37-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The information",
+			"TO": "be given to the court",
+			"BEFORE": "the end of the period of eight weeks beginning with the date of the direction",
+			"UNLESS": "the court otherwise directs"
+		}
+	],
+
+	"section-37-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The local authority named in a direction under subsection (1)",
+			"TO": "be— (a) the authority in whose area the child is ordinarily resident; or (b) where the child is not ordinarily resident in the area of a local authority, the authority within whose area any circumstances arose in consequence of which the direction is being given"
+		}
+	],
+
+	"section-37-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "consider whether it would be appropriate to review the case at a later date",
+			"IF": "on the conclusion of any investigation or review under this section, they decide not to apply for a care order or supervision order with respect to the child"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the authority",
+			"TO": "determine the date on which that review is to begin",
+			"IF": "they decide that it would be"
+		}
+	],
+
+	"section-38-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an interim care order or an interim supervision order with respect to the child concerned",
+			"WHERE": "— (a) in any proceedings on an application for a care order or supervision order, the proceedings are adjourned; or (b) the court gives a direction under section 37(1)"
+		}
+	],
+
+	"section-38-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an interim care order or interim supervision order under this section",
+			"UNLESS": "it is satisfied that there are reasonable grounds for believing that the circumstances with respect to the child are as mentioned in section 31(2)"
+		}
+	],
+
+	"section-38-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "make an interim supervision order with respect to him",
+			"WHERE": "in any proceedings on an application for a care order or supervision order, a court makes a child arrangements order with respect to the living arrangements of the child concerned",
+			"UNLESS": "satisfied that his welfare will be satisfactorily safeguarded without an interim order being made"
+		}
+	],
+
+	"section-38-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "give such directions (if any) as it considers appropriate with regard to the medical or psychiatric examination or other assessment of the child",
+			"WHERE": "the court makes an interim care order, or interim supervision order"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the child",
+			"TO": "refuse to submit to the examination or other assessment",
+			"IF": "he is of sufficient understanding to make an informed decision"
+		}
+	],
+
+	"section-38-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A direction under subsection (6)",
+			"TO": "be to the effect that there is to be— (a) no such examination or assessment; or (b) no such examination or assessment unless the court directs otherwise"
+		}
+	],
+
+	"section-38-7A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A direction under subsection (6) to the effect that there is to be a medical or psychiatric examination or other assessment of the child",
+			"TO": "be given",
+			"ONLY IF": "the court is of the opinion that the examination or other assessment is necessary to assist the court to resolve the proceedings justly"
+		}
+	],
+
+	"section-38-7B": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard in particular to— (a) any impact which any examination or other assessment would be likely to have on the welfare of the child, and any other impact which giving the direction would be likely to have on the welfare of the child, (b) the issues with which the examination or other assessment would assist the court, (c) the questions which the examination or other assessment would enable the court to answer, (d) the evidence otherwise available, (e) the impact which the direction would be likely to have on the timetable, duration and conduct of the proceedings, (f) the cost of the examination or other assessment, and (g) any matters prescribed by Family Procedure Rules",
+			"WHEN": "deciding whether to give a direction under subsection (6) to that effect"
+		}
+	],
+
+	"section-38-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A direction under subsection (6)",
+			"TO": "— (a) given when the interim order is made or at any time while it is in force; and (b) varied at any time on the application of any person falling within any class of person prescribed by rules of court for the purposes of this subsection"
+		}
+	],
+
+	"section-38-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "consider whether any party who was, or might have been, opposed to the making of the order was in a position to argue his case against the order in full",
+			"WHERE": "it makes an order under or by virtue of this section",
+			"IN": "determining the period for which the order is to be in force"
+		}
+	],
+
+	"section-38A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "include an exclusion requirement in the interim care order",
+			"WHERE": "— (a) on being satisfied that there are reasonable grounds for believing that the circumstances with respect to a child are as mentioned in section 31(2)(a) and (b)(i), the court makes an interim care order with respect to a child, and (b) the conditions mentioned in subsection (2) are satisfied"
+		}
+	],
+
+	"section-38A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "provide that the exclusion requirement is to have effect for a shorter period than the other provisions of the interim care order"
+		}
+	],
+
+	"section-38A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "attach a power of arrest to the exclusion requirement",
+			"WHERE": "the court makes an interim care order containing an exclusion requirement"
+		}
+	],
+
+	"section-38A-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "provide that a power of arrest attached to an exclusion requirement of an interim care order is to have effect for a shorter period than the exclusion requirement",
+			"WHERE": "the court attaches a power of arrest to an exclusion requirement of an interim care order"
+		}
+	],
+
+	"section-38A-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any period specified for the purposes of subsection (4) or (6)",
+			"TO": "be extended by the court (on one or more occasions)",
+			"ON": "an application to vary or discharge the interim care order"
+		}
+	],
+
+	"section-38A-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a constable",
+			"TO": "arrest without warrant any person whom he has reasonable cause to believe to be in breach of the requirement",
+			"WHERE": "a power of arrest is attached to an exclusion requirement of an interim care order by virtue of subsection (5)"
+		}
+	],
+
+	"section-38B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "accept an undertaking from the relevant person",
+			"IN": "any case where the court has power to include an exclusion requirement in an interim care order"
+		}
+	],
+
+	"section-38B-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a power of arrest",
+			"TO": "be attached to any undertaking given under subsection (1)"
+		}
+	],
+
+	"section-39-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "discharge a care order",
+			"ON": "the application of— (a) any person who has parental responsibility for the child; (b) the child himself; or (c) the local authority designated by the order"
+		}
+	],
+
+	"section-39-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "vary or discharge a supervision order",
+			"ON": "the application of— (a) any person who has parental responsibility for the child; (b) the child himself; or (c) the supervisor"
+		}
+	],
+
+	"section-39-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "vary a supervision order in so far as it imposes a requirement which affects a person with whom the child is living",
+			"ON": "the application of a person who is not entitled to apply for the order to be discharged, but who is a person with whom the child is living"
+		}
+	],
+
+	"section-39-3A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "vary or discharge an interim care order in so far as it imposes the exclusion requirement",
+			"ON": "the application of a person who is not entitled to apply for the order to be discharged, but who is a person to whom an exclusion requirement contained in the order applies"
+		}
+	],
+
+	"section-39-3B": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "vary or discharge an interim care order so far as it confers a power of arrest (whether or not any application has been made to vary or discharge any other provision of the order)",
+			"WHERE": "a power of arrest has been attached to an exclusion requirement of the order",
+			"ON": "the application of any person entitled to apply for the discharge of the order so far as it imposes the exclusion requirement"
+		}
+	],
+
+	"section-39-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "substitute a supervision order for the care order",
+			"WHERE": "a care order is in force with respect to a child",
+			"ON": "the application of any person entitled to apply for the order to be discharged"
+		}
+	],
+
+	"section-40-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "make a care order with respect to the child to have effect subject to such directions (if any) as the court may see fit to include in the order",
+			"WHERE": "— (a) a court dismisses an application for a care order; and (b) at the time when the court dismisses the application, the child concerned is the subject of an interim care order"
+		}
+	],
+
+	"section-40-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "make a supervision order with respect to the child to have effect subject to such directions (if any) as the court may see fit to include in the order",
+			"WHERE": "— (a) a court dismisses an application for a care order, or an application for a supervision order; and (b) at the time when the court dismisses the application, the child concerned is the subject of an interim supervision order"
+		}
+	],
+
+	"section-40-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "order that— (a) its decision is not to have effect; or (b) the care order, or supervision order, is to continue to have effect but subject to such directions as the court sees fit to include in the order",
+			"WHERE": "it grants an application to discharge a care order or supervision order"
+		}
+	],
+
+	"section-40-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the appellate court",
+			"TO": "extend the period for which the order in question is to have effect",
+			"WHERE": "— (a) an appeal is made against any decision of a court under this section; or (b) any application is made to the appellate court in connection with a proposed appeal against that decision"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the appellate court",
+			"TO": "extend the period for which the order in question is to have effect",
+			"WHERE": "— (a) an appeal is made against any decision of a court under this section; or (b) any application is made to the appellate court in connection with a proposed appeal against that decision",
+			"BEYOND": "the end of the appeal period"
+		}
+	],
+
+	"section-41-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "for the purpose of any specified proceedings, appoint an officer of the Service or a Welsh family proceedings officer for the child concerned",
+			"UNLESS": "satisfied that it is not necessary to do so in order to safeguard his interests"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The officer of the Service or Welsh family proceedings officer",
+			"TO": "— (a) be appointed in accordance with rules of court; and (b) be under a duty to safeguard the interests of the child in the manner prescribed by such rules"
+		}
+	],
+
+	"section-41-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "appoint a solicitor to represent him",
+			"WHERE": "— (a) the child concerned is not represented by a solicitor; and (b) any of the conditions mentioned in subsection (4) is satisfied"
+		}
+	],
+
+	"section-41-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any solicitor appointed under or by virtue of this section",
+			"TO": "be appointed, and represent the child, in accordance with rules of court"
+		}
+	],
+
+	"section-41-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "make provision as to— (a) the assistance which any officer of the Service or Welsh family proceedings officer may be required by the court to give to it; (b) the consideration to be given by any officer of the Service or Welsh family proceedings officer, where an order of a specified kind has been made in the proceedings in question, as to whether to apply for the variation or discharge of the order; (c) the participation of officers of the Service or Welsh family proceedings officers in reviews, of a kind specified in the rules, which are conducted by the court"
+		}
+	],
+
+	"section-41-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "Regardless of any enactment or rule of law which would otherwise prevent it from doing so, take account of— (a) any statement contained in a report made by an officer of the Service or a Welsh family proceedings officer who is appointed under this section for the purpose of the proceedings in question; and (b) any evidence given in respect of the matters referred to in the report",
+			"IN SO FAR AS": "the statement or evidence is, in the opinion of the court, relevant to the question which the court is considering"
+		}
+	]
+}

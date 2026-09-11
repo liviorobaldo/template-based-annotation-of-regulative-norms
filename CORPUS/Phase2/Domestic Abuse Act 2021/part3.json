@@ -1,0 +1,1131 @@
+{
+	"section-22-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A senior police officer",
+			"TO": "give a domestic abuse protection notice to a person (“P”)",
+			"IF": "conditions A and B are met"
+		}
+	],
+
+	"section-22-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a domestic abuse protection notice",
+			"TO": "be given to a person who is under the age of 18"
+		}
+	],
+
+	"section-23-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection notice",
+			"TO": "provide that the person to whom the notice is given (“P”)— (a) may not contact the person for whose protection the notice is given; (b) may not come within a specified distance of any premises in England or Wales in which that person lives"
+		}
+	],
+
+	"section-23-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice",
+			"TO": "contain provision— (a) prohibiting P from evicting or excluding that person from the premises; (b) prohibiting P from entering the premises; (c) requiring P to leave the premises",
+			"IF": "P lives in premises in England or Wales in which the person for whose protection the notice is given also lives"
+		}
+	],
+
+	"section-24-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a senior police officer",
+			"TO": "consider the following— (a) the welfare of any person under the age of 18 whose interests the officer considers relevant to the giving of the notice (whether or not that person and P are personally connected); (b) the opinion of the person for whose protection the notice would be given as to the giving of the notice; (c) any representations made by P about the giving of the notice; (d) in a case where the notice includes provision relating to premises lived in by the person for whose protection the notice would be given, the opinion of any relevant occupant as to the giving of the notice",
+			"BEFORE": "giving a domestic abuse protection notice to a person (“P”)"
+		}
+	],
+
+	"section-24-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The officer",
+			"TO": "take reasonable steps to discover the opinions mentioned in subsection (1)"
+		}
+	],
+
+	"section-25-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A domestic abuse protection notice",
+			"TO": "be in writing"
+		}
+	],
+
+	"section-25-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A domestic abuse protection notice given to a person (“P”)",
+			"TO": "state— (a) the grounds on which it has been given, (b) that a constable may arrest P without warrant if the constable has reasonable grounds for believing that P is in breach of the notice, (c) that an application for a domestic abuse protection order under section 28 will be heard by a magistrates' court within 48 hours of the time of giving the notice (disregarding any days mentioned in section 29(3)) and a notice of the hearing will be given to P, (d) that the notice continues in effect until that application has been determined or withdrawn, and (e) the provision that a magistrates' court may include in a domestic abuse protection order"
+		}
+	],
+
+	"section-25-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice",
+			"TO": "be served on P personally by a constable"
+		}
+	],
+
+	"section-25-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the constable",
+			"TO": "ask P for an address at which P may be given the notice of the hearing of the application for the domestic abuse protection order",
+			"ON": "serving the notice on P"
+		}
+	],
+
+	"section-25-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The officer",
+			"TO": "make reasonable efforts to inform P's commanding officer of the giving of the notice"
+		}
+	],
+
+	"section-26-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a constable",
+			"TO": "arrest a person without warrant",
+			"IF": "the constable has reasonable grounds for believing that the person is in breach of a domestic abuse protection notice"
+		}
+	],
+
+	"section-26-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person arrested by virtue of subsection (1)",
+			"TO": "be held in custody and brought before the appropriate magistrates' court",
+			"BEFORE": "the end of the period of 24 hours beginning with the time of the arrest"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person arrested by virtue of subsection (1)",
+			"TO": "be held in custody and brought before the appropriate magistrates' court",
+			"IF": "earlier",
+			"AT": "the hearing of the application for a domestic abuse protection order against the person (see section 28(3))"
+		}
+	],
+
+	"section-26-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "remand the person",
+			"IF": "the person is brought before the court as mentioned in subsection (2)(a)"
+		}
+	],
+
+	"section-26-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "require the person to comply, before release on bail or later, with any requirements that appear to the court to be necessary to secure that the person does not interfere with witnesses or otherwise obstruct the course of justice",
+			"WHEN": "remanding the person on bail"
+		}
+	],
+
+	"section-27-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "be made",
+			"ON": "application (see section 28)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "be made",
+			"IN": "the course of certain proceedings (see section 31)"
+		}
+	],
+
+	"section-28-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "make a domestic abuse protection order under this section against a person (“P”)",
+			"ON": "an application made to it in accordance with this section"
+		}
+	],
+
+	"section-28-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the person for whose protection the order is sought; (b) the appropriate chief officer of police (see subsection (4)); (c) a person specified in regulations made by the Secretary of State; (d) any other person with the leave of the court to which the application is to be made",
+			"TO": "make an application for an order under this section"
+		}
+	],
+
+	"section-28-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the chief officer of police in relation to a relevant police force under section 22",
+			"TO": "apply for a domestic abuse protection order against P",
+			"WHERE": "P is given a domestic abuse protection notice by a member of that force"
+		}
+	],
+
+	"section-28-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application for an order under this section",
+			"TO": "be made to the family court",
+			"EXCEPT WHERE": "subsection (6) or (7) applies"
+		}
+	],
+
+	"section-28-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An application made by a chief officer of police for an order under this section",
+			"TO": "be made by complaint to a magistrates' court"
+		}
+	],
+
+	"section-28-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an application for an order under this section",
+			"TO": "be made in those proceedings by the person for whose protection the order is sought",
+			"IN": "a case where— (a) P, and the person for whose protection the order is sought, are parties to any family or civil proceedings, and (b) the court would have power to make a domestic abuse protection order under section 31 in those proceedings without an application being made"
+		}
+	],
+
+	"section-28-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a magistrates' court",
+			"TO": "adjourn the hearing of the application",
+			"WHERE": "an application is made to the magistrates' court in accordance with this section"
+		}
+	],
+
+	"section-29-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "be heard by the magistrates' court",
+			"NOT LATER THAN": "48 hours after the notice was given to P"
+		}
+	],
+
+	"section-29-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "P",
+			"TO": "be given a notice of the hearing of the application"
+		}
+	],
+
+	"section-29-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The notice under subsection (4)",
+			"TO": "be treated as having been given",
+			"IF": "it has been left at the address given by P under section 25(4)"
+		}
+	],
+
+	"section-29-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "hear the application",
+			"IF": "the notice has not been given because P did not give an address under section 25(4)"
+		}
+	],
+
+	"section-29-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "remand P",
+			"IF": "— (a) P is brought before the court at the hearing of the application as a result of P's arrest by virtue of section 26(1) (arrest for breach of domestic abuse protection notice), and (b) the court adjourns the hearing"
+		}
+	],
+
+	"section-30-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the power to remand the person",
+			"TO": "be exercised for the purpose of enabling a medical examination to take place and a report to be made",
+			"IF": "the court has reason to suspect that a medical report will be required"
+		}
+	],
+
+	"section-30-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the adjournment",
+			"TO": "be for more than 3 weeks at a time",
+			"IF": "the person is remanded in custody for that purpose"
+		}
+	],
+
+	"section-30-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the adjournment",
+			"TO": "be for more than 4 weeks at a time",
+			"IF": "the person is remanded on bail for that purpose"
+		}
+	],
+
+	"section-30-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "require the person to comply with any requirements that appear to the court to be necessary to secure that the person does not interfere with witnesses or otherwise obstruct the course of justice",
+			"WHEN": "remanding the person on bail",
+			"BEFORE": "release on bail or later"
+		}
+	],
+
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "make a domestic abuse protection order under this section",
+			"IN": "any of the cases set out below"
+		}
+	],
+
+	"section-31-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The High Court or the family court",
+			"TO": "make a domestic abuse protection order against a person (“P”)",
+			"IN": "any family proceedings to which both P and the person for whose protection the order would be made are parties"
+		}
+	],
+
+	"section-31-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court by or before which a person is acquitted of an offence",
+			"TO": "make a domestic abuse protection order against the person"
+		}
+	],
+
+	"section-31-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Crown Court",
+			"TO": "make a domestic abuse protection order against a person",
+			"WHERE": "the Crown Court allows the person's appeal against a conviction for an offence"
+		}
+	],
+
+	"section-31-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court",
+			"TO": "make a domestic abuse protection order against a person (“P”)",
+			"IN": "any relevant proceedings to which both P and the person for whose protection the order would be made are parties"
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a domestic abuse protection order under section 28 or 31 against a person (“P”)",
+			"IF": "conditions A and B are met"
+		}
+	],
+
+	"section-32-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A domestic abuse protection order",
+			"TO": "be made against a person who is under the age of 18"
+		}
+	],
+
+	"section-33-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "consider the following— (a) the welfare of any person under the age of 18 whose interests the court considers relevant to the making of the order (whether or not that person and P are personally connected); (b) any opinion of the person for whose protection the order would be made— (i) which relates to the making of the order, and (ii) of which the court is made aware; (c) in a case where the order includes provision relating to premises lived in by the person for whose protection the order would be made, any opinion of a relevant occupant— (i) which relates to the making of the order, and (ii) of which the court is made aware",
+			"BEFORE": "making a domestic abuse protection order against a person (“P”)"
+		}
+	],
+
+	"section-34-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-34-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "make a domestic abuse protection order against a person (“P”) even though P has not been given such notice of the proceedings as would otherwise be required by rules of court",
+			"IN": "any case where it is just and convenient to do so",
+			"UNLESS": "this relates to the making of an order under section 28 on an application made in accordance with subsection (3) of that section (see instead section 29(4) to (6))"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have regard to all the circumstances, including— (a) any risk that, if the order is not made immediately, P will cause significant harm to the person for whose protection the order would be made, (b) in a case where an application for the order has been made, whether it is likely that the person making the application will be deterred or prevented from pursuing the application if an order is not made immediately, and (c) whether there is reason to believe that— (i) P is aware of the proceedings but is deliberately evading service, and (ii) the delay involved in effecting substituted service will cause serious prejudice to the person for whose protection the order would be made",
+			"IN": "deciding whether to exercise its powers under subsection (1)"
+		}
+	],
+
+	"section-34-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "give a person an opportunity to make representations about the order— (a) as soon as just and convenient, and (b) at a hearing of which notice has been given to all the parties in accordance with rules of court",
+			"IF": "it makes an order against the person by virtue of subsection (1)"
+		}
+	],
+
+	"section-35-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "by a domestic abuse protection order impose any requirements that the court considers necessary to protect the person for whose protection the order is made from domestic abuse or the risk of domestic abuse"
+		}
+	],
+
+	"section-35-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The court",
+			"TO": "consider what requirements (if any) may be necessary to protect the person for whose protection the order is made from different kinds of abusive behaviour"
+		}
+	],
+
+	"section-35-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "provide that the person against whom the order is made (“P”)— (a) may not contact the person for whose protection it is made; (b) may not come within a specified distance of any premises in England or Wales in which that person lives; (c) may not come within a specified distance of any other specified premises, or any other premises of a specified description, in England or Wales"
+		}
+	],
+
+	"section-35-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "require P to submit to electronic monitoring in England and Wales of P's compliance with other requirements imposed by the order"
+		}
+	],
+
+	"section-36-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Requirements imposed on a person by a domestic abuse protection order",
+			"TO": "be such as to avoid— (a) conflict with the person's religious beliefs; (b) interference with the person's work or with the person's attendance at an educational establishment; (c) conflict with the requirements of any other court order or injunction to which the person may be subject",
+			"SO FAR AS": "practicable"
+		}
+	],
+
+	"section-36-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-36-4"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A domestic abuse protection order that imposes a requirement to do something on a person (“P”)",
+			"TO": "specify the person who is to be responsible for supervising compliance with that requirement",
+			"UNLESS": "this relates to electronic monitoring requirements (see instead section 37(3) to (6))"
+		}
+	],
+
+	"section-36-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-36-4"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "receive evidence about its suitability and enforceability from the person to be specified under subsection (2)",
+			"BEFORE": "including such a requirement in a domestic abuse protection order",
+			"UNLESS": "this relates to electronic monitoring requirements (see instead section 37(3) to (6))"
+		}
+	],
+
+	"section-36-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person specified under subsection (2)",
+			"TO": "promote P's compliance with the relevant requirements",
+			"IT IS ALSO": "OBLIGATORY"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person specified under subsection (2)",
+			"TO": "inform the appropriate chief officer of police",
+			"IF": "the person considers that— (i) P has complied with all the relevant requirements, or (ii) P has failed to comply with a relevant requirement"
+		}
+	],
+
+	"section-36-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person (“P”) who is subject to a requirement imposed by a domestic abuse protection order",
+			"TO": "keep in touch with the person specified under subsection (2) in relation to that requirement, in accordance with any instructions given by that person from time to time"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person (“P”) who is subject to a requirement imposed by a domestic abuse protection order",
+			"TO": "notify the person specified under subsection (2) of the new home address",
+			"IF": "P changes home address"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A person (“P”) who is subject to a requirement imposed by a domestic abuse protection order",
+			"TO": "notify the person specified under subsection (2) of that fact",
+			"IF": "P ceases to have any home address"
+		}
+	],
+
+	"section-37-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The requirement",
+			"TO": "be imposed in P's absence"
+		}
+	],
+
+	"section-37-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the requirement",
+			"TO": "be imposed without that person's consent",
+			"IF": "there is a person (other than P) without whose co-operation it would be impracticable to secure the monitoring in question"
+		}
+	],
+
+	"section-37-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "impose the requirement",
+			"ONLY IF": "— (a) it has been notified by the Secretary of State that electronic monitoring arrangements are available in the relevant area, and (b) it is satisfied that the necessary provision can be made under the arrangements currently available"
+		}
+	],
+
+	"section-37-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A domestic abuse protection order that includes an electronic monitoring requirement",
+			"TO": "specify the person who is to be responsible for the monitoring"
+		}
+	],
+
+	"section-37-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person specified under subsection (6) (“the responsible person”)",
+			"TO": "be of a description specified in regulations made by the Secretary of State"
+		}
+	],
+
+	"section-37-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person",
+			"TO": "— (a) submit, as required from time to time by the responsible person, to— (i) being fitted with, or the installation of, any necessary apparatus, and (ii) the inspection or repair of any apparatus fitted or installed for the purposes of the monitoring, (b) not interfere with, or with the working of, any apparatus fitted or installed for the purposes of the monitoring, and (c) take any steps required by the responsible person for the purpose of keeping in working order any apparatus fitted or installed for the purposes of the monitoring",
+			"WHERE": "a domestic abuse protection order imposes an electronic monitoring requirement on the person"
+		}
+	],
+
+	"section-38-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order (“the new order”)",
+			"TO": "be made so as to take effect on another domestic abuse protection order (“the previous order”) ceasing to have effect",
+			"IF": "a person is subject to the previous order",
+			"ON": "the day on which the new order is made against the person"
+		}
+	],
+
+	"section-38-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "specify periods for which particular requirements imposed by the order have effect"
+		}
+	],
+
+	"section-38-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-38-6"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "provide for an electronic monitoring requirement to have effect for more than 12 months",
+			"SUBJECT TO": "any variation of the order under section 44"
+		}
+	],
+
+	"section-39-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person who is subject to a domestic abuse protection order",
+			"TO": "without reasonable excuse fail to comply with any requirement imposed by the order"
+		}
+	],
+
+	"section-39-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "be convicted of an offence under this section",
+			"IN RESPECT OF": "any behaviour which has been punished as a contempt of court"
+		}
+	],
+
+	"section-40-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person mentioned in subsection (4)",
+			"TO": "apply to the relevant judge",
+			"FOR_2": "the issue of a warrant for P's arrest",
+			"IF": "the person considers that P has failed to comply with the order or is otherwise in contempt of court in relation to the order"
+		}
+	],
+
+	"section-40-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The relevant judge",
+			"TO": "issue a warrant on an application under subsection (3)",
+			"ONLY IF": "— (a) the application is substantiated on oath, and (b) the relevant judge has reasonable grounds for believing that P has failed to comply with the order or is otherwise in contempt of court in relation to the order"
+		}
+	],
+
+	"section-40-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a relevant court",
+			"TO": "remand P",
+			"IF": "— (a) P is brought before the court as a result of a warrant issued under this section, and (b) the court does not immediately dispose of the matter"
+		}
+	],
+
+	"section-41-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-41-8"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The person",
+			"TO": "notify the police of the information in subsection (3)",
+			"WITHIN": "the period of three days beginning with the day on which the order is made",
+			"UNLESS": "(a) the person is subject to another domestic abuse protection order (and accordingly those requirements already apply), or (b) the person is subject to notification requirements under Part 2 of the Sexual Offences Act 2003 or section 9 of the Stalking Protection Act 2019"
+		}
+	],
+
+	"section-41-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-41-8"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person",
+			"TO": "notify the police of that name",
+			"IF": "the person uses a name which has not been notified under this section",
+			"WITHIN": "the period of three days beginning with the day on which the person first uses that name",
+			"UNLESS": "(a) the person is subject to another domestic abuse protection order (and accordingly those requirements already apply), or (b) the person is subject to notification requirements under Part 2 of the Sexual Offences Act 2003 or section 9 of the Stalking Protection Act 2019"
+		}
+	],
+
+	"section-41-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-41-8"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person",
+			"TO": "notify the police of the new home address",
+			"IF": "the person changes home address",
+			"BEFORE": "the end of the period of three days beginning with the day on which that happens",
+			"UNLESS": "(a) the person is subject to another domestic abuse protection order (and accordingly those requirements already apply), or (b) the person is subject to notification requirements under Part 2 of the Sexual Offences Act 2003 or section 9 of the Stalking Protection Act 2019"
+		}
+	],
+
+	"section-41-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-41-8"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person",
+			"TO": "notify the police of that fact",
+			"IF": "the person ceases to have any home address",
+			"BEFORE": "the end of the period of three days beginning with the day on which that happens",
+			"UNLESS": "(a) the person is subject to another domestic abuse protection order (and accordingly those requirements already apply), or (b) the person is subject to notification requirements under Part 2 of the Sexual Offences Act 2003 or section 9 of the Stalking Protection Act 2019"
+		}
+	],
+
+	"section-41-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations specify further notification requirements which a court may impose when making or varying a domestic abuse protection order"
+		}
+	],
+
+	"section-42-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a notification given in accordance with this section",
+			"TO": "be acknowledged— (a) in writing, and (b) in the form directed by the Secretary of State"
+		}
+	],
+
+	"section-42-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person (“P”)",
+			"TO": "allow the person to whom a notification under section 41 is given to do any of the following things— (a) take P's fingerprints; (b) photograph, or otherwise produce an image of, P or any part of P",
+			"WHEN": "P gives notification under section 41",
+			"IF": "requested to do so by that person"
+		}
+	],
+
+	"section-43-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (“P”)",
+			"TO": "— (a) fail, without reasonable excuse, to comply with a requirement imposed by or under section 41, or (b) notify the police, in purported compliance with such a requirement, of any information which P knows to be false"
+		}
+	],
+
+	"section-43-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person",
+			"TO": "fail, without reasonable excuse, to comply with section 42(5)"
+		}
+	],
+
+	"section-43-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "fail, without reasonable excuse, to comply with a requirement imposed by or under section 41"
+		}
+	],
+
+	"section-43-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the person",
+			"TO": "be prosecuted more than once in respect of the same failure"
+		}
+	],
+
+	"section-44-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "vary or discharge a domestic abuse protection order made by that or any other court",
+			"SUBJECT TO": "section 45"
+		}
+	],
+
+	"section-44-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "vary or discharge a domestic abuse protection order under this section",
+			"ON": "the application of a person mentioned in subsection (3)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "vary or discharge a domestic abuse protection order under this section",
+			"IN": "any case in which it could make a domestic abuse protection order under section 31"
+		}
+	],
+
+	"section-44-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "hear from any relevant chief officer of police who wishes to be heard",
+			"BEFORE": "deciding whether to vary or discharge an order under this section"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "hear from the person for whose protection it was made",
+			"BEFORE": "deciding whether to vary or discharge an order under this section",
+			"IN A CASE WHERE": "the person for whose protection the order was made is seeking to discharge the order, or to remove or make less onerous any requirement imposed by the order"
+		}
+	],
+
+	"section-44-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make any order varying or discharging a domestic abuse protection order that it considers appropriate",
+			"SUBJECT TO": "subsections (9) to (13)"
+		}
+	],
+
+	"section-44-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "include an additional requirement in the order, or extend the period for which the order, or a requirement imposed by the order, has effect",
+			"ONLY IF": "it is satisfied that it is necessary to do so in order to protect the person for whose protection the order was made from domestic abuse, or the risk of domestic abuse, carried out by P"
+		}
+	],
+
+	"section-44-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court",
+			"TO": "extend the period for which an electronic monitoring requirement has effect by more than 12 months at a time"
+		}
+	],
+
+	"section-44-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "remove any requirement imposed by the order, or make such a requirement less onerous",
+			"ONLY IF": "satisfied that the requirement as imposed is no longer necessary to protect the person for whose protection the order was made from domestic abuse, or the risk of domestic abuse, carried out by P"
+		}
+	],
+
+	"section-44-12": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "extend the requirement",
+			"IF": "it appears to the court that any conditions necessary for a requirement to be imposed are no longer met"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "remove the requirement",
+			"IF": "it appears to the court that any conditions necessary for a requirement to be imposed are no longer met"
+		}
+	],
+
+	"section-44-13": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "discharge the order",
+			"ONLY IF": "satisfied that the order is no longer necessary to protect the person for whose protection it was made from domestic abuse, or the risk of domestic abuse, carried out by P"
+		}
+	],
+
+	"section-45-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an application to vary or discharge the order",
+			"TO": "be made to any other magistrates' court acting in the local justice area in which that court acts",
+			"WHERE": "the order was made by a magistrates' court"
+		}
+	],
+
+	"section-45-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "any application to vary or discharge the order",
+			"TO": "be made to the court by or before which the person was convicted",
+			"WHERE": "— (a) the order was made under section 31 on an appeal in relation to a person's conviction or sentence for an offence, or (b) the order was made by a court under that section against a person committed or remitted to that court for sentencing for an offence"
+		}
+	],
+
+	"section-45-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order made by the Crown Court",
+			"TO": "be varied or discharged under section 44",
+			"ONLY BY": "the Crown Court",
+			"EXCEPT AS": "provided for by subsection (3)"
+		}
+	],
+
+	"section-45-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A domestic abuse protection order made by the High Court",
+			"TO": "be varied or discharged under section 44",
+			"ONLY BY": "the High Court"
+		}
+	],
+
+	"section-46-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person listed in subsection (2)",
+			"TO": "appeal against any decision of a court on an application for a domestic abuse protection order under section 28",
+			"TO THE EXTENT THAT": "it would not otherwise be so appealable"
+		}
+	],
+
+	"section-46-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person against whom a domestic abuse protection order is made under subsection (3), (5) or (6) of section 31",
+			"TO": "appeal against the making of the order (to the extent it would not otherwise be so appealable) as if it were a sentence passed on the person for the offence referred to in that subsection (assuming, in a case within section 31(5) or (6), that the person had been convicted of the offence)"
+		}
+	],
+
+	"section-46-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person against whom a domestic abuse protection order is made",
+			"TO": "appeal against a variation of the order under section 44 that is made in a case within subsection (3), (5) or (6) of section 31 (to the extent it would not otherwise be so appealable) as if the varied order were a sentence passed on the person for the offence referred to in that subsection (assuming, in a case within section 31(5) or (6), that the person had been convicted of the offence)"
+		}
+	],
+
+	"section-46-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person listed in subsection (6)",
+			"TO": "appeal against any decision of a court under section 44 in relation to a domestic abuse protection order",
+			"TO THE EXTENT": "it would not otherwise be so appealable, whether under subsection (4) or otherwise)"
+		}
+	],
+
+	"section-46-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An appeal arising by virtue of subsection (1) or (5)",
+			"TO": "be made to the Crown Court",
+			"IN THE CASE OF": "a decision made by a magistrates' court"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An appeal arising by virtue of subsection (1) or (5)",
+			"TO": "be made to the Court of Appeal",
+			"IN THE CASE OF": "a decision made by the Crown Court"
+		}
+	],
+
+	"section-47-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "hear from any relevant chief officer of police who wishes to be heard",
+			"BEFORE": "determining any appeal relating to a domestic abuse protection order (whether or not an appeal under section 46)"
+		}
+	],
+
+	"section-47-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "— (a) confirm, vary or revoke any part of the decision; (b) refer the matter back to the court that made the decision with a direction to reconsider and make a new decision in accordance with its ruling; (c) make any order which the court that made the decision appealed against could have made; (d) make any incidental or consequential orders that appear to it to be just",
+			"ON": "an appeal to which this subsection applies",
+			"ON_2": "a review of the decision appealed against"
+		}
+	],
+
+	"section-48-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "adjourn any proceedings arising by virtue of section 31(3), (5) or (6), or any proceedings arising by virtue of section 44(2)(b) in any case within section 31(3), (5) or (6) even after sentencing or acquitting the person concerned or allowing the person's appeal"
+		}
+	],
+
+	"section-48-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a domestic abuse protection order",
+			"TO": "be made or varied in addition to an order discharging the person conditionally or absolutely in spite of anything in sections 79, 80 and 82 of the Sentencing Code (which relate to orders discharging a person conditionally or absolutely and their effect)"
+		}
+	],
+
+	"section-49A-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A chief officer of police of a police force maintained for a police area",
+			"TO": "ensure that arrangements are in place to secure the objective in subsection (2)"
+		}
+	],
+
+	"section-49B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend section 49A so that the objective in subsection (2) of that section applies in relation to childcare providers, or childcare providers of particular descriptions, as it applies in relation to relevant educational establishments"
+		}
+	],
+
+	"section-50-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue guidance relating to the exercise by relevant persons of functions under or by virtue of this Part"
+		}
+	],
+
+	"section-50-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A relevant person",
+			"TO": "have regard to any guidance issued under this section",
+			"WHEN": "exercising a function to which the guidance relates"
+		}
+	],
+
+	"section-50-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "from time to time revise any guidance issued under this section"
+		}
+	],
+
+	"section-50-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-50-6"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult— (a) the Domestic Abuse Commissioner, and (b) such other persons as the Secretary of State considers appropriate",
+			"BEFORE": "issuing or revising guidance under this section",
+			"UNLESS": "this relates to any revisions of guidance issued under this section if the Secretary of State considers the proposed revisions of the guidance are insubstantial"
+		}
+	],
+
+	"section-50-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish— (a) any guidance issued under this section, and (b) any revisions of that guidance"
+		}
+	],
+
+	"section-51-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "issue a code of practice relating to the processing of data gathered in the course of electronic monitoring of individuals under electronic monitoring requirements imposed by domestic abuse protection orders"
+		}
+	]
+}

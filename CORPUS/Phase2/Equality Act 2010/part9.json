@@ -1,0 +1,663 @@
+{
+	"section-113-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-113-2", "section-113-4", "section-113-7"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Proceedings relating to a contravention of this Act",
+			"TO": "be brought",
+			"IN ACCORDANCE WITH": "this Part",
+			"UNLESS": "this concerns proceedings under Part 1 of the Equality Act 2006",
+			"SUBJECT TO": "any express provision of this Act conferring jurisdiction on a court or tribunal",
+			"UNLESS_2": "this concerns — (a) proceedings for an offence under this Act; (b) proceedings relating to a penalty under Part 12 (disabled persons: transport)"
+		}
+	],
+
+	"section-114-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The county court or sheriff",
+			"TO": "grant an interim injunction or interdict",
+			"UNLESS": "satisfied that no criminal matter would be prejudiced by doing so"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The county court or sheriff",
+			"TO": "grant an application to stay or sist proceedings under subsection (1) on grounds of prejudice to a criminal matter",
+			"UNLESS": "satisfied the matter will not be prejudiced"
+		}
+	],
+
+	"section-114-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the power under section 63(1) of the County Courts Act 1984 (appointment of assessors)",
+			"TO": "be exercised",
+			"IN": "proceedings in England and Wales on a claim within subsection (1)",
+			"UNLESS": "the judge is satisfied that there are good reasons for not doing so"
+		}
+	],
+
+	"section-114-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the power under rule 44.3 of Schedule 1 to the Sheriff Court (Scotland) Act 1907 (appointment of assessors)",
+			"TO": "be exercised",
+			"IN": "proceedings in Scotland on a claim within subsection (1)",
+			"UNLESS": "the sheriff is satisfied that there are good reasons for not doing so"
+		}
+	],
+
+	"section-114-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The remuneration of an assessor appointed by virtue of subsection (8)",
+			"TO": "be at a rate determined by the Lord President of the Court of Session"
+		}
+	],
+
+	"section-115-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a power to grant permission to appeal out of time",
+			"TO": "be ignored"
+		}
+	],
+
+	"section-117-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "confer power as mentioned in subsections (2) to (4)",
+			"IN RELATION TO": "proceedings on a claim within section 114"
+		}
+	],
+
+	"section-117-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "confer power to exclude from all or part of the proceedings— (a) the claimant or pursuer; (b) a representative of the claimant or pursuer; (c) an assessor"
+		}
+	],
+
+	"section-117-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "confer power to permit a claimant, pursuer or representative who has been excluded to make a statement to the court before the commencement of the proceedings, or part of the proceedings, to which the exclusion relates"
+		}
+	],
+
+	"section-117-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rules",
+			"TO": "confer power to take steps to keep secret all or part of the reasons for the court's decision"
+		}
+	],
+
+	"section-117-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Attorney General or, in Scotland, the Advocate General for Scotland",
+			"TO": "appoint a person to represent the interests of a claimant or pursuer in, or in any part of, proceedings to which an exclusion by virtue of subsection (2)(a) or (b) relates"
+		}
+	],
+
+	"section-117-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person (P)",
+			"TO": "be appointed under subsection (5)",
+			"ONLY IF": "— (a) in relation to proceedings in England and Wales, P is a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation; (b) in relation to proceedings in Scotland, P is an advocate or qualified to practice as a solicitor in Scotland"
+		}
+	],
+
+	"section-118-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings on a claim within section 114",
+			"TO": "be brought",
+			"AFTER": "the end of— (a) the period of 6 months starting with the date of the act to which the claim relates, or (b) such other period as the county court or sheriff thinks just and equitable",
+			"SUBJECT TO": "section 140AA"
+		}
+	],
+
+	"section-119-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An award of damages",
+			"TO": "include compensation for injured feelings (whether or not it includes compensation on any other basis)"
+		}
+	],
+
+	"section-119-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The county court or sheriff",
+			"TO": "make an award of damages",
+			"UNLESS": "it first considers whether to make any other disposal"
+		}
+	],
+
+	"section-119-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The county court or sheriff",
+			"TO": "grant a remedy other than an award of damages or the making of a declaration",
+			"UNLESS": "satisfied that no criminal matter would be prejudiced by doing so"
+		}
+	],
+
+	"section-120-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an employment tribunal",
+			"TO": "consider a contravention of section 40A(1)",
+			"IN ACCORDANCE WITH": "section 124A (compensation uplift in employee sexual harassment cases)"
+		}
+	],
+
+	"section-122-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court in which proceedings are pending",
+			"TO": "strike out a claim or counter-claim",
+			"IF": "it appears to the court that the claim or counter-claim could more conveniently be determined by an employment tribunal"
+		}
+	],
+
+	"section-122-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "(whether or not on an application by a party to the proceedings) — (a) refer the question, or direct that it be referred by a party to the proceedings, to an employment tribunal for determination, and (b) stay or sist the proceedings in the meantime",
+			"IF": "in proceedings before the court a question arises about a non-discrimination rule"
+		}
+	],
+
+	"section-123-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings on a complaint within section 120",
+			"TO": "be brought",
+			"AFTER": "the end of— (a) the period of 3 months starting with the date of the act to which the complaint relates, or (b) such other period as the employment tribunal thinks just and equitable",
+			"SUBJECT TO": "section 140B"
+		}
+	],
+
+	"section-123-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Proceedings",
+			"TO": "be brought in reliance on section 121(1)",
+			"AFTER": "the end of— (a) the period of 6 months starting with the date of the act to which the proceedings relate, or (b) such other period as the employment tribunal thinks just and equitable"
+		}
+	],
+
+	"section-124-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "— (a) make a declaration as to the rights of the complainant and the respondent in relation to the matters to which the proceedings relate; (b) order the respondent to pay compensation to the complainant; (c) make an appropriate recommendation"
+		}
+	],
+
+	"section-124-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "it",
+			"TO": "make an order under subsection (2)(b)",
+			"UNLESS": "it first considers whether to act under subsection (2)(a) or (c)"
+		}
+	],
+
+	"section-124-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": "increase the amount of compensation to be paid",
+			"IF": "an order was made under subsection (2)(b)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": "if no such order was made, make such order",
+			"IF": "a respondent fails, without reasonable excuse, to comply with an appropriate recommendation"
+		}
+	],
+
+	"section-124A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The tribunal",
+			"TO": "consider whether and to what extent the respondent has also contravened section 40A(1) (duty to take reasonable steps to prevent harassment of employees)"
+		}
+	],
+
+	"section-124A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": "order the respondent to pay an amount to the complainant (a “compensation uplift”) in addition to the compensation amount determined in accordance with section 124(6)",
+			"IF": "the tribunal is satisfied that the respondent has contravened section 40A(1)"
+		}
+	],
+
+	"section-124A-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The amount of the compensation uplift",
+			"TO": "reflect the extent to which, in the tribunal’s opinion, the respondent has contravened section 40A(1)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The amount of the compensation uplift",
+			"TO": "be no more than 25% of the amount awarded under section 124(2)(b)"
+		}
+	],
+
+	"section-126-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": ", in addition to anything which may be done by the tribunal under section 124, by order declare that the complainant has a right to be admitted to the scheme",
+			"IF": "the complaint relates to the terms on which persons become members of a scheme"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": ", in addition to anything which may be done by the tribunal under section 124, by order declare that the complainant has a right to membership of the scheme without discrimination",
+			"IF": "the complaint relates to the terms on which members of the scheme are treated"
+		}
+	],
+
+	"section-126-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The tribunal",
+			"TO": "make an order under subsection (2)(b) of section 124",
+			"UNLESS": "— (a) the compensation is for injured feelings, or (b) the order is made by virtue of subsection (7) of that section"
+		}
+	],
+
+	"section-126-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "make provision as to the terms on which or the capacity in which the claimant is to enjoy the admission or membership"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "have effect in relation to a period before the order is made"
+		}
+	],
+
+	"section-128-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": " (whether or not on an application by a party to the proceedings) — (a) refer the question, or direct that it be referred by a party to the proceedings, to an employment tribunal for determination, and (b) stay or sist the proceedings in the meantime",
+			"IF": "in proceedings before the court a question arises about an equality clause or rule"
+		}
+	],
+
+	"section-129-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "Proceedings on the complaint or application",
+			"TO": "be brought in an employment tribunal",
+			"AFTER": "the end of the qualifying period"
+		}
+	],
+
+	"section-131-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the tribunal",
+			"TO": "require a member of the panel of independent experts to prepare a report on the question",
+			"WHERE": "a question arises in the proceedings as to whether one person's work is of equal value to another's",
+			"BEFORE": "determining the question"
+		}
+	],
+
+	"section-131-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "withdraw a requirement that it makes under subsection (2)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The tribunal",
+			"TO": "— (a) request the panel member to provide it with specified documentation; (b) make such other requests to that member as are connected with the withdrawal of the requirement",
+			"IF": "it does so"
+		}
+	],
+
+	"section-131-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the tribunal",
+			"TO": "determine the question",
+			"IF": "it requires the preparation of a report under subsection (2) (and does not withdraw the requirement)",
+			"UNLESS": "it has received the report"
+		}
+	],
+
+	"section-131-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The tribunal",
+			"TO": "determine that A's work is not of equal value to B's work",
+			"UNLESS": "it has reasonable grounds for suspecting that the evaluation contained in the study— (a) was based on a system that discriminates because of sex, or (b) is otherwise unreliable"
+		}
+	],
+
+	"section-132-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court or tribunal",
+			"TO": "— (a) make a declaration as to the rights of the parties in relation to the matters to which the proceedings relate; (b) order an award by way of arrears of pay or damages in relation to the complainant",
+			"IF": "it finds that there has been a breach of the equality clause"
+		}
+	],
+
+	"section-132-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court or tribunal",
+			"TO": "order a payment under subsection (2)(b) in respect of a time before the arrears day"
+		}
+	],
+
+	"section-133-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court or tribunal",
+			"TO": "make a declaration as to the rights of the parties in relation to the matters to which the proceedings relate",
+			"IF": "it finds that there has been a breach as referred to in subsection (1)"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court or tribunal",
+			"TO": "order arrears of benefits or damages or any other amount to be paid to the complainant",
+			"IF": "it finds that there has been a breach as referred to in subsection (1)"
+		}
+	],
+
+	"section-133-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court or tribunal",
+			"TO": "declare that the complainant is entitled to be admitted to the scheme with effect from a specified date",
+			"IF": "the breach relates to a term on which persons become members of the scheme"
+		}
+	],
+
+	"section-133-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a date specified for the purposes of subsection (4)",
+			"TO": "be before 8 April 1976"
+		}
+	],
+
+	"section-133-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court or tribunal",
+			"TO": "declare that the complainant is, in respect of a specified period, entitled to secure the rights that would have accrued if the breach had not occurred",
+			"IF": "the breach relates to a term on which members of the scheme are treated"
+		}
+	],
+
+	"section-133-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A period specified for the purposes of subsection (6)",
+			"TO": "begin",
+			"BEFORE": "17 May 1990"
+		}
+	],
+
+	"section-133-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the employer",
+			"TO": "provide such resources to the scheme as are necessary to secure for the complainant (without contribution or further contribution by the complainant or other members) the rights referred to in that subsection",
+			"IF": "the court or tribunal makes a declaration under subsection (6)"
+		}
+	],
+
+	"section-134-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court or tribunal",
+			"TO": "— (a) make a declaration as to the rights of the complainant and the respondent in relation to the matters to which the proceedings relate; (b) order an award by way of arrears of benefits or damages or of any other amount in relation to the complainant",
+			"IF": "it finds that there has been a breach referred to in subsection (1)"
+		}
+	],
+
+	"section-134-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court or tribunal",
+			"TO": "order an award under subsection (2)(b) in respect of a time before the arrears day"
+		}
+	],
+
+	"section-134-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the employer",
+			"TO": "provide such resources to the scheme as are necessary to secure for the complainant (without contribution or further contribution by the complainant or other members) the amount of the award",
+			"IF": "the court or tribunal orders an award under subsection (2)(b)"
+		}
+	],
+
+	"section-136-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-136-3", "section-136-5"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "hold that the contravention occurred",
+			"IF": "there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned",
+			"UNLESS": "A shows that A did not contravene the provision",
+			"UNLESS_2": "this concerns proceedings for an offence under this Act"
+		}
+	],
+
+	"section-139-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision— (a) for enabling an employment tribunal to include interest on an amount awarded by it in proceedings under this Act; (b) specifying the manner in which, and the periods and rate by reference to which, the interest is to be determined"
+		}
+	],
+
+	"section-139-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "modify the operation of an order made under section 14 of the Employment Tribunals Act 1996 (power to make provision as to interest on awards)",
+			"IN SO FAR AS": "it relates to an award in proceedings under this Act"
+		}
+	],
+
+	"section-139A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations",
+			"TO": "make provision requiring an employment tribunal to order the respondent to carry out an equal pay audit in any case where the tribunal finds that there has been an equal pay breach"
+		}
+	],
+
+	"section-139A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "make further provision about equal pay audits, including provision about— (a) the content of an audit; (b) the powers and duties of a tribunal for deciding whether its order has been complied with; (c) any circumstances in which an audit may be required to be published or may be disclosed to any person"
+		}
+	],
+
+	"section-139A-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The regulations",
+			"TO": "provide for an equal pay audit not to be ordered",
+			"WHERE": "the tribunal considers that— (a) an audit completed by the respondent in the previous 3 years meets requirements prescribed for this purpose, (b) it is clear without an audit whether any action is required to avoid equal pay breaches occurring or continuing, (c) the breach the tribunal has found gives no reason to think that there may be other breaches, or (d) the disadvantages of an equal pay audit would outweigh its benefits"
+		}
+	],
+
+	"section-139A-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide for an employment tribunal to have power to order that person to pay a penalty to the Secretary of State of not more than an amount specified in the regulations",
+			"WHERE": "a person fails to comply with an order to carry out an equal pay audit"
+		}
+	],
+
+	"section-139A-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide for that power— (a) to be exercisable in prescribed circumstances; (b) to be exercisable more than once, if the failure to comply continues"
+		}
+	],
+
+	"section-139A-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The first regulations made by virtue of subsection (6)",
+			"TO": "specify an amount of more than £5,000"
+		}
+	],
+
+	"section-139A-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Sums received by the Secretary of State under the regulations",
+			"TO": "be paid into the Consolidated Fund"
+		}
+	],
+
+	"section-139A-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The first regulations under this section",
+			"TO": "specify an exemption period during which the requirement to order an equal pay audit does not apply in the case of a business that— (a) had fewer than 10 employees immediately before a specified time, or (b) was begun as a new business in a specified period"
+		}
+	],
+
+	"section-139A-12": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Minister of the Crown",
+			"TO": "consult any other Minister of the Crown with responsibility for employment tribunals",
+			"BEFORE": "making regulations under this section"
+		}
+	],
+
+	"section-140-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court",
+			"TO": "transfer proceedings to an employment tribunal"
+		}
+	],
+
+	"section-140-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An employment tribunal",
+			"TO": "transfer proceedings to a court"
+		}
+	],
+
+	"section-140-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court or employment tribunal",
+			"TO": "make a decision that is inconsistent with an earlier decision in proceedings arising out of the conduct"
+		}
+	],
+
+	"section-141-2n1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A reference to the responsible person",
+			"TO": "be construed in accordance with Chapter 3 of Part 5",
+			"IN RELATION TO": "an equality clause or rule"
+		}
+	]
+}

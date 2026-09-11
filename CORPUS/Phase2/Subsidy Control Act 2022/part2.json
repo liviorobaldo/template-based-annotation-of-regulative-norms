@@ -1,0 +1,467 @@
+{
+	"section-12-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "consider the subsidy control principles",
+			"BEFORE": "deciding to give a subsidy"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A public authority",
+			"TO": "give the subsidy",
+			"UNLESS": "it is of the view that the subsidy is consistent with those principles"
+		}
+	],
+
+	"section-12-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "consider the subsidy control principles",
+			"BEFORE": "making a subsidy scheme"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A public authority",
+			"TO": "make the scheme",
+			"UNLESS": "it is of the view that the subsidies provided for by the scheme will be consistent with those principles"
+		}
+	],
+
+	"section-13-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "consider the energy and environment principles",
+			"BEFORE": "deciding to give a subsidy in relation to energy and environment"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "give the subsidy",
+			"UNLESS": "it is of the view that the subsidy is consistent with those principles"
+		}
+	],
+
+	"section-13-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "consider the energy and environment principles",
+			"BEFORE": "making a subsidy scheme that provides for the giving of subsidies in relation to energy and environment"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A public authority",
+			"TO": "make the scheme",
+			"UNLESS": "it is of the view that the subsidies provided for by the scheme will be consistent with those principles"
+		}
+	],
+
+	"section-16-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "make regulations under subsection (4)",
+			"IN RESPECT OF": "a marketable risk country",
+			"ONLY IF": "satisfied that there is a lack of sufficient private market capacity because of— (a) a significant contraction of private credit insurance capacity, (b) a significant deterioration of sovereign sector rating, or (c) a significant deterioration of corporate sector performance"
+		}
+	],
+
+	"section-16-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "by further regulations under subsection (4) revoke regulations under that subsection",
+			"IN RESPECT OF": "a marketable risk country",
+			"IF": "the Secretary of State ceases to be satisfied as mentioned in subsection (5)"
+		}
+	],
+
+	"section-17-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-17-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy",
+			"TO": "be contingent, whether solely or as one of several other conditions, upon the use of domestic over imported goods or services",
+			"UNLESS": "this relates to subsidies given in relation to the audiovisual sector"
+		}
+	],
+
+	"section-18-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-18-4"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy",
+			"TO": "be given to an enterprise subject to a condition that the enterprise relocates all or part of its existing economic activities",
+			"IF": "the relocation of those activities would not occur but for the giving of the subsidy",
+			"UNLESS": "the public authority giving the subsidy is satisfied that the conditions in subsections (5) to (7) are met"
+		}
+	],
+
+	"section-19-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-19-5"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy",
+			"TO": "rescue an ailing or insolvent enterprise",
+			"UNLESS": "the conditions in subsections (2) to (4) are met",
+			"UNLESS_2": "this concerns a subsidy for rescuing an ailing or insolvent enterprise that is a deposit taker or insurance company"
+		}
+	],
+
+	"section-20-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-20-8"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a subsidy",
+			"TO": "restructure an ailing or insolvent enterprise",
+			"UNLESS": "the conditions in subsections (2) to (6) are met",
+			"UNLESS_2": "this concerns a subsidy for restructuring an ailing or insolvent enterprise that is a deposit taker or insurance company"
+		}
+	],
+
+	"section-21-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy",
+			"TO": "restructure an ailing or insolvent deposit taker or insurance company",
+			"UNLESS": "the conditions in subsections (2) to (4) are met"
+		}
+	],
+
+	"section-23-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a subsidy",
+			"TO": " to support liquidity provision for an ailing or insolvent deposit taker or insurance company",
+			"UNLESS": "the conditions in subsections (2) to (4) are met"
+		}
+	],
+
+	"section-24-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-24-3"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision as to when a deposit taker, insurance company or other enterprise is, or is not, to be regarded as meeting the condition in paragraph (a) of subsection (1)",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-27-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy",
+			"TO": "be given to an insurer that provides export credit insurance",
+			"UNLESS": "the subsidy is given subject to a condition that— (a) any export credit insurance provided by the insurer against marketable risks is provided on a commercial basis, and (b) the subsidy is not used to directly or indirectly benefit so much of the insurer’s business as consists of providing export credit insurance against marketable risks"
+		}
+	],
+
+	"section-28-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a subsidy",
+			"TO": "be given to an air carrier for the operation of a route",
+			"UNLESS": "the condition in subsection (2), (3) or (4) is met"
+		}
+	],
+
+	"section-29-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The public authority giving the subsidy",
+			"TO": "be satisfied that the amount of the subsidy is limited to what is necessary to deliver the SPEI services, having regard to— (a) costs in delivering the SPEI services, and (b) reasonable profits to be made in doing so"
+		}
+	],
+
+	"section-29-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The subsidy",
+			"TO": "be given in a transparent manner"
+		}
+	],
+
+	"section-29-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority giving a subsidy",
+			"TO": "keep under regular review the use of the subsidy to ensure that the condition in subsection (2) continues to be met",
+			"WHERE": "the subsidy is given to a SPEI enterprise",
+			"DURING": "the delivery period"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority giving a subsidy",
+			"TO": "take steps, in accordance with its rights under the contract or arrangement mentioned in subsection (4), to recover a subsidy to the extent that the condition in subsection (2) ceases to be met",
+			"WHERE": "the subsidy is given to a SPEI enterprise"
+		}
+	],
+
+	"section-29-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "checks",
+			"TO": "For the purposes of the duty in subsection (6)(a), be carried out as to the use of a subsidy",
+			"AT LEAST ONCE": "every 3 years beginning with the day when the delivery period begins",
+			"AT": "the end of the delivery period"
+		}
+	],
+
+	"section-30-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy scheme",
+			"TO": "provide for the giving of a subsidy that would, but for subsection (1), be prohibited by, or in contravention of, a requirement imposed by any preceding provision of this Chapter"
+		}
+	],
+
+	"section-31-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A subsidy, or subsidy scheme, in respect of which a public authority must request a report from the CMA under section 52(1)",
+			"TO": "be given",
+			"IF": "— (a) a mandatory referral request has not been submitted in relation to it, (b) a mandatory referral request has been submitted, but the CMA has given a notice under section 53(1)(b) that the request does not comply with the requirements under section 52, (c) a mandatory referral request has been submitted, the CMA report has not been published but the reporting period has not expired, or (d) a mandatory referral request has been submitted, the CMA report has been published but the cooling off period has not expired"
+		}
+	],
+
+	"section-32-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "make arrangements for the provision of a database of subsidies and subsidy schemes for the purposes of this Part (“the subsidy database”)"
+		}
+	],
+
+	"section-32-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that— (a) the subsidy database is accessible to the public free of charge, (b) public authorities are able to edit the subsidy database for the purpose of carrying out their duties under section 33, and (c) the subsidy database is kept under review in such manner and at such intervals as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-32-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct the CMA to perform on behalf of the Secretary of State the duties under this section"
+		}
+	],
+
+	"section-33-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "ensure that an entry in the subsidy database is made in respect of— (a) a subsidy given by the authority (subject to subsection (2)), and (b) a subsidy scheme made by the authority"
+		}
+	],
+
+	"section-33-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An entry in the subsidy database",
+			"TO": "be made in respect of a subsidy or scheme",
+			"IF": "given as a subsidy in the form of a tax measure",
+			"WITHIN": "one year beginning with the date of the tax declaration"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An entry in the subsidy database",
+			"TO": "be made in respect of a subsidy or scheme",
+			"IF": "made as a subsidy scheme in the form of a tax measure",
+			"WITHIN": "three months of the confirmation of the decision to make the scheme"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An entry in the subsidy database",
+			"TO": "be made in respect of a subsidy or scheme",
+			"IF": "given or made in any other form",
+			"WITHIN": "three months of confirmation of the decision to give the subsidy or make the subsidy scheme"
+		}
+	],
+
+	"section-33-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "ensure that an entry it makes under this section is maintained on the subsidy database for six years beginning with the date on which the entry is made, or for the duration of the subsidy or scheme if longer"
+		}
+	],
+
+	"section-33-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-33-6"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority",
+			"TO": "ensure that the modification is entered in the subsidy database",
+			"WHERE": "a subsidy or subsidy scheme is modified",
+			"WITHIN": "one year of the date of the modification",
+			"IN RESPECT OF": "a subsidy given in the form of a tax measure",
+			"UNLESS": "this concerns the modification of a subsidy and (a) the subsidy is one to which subsection (2) applied, and (b) the amount of the subsidy as modified is no more than the applicable amount"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority",
+			"TO": "ensure that the modification is entered in the subsidy database",
+			"WHERE": "a subsidy or subsidy scheme is modified",
+			"WITHIN": "three months of the date of the modification",
+			"IN RESPECT OF": "a subsidy scheme made in the form of a tax measure",
+			"UNLESS": "this concerns the modification of a subsidy and (a) the subsidy is one to which subsection (2) applied, and (b) the amount of the subsidy as modified is no more than the applicable amount"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the public authority",
+			"TO": "ensure that the modification is entered in the subsidy database",
+			"WHERE": "a subsidy or subsidy scheme is modified",
+			"WITHIN": "three months of the date of the modification",
+			"IN RESPECT OF": "a subsidy given, or subsidy scheme made, in any other form",
+			"UNLESS": "this concerns the modification of a subsidy and (a) the subsidy is one to which subsection (2) applied, and (b) the amount of the subsidy as modified is no more than the applicable amount"
+		}
+	],
+
+	"section-33-9": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-33-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) substitute a different amount for the amount specified in subsection (2)(c); (b) provide for a different amount to apply, instead of an amount specified in subsection (2)(c), in the case of particular descriptions of subsidy",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-33-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An amount specified in regulations under subsection (9)",
+			"TO": "exceed £500,000"
+		}
+	],
+
+	"section-33-11": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-33-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend subsection (3) or (5) so as to substitute a different period of time for the period of time specified",
+			"SUBJECT TO": "the affirmative procedure"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations provide for a different period of time to apply, instead of a period of time specified in subsection (3) or (5)",
+			"IN THE CASE OF": "particular descriptions of subsidy or subsidy scheme",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-33-12": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a period of time specified in regulations under subsection (11)",
+			"TO": "exceed one year",
+			"IN RESPECT OF": "a subsidy given in the form of a tax measure"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a period of time specified in regulations under subsection (11)",
+			"TO": "exceed one year",
+			"IN RESPECT OF": "a subsidy scheme made in the form of a tax measure"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a period of time specified in regulations under subsection (11)",
+			"TO": "exceed six months",
+			"IN RESPECT OF": "a subsidy given or scheme made in any other form"
+		}
+	],
+
+	"section-34-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-34-4"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about the information that must be included in a public authority’s entry in the subsidy database in relation to a subsidy or subsidy scheme",
+			"SUBJECT TO": "the negative procedure"
+		}
+	],
+
+	"section-34-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-34-4"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "require a public authority’s entry to include— (a) the power under which the subsidy is given; (b) the policy objective of the subsidy or scheme; (c) the name of the beneficiary to which the subsidy is given; (d) the date the public authority confirms the decision to give the subsidy or make the scheme; (e) the duration of the subsidy or scheme; (f) any time limits or other conditions attached to the use of the subsidy or scheme; (g) the amount of the subsidy or scheme or the amount budgeted for the subsidy or scheme; (h) the location of any of the information mentioned in paragraphs (a) to (g) and subsection (3); (i) the location of any other publicly available information relating to the subsidy or scheme",
+			"SUBJECT TO": "the negative procedure"
+		}
+	],
+
+	"section-34-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-34-4"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the regulations",
+			"TO": "require a public authority’s entry to include— (a) the categories of beneficiary eligible to receive subsidies under the scheme; (b) the terms and conditions for subsidy eligibility; (c) the basis for the calculation of the subsidy including any relevant conditions relating to subsidy ratios",
+			"IN RELATION TO": "subsidy schemes",
+			"SUBJECT TO": "the negative procedure"
+		}
+	]
+}

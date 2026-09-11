@@ -1,0 +1,356 @@
+{
+	"section-197-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Proceedings for an offence alleged to have been committed by an unincorporated body",
+			"TO": "be brought in the name of that body (and not in that of any of its members)"
+		}
+	],
+
+	"section-197-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a fine imposed on an unincorporated body on its conviction of an offence",
+			"TO": "be paid out of the funds of that body"
+		}
+	],
+
+	"section-198-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local weights and measures authority",
+			"TO": "institute proceedings for an offence under section 14",
+			"IF": "the activity which it is alleged that the accused was not entitled to carry on constitutes reserved instrument activities"
+		}
+	],
+
+	"section-198-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local weights and measures authority",
+			"TO": "institute proceedings for an offence under section 16",
+			"IF": "the activity which it is alleged that E was not entitled to carry on constitutes reserved instrument activities"
+		}
+	],
+
+	"section-198-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A weights and measures officer who has reasonable cause to suspect that a relevant offence may have been committed",
+			"TO": "— (a) enter any premises which are not used solely as a dwelling; (b) require any officer, agent or other competent person on the premises who is, or may be, in possession of information relevant to an investigation of the suspected offence to provide such information; (c) require the production of any document which may be relevant to such an investigation; (d) take copies, or extracts, of any such documents; (e) seize and retain any document which the weights and measures officer has reason to believe may be required as evidence in proceedings for a relevant offence",
+			"AT": "any reasonable time"
+		}
+	],
+
+	"section-198-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any person exercising a power given by subsection (4)",
+			"TO": "produce evidence that that person is a weights and measures officer",
+			"IF": "asked to do so"
+		}
+	],
+
+	"section-198-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A justice of the peace",
+			"TO": "issue a warrant under this section",
+			"IF": "satisfied, on information on oath given by a weights and measures officer, that there is reasonable cause to believe that a relevant offence may have been committed and that— (a) entry to the premises concerned, or production of any documents which may be relevant to an investigation of the relevant offence, has been or is likely to be refused to a weights and measures officer, or (b) there is reasonable cause to believe that, if production of any such document were to be required by the weights and measures officer without a warrant having been issued under this section, the document would not be produced but would be removed from the premises or hidden, tampered with or destroyed"
+		}
+	],
+
+	"section-198-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a warrant issued under this section",
+			"TO": "authorise the weights and measures officer accompanied, where that officer considers it appropriate, by a constable or other person— (a) to enter the premises specified in the information, using such force as is reasonably necessary, and (b) to exercise any of the powers given to the weights and measures officer by subsection (4)"
+		}
+	],
+
+	"section-198-8": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (“P”)",
+			"TO": "— (a) intentionally to obstruct a weights and measures officer in the exercise of any power under this section; (b) intentionally to fail to comply with any requirement properly imposed on P by a weights and measures officer in the exercise of any such power; (c) to fail, without reasonable excuse, to give a weights and measures officer any assistance or information which the weights and measures officer may reasonably require of P for the purpose of exercising any such power; or (d) in giving to a weights and measures officer any information which P has been required to give a weights and measures officer exercising any such power, to make any statement which P knows to be false or misleading in a material particular"
+		}
+	],
+
+	"section-202-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The notice, direction or document",
+			"TO": "be given to the person— (a) by delivering it to the person, (b) by leaving it at the person's proper address, or (c) by sending it by post to the person at that address"
+		}
+	],
+
+	"section-202-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The notice, direction or document",
+			"TO": "be given to a body corporate by being given to the secretary or clerk of that body"
+		}
+	],
+
+	"section-202-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The notice, direction or document",
+			"TO": "be given to a partnership by being given to— (a) a partner in the partnership, or (b) a person having the control or management of the partnership business"
+		}
+	],
+
+	"section-202-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The notice, direction or document",
+			"TO": "be given to any other unincorporated body by being given to a member of the governing body of the unincorporated body"
+		}
+	],
+
+	"section-203-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the recipient",
+			"TO": "have indicated its willingness to receive the notice, direction or other document in a manner mentioned in subsection (1)(b)",
+			"WHERE": "the recipient is the Board, the OLC or an ombudsman"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the transmission",
+			"TO": "be made in such manner, and satisfy such other conditions as the recipient may require",
+			"WHERE": "the recipient is the Board, the OLC or an ombudsman"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the notice, direction or other document",
+			"TO": "take such form as the recipient may require",
+			"WHERE": "the recipient is the Board, the OLC or an ombudsman"
+		}
+	],
+
+	"section-203-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the person making the transmission",
+			"TO": "determine— (a) the manner in which the transmission is made, and (b) the form in which the notice, direction or other document is transmitted",
+			"WHERE": "that person is the Board, the OLC or an ombudsman",
+			"SUBJECT TO": "subsection (5)"
+		}
+	],
+
+	"section-203-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the recipient, or the person on whose behalf the recipient receives the notice, direction or other document",
+			"TO": "have indicated to the person making the transmission the recipient's willingness to receive notices, directions or other documents transmitted in the form and manner used",
+			"WHERE": "the recipient is a person other than the Board, the OLC or an ombudsman"
+		}
+	],
+
+	"section-203-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An indication to any person for the purposes of subsection (5)",
+			"TO": "be given to that person in such manner as that person may require"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An indication to any person for the purposes of subsection (5)",
+			"TO": "be a general indication or one that is limited to notices or documents of particular descriptions"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "An indication to any person for the purposes of subsection (5)",
+			"TO": "state the address to be used and must be accompanied by such other information as that person requires for the making of the transmission"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An indication to any person for the purposes of subsection (5)",
+			"TO": "be modified or withdrawn by a notice given to that person in such manner as that person may require",
+			"AT": "any time"
+		}
+	],
+
+	"section-204-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any order or regulations made by the Lord Chancellor under this Act",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-204-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Any rules made by the Board under section 37(4), 95(3) or 173",
+			"TO": "be made by statutory instrument"
+		}
+	],
+
+	"section-204-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An instrument to which this subsection applies",
+			"TO": "— (a) provide for a person to exercise a discretion in dealing with any matter; (b) include incidental, supplementary and consequential provision; (c) make transitory or transitional provision and savings; (d) make provision generally or subject to exceptions or only in relation to specified cases; (e) make different provision for different cases or circumstances or for different purposes"
+		}
+	],
+
+	"section-205-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-10" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board or the OLC (“the rule-making body”)",
+			"TO": "publish a draft of the proposed rules",
+			"IF": "it proposes to make any rules",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-205-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-10" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The draft",
+			"TO": "be accompanied by a notice which states that representations about the proposals may be made to the rule-making body within the period specified in the notice",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-205-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-10" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the rule-making body",
+			"TO": "have regard to any representations duly made",
+			"BEFORE": "making the rules",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-205-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-10" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the rules",
+			"TO": "publish details of the differences",
+			"IF": "they differ from the draft published under subsection (2) in a way which is, in the opinion of the rule-making body, material",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-205-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-7" ,
+  "section-205-10"
+]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The rule-making body",
+			"TO": "publish any rules it makes",
+			"UNLESS": "this concerns rules made by the Board under section 37(4), 95(3) or 173",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "rules",
+			"TO": "take effect",
+			"BEFORE": "the time they are published",
+			"UNLESS": "this concerns rules made by the Board under section 37(4), 95(3) or 173",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-205-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-205-10" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The rule-making body",
+			"TO": "make a reasonable charge for providing a person with a copy of— (a) a draft published under subsection (2), or (b) rules published under subsection (6)",
+			"SUBJECT TO": "section 156(3) (which disapplies this section to OLC rules made in response to a Board direction under section 156(1)(b))"
+		}
+	],
+
+	"section-206-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order or regulations within subsection (4)",
+			"TO": "be made",
+			"UNLESS": "a draft of the order or regulations has been laid before, and approved by a resolution of, each House of Parliament"
+		}
+	],
+
+	"section-207-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make provision modifying the definition of 'manager' in its application to a body of persons formed under, or in so far as the body is recognised by, law having effect outside England and Wales"
+		}
+	],
+
+	"section-208-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order make any supplementary, incidental or consequential provision and any transitory, transitional or saving provision which the Lord Chancellor considers necessary or expedient— (a) for the general purposes, or any particular purpose, of this Act, or (b) in consequence of any provision made by or under it or for giving full effect to it"
+		}
+	],
+
+	"section-208-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "make provision amending, repealing or revoking (with or without savings) any provision of— (a) an Act passed before or in the same session as this Act, or (b) an instrument made under an Act before the passing of this Act"
+		}
+	],
+
+	"section-208-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "make such adaptations of provisions of this Act brought into force as appear to be necessary or expedient in consequence of other provisions of this Act not yet having come into force"
+		}
+	]
+}

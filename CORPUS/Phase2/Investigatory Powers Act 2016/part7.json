@@ -1,0 +1,1107 @@
+{
+	"section-200-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "exercise a power to retain a bulk personal dataset",
+			"UNLESS": "the retention of the dataset is authorised (a) by a warrant under this Part, or (b) by an individual authorisation under Part 7A (low or no reasonable expectation of privacy) (see section 226B)"
+		}
+	],
+
+	"section-200-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "exercise a power to examine a bulk personal dataset retained by it",
+			"UNLESS": "the examination is authorised (a) by a warrant under this Part, or (b) by an individual authorisation under Part 7A"
+		}
+	],
+
+	"section-202-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "retain, or retain and examine, a bulk personal dataset in reliance on a class BPD warrant",
+			"IF": "the head of the intelligence service, or a person acting on their behalf, considers that the bulk personal dataset consists of, or includes, protected data"
+		}
+	],
+
+	"section-202-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "retain, or retain and examine, a bulk personal dataset in reliance on a class BPD warrant",
+			"IF": "the head of the intelligence service, or a person acting on their behalf, considers— (a) that the bulk personal dataset consists of, or includes, health records, or (b) that a substantial proportion of the bulk personal dataset consists of sensitive personal data"
+		}
+	],
+
+	"section-202-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An intelligence service",
+			"TO": "retain, or retain and examine, a bulk personal dataset in reliance on a class BPD warrant",
+			"IF": "the head of the intelligence service, or a person acting on their behalf, considers that the nature of the bulk personal dataset, or the circumstances in which it was created, is or are such that its retention, or retention and examination, by the intelligence service raises novel or contentious issues which ought to be considered by the Secretary of State and a Judicial Commissioner on an application for a specific BPD warrant"
+		}
+	],
+
+	"section-202-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of subsections (1), (2) and (3), act on behalf of the head of an intelligence service"
+		}
+	],
+
+	"section-202A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) make provision so that a description of Part 4 sensitive processing, or of processing that would be such processing if the information processed related to a living individual, is sensitive processing for the purposes of section 202, and (b) make provision so that added processing is not sensitive processing for the purposes of that section"
+		}
+	],
+
+	"section-202A-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "amend section 202"
+		}
+	],
+
+	"section-204-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on his or her behalf",
+			"TO": "apply to the Secretary of State for a class BPD warrant"
+		}
+	],
+
+	"section-204-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "include— (a) a description of the class of bulk personal datasets to which the application relates, and (b) in a case where the intelligence service is seeking authorisation for the examination of bulk personal datasets of that class, the operational purposes which it is proposing should be specified in the warrant (see section 212)"
+		}
+	],
+
+	"section-204-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue the warrant",
+			"IF": "— (a) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, (ii) for the purposes of preventing or detecting serious crime, or (iii) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security, (b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by the conduct, (c) where the warrant authorises the examination of bulk personal datasets of the class described in the warrant, the Secretary of State considers that— (i) each of the specified operational purposes (see section 212) is a purpose for which the examination of bulk personal datasets of that class is or may be necessary, and (ii) the examination of bulk personal datasets of that class for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, (d) the Secretary of State considers that the arrangements made by the intelligence service for storing bulk personal datasets of the class to which the application relates and for protecting them from unauthorised disclosure are satisfactory, and (e) the decision to issue the warrant has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-204-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for a class BPD warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-205-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on his or her behalf",
+			"TO": "apply to the Secretary of State for a specific BPD warrant",
+			"IN": "the following cases"
+		}
+	],
+
+	"section-205-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "include— (a) a description of the bulk personal dataset to which the application relates, and (b) in a case where the intelligence service is seeking authorisation for the examination of the bulk personal dataset, the operational purposes which it is proposing should be specified in the warrant (see section 212)"
+		}
+	],
+
+	"section-205-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the application",
+			"TO": "include an explanation of why the intelligence service is prevented by section 202(1), (2) or (3) from retaining, or retaining and examining, the bulk personal dataset in reliance on a class BPD warrant",
+			"WHERE": "subsection (3)(b)(i) applies"
+		}
+	],
+
+	"section-205-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue the warrant",
+			"IF": "— (a) the Secretary of State considers that the warrant is necessary— (i) in the interests of national security, (ii) for the purposes of preventing or detecting serious crime, or (iii) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security, (b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by the conduct, (c) where the warrant authorises the examination of a bulk personal dataset, the Secretary of State considers that— (i) each of the specified operational purposes (see section 212) is a purpose for which the examination of the bulk personal dataset is or may be necessary, and (ii) the examination of the bulk personal dataset for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary, (d) the Secretary of State considers that the arrangements made by the intelligence service for storing the bulk personal dataset and for protecting it from unauthorised disclosure are satisfactory, and (e) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue it has been approved by a Judicial Commissioner"
+		}
+	],
+
+	"section-205-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a specific BPD warrant relating to a bulk personal dataset (“dataset A”)",
+			"TO": "authorise the retention or examination of other bulk personal datasets (“replacement datasets”) that do not exist at the time of the issue of the warrant but may reasonably be regarded as replacements for dataset A"
+		}
+	],
+
+	"section-205-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An application for a specific BPD warrant",
+			"TO": "be made on behalf of the head of an intelligence service",
+			"ONLY BY": "a person holding office under the Crown"
+		}
+	],
+
+	"section-206-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "contain a statement that the purpose, or one of the purposes, of the warrant is to authorise the retention, or the retention and examination, of health records"
+		}
+	],
+
+	"section-206-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "issue the warrant",
+			"ONLY IF": "the Secretary of State considers that there are exceptional and compelling circumstances that make it necessary to authorise the retention, or the retention and examination, of health records"
+		}
+	],
+
+	"section-206-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The application",
+			"TO": "contain either— (a) a statement that the head of the intelligence service, or a person acting on their behalf, considers that the bulk personal dataset includes health records, or (b) a statement that the head of the intelligence service, or a person acting on their behalf, considers that it is likely that the bulk personal dataset includes health records and an assessment of how likely this is"
+		}
+	],
+
+	"section-206-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of subsections (4)(b) and (5), act on behalf of the head of an intelligence service"
+		}
+	],
+
+	"section-208-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to the following matters— (a) whether the warrant is necessary on grounds falling within section 204(3)(a) or (as the case may be) section 205(6)(a), (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and (c) where the warrant authorises examination of bulk personal datasets of a class described in the warrant or (as the case may be) of a bulk personal dataset described in the warrant, whether— (i) each of the specified operational purposes (see section 212) is a purpose for which the examination of bulk personal datasets of that class or (as the case may be) the bulk personal dataset is or may be necessary, and (ii) the examination of bulk personal datasets of that class or (as the case may be) the bulk personal dataset is necessary as mentioned in section 204(3)(c)(ii) or (as the case may be) section 205(6)(c)(ii)",
+			"IN": "deciding whether to approve a decision to issue a class BPD warrant or a specific BPD warrant"
+		}
+	],
+
+	"section-208-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matters referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-208-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to issue a class BPD warrant or a specific BPD warrant"
+		}
+	],
+
+	"section-208-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue a class BPD warrant or a specific BPD warrant"
+		}
+	],
+
+	"section-209-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that it has been issued"
+		}
+	],
+
+	"section-209-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to issue the warrant, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-210-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service to whom the warrant was addressed",
+			"TO": "secure that anything in the process of being done in reliance on the warrant stops as soon as possible",
+			"SO FAR AS": "is reasonably practicable"
+		}
+	],
+
+	"section-210-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) direct that the whole or part of a bulk personal dataset retained in reliance on the warrant is destroyed; (b) impose conditions as to the use or retention of the whole or part of any such bulk personal dataset"
+		}
+	],
+
+	"section-210-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Judicial Commissioner",
+			"TO": "require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection (3)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-210-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3)"
+		}
+	],
+
+	"section-210-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) confirm the Judicial Commissioner's decision, or (b) make a fresh determination",
+			"ON": "a review under subsection (6)"
+		}
+	],
+
+	"section-211-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to issue a class BPD warrant or a specific BPD warrant",
+			"TO": "be taken personally by the Secretary of State"
+		}
+	],
+
+	"section-211-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a class BPD warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued"
+		}
+	],
+
+	"section-211-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a specific BPD warrant",
+			"TO": "be signed by the Secretary of State",
+			"BEFORE": "it is issued",
+			"SUBJECT TO": "subsection (4)"
+		}
+	],
+
+	"section-211-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a specific BPD warrant",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the warrant to be signed by the Secretary of State"
+		}
+	],
+
+	"section-211-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the warrant",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the warrant to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the issue of the warrant",
+			"IN": "such a case"
+		}
+	],
+
+	"section-212-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A class BPD warrant or a specific BPD warrant",
+			"TO": "contain a provision stating whether it is a class BPD warrant or (as the case may be) a specific BPD warrant"
+		}
+	],
+
+	"section-212-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A class BPD warrant or a specific BPD warrant",
+			"TO": "be addressed to the head of the intelligence service by whom, or on whose behalf, the application for the warrant was made"
+		}
+	],
+
+	"section-212-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A class BPD warrant",
+			"TO": "include a description of the class of bulk personal datasets to which the warrant relates"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A class BPD warrant",
+			"TO": "specify the operational purposes for which data contained in bulk personal datasets of that class may be selected for examination",
+			"WHERE": "the warrant authorises examination of bulk personal datasets of that class"
+		}
+	],
+
+	"section-212-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A specific BPD warrant",
+			"TO": "describe the bulk personal dataset to which the warrant relates"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A specific BPD warrant",
+			"TO": "include a description that will enable those datasets to be identified",
+			"WHERE": "the warrant authorises the retention or examination of replacement datasets"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A specific BPD warrant",
+			"TO": "specify the operational purposes for which data contained in the bulk personal dataset and any replacement datasets may be selected for examination",
+			"WHERE": "the warrant authorises the examination of the bulk personal dataset or replacement datasets"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A specific BPD warrant",
+			"TO": "specify those conditions",
+			"WHERE": "the Secretary of State has imposed conditions under section 207"
+		}
+	],
+
+	"section-212-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A class BPD warrant or a specific BPD warrant",
+			"TO": "specify all of the operational purposes which, at the time the warrant is issued, are specified in the list of operational purposes"
+		}
+	],
+
+	"section-212-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An operational purpose",
+			"TO": "be specified in the list of operational purposes",
+			"ONLY WITH": "the approval of the Secretary of State"
+		}
+	],
+
+	"section-212-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give such approval",
+			"ONLY IF": "satisfied that the operational purpose is specified in a greater level of detail than the descriptions contained in section 204(3)(a) or (as the case may be) section 205(6)(a)"
+		}
+	],
+
+	"section-212-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "give a copy of the list of operational purposes to the Intelligence and Security Committee of Parliament",
+			"AT": "the end of each relevant three-month period"
+		}
+	],
+
+	"section-212-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Prime Minister",
+			"TO": "review the list of operational purposes",
+			"AT LEAST ONCE": "a year"
+		}
+	],
+
+	"section-214-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a class BPD warrant or a specific BPD warrant",
+			"TO": "be renewed by an instrument issued by the Secretary of State",
+			"AT": "any time during the renewal period",
+			"IF": "the renewal conditions are met"
+		}
+	],
+
+	"section-214-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to renew a class BPD warrant or a specific BPD warrant",
+			"TO": "be taken personally by the Secretary of State"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument renewing the warrant",
+			"TO": "be signed by the Secretary of State"
+		}
+	],
+
+	"section-215-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The provisions of a class BPD warrant or a specific BPD warrant",
+			"TO": "be modified by an instrument issued by the person making the modification",
+			"AT": "any time"
+		}
+	],
+
+	"section-215-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a major modification",
+			"TO": "be made by the Secretary of State"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a major modification",
+			"TO": "be made",
+			"ONLY IF": "the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 204(3)(a) or (as the case may be) section 205(6)(a))"
+		}
+	],
+
+	"section-215-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "— (a) the Secretary of State, or (b) a senior official acting on behalf of the Secretary of State",
+			"TO": "make a minor modification"
+		}
+	],
+
+	"section-215-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "be notified personally of a minor modification and the reasons for making it",
+			"WHERE": "the modification is made by a senior official"
+		}
+	],
+
+	"section-215-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person mentioned in subsection (6)",
+			"TO": "modify the warrant by removing that operational purpose",
+			"IF": "at any time the person considers that any operational purpose specified in a warrant is no longer a purpose for which the examination of any bulk personal datasets to which the warrant relates is or may be necessary"
+		}
+	],
+
+	"section-215-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The decision to modify the provisions of a class BPD warrant or a specific BPD warrant",
+			"TO": "be taken personally by the person making the modification",
+			"SUBJECT TO": "subsection (10)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "be signed by that person",
+			"SUBJECT TO": "subsection (10)"
+		}
+	],
+
+	"section-215-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an instrument making a major modification",
+			"TO": "be signed by a senior official designated by the Secretary of State for that purpose",
+			"IF": "it is not reasonably practicable for the instrument to be signed by the Secretary of State"
+		}
+	],
+
+	"section-215-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the instrument making the modification",
+			"TO": "contain a statement that— (a) it is not reasonably practicable for the instrument to be signed by the Secretary of State, and (b) the Secretary of State has personally and expressly authorised the making of the modification"
+		}
+	],
+
+	"section-216-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "review the Secretary of State's conclusions as to whether the modification is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary",
+			"IN": "deciding whether to approve a decision to make a major modification of a class BPD warrant or a specific BPD warrant"
+		}
+	],
+
+	"section-216-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter referred to in subsection (1) with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "doing so"
+		}
+	],
+
+	"section-216-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the refusal",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision to make a major modification under section 215"
+		}
+	],
+
+	"section-216-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision to make the modification",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to make a major modification under section 215"
+		}
+	],
+
+	"section-217-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "inform a Judicial Commissioner that the modification has been made"
+		}
+	],
+
+	"section-217-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Judicial Commissioner",
+			"TO": "— (a) decide whether to approve the decision to make the modification, and (b) notify the Secretary of State of the Judicial Commissioner's decision",
+			"BEFORE": "the end of the relevant period"
+		}
+	],
+
+	"section-218-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a class BPD warrant or a specific BPD warrant",
+			"AT": "any time"
+		}
+	],
+
+	"section-218-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State, or a senior official acting on behalf of the Secretary of State",
+			"TO": "cancel a class BPD warrant or a specific BPD warrant",
+			"IF": "the person considers that any of the cancellation conditions are met in relation to the warrant"
+		}
+	],
+
+	"section-219-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of the intelligence service to whom the warrant was addressed, or a person acting on their behalf",
+			"TO": "— (a) apply for— (i) a specific BPD warrant authorising the retention, or the retention and examination, of the whole or any part of the material retained by the intelligence service in reliance on the warrant which has ceased to have effect; (ii) a class BPD warrant authorising the retention or (as the case may be) the retention and examination of bulk personal datasets of a class that is described in a way that would authorise the retention or (as the case may be) the retention and examination of the whole or any part of such material, or (b) where the head of the intelligence service, or a person acting on their behalf, wishes to give further consideration to whether to apply for a warrant of a kind mentioned in paragraph (a)(i) or (ii), apply to the Secretary of State for authorisation to retain, or to retain and examine, the whole or any part of the material retained by the intelligence service in reliance on the warrant",
+			"BEFORE": "the end of the period of 5 working days beginning with the day on which the warrant ceases to have effect"
+		}
+	],
+
+	"section-219-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "— (a) direct that any of the material to which the application relates be destroyed; (b) with the approval of a Judicial Commissioner, authorise the retention or (as the case may be) the retention and examination of any of that material, subject to such conditions as the Secretary of State considers appropriate, for a period specified by the Secretary of State which may not exceed 3 months",
+			"ON": "an application under subsection (2)(b)"
+		}
+	],
+
+	"section-219-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "deciding whether to give approval for the purposes of subsection (3)(b)"
+		}
+	],
+
+	"section-219-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the decision",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision by the Secretary of State to authorise the retention or (as the case may be) the retention and examination of any material under subsection (3)(b)"
+		}
+	],
+
+	"section-219-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve such a decision"
+		}
+	],
+
+	"section-219-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the head of the intelligence service, or a person acting on their behalf",
+			"TO": "make the application",
+			"AS SOON AS": "reasonably practicable",
+			"BEFORE": "the end of the period specified by the Secretary of State",
+			"IF": "during the period specified by the Secretary of State under subsection (3)(b), the head of the intelligence service, or a person acting on their behalf, decides to apply for a warrant of a kind mentioned in subsection (2)(a)(i) or (ii)"
+		}
+	],
+
+	"section-219-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of subsections (2), (7) and (8), act on behalf of the head of an intelligence service"
+		}
+	],
+
+	"section-220-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The head of the intelligence service, or a person acting on their behalf",
+			"TO": "take the following steps",
+			"BEFORE": "the end of the permitted period"
+		}
+	],
+
+	"section-220-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of this section, act on behalf of the head of an intelligence service"
+		}
+	],
+
+	"section-221-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that— (a) any selection of data contained in the datasets (or dataset) for examination is carried out only for the specified purposes (see subsection (2)), and (b) the selection of any such data for examination is necessary and proportionate in all the circumstances",
+			"IN RELATION TO": "every class BPD warrant or specific BPD warrant which authorises examination of bulk personal datasets of a class described in the warrant or (as the case may be) of a bulk personal dataset described in the warrant"
+		}
+	],
+
+	"section-221-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "ensure that arrangements are in force for securing that any selection for examination of protected data on the basis of criteria which are referable to an individual known to be in the British Islands at the time of the selection is in accordance with the conditions specified in the warrant",
+			"IN RELATION TO": "every specific BPD warrant which specifies conditions imposed under section 207"
+		}
+	],
+
+	"section-222-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "the Secretary of State has approved the use of those criteria",
+			"IF": "the relevant criteria are referable to an individual known to be in the British Islands at the time of the selection"
+		}
+	],
+
+	"section-222-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria",
+			"IN": "any other case"
+		}
+	],
+
+	"section-222-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give approval for the purposes of subsection (2)",
+			"ONLY WITH": "the approval of a Judicial Commissioner"
+		}
+	],
+
+	"section-222-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Approval",
+			"TO": "be given under subsection (2) or (3)",
+			"ONLY IF": "— (a) the Secretary of State or (as the case may be) the senior official considers that the arrangements mentioned in section 205(6)(d) include specific arrangements in respect of items subject to legal privilege, and (b) where subsection (1)(a) applies, the Secretary of State or (as the case may be) the senior official considers that there are exceptional and compelling circumstances that make it necessary to authorise the use of the relevant criteria"
+		}
+	],
+
+	"section-222-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State or (as the case may be) the senior official",
+			"TO": "have regard to the public interest in the confidentiality of items subject to legal privilege",
+			"IN": "deciding whether to give an approval under subsection (2) or (3) in a case where subsection (1)(a) applies"
+		}
+	],
+
+	"section-222-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "— (a) apply the same principles as would be applied by a court on an application for judicial review, and (b) consider the matter with a sufficient degree of care as to ensure that the Judicial Commissioner complies with the duties imposed by section 2 (general duties in relation to privacy)",
+			"IN": "deciding whether to give approval for the purposes of subsection (4)"
+		}
+	],
+
+	"section-222-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "the Secretary of State has approved the use of those criteria",
+			"IF": "the relevant criteria are referable to an individual known to be in the British Islands at the time of the selection"
+		}
+	],
+
+	"section-222-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the data",
+			"TO": "be selected for examination using the relevant criteria",
+			"ONLY IF": "a senior official acting on behalf of the Secretary of State has approved the use of those criteria",
+			"IN": "any other case"
+		}
+	],
+
+	"section-222-12": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Approval",
+			"TO": "be given under subsection (10) or (11)",
+			"ONLY IF": "the Secretary of State or (as the case may be) the senior official considers that the targeted data or the underlying material is likely to be data or underlying material created or held with the intention of furthering a criminal purpose"
+		}
+	],
+
+	"section-223-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person to whom a specific BPD warrant is addressed",
+			"TO": "inform the Investigatory Powers Commissioner",
+			"AS SOON AS": "is reasonably practicable",
+			"WHERE": "an item subject to legal privilege is retained following its examination in reliance on the warrant, for purposes other than the destruction of the item"
+		}
+	],
+
+	"section-223-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "— (a) direct that the item is destroyed, or (b) impose one or more conditions as to the use or retention of that item",
+			"UNLESS": "the Commissioner considers that subsection (4) applies to the item"
+		}
+	],
+
+	"section-223-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Investigatory Powers Commissioner",
+			"TO": "impose such conditions under subsection (2)(b) as the Commissioner considers necessary for the purpose of protecting the public interest in the confidentiality of items subject to legal privilege",
+			"IF": "the Commissioner considers that subsection (4) applies to the item"
+		}
+	],
+
+	"section-223-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "require an affected party to make representations about how the Commissioner should exercise any function under subsection (2)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Investigatory Powers Commissioner",
+			"TO": "have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a))"
+		}
+	],
+
+	"section-224-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) select for examination any data contained in a bulk personal dataset retained in reliance on a class BPD warrant or a specific BPD warrant, (b) know or believe that the selection of that data is in breach of a requirement specified in subsection (2), and (c) deliberately select that data in breach of that requirement"
+		}
+	],
+
+	"section-224-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "proceedings for any offence which is an offence by virtue of this section",
+			"TO": "be instituted— (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions; (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland"
+		}
+	],
+
+	"section-225-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "give a direction that— (a) the intelligence service may retain, or retain and examine, the bulk personal dataset by virtue of the direction, (b) any other power of the intelligence service to retain or examine the bulk personal dataset, and any associated regulatory provision, ceases to apply in relation to the bulk personal dataset (subject to subsection (5)), and (c) section 201(1) also ceases to apply in relation to the bulk personal dataset",
+			"WHERE": "this section applies",
+			"ON": "the application of the head of the intelligence service, or a person acting on their behalf",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the intelligence service",
+			"TO": "exercise its power by virtue of the direction to retain, or to retain and examine, the bulk personal dataset",
+			"ONLY IF": "authorised to do so (a) by a class BPD warrant or a specific BPD warrant under this Part, or (b) by an individual authorisation under Part 7A (low or no reasonable expectation of privacy)",
+			"WHERE": "a direction is given under subsection (3)",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (3)",
+			"TO": "provide for any associated regulatory provision specified in the direction to continue to apply in relation to the bulk personal dataset, with or without modifications specified in the direction",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The power conferred by subsection (5)",
+			"TO": "be exercised to ensure that— (a) where section 56 and Schedule 3 applied in relation to the bulk personal dataset immediately before the giving of the direction, they continue to apply in relation to it (without modification); (b) where sections 57 to 59 applied in relation to the bulk personal dataset immediately before the giving of the direction, they continue to apply in relation to it with the modification that the reference in section 58(7)(a) to the provisions of Part 2 is to be read as including a reference to the provisions of this Part",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-7": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "give a direction under subsection (3)",
+			"ONLY WITH": "the approval of a Judicial Commissioner",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Judicial Commissioner",
+			"TO": "apply the same principles as would be applied by a court on an application for judicial review",
+			"IN": "deciding whether to give approval for the purposes of subsection (7)",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-9": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a Judicial Commissioner",
+			"TO": "give the Secretary of State written reasons for the decision",
+			"WHERE": "the Judicial Commissioner refuses to approve a decision by the Secretary of State to give a direction under subsection (3)",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-10": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "ask the Investigatory Powers Commissioner to decide whether to approve the decision",
+			"WHERE": "a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve such a decision",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-11": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a direction under subsection (3)",
+			"TO": "be revoked",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (3)",
+			"TO": "be varied",
+			"ONLY FOR": "the purpose of altering or removing any provision included in the direction under subsection (5)",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-13": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The head of an intelligence service, or a person acting on their behalf",
+			"TO": "(a) apply for a specific BPD warrant under section 205, or (b) decide to grant an individual authorisation under Part 7A .",
+			"AT": "the same time as applying for a direction under subsection (3)",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "issue such a warrant",
+			"AT": "the same time as giving the direction",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	],
+
+	"section-225-15": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-225-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "only a person holding office under the Crown",
+			"TO": "For the purposes of subsections (3) and (13), act on behalf of the head of an intelligence service",
+			"UNLESS": "the bulk personal dataset was obtained by the intelligence service under a bulk acquisition warrant issued under Chapter 2 of Part 6"
+		}
+	]
+}

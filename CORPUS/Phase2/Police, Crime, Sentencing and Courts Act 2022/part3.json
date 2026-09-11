@@ -1,0 +1,58 @@
+{
+	"section-73-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare and publish a report on the operation of the amendments to section 12 of the Public Order Act 1986 made by this section, and (b) lay the report before Parliament",
+			"BEFORE": "the end of the period of 2 years beginning with the day on which this section comes into force"
+		}
+	],
+
+	"section-74-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare and publish a report on the operation of the amendments to section 14 of the Public Order Act 1986 made by this section, and (b) lay the report before Parliament",
+			"BEFORE": "the end of the period of 2 years beginning with the day on which this section comes into force"
+		}
+	],
+
+	"section-78-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-78-7"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) do an act, or (b) omit to do an act that they are required to do by any enactment or rule of law",
+			"WHERE": "the person intends that their act or omission will have a consequence mentioned in paragraph (b) or is reckless as to whether it will have such a consequence",
+			"UNLESS": "this relates to — (a) any act or omission which occurred before the coming into force of subsection (1), or (b) any act or omission which began before the coming into force of subsection (1) and continues after its coming into force"
+		}
+	],
+
+	"section-78-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-78-7"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person charged with an offence under subsection (1)",
+			"TO": "prove that they had a reasonable excuse for the act or omission mentioned in paragraph (a) of that subsection",
+			"UNLESS": "this relates to — (a) any act or omission which occurred before the coming into force of those subsections, or (b) any act or omission which began before the coming into force of those subsections and continues after their coming into force"
+		}
+	],
+
+	"section-79-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "— (a) prepare and publish a report on the operation of section 14ZA of the Public Order Act 1986, and (b) lay the report before Parliament",
+			"BEFORE": "the end of the period of 2 years beginning with the day on which this section comes into force"
+		}
+	]
+}

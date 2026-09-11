@@ -1,0 +1,334 @@
+{
+	"section-101-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to admit to membership; (b) as to the terms on which A is prepared to admit B to membership; (c) by not accepting B's application for membership",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a member (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of membership; (c) by varying B's terms of membership; (d) by subjecting B to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against an associate (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of B's rights as an associate; (c) by varying B's rights as an associate; (d) by subjecting B to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "harass— (a) a member; (b) a person seeking to become a member; (c) an associate",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to admit to membership; (b) as to the terms on which A is prepared to admit B to membership; (c) by not accepting B's application for membership",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a member (B)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by depriving B of membership; (c) by varying B's terms of membership; (d) by subjecting B to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-101-7": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "victimise an associate— (a) in the way it affords the associate access, or by not affording the associate access, to a benefit, facility or service; (b) by depriving the associate of the associate's rights as an associate; (c) by varying the associate's rights as an associate; (d) by subjecting the associate to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-102-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a person (B)— (a) in the arrangements A makes for deciding who to invite, or who to permit to be invited, as a guest; (b) as to the terms on which A is prepared to invite B, or to permit B to be invited, as a guest; (c) by not inviting B, or not permitting B to be invited, as a guest",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-102-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "discriminate against a guest (B) invited by A or with A's permission (whether express or implied)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by subjecting B to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-102-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association",
+			"TO": "harass— (a) a guest; (b) a person seeking to be a guest",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-102-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a person (B)— (a) in the arrangements A makes for deciding who to invite, or who to permit to be invited, as a guest; (b) as to the terms on which A is prepared to invite B, or to permit B to be invited, as a guest; (c) by not inviting B, or not permitting B to be invited, as a guest",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-102-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An association (A)",
+			"TO": "victimise a guest (B) invited by A or with A's permission (whether express or implied)— (a) in the way A affords B access, or by not affording B access, to a benefit, facility or service; (b) by subjecting B to any other detriment",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-103-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an association",
+			"TO": "make reasonable adjustments",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-104-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "act in accordance with selection arrangements",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-105-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a Minister of the Crown",
+			"TO": "by order provide that subsection (1) is to have effect with the substitution of a later time for that for the time being specified there",
+			"AT": "any time before the end of 2030",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	],
+
+	"section-106-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-4", "section-106-6"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the party",
+			"TO": "publish information relating to protected characteristics of persons who come within a description prescribed in the regulations in accordance with subsection (3)",
+			"IN ACCORDANCE WITH": "regulations",
+			"IF": "the party had candidates at a relevant election",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"ONLY IN SO FAR AS": "it is possible to publish information in a manner that ensures that no person to whom the information relates can be identified from that information",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "One or more of the following descriptions— (a) successful applicants for nomination as a candidate at the relevant election; (b) unsuccessful applicants for nomination as a candidate at that election; (c) candidates elected at that election; (d) candidates who are not elected at that election",
+			"TO": "be prescribed for the purposes of subsection (2)",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-7": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "provide that the information to be published— (a) must (subject to subsection (6)) relate to all protected characteristics or only to such as are prescribed; (b) must include a statement, in respect of each protected characteristic to which the information relates, of the proportion that the number of persons who provided the information to the party bears to the number of persons who were asked to provide it",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "prescribe— (a) descriptions of information; (b) descriptions of political party to which the duty is to apply; (c) the time at which information is to be published; (d) the form and manner in which information is to be published; (e) the period for which information is to be published",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-9": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision by virtue of subsection (8)(b)",
+			"TO": "provide that the duty imposed by subsection (2) does not apply to a party which had candidates in fewer constituencies in the election concerned than a prescribed number",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-10": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "— (a) provide that the duty imposed by subsection (2) applies only to such relevant elections as are prescribed; (b) provide that a by-election or other election to fill a vacancy is not to be treated as a relevant election or is to be so treated only to a prescribed extent; (c) amend this section so as to provide for the duty imposed by subsection (2) to apply in the case of additional descriptions of election.",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-106-11": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2", "section-106-6"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a political party",
+			"TO": "require a person to provide information to it",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception",
+			"UNLESS_3": "this concerns the following protected characteristics— (a) marriage and civil partnership; (b) pregnancy and maternity"
+		}
+	],
+
+	"section-107-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-100-1", "section-100-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend subsection (2)(a) so as to substitute a different number for that for the time being specified there",
+			"UNLESS": "this concerns the protected characteristic of marriage and civil partnership",
+			"UNLESS_2": "this concerns discrimination, harassment or victimisation— (a) that is prohibited by Part 3 (services and public functions), Part 4 (premises), Part 5 (work) or Part 6 (education), or (b) that would be so prohibited but for an express exception"
+		}
+	]
+}

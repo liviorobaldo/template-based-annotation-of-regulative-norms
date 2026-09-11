@@ -1,0 +1,215 @@
+{
+	"section-42-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Authority",
+			"TO": "provide assistance to any other public authority in the United Kingdom for the purpose of the exercise by that authority of its functions",
+			"IF": "it thinks it appropriate to do so"
+		}
+	],
+
+	"section-42-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Assistance provided by the Authority under this section",
+			"TO": "be provided on such terms, including terms as to payment, as it thinks fit"
+		}
+	],
+
+	"section-43-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-43-7" ]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Authority under subsection (1)(a)",
+			"TO": "extend— (a) to the taking of the minimum steps necessary for the purpose mentioned in that provision, and (b) to the use of the least invasive procedure",
+			"UNLESS": "this relates to a part of a body lying in an institution in Wales. (For provision in these circumstances see section 13 of the Human Transplantation (Wales) Act 2013)"
+		}
+	],
+
+	"section-43-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": [ "section-43-7" ]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Authority under subsection (1)",
+			"TO": "extend to any person authorised to act under the authority by— (a) the person on whom the authority is conferred by that subsection, or (b) a person authorised under this subsection to act under the authority",
+			"UNLESS": "this relates to a part of a body lying in an institution in Wales. (For provision in these circumstances see section 13 of the Human Transplantation (Wales) Act 2013)"
+		}
+	],
+
+	"section-45-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— have any bodily material intending— (i) that any human DNA in the material be analysed without qualifying consent, and (ii) that the results of the analysis be used otherwise than for an excepted purpose",
+			"IF": "(b) the material is not of a kind excepted under subsection (2), and (c) not reasonably believe the material to be of a kind so excepted"
+		}
+	],
+
+	"section-47-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Any body to which this section applies",
+			"TO": "transfer from their collection any human remains which they reasonably believe to be remains of a person who died less than one thousand years before the day on which this section comes into force",
+			"IF": "it appears to them to be appropriate to do so for any reason, whether or not relating to their other functions"
+		}
+	],
+
+	"section-52-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an order under section 1(11), 10(9), 14(4), 27(9) or 54(10) or paragraph 13 of Schedule 4, and regulations under section 3(9), 6, 7(4), 16(5) or 33(3) or (7) or paragraph 6(2) or 12(2) of Schedule 4",
+			"TO": "be made",
+			"UNLESS": "a draft of the statutory instrument containing it, or them, has been laid before and approved by a resolution of each House of Parliament"
+		}
+	],
+
+	"section-52-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult such other persons as he considers appropriate",
+			"BEFORE": "acting under any of the following provisions— section 1(11); section 3(9); section 6; section 6(1); section 7(4); section 10(9); section 14(4); section 16(5); section 27(9); section 33(3) and (7); section 54(10); paragraphs 6(2), 12(2) and 13 of Schedule 4"
+		}
+	],
+
+	"section-52-11": 
+	[
+		{
+			"IT IS": "OBLIGatory",
+			"FOR": "the Department of Health in Northern Ireland",
+			"TO": "consult such persons as it considers appropriate",
+			"BEFORE": "acting under section 3(9A)"
+		}
+	],
+
+	"section-52-4A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the Welsh Ministers",
+			"TO": "make an order under section 27(10)",
+			"UNLESS": "a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales"
+		}
+	],
+
+	"section-52-4B": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "regulations",
+			"TO": "be made under section 3(9A)",
+			"UNLESS": "a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly"
+		}
+	],
+
+	"section-52-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "consult the Welsh Ministers and the relevant Northern Ireland department",
+			"BEFORE": "acting under any of the following provisions"
+		}
+	],
+
+	"section-52-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Scottish Ministers",
+			"BEFORE": "acting— (a) under section 54(10) in order to amend section 54(9) so far as having effect for the purposes of Schedule 4, or (b) under paragraph 6(2), 10(b), 12(2) or 13 of Schedule 4"
+		}
+	],
+
+	"section-54-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order amend subsection (9)"
+		}
+	],
+
+	"section-58-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by order made by statutory instrument make such transitional provision or savings as he considers necessary or expedient",
+			"IN CONNECTION WITH": "the coming into force of any provision of this Act"
+		}
+	],
+
+	"section-58-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "making provision under subsection (3) in connection with the coming into force in England and Wales of any provision of this Act, except section 47"
+		}
+	],
+
+	"section-58-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the relevant Northern Ireland department",
+			"BEFORE": "making provision under subsection (3) in connection with the coming into force in Northern Ireland of any provision of this Act, except section 47"
+		}
+	],
+
+	"section-58-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Scottish Ministers",
+			"BEFORE": "making provision under subsection (3) in connection with the coming into force in Scotland of any provision of this Act, except section 47"
+		}
+	],
+
+	"section-60-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Welsh Ministers",
+			"BEFORE": "exercising the power under subsection (2) in relation to the coming into force in England and Wales of any provision of this Act, except section 47"
+		}
+	],
+
+	"section-60-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the relevant Northern Ireland department",
+			"BEFORE": "exercising the power under subsection (2) in relation to the coming into force in Northern Ireland of any provision of this Act, except section 47"
+		}
+	],
+
+	"section-60-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "consult the Scottish Ministers",
+			"BEFORE": "exercising the power under subsection (2) in relation to the coming into force in Scotland of any provision of this Act, except section 47"
+		}
+	]
+}

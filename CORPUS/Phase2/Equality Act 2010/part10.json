@@ -1,0 +1,62 @@
+{
+	"section-143-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The county court or the sheriff",
+			"TO": "make an order for a term to be removed or modified",
+			"ON": "an application by a person who has an interest in a contract or other agreement which includes a term that is unenforceable as a result of section 142"
+		}
+	],
+
+	"section-143-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "An order under this section",
+			"TO": "be made",
+			"UNLESS": "every person who would be affected by it— (a) has been given notice of the application (except where notice is dispensed with in accordance with rules of court), and (b) has been afforded an opportunity to make representations to the county court or sheriff"
+		}
+	],
+
+	"section-143-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include provision in respect of a period before the making of the order"
+		}
+	],
+
+	"section-146-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-146-2"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A qualifying person (P)",
+			"TO": "make a complaint to an employment tribunal that a term is void, or that a rule is unenforceable, as a result of section 145",
+			"ONLY IF": "— (a) the term or rule may in the future have effect in relation to P, and (b) where the complaint alleges that the term or rule provides for treatment of a description prohibited by this Act, P may in the future be subjected to treatment that would (if P were subjected to it in present circumstances) be of that description"
+		}
+	],
+
+	"section-146-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the tribunal",
+			"TO": "make an order declaring that the term is void or the rule is unenforceable",
+			"IF": "it finds that the complaint is well-founded"
+		}
+	],
+
+	"section-146-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "include provision in respect of a period before the making of the order"
+		}
+	]
+}

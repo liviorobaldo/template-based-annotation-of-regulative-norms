@@ -1,0 +1,876 @@
+{
+	"section-52-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "request a report from the CMA",
+			"BEFORE": "giving a subsidy, or making a subsidy scheme, of particular interest"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A public authority",
+			"TO": "request a report from the CMA",
+			"WHERE": "directed to do so by the Secretary of State under section 55"
+		}
+	],
+
+	"section-52-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "— (a) include the information in relation to the subsidy or subsidy scheme that would be required under section 34, if the subsidy or scheme were to be given or made, (b) provide such other information as is specified in regulations under subsection (3)(a), (c) explain, in the case of a request under subsection (1)(a), why the public authority considers that the subsidy or subsidy scheme would meet the criteria for being a subsidy, or subsidy scheme, of particular interest, (d) include an assessment by the public authority as to whether the subsidy or scheme would comply with the requirements of Chapters 1 and 2 of Part 2, and the reasons for that conclusion, and (e) include any evidence relevant to that assessment"
+		}
+	],
+
+	"section-52-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) specify further information that must be included in a request under this section; (b) make provision as to the form of a request under this section"
+		}
+	],
+
+	"section-53-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "give a notice to the public authority— (a) that the request complies with the requirements under section 52, or (b) providing reasons as to why the request does not comply with those requirements",
+			"BEFORE": "the end of five working days beginning with the day on which a request is received under section 52(1)"
+		}
+	],
+
+	"section-53-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish a report on the proposed subsidy or subsidy scheme, in such manner as the CMA considers appropriate",
+			"BEFORE": "the end of the reporting period",
+			"WHERE": "the CMA gives a notice under subsection (1)(a)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "give a copy of the report to the public authority and the Secretary of State",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "it is published",
+			"WHERE": "the CMA gives a notice under subsection (1)(a)"
+		}
+	],
+
+	"section-53-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The reporting period",
+			"TO": "be extended",
+			"IF": "an extension is agreed in writing between the CMA and the public authority before the end of the reporting period"
+		}
+	],
+
+	"section-53-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish, in such manner as the CMA considers appropriate, a notice stating that the reporting period has been extended and by how much, and the reasons for the extension",
+			"WHERE": "the reporting period is extended under subsection (4)"
+		}
+	],
+
+	"section-53-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct that the reporting period is extended",
+			"IN RESPONSE TO": "a request from the CMA"
+		}
+	],
+
+	"section-53-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a request under subsection (6)",
+			"TO": "be made",
+			"ONLY IF": "the CMA considers that there are exceptional circumstances to justify an extension"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a request under subsection (6)",
+			"TO": "include the reasons for seeking an extension"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a request under subsection (6)",
+			"TO": "be published, with those reasons, in such manner as the CMA considers appropriate"
+		}
+	],
+
+	"section-53-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (6)",
+			"TO": "be given",
+			"ONLY IF": "the Secretary of State is satisfied that there are exceptional circumstances which justify an extension"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a direction under subsection (6)",
+			"TO": "be given in relation to a subsidy or subsidy scheme given or made by the Secretary of State"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a direction under subsection (6)",
+			"TO": "be given so as to provide for an extension which exceeds 40 working days beginning with the day on which the reporting period would otherwise end"
+		}
+	],
+
+	"section-53-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "— (a) send a copy of a direction given under that subsection to the CMA and to the public authority, or (b) give notice to the CMA and the public authority that the request has been rejected and provide reasons for that decision",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "receiving a request under subsection (6)"
+		}
+	],
+
+	"section-53-11": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish, in such manner as the Secretary of State considers appropriate, a direction given under subsection (6) or a notice given under subsection (9)"
+		}
+	],
+
+	"section-53-12": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-53-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend the periods of time specified in subsections (1) and (3)",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-54-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A public authority",
+			"TO": "give a subsidy or make a subsidy scheme, in relation to which the CMA has provided a report",
+			"BEFORE": "the end of the cooling off period"
+		}
+	],
+
+	"section-54-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the public authority",
+			"TO": "give the subsidy or make the subsidy scheme",
+			"AFTER": "the day on which the reporting period expires",
+			"IF": "the CMA does not publish a report before the end of the reporting period"
+		}
+	],
+
+	"section-54-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct that the cooling off period is extended",
+			"WHERE": "the Secretary of State considers that the CMA’s report has identified that there are serious deficiencies in the public authority’s assessment under section 52(2)(d)"
+		}
+	],
+
+	"section-54-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "send a copy of a direction given under subsection (4) to the public authority"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish the direction in such manner as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-54-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The power in subsection (4)",
+			"TO": "be exercised so as to provide for an extension which exceeds 30 working days beginning with the day on which the cooling off period would otherwise end under subsection (2)"
+		}
+	],
+
+	"section-54-7": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-54-8"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend the period of time specified in subsection (2); (b) amend subsection (4) to reflect any changes made to the content of the CMA’s report by regulations made under section 59",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-55-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct a public authority to request a report from the CMA in relation to a proposed subsidy or subsidy scheme"
+		}
+	],
+
+	"section-55-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under this section",
+			"TO": "be given",
+			"IN RELATION TO": "— (a) a subsidy or subsidy scheme of interest, or (b) any subsidy or subsidy scheme in respect of which the Secretary of State considers— (i) there is a risk of failure to comply with the requirements of Chapters 1 and 2 of Part 2, or (ii) there is a risk of negative effects on competition or investment within the United Kingdom"
+		}
+	],
+
+	"section-55-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "send a copy of a direction given under this section to the public authority and to the CMA"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish the direction in such manner as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-56-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A public authority",
+			"TO": "request a report from the CMA",
+			"BEFORE": "giving a subsidy, or making a subsidy scheme, of interest"
+		}
+	],
+
+	"section-56-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "include the information",
+			"IN RELATION TO": "the subsidy or subsidy scheme that would be required under section 34",
+			"IF": "the subsidy or scheme were to be given or made"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "provide such other information as is specified in regulations under subsection (3)(a)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "explain why the public authority considers that the subsidy or subsidy scheme would meet the criteria for being a subsidy, or subsidy scheme, of interest"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "include an assessment by the public authority as to whether the subsidy or scheme would comply with the requirements of Chapters 1 and 2 of Part 2, and the reasons for that conclusion"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The request",
+			"TO": "include any evidence relevant to that assessment"
+		}
+	],
+
+	"section-56-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-56-4"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) specify further information that must be included in a request under this section; (b) make provision as to the form of a request under this section",
+			"SUBJECT TO": "the negative procedure"
+		}
+	],
+
+	"section-57-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "decide whether to prepare a report in response to the request",
+			"WHERE": "the CMA receives from a public authority a request under section 56(1) that complies with the requirements under section 56(2)"
+		}
+	],
+
+	"section-57-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "give notice to the public authority— (a) that a report will be prepared in response to the request, or (b) providing reasons as to why the CMA has decided not to prepare a report",
+			"BEFORE": "the end of five working days beginning with the day on which a request is received under section 56(1)"
+		}
+	],
+
+	"section-57-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish a report on the proposed subsidy or subsidy scheme, in such manner as the CMA considers appropriate",
+			"WHERE": "the CMA gives a notice under subsection (2)(a)",
+			"BEFORE": "the end of the reporting period",
+			"SUBJECT TO": "subsection (4)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "give a copy of the report to the public authority and the Secretary of State",
+			"WHERE": "the CMA gives a notice under subsection (2)(a)",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "it is published",
+			"SUBJECT TO": "subsection (4)"
+		}
+	],
+
+	"section-57-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the CMA",
+			"TO": "decide whether or not to prepare or publish the report",
+			"IF": "the proposed subsidy is given, or scheme is made, before the CMA has prepared or published its report"
+		}
+	],
+
+	"section-57-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The reporting period",
+			"TO": "be extended",
+			"IF": "an extension is agreed in writing between the CMA and the public authority before the end of the reporting period"
+		}
+	],
+
+	"section-57-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish a notice setting out the agreement or extension, and the reasons for it, in such manner as the CMA considers appropriate",
+			"WHERE": "the reporting period is agreed under subsection (5)(b) or extended under subsection (6)"
+		}
+	],
+
+	"section-57-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-57-9"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend the periods of time specified in subsections (2) and (5)(a)",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-59-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA’s report under section 53 or 57",
+			"TO": "include an evaluation of the public authority’s assessment under section 52(2)(d) or 56(2)(d)"
+		}
+	],
+
+	"section-59-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The evaluation",
+			"TO": "take into account any effects of the proposed subsidy or scheme on competition or investment within the United Kingdom"
+		}
+	],
+
+	"section-59-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The report",
+			"TO": "include— (a) advice about how the public authority’s assessment under section 52(2)(d) or 56(2)(d) might be improved, and (b) advice about how the proposed subsidy or scheme may be modified to ensure compliance with the requirements of Chapters 1 and 2 of Part 2"
+		}
+	],
+
+	"section-59-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-59-5", "section-59-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend subsection (1), (2) or (3) to make provision about the content of the CMA’s report; (b) make provision as to the form of the report",
+			"SUBJECT TO": "the affirmative procedure",
+			"SUBJECT TO_2": "the negative procedure"
+		}
+	],
+
+	"section-60-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "refer a subsidy or subsidy scheme to the CMA",
+			"AFTER": "the subsidy has been given or the subsidy scheme has been made"
+		}
+	],
+
+	"section-60-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a referral under subsection (1)",
+			"TO": "be made",
+			"IN RELATION TO": "any subsidy or subsidy scheme in respect of which the Secretary of State considers— (a) that there has or may have been a failure to comply with the requirements of Chapters 1 and 2 of Part 2, or (b) that there is a risk of negative effects on competition or investment within the United Kingdom"
+		}
+	],
+
+	"section-60-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "direct the public authority to provide to the CMA— (a) any assessment carried out by the public authority, before the subsidy was given or the scheme was made, as to whether the subsidy or scheme would comply with the requirements of Chapters 1 and 2 of Part 2, and the reasons for that conclusion, (b) any evidence relevant to that assessment, (c) in a case where such an assessment is not provided, the reasons for that, (d) any information that the public authority failed to enter in the subsidy database in accordance with Chapter 3 of Part 2, and (e) such other information as is specified in regulations under subsection (8)(a)",
+			"AT": "the same time as making a referral under subsection (1)"
+		}
+	],
+
+	"section-60-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a referral under subsection (1), together with a direction given under subsection (3)",
+			"TO": "be made",
+			"BEFORE": "the end of 20 working days beginning with the day on which the entry",
+			"IN RESPECT OF": "the subsidy or scheme is entered into the subsidy database",
+			"WHERE": "the Secretary of State decides to make the referral"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a referral under subsection (1), together with a direction given under subsection (3)",
+			"TO": "be made",
+			"BEFORE": "the end of 20 working days beginning with the day on which the subsidy is given or the scheme is made",
+			"IN THE CASE OF": "a subsidy or scheme to which section 41 applies",
+			"WHERE": "the Secretary of State decides to make the referral"
+		}
+	],
+
+	"section-60-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish a referral made under subsection (1) in such manner as the Secretary of State considers appropriate"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "send a copy of a direction given under subsection (3) to the public authority and the CMA"
+		}
+	],
+
+	"section-60-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The public authority",
+			"TO": "provide to the CMA the information required under subsection (3)",
+			"BEFORE": "the end of the information period"
+		}
+	],
+
+	"section-60-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-60-9", "section-60-10"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) specify further information that must be provided under subsection (3); (b) prescribe the form in which the information required under subsection (3) is to be provided; (c) amend the periods of time specified in subsections (4) and (7)",
+			"SUBJECT TO": "the negative procedure",
+			"SUBJECT TO_2": "the affirmative procedure"
+		}
+	],
+
+	"section-61-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish a report on the subsidy or subsidy scheme to which the referral relates, in such manner as the CMA considers appropriate",
+			"BEFORE": "the end of the reporting period",
+			"WHERE": "the CMA receives from the Secretary of State a referral under section 60"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "give a copy of the report to the public authority and the Secretary of State",
+			"AS SOON AS": "reasonably practicable",
+			"AFTER": "it is published",
+			"WHERE": "the CMA receives from the Secretary of State a referral under section 60"
+		}
+	],
+
+	"section-61-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The reporting period",
+			"TO": "be extended",
+			"IF": "an extension is agreed in writing between the CMA and the public authority before the end of the reporting period"
+		}
+	],
+
+	"section-61-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the CMA",
+			"TO": "publish, in such manner as the CMA considers appropriate, a notice that the reporting period has been extended and by how much, and the reasons for the extension",
+			"WHERE": "the reporting period is extended under subsection (3)"
+		}
+	],
+
+	"section-61-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct that the reporting period is extended",
+			"IN RESPONSE TO": "a request from the CMA"
+		}
+	],
+
+	"section-61-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a request under subsection (5)",
+			"TO": "be made",
+			"ONLY IF": "the CMA considers that there are exceptional circumstances to justify an extension"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a request under subsection (5)",
+			"TO": "include the reasons for seeking an extension"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a request under subsection (5)",
+			"TO": "be published, with those reasons, in such manner as the CMA considers appropriate"
+		}
+	],
+
+	"section-61-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (5)",
+			"TO": "be given",
+			"ONLY IF": "the Secretary of State is satisfied that there are exceptional circumstances to justify an extension"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a direction under subsection (5)",
+			"TO": "be given",
+			"IN RELATION TO": "a subsidy or subsidy scheme given or made by the Secretary of State"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a direction under subsection (5)",
+			"TO": "be given so as to provide for an extension which exceeds 40 working days beginning with the day on which the reporting period would otherwise end"
+		}
+	],
+
+	"section-61-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Secretary of State",
+			"TO": "— (a) send a copy of a direction given under subsection (5) to the CMA and to the public authority, or (b) give notice to the CMA and the public authority that the request has been rejected and provide reasons for that decision",
+			"AS SOON AS": "reasonably practicable after receiving a request under subsection (5)"
+		}
+	],
+
+	"section-61-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish, in such manner as the Secretary of State considers appropriate, a direction given under subsection (5) or a notice given under subsection (8)"
+		}
+	],
+
+	"section-61-11": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-61-12"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations amend the period of time specified in subsection (2)",
+			"SUBJECT TO": "the affirmative procedure"
+		}
+	],
+
+	"section-62-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA’s report under section 61",
+			"TO": "include an evaluation of the public authority’s assessment under section 60(3)(a)"
+		}
+	],
+
+	"section-62-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The evaluation",
+			"TO": "take into account any effects of the proposed subsidy or scheme on competition or investment within the United Kingdom"
+		}
+	],
+
+	"section-62-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the report",
+			"TO": "include advice about how the subsidy or scheme may be modified to ensure compliance with the requirements of Chapters 1 and 2 of Part 2",
+			"IF": "the subsidy or subsidy scheme is ongoing"
+		}
+	],
+
+	"section-62-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-62-6", "section-62-7"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations— (a) amend subsection (1), (2), (3) or (4) to make provision about the content of the CMA’s report under section 61; (b) make provision as to the form of that report",
+			"SUBJECT TO": "the affirmative procedure",
+			"SUBJECT TO_2": "the negative procedure"
+		}
+	],
+
+	"section-64-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct that sections 52, 53, 54 and 55 (mandatory referral requirements) do not apply, or cease to apply, in relation to a specified subsidy or subsidy scheme"
+		}
+	],
+
+	"section-64-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a direction under subsection (3)",
+			"TO": "only be given",
+			"WHERE": "the Secretary of State is satisfied that there are urgent and exceptional circumstances that justify the direction being given in the public interest"
+		}
+	],
+
+	"section-64-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A direction given under subsection (3)",
+			"TO": "be laid before Parliament"
+		}
+	],
+
+	"section-64-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "send a direction given under this section to the public authority giving the subsidy or making the subsidy scheme"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The Secretary of State",
+			"TO": "publish the direction in such manner as the Secretary of State considers appropriate"
+		}
+	],
+
+	"section-65-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "undertake a review of— (a) the effectiveness of the operation of this Act, and (b) the impact of the operation of this Act on competition and investment within the United Kingdom",
+			"IN RELATION TO": "each relevant period"
+		}
+	],
+
+	"section-65-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "prepare a report on the outcome of the review",
+			"IN RELATION TO": "each relevant period"
+		}
+	],
+
+	"section-65-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "direct the CMA to prepare a report",
+			"IN RELATION TO": "a specified period"
+		}
+	],
+
+	"section-65-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "exercise the power in subsection (4)",
+			"ONLY AFTER": "the CMA has prepared its reports in relation to the first two relevant periods mentioned in subsection (3)"
+		}
+	],
+
+	"section-65-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "publish a report under this section in such manner as the CMA considers appropriate",
+			"AS SOON AS": "practicable",
+			"AFTER": "the end of the period to which it relates"
+		}
+	],
+
+	"section-65-8": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "arrange for a copy of a report prepared under this section to be laid before Parliament"
+		}
+	],
+
+	"section-67-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-67-5"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make such further modifications as the Secretary of State thinks necessary to sections 41 to 43 of the United Kingdom Internal Market Act 2020 in the application of those sections by virtue of subsection (1)",
+			"SUBJECT TO": "the negative procedure"
+		}
+	],
+
+	"section-67-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "regulations under subsection (3)",
+			"TO": "modify the amounts specified in section 43(6) of that Act"
+		}
+	],
+
+	"section-68-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The CMA",
+			"TO": "establish a committee of the CMA Board to be known as the Subsidy Advice Unit"
+		}
+	],
+
+	"section-68-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The CMA Board",
+			"TO": "authorise the Subsidy Advice Unit under paragraph 29(1) of Schedule 4 to ERRA 2013 to carry out its subsidy control functions (which are exercisable by the CMA Board on behalf of the CMA under paragraph 28 of that Schedule)"
+		}
+	],
+
+	"section-68-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Subsidy Advice Unit",
+			"TO": "consist only of persons who are members of the CMA or its staff"
+		}
+	],
+
+	"section-69-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Subsidy Advice Unit",
+			"TO": "make a reference to the CMA chair for the constitution of a CMA group under Schedule 4 to ERRA 2013"
+		}
+	],
+
+	"section-69-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a reference under this section",
+			"TO": "specify— (a) the subsidy control functions in respect of which the reference is made (“the referred functions”), and (b) if the reference is made in respect of a particular subsidy or subsidy scheme, details of that subsidy or subsidy scheme (“the referred case”)"
+		}
+	],
+
+	"section-69-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A CMA group constituted for the purposes of a reference under this section",
+			"TO": "carry out, on behalf of the Subsidy Advice Unit, the referred functions"
+		}
+	]
+}

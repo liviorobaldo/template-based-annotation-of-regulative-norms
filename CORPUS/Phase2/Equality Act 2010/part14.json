@@ -1,0 +1,122 @@
+{
+	"section-193-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "restrict the provision of benefits to persons who share a protected characteristic",
+			"IF": "— (a) the person acts in pursuance of a charitable instrument, and (b) the provision of the benefits is within subsection (2)"
+		}
+	],
+
+	"section-193-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person who provides supported employment",
+			"TO": "treat persons who have the same disability or a disability of a prescribed description more favourably than those who do not have that disability or a disability of such a description",
+			"IN": "providing such employment"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a Minister of the Crown",
+			"TO": "agree to arrangements for the provision of supported employment which will, or may, have that effect"
+		}
+	],
+
+	"section-193-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-193-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a charity",
+			"TO": "require members, or persons wishing to become members, to make a statement which asserts or implies membership or acceptance of a religion or belief",
+			"ONLY IF": "— (a) the charity, or an organisation of which it is part, first imposed such a requirement before 18 May 2005, and (b) the charity or organisation has not ceased since that date to impose such a requirement"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a charity",
+			"TO": "for this purpose restrict the access by members to a benefit, facility or service to those who make such a statement is to be treated as imposing such a requirement",
+			"ONLY IF": "— (a) the charity, or an organisation of which it is part, first imposed such a requirement before 18 May 2005, and (b) the charity or organisation has not ceased since that date to impose such a requirement"
+		}
+	],
+
+	"section-193-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "restrict participation in an activity which is carried on for the purpose of promoting or supporting a charity to persons of one sex",
+			"IN RELATION TO": "the activity"
+		}
+	],
+
+	"section-193-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A charity regulator",
+			"TO": "exercise a function in relation to a charity in a manner which the regulator thinks is expedient in the interests of the charity, having regard to the charitable instrument"
+		}
+	],
+
+	"section-195-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "do anything in relation to the participation of another as a competitor in a gender-affected activity",
+			"ONLY SO FAR AS": "relating to sex"
+		}
+	],
+
+	"section-195-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A person",
+			"TO": "do anything in relation to the participation of another as a competitor in an age-banded activity",
+			"IF": "it is necessary to do so— (a) to secure in relation to the activity fair competition or the safety of competitors, (b) to comply with the rules of a national or international competition, or (c) to increase participation in that activity",
+			"SO FAR AS": "relating to age discrimination"
+		}
+	],
+
+	"section-197-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A Minister of the Crown",
+			"TO": "by order amend this Act to provide that any of the following does not contravene this Act so far as relating to age— (a) specified conduct; (b) anything done for a specified purpose; (c) anything done in pursuance of arrangements of a specified description"
+		}
+	],
+
+	"section-197-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "— (a) confer on a Minister of the Crown or the Treasury a power to issue guidance about the operation of the order (including, in particular, guidance about the steps that may be taken by persons wishing to rely on an exception provided for by the order); (b) require the Minister or the Treasury to carry out consultation before issuing guidance under a power conferred by virtue of paragraph (a); (c) make provision (including provision to impose a requirement) that refers to guidance issued under a power conferred by virtue of paragraph (a)"
+		}
+	],
+
+	"section-197-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Minister or the Treasury",
+			"TO": "For the purposes of satisfying a requirement imposed by virtue of subsection (3)(b), rely on consultation carried out",
+			"BEFORE": "the making of the order that imposes the requirement (including consultation carried out before the commencement of this section)"
+		}
+	],
+
+	"section-197-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Provision by virtue of subsection (3)(c)",
+			"TO": "refer to provisions of the guidance that themselves refer to a document specified in the guidance"
+		}
+	]
+}

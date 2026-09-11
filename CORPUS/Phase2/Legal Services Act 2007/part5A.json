@@ -1,0 +1,210 @@
+{
+	"section-111A-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Law Society",
+			"TO": "by notice, require a person falling within subsection (3) to— (a) provide information, or information of a description, specified in the notice; (b) produce documents, or documents of a description, specified in the notice"
+		}
+	],
+
+	"section-111A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Law Society",
+			"TO": "exercise the power in subsection (1)",
+			"ONLY IN RELATION TO": "information or documents which the Law Society considers it necessary or expedient to have for the purposes of, or in connection with, the performance of its regulatory functions for purposes relating to the prevention or detection of economic crime"
+		}
+	],
+
+	"section-111A-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice under subsection (1)",
+			"TO": "specify the manner and form in which the information is to be provided or document produced"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a notice under subsection (1)",
+			"TO": "specify the period within which the information is to be provided or document produced"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a notice under subsection (1)",
+			"TO": "require the information to be provided, or document to be produced, to the Law Society or to a person specified in the notice"
+		}
+	],
+
+	"section-111A-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Law Society",
+			"TO": "pay to any person such reasonable costs as may be incurred by that person in connection with the provision of any information, or production of any document, by that person pursuant to a notice under subsection (1)"
+		}
+	],
+
+	"section-111A-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Law Society, or a person specified under subsection (4)(c) in a notice",
+			"TO": "take copies of or extracts from a document produced pursuant to a notice under subsection (1)"
+		}
+	],
+
+	"section-111B-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Law Society",
+			"TO": "apply to the High Court for an order requiring the person to comply with the notice or with such directions for the like purpose as may be contained in the order",
+			"IF": "a person refuses or otherwise fails to comply with a notice under section 111A(1)"
+		}
+	],
+
+	"section-111B-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the High Court",
+			"TO": "order a person other than the person to whom the notice was given to provide information or produce documents specified in the notice",
+			"ON": "an application under subsection (1)",
+			"IF": "the High Court is satisfied that there is reason to suspect that the information or documents have come into the possession or custody or under the control of that other person"
+		}
+	],
+
+	"section-111B-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "direct the Law Society to pay such reasonable costs as may be incurred by a person in connection with the provision of any information, or production of any document, by that person pursuant to the order"
+		}
+	],
+
+	"section-111B-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "take copies of or extracts from a document produced to them pursuant to an order under this section"
+		}
+	],
+
+	"section-111C-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Law Society",
+			"TO": "apply to the High Court for an order requiring a person who does not fall within section 111A(3) to— (a) provide information, or information of a description, specified in the order, or (b) produce documents, or documents of a description, specified in the order"
+		}
+	],
+
+	"section-111C-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The High Court",
+			"TO": "make an order under this section",
+			"ONLY IF": "it is satisfied— (a) that it is likely that the information or document is in the possession or custody of, or under the control of, the person, and (b) that it is necessary or expedient for the Law Society to have the information or document for the purposes of, or in connection with, the performance of its regulatory functions for purposes relating to the prevention or detection of economic crime"
+		}
+	],
+
+	"section-111C-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under this section",
+			"TO": "direct the Law Society to pay such reasonable costs as may be incurred by a person in connection with the provision of any information, or production of any document, by that person pursuant to the order"
+		}
+	],
+
+	"section-111C-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person",
+			"TO": "take copies of or extracts from a document produced to them pursuant to an order under this section"
+		}
+	],
+
+	"section-111D-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "by order amend this Part so as to— (a) provide for sections 111A to 111C to apply in relation to an approved regulator other than the Law Society as they apply in relation to the Law Society, and (b) specify the persons to whom notices under section 111A(1) may be given by that approved regulator"
+		}
+	],
+
+	"section-111D-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Lord Chancellor",
+			"TO": "make an order under this section",
+			"IN RELATION TO": "an approved regulator",
+			"ONLY IF": "— (a) the Board has made a recommendation in accordance with section 111E in relation to that approved regulator, and (b) the persons specified in the order to whom notices under section 111A(1) may be given by that approved regulator are the same as those persons specified in the recommendation"
+		}
+	],
+
+	"section-111E-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Board",
+			"TO": "recommend to the Lord Chancellor that the Lord Chancellor make an order under section 111D in relation to an approved regulator"
+		}
+	],
+
+	"section-111E-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A recommendation",
+			"TO": "specify the persons to whom the approved regulator should be able to give notices under section 111A(1)"
+		}
+	],
+
+	"section-111E-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A recommendation",
+			"TO": "be made",
+			"ONLY WITH": "the consent of the approved regulator"
+		}
+	],
+
+	"section-111E-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "publish a draft of the proposed recommendation",
+			"BEFORE": "making a recommendation under this section"
+		}
+	],
+
+	"section-111E-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The draft",
+			"TO": "be accompanied by a notice which states that representations about the proposed recommendation may be made to the Board within a specified period"
+		}
+	],
+
+	"section-111E-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the Board",
+			"TO": "have regard to any representations duly made",
+			"BEFORE": "making the recommendation"
+		}
+	]
+}

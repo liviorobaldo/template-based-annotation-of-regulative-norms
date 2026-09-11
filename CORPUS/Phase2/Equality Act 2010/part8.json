@@ -1,0 +1,284 @@
+{
+	"section-108-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A)",
+			"TO": "discriminate against another (B)",
+			"IF": "— (a) the discrimination arises out of and is closely connected to a relationship which used to exist between them, and (b) conduct of a description constituting the discrimination would, if it occurred during the relationship, contravene this Act"
+		}
+	],
+
+	"section-108-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A)",
+			"TO": "harass another (B)",
+			"IF": "— (a) the harassment arises out of and is closely connected to a relationship which used to exist between them, and (b) conduct of a description constituting the harassment would, if it occurred during the relationship, contravene this Act"
+		}
+	],
+
+	"section-108-4": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "A",
+			"TO": "make reasonable adjustments",
+			"IF": "B is placed at a substantial disadvantage as mentioned in section 20"
+		}
+	],
+
+	"section-108-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "sections 20, 21 and 22 and the applicable Schedules",
+			"TO": "be construed as if the relationship had not ended"
+		}
+	],
+
+	"section-109-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-109-5"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Anything done by a person (A) in the course of A's employment",
+			"TO": "be treated as also done by the employer",
+			"UNLESS": "this concerns offences under this Act (other than offences under Part 12 (disabled persons: transport))"
+		}
+	],
+
+	"section-109-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-109-5"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Anything done by an agent for a principal, with the authority of the principal",
+			"TO": "be treated as also done by the principal",
+			"UNLESS": "this concerns offences under this Act (other than offences under Part 12 (disabled persons: transport))"
+		}
+	],
+
+	"section-109-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-109-5"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "B",
+			"TO": "show that B took all reasonable steps to prevent A— (a) from doing that thing, or (b) from doing anything of that description",
+			"IN": "proceedings against A's employer (B) in respect of anything alleged to have been done by A in the course of A's employment",
+			"UNLESS": "this concerns offences under this Act (other than offences under Part 12 (disabled persons: transport))"
+		}
+	],
+
+	"section-110-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (A)",
+			"TO": "— (a) be an employee or agent, (b) do something which, by virtue of section 109(1) or (2), is treated as having been done by A's employer or principal (as the case may be), and (c) the doing of that thing by A amounts to a contravention of this Act by the employer or principal (as the case may be)"
+		}
+	],
+
+	"section-110-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "— (a) rely on a statement by the employer or principal that doing that thing is not a contravention of this Act, and (b) it is reasonable for A to do so"
+		}
+	],
+
+	"section-110-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (B)",
+			"TO": "knowingly or recklessly make a statement mentioned in subsection (3)(a) which is false or misleading in a material respect"
+		}
+	],
+
+	"section-110-5A": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-110-5B"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "— (a) not conduct a relevant marriage, (b) is not present at, does not carry out, or does not otherwise participate in, a relevant marriage, or (c) not consent to a relevant marriage being conducted",
+			"ONLY IF": "A is within the meaning of “person” for the purposes of section 2 of the Marriage (Same Sex Couples) Act 2013; and other expressions used in subsection (5A) and section 2 of that Act have the same meanings in that subsection as in that section"
+		}
+	],
+
+	"section-110-5BA": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "— (a) not allow religious premises to be used as the place at which two people register as civil partners of each other under Part 2 of the Civil Partnership Act 2004 (“the 2004 Act”), or (b) not provide, arrange, facilitate or participate in, or is not present at— (i) an occasion during which two people register as civil partners of each other on religious premises under Part 2 of the 2004 Act, or (ii) a ceremony or event in England or Wales to mark the formation of a civil partnership, for the reason that the person does not wish to do things of that sort in relation to civil partnerships generally, or those between two people of the same sex, or those between two people of the opposite sex",
+			"IF": "A is a protected person"
+		}
+	],
+
+	"section-110-5C": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-110-5E"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "refuse to solemnise a relevant Scottish marriage for the reason that the marriage is the marriage of two persons of the same sex",
+			"ONLY IF": "A is an approved celebrant"
+		}
+	],
+
+	"section-110-5CA": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-110-5E"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "refuse to solemnise a relevant Scottish marriage for the reason that the marriage is the marriage of two persons of the opposite sex who are in a civil partnership with each other",
+			"ONLY IF": "A is an approved celebrant"
+		}
+	],
+
+	"section-110-5D": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-110-5E"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "refuse to register a relevant Scottish civil partnership for the reason that A does not wish to register civil partnerships generally, or those between two persons of the same sex, or those between two persons of the opposite sex",
+			"ONLY IF": "A is an approved celebrant"
+		}
+	],
+
+	"section-110-5G": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A chaplain",
+			"TO": "refuse to solemnise a relevant Scottish forces marriage for the reason that the marriage is the marriage of two persons of the same sex"
+		}
+	],
+
+	"section-111-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-111-7"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A)",
+			"TO": "instruct another (B) to do in relation to a third person (C) anything which contravenes Part 3, 4, 5, 6 or 7 or section 108(1) or (2) or 112(1) (a basic contravention)",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		}
+	],
+
+	"section-111-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-111-7"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person (A)",
+			"TO": "cause another (B) to do anything which is a basic contravention",
+			"IN RELATION TO": "a third person (C)",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		}
+	],
+
+	"section-111-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-111-7"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (A)",
+			"TO": "induce another (B) to do anything which is a basic contravention",
+			"IN RELATION TO": "a third person (C)",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		}
+	],
+
+	"section-111-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-111-7"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "inducement",
+			"TO": "be direct or indirect",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		}
+	],
+
+	"section-111-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-111-7"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "B",
+			"TO": "bring proceedings for a contravention of this section",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "C",
+			"TO": "bring proceedings for a contravention of this section",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Commission",
+			"TO": "bring proceedings for a contravention of this section",
+			"IF": "the relationship between A and B is such that A is in a position to commit a basic contravention in relation to B"
+		}
+	],
+
+	"section-112-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person (A)",
+			"TO": "knowingly help another (B) to do anything which contravenes Part 3, 4, 5, 6 or 7 or section 108(1) or (2) or 111 (a basic contravention)"
+		}
+	],
+
+	"section-112-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A",
+			"TO": "— (a) rely on a statement by B that the act for which the help is given does not contravene this Act, and (b)it is reasonable for A to do so"
+		}
+	],
+
+	"section-112-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "B",
+			"TO": "knowingly or recklessly make a statement mentioned in subsection (2)(a) which is false or misleading in a material respect"
+		}
+	]
+}

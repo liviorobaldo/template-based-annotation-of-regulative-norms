@@ -1,0 +1,1323 @@
+{
+	"section-11A-7A": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "— (a) make an activity direction under subsection (2B), and (b) dispose finally of the proceedings as they relate to failure to comply with the provision in connection with which the activity direction is made",
+			"ON": "the same occasion"
+		}
+	],
+
+	"section-9-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make any section 8 order, other than a child arrangements order to which subsection (6B) applies, with respect to a child who is in the care of a local authority"
+		}
+	],
+
+	"section-9-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a local authority",
+			"TO": "make an application for a child arrangements order"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make a child arrangements order in favour of a local authority"
+		}
+	],
+
+	"section-9-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A person who is, or was at any time within the last six months, a local authority foster parent of a child",
+			"TO": "apply for leave to apply for a section 8 order with respect to the child",
+			"UNLESS": "— (a) he has the consent of the authority; (b) he is a relative of the child; or (c) the child has lived with him for at least one year preceding the application"
+		}
+	],
+
+	"section-9-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "exercise its powers to make a specific issue order or prohibited steps order— (a) with a view to achieving a result which could be achieved by making a child arrangements order or an order under section 51A of the Adoption and Children Act 2002 (post-adoption contact); or (b) in any way which is denied to the High Court (by section 100(2)) in the exercise of its inherent jurisdiction with respect to children"
+		}
+	],
+
+	"section-9-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-9-6A"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make a section 8 order which will end after the child has reached the age of sixteen",
+			"UNLESS": "it is satisfied that the circumstances of the case are exceptional",
+			"UNLESS": "this concerns a child arrangements order to which subsection (6B) applies"
+		}
+	],
+
+	"section-9-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make any section 8 order, other than one varying or discharging such an order, with respect to a child who has reached the age of sixteen",
+			"UNLESS": "it is satisfied that the circumstances of the case are exceptional"
+		}
+	],
+
+	"section-10-1": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-10-3"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make a section 8 order with respect to the child",
+			"IN": "any family proceedings in which a question arises with respect to the welfare of any child",
+			"IF": "— (a) an application for the order has been made by a person who— (i) is entitled to apply for a section 8 order with respect to the child; or (ii) has obtained the leave of the court to make the application; or — (b) the court considers that the order should be made even though no such application has been made",
+			"SUBJECT TO": "the restrictions imposed by section 9"
+		}
+	],
+
+	"section-10-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-10-3"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a section 8 order with respect to any child on the application of a person who— (a) is entitled to apply for a section 8 order with respect to the child; or (b) has obtained the leave of the court to make the application",
+			"SUBJECT TO": "the restrictions imposed by section 9"
+		}
+	],
+
+	"section-10-7A": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-10-3"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "an application for a child arrangements order to which subsection (7B) applies",
+			"TO": "be made with respect to him, if apart from this subsection the leave of the court is not required",
+			"ONLY WITH": "such leave",
+			"SUBJECT TO": "the restrictions imposed by section 9"
+		}
+	],
+
+	"section-10-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-10-3"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "grant leave",
+			"WHERE": "the person applying for leave to make an application for a section 8 order is the child concerned",
+			"ONLY IF": "it is satisfied that he has sufficient understanding to make the proposed application for the section 8 order",
+			"SUBJECT TO": "the restrictions imposed by section 9"
+		}
+	],
+
+	"section-10-9": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-10-3"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "have particular regard to— (a) the nature of the proposed application for the section 8 order; (b) the applicant’s connection with the child; (c) any risk there might be of that proposed application disrupting the child’s life to such an extent that he would be harmed by it; and (d) where the child is being looked after by a local authority— (i) the authority’s plans for the child’s future; and (ii) the wishes and feelings of the child’s parents",
+			"WHERE": "the person applying for leave to make an application for a section 8 order is not the child concerned",
+			"IN": "deciding whether or not to grant leave",
+			"SUBJECT TO": "the restrictions imposed by section 9"
+		}
+	],
+
+	"section-11-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "— (a) draw up a timetable with a view to determining the question without delay; and (b) give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that that timetable is adhered to",
+			"IN": "proceedings in which any question of making a section 8 order, or any other question with respect to such an order, arises",
+			"IN THE LIGHT OF": "any provision in rules of court that is of the kind mentioned in subsection (2)(a) or (b)"
+		}
+	],
+
+	"section-11-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Rules of court",
+			"TO": "— (a) specify periods within which specified steps must be taken in relation to proceedings in which such questions arise; and (b) make other provision with respect to such proceedings for the purpose of ensuring, so far as is reasonably practicable, that such questions are determined without delay."
+		}
+	],
+
+	"section-11-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "make a section 8 order even though it is not in a position to dispose finally of the proceedings in question",
+			"WHERE": "a court has power to do so",
+			"AT": "any time during the course of those proceedings"
+		}
+	],
+
+	"section-11-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a section 8 order",
+			"TO": "— (a) contain directions about how it is to be carried into effect; (b) impose conditions which must be complied with by any person— (i) who is named in the order as a person with whom the child concerned is to live, spend time or otherwise have contact; (ii) who is a parent of the child  ...; (iii) who is not a parent of his but who has parental responsibility for him; or (iv) with whom the child is living, and to whom the conditions are expressed to apply; (c) be made to have effect for a specified period, or contain provisions which are to have effect for a specified period; (d) make such incidental, supplemental or consequential provision as the court thinks fit."
+		}
+	],
+
+	"section-11A-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an activity direction in connection with the provision that the court is considering whether to make"
+		}
+	],
+
+	"section-11A-2B": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an activity direction in connection with that provision of the child arrangements order"
+		}
+	],
+
+	"section-11A-6": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an individual",
+			"TO": "be required by an activity direction— (a) to undergo medical or psychiatric examination, assessment or treatment; (b) to take part in mediation."
+		}
+	],
+
+	"section-11A-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "- (a) make an activity direction under subsection (2), and (b) dispose finally of the proceedings as they relate to the matters mentioned in subsection (1A) in connection with which the activity direction is made",
+			"ON": "the same occasion"
+		}
+	],
+
+	"section-11A-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "consider the welfare of the child concerned as its paramount consideration",
+			"IN": "considering whether to make an activity direction"
+		}
+	],
+
+	"section-11B-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an activity direction under section 11A(2) in connection with any matter mentioned in section 11A(1A)",
+			"UNLESS": "there is a dispute as regards the provision about that matter that the court is considering whether to make in the proceedings"
+		}
+	],
+
+	"section-11B-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an activity direction requiring an individual who is a child to take part in an activity",
+			"UNLESS": "the individual is a parent of the child in relation to whom the court is considering provision about a matter mentioned in section 11A(1A)"
+		}
+	],
+
+	"section-11B-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an activity direction in connection with the making, variation or discharge of a child arrangements order",
+			"IF": "the child arrangements order is, or would if made be, an excepted order"
+		}
+	],
+
+	"section-11B-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an activity direction in relation to an individual",
+			"UNLESS": "the individual is habitually resident in England and Wales"
+		}
+	],
+
+	"section-11C-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-11C-6"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The child arrangements order",
+			"TO": "impose, or be varied so as to impose, a condition (an “activity condition”) requiring an individual falling within subsection (3) to take part in an activity that would, in the court's opinion, help to establish, maintain or improve the involvement in the life of the child concerned of— (a) that individual, or (b) another individual who is a party to the proceedings)",
+			"SUBJECT TO": "the restrictions in sections 11D and 11E"
+		}
+	],
+
+	"section-11D-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A child arrangements order",
+			"TO": "impose an activity condition on an individual who is a child",
+			"UNLESS": "the individual is a parent of the child concerned"
+		}
+	],
+
+	"section-11D-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a child arrangements order",
+			"TO": "impose (and it may not vary so as to impose) an activity condition",
+			"IF": "it is an excepted order (within the meaning given by section 11B(4))"
+		}
+	],
+
+	"section-11D-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a child arrangements order",
+			"TO": "impose an activity condition on an individual",
+			"UNLESS": "the individual is habitually resident in England and Wales"
+		}
+	],
+
+	"section-11E-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "satisfy itself as to the matters falling within subsections (2) to (4)",
+			"BEFORE": "making an activity direction (or imposing an activity condition by means of a child arrangements order)"
+		}
+	],
+
+	"section-11E-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "obtain and consider information about the individual who would be subject to the direction (or the condition) and the likely effect of the direction (or the condition) on him",
+			"BEFORE": "making such a direction (or such an order)"
+		}
+	],
+
+	"section-11E-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Information about the likely effect of the direction (or the condition)",
+			"TO": "include information as to— (a) any conflict with the individual's religious beliefs; (b) any interference with the times (if any) at which he normally works or attends an educational establishment"
+		}
+	],
+
+	"section-11E-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) to (5)"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer of the Service or Welsh family proceedings officer",
+			"TO": "comply with any such request"
+		}
+	],
+
+	"section-11F-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision authorising him to make payments to assist individuals falling within subsection (2) in paying relevant charges or fees"
+		}
+	],
+
+	"section-11F-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The National Assembly for Wales",
+			"TO": "by regulations make provision authorising it to make payments to assist individuals falling within subsection (4) in paying relevant charges or fees"
+		}
+	],
+
+	"section-11F-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "provide that no assistance is available to an individual",
+			"UNLESS": "— (a) the individual satisfies such conditions as regards his financial resources as may be set out in the regulations; (b) the activity in which the individual is required by an activity direction or condition to take part is provided to him in England or Wales; (c) where the activity in which the individual is required to take part is provided to him in England, it is provided by a person who is for the time being approved by the Secretary of State as a provider of activities required by an activity direction or condition; (d) where the activity in which the individual is required to take part is provided to him in Wales, it is provided by a person who is for the time being approved by the National Assembly for Wales as a provider of activities required by a an activity direction or condition"
+		}
+	],
+
+	"section-11F-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "Regulations under this section",
+			"TO": "make provision— (a) as to the maximum amount of assistance that may be paid to or in respect of an individual as regards an activity in which he is required by a an activity direction or condition to take part; (b) where the amount may vary according to an individual's financial resources, as to the method by which the amount is to be determined; (c) authorising payments by way of assistance to be made directly to persons providing activities required by an activity direction or condition"
+		}
+	],
+
+	"section-11G-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "ask an officer of the Service or a Welsh family proceedings officer— (a) to monitor, or arrange for the monitoring of, the individual's compliance with the direction (or the condition); (b) to report to the court on any failure by the individual to comply with the direction (or the condition).",
+			"ON": "making the direction (or imposing the condition by means of a child arrangements order)"
+		}
+	],
+
+	"section-11G-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer of the Service or Welsh family proceedings officer",
+			"TO": "comply with any request under subsection (2)"
+		}
+	],
+
+	"section-11H-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "ask an officer of the Service or a Welsh family proceedings officer— (a) to monitor whether an individual falling within subsection (3) complies with each provision of any of those kinds that is contained in the child arrangements order (or in the child arrangements order as varied); (b) to report to the court on such matters relating to the individual's compliance as the court may specify in the request"
+		}
+	],
+
+	"section-11H-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a request under subsection (2)",
+			"ON": "making the child arrangements order (or the order varying the child arrangements order)"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a request under subsection (2)",
+			"AT": "any time during the subsequent course of the proceedings as they relate to contact with the child concerned or to the child's living arrangements"
+		}
+	],
+
+	"section-11H-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "specify the period for which the officer of the Service or Welsh family proceedings officer is to monitor compliance with the order",
+			"IN": "making a request under subsection (2)"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the period specified",
+			"TO": "exceed twelve months"
+		}
+	],
+
+	"section-11H-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer of the Service or Welsh family proceedings officer",
+			"TO": "comply with any request under subsection (2)"
+		}
+	],
+
+	"section-11H-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "order any individual falling within subsection (3) to take such steps as may be specified in the order with a view to enabling the officer of the Service or Welsh family proceedings officer to comply with the court's request under subsection (2)"
+		}
+	],
+
+	"section-11H-9": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "make an order under subsection (8) with respect to an individual who is a child",
+			"UNLESS": "he is a parent of the child with respect to whom the order falling within subsection (1) was made"
+		}
+	],
+
+	"section-11H-10": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make a request under subsection (2) in relation to a child arrangements order that is an excepted order (within the meaning given by section 11B(4))"
+		}
+	],
+
+	"section-11J-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-11J-8"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order (an 'enforcement order') imposing on a person an unpaid work requirement",
+			"IF": "the court is satisfied beyond reasonable doubt that a person has failed to comply with a provision of the child arrangements order",
+			"SUBJECT TO": "the restrictions in sections 11K and 11L"
+		}
+	],
+
+	"section-11J-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "make an enforcement order",
+			"IF": "it is satisfied that the person had a reasonable excuse for failing to comply with the provision"
+		}
+	],
+
+	"section-11J-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make an enforcement order in relation to the child arrangements order",
+			"ONLY ON": "the application of— (a) a person who is, for the purposes of the child arrangements order, the person with whom the child concerned lives or is to live; (b) a person whose contact with the child concerned is provided for in the child arrangements order; (c) any individual subject to a condition under section 11(7)(b) or an activity condition imposed by the child arrangements order; or (d) the child concerned"
+		}
+	],
+
+	"section-11J-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a person proposing to apply for an enforcement order in relation to a child arrangements order",
+			"TO": "obtain the leave of the court",
+			"BEFORE": "making such an application",
+			"WHERE": "the person is the child concerned"
+		}
+	],
+
+	"section-11J-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "grant leave to the child concerned",
+			"ONLY IF": "it is satisfied that he has sufficient understanding to make the proposed application"
+		}
+	],
+
+	"section-11J-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "suspend an enforcement order for such period as it thinks fit"
+		}
+	],
+
+	"section-11J-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a court",
+			"TO": "make more than one enforcement order in relation to the same person",
+			"ON": "the same occasion"
+		}
+	],
+
+	"section-11K-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an enforcement order against a person in respect of a failure to comply with a provision of a child arrangements order",
+			"UNLESS": "it is satisfied that before the failure occurred the person had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of— (a) in the case of a failure to comply with a provision of a child arrangements order where the order was varied before the failure occurred, a notice under section 11I relating to the order varying the child arrangements order or, where more than one such order has been made, the last order preceding the failure in question; (b) in any other case, a notice under section 11I relating to the child arrangements order"
+		}
+	],
+
+	"section-11K-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an enforcement order against a person in respect of any failure to comply with a provision of a child arrangements order occurring before the person attained the age of 18"
+		}
+	],
+
+	"section-11K-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make an enforcement order against a person in respect of a failure to comply with a provision of a child arrangements order where the child arrangements order is an excepted order (within the meaning given by section 11B(4))"
+		}
+	],
+
+	"section-11K-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an enforcement order against a person",
+			"UNLESS": "the person is habitually resident in England and Wales"
+		}
+	],
+
+	"section-11L-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "be satisfied that— (a) making the enforcement order proposed is necessary to secure the person's compliance with the child arrangements order or any child arrangements order that has effect in its place; (b) the likely effect on the person of the enforcement order proposed to be made is proportionate to the seriousness of the breach",
+			"BEFORE": "making an enforcement order as regards a person in breach of a provision of a child arrangements order"
+		}
+	],
+
+	"section-11L-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "satisfy itself that provision for the person to work under an unpaid work requirement imposed by an enforcement order can be made in the local justice area in which the person in breach resides or will reside",
+			"BEFORE": "making an enforcement order"
+		}
+	],
+
+	"section-11L-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "obtain and consider information about a person in breach of a provision of a child arrangements order and the likely effect of the enforcement order on him",
+			"BEFORE": "making an enforcement order as regards the person in breach of a provision of a child arrangements order"
+		}
+	],
+
+	"section-11L-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A court that proposes to make an enforcement order",
+			"TO": "ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) and (3)"
+		}
+	],
+
+	"section-11L-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer of the Service or Welsh family proceedings officer",
+			"TO": "comply with any request under this section"
+		}
+	],
+
+	"section-11L-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "take into account the welfare of the child who is the subject of the contact order",
+			"IN": "making an enforcement order in relation to a child arrangements order"
+		}
+	],
+
+	"section-11M-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The court",
+			"TO": "ask an officer of the Service or a Welsh family proceedings officer— (a) to monitor, or arrange for the monitoring of, the person's compliance with the unpaid work requirement imposed by the order; (b) to report to the court if a report under paragraph 8 of Schedule A1 is made in relation to the person; (c) to report to the court on such other matters relating to the person's compliance as may be specified in the request; (d) to report to the court if the person is, or becomes, unsuitable to perform work under the requirement",
+			"ON": "making an enforcement order in relation to a person"
+		}
+	],
+
+	"section-11M-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the officer of the Service or Welsh family proceedings officer",
+			"TO": "comply with any request under this section"
+		}
+	],
+
+	"section-11O-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-11O-12"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "make an order requiring an individual in breach to pay compensation in respect of his financial loss",
+			"IF": "the court is satisfied that— (a) an individual has failed to comply with a provision of the child arrangements order, and (b) a person falling within subsection (6) has suffered financial loss by reason of the breach",
+			"SUBJECT TO": "the restrictions in section 11P"
+		}
+	],
+
+	"section-11O-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "make an order under subsection (2)",
+			"IF": "it is satisfied that the individual in breach had a reasonable excuse for failing to comply with the particular provision of the child arrangements order"
+		}
+	],
+
+	"section-11O-5": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An order under subsection (2)",
+			"TO": "be made",
+			"ONLY ON": "an application by the person who claims to have suffered financial loss"
+		}
+	],
+
+	"section-11O-7": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the person proposing to apply for an order under subsection (2)",
+			"TO": "obtain the leave of the court",
+			"BEFORE": "making such an application",
+			"WHERE": "the person is the child concerned"
+		}
+	],
+
+	"section-11O-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "grant leave to the child concerned",
+			"ONLY IF": "it is satisfied that he has sufficient understanding to make the proposed application"
+		}
+	],
+
+	"section-11O-9": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The amount of compensation",
+			"TO": "be determined by the court"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The amount of compensation",
+			"TO": "exceed the amount of the applicant's financial loss"
+		}
+	],
+
+	"section-11O-10": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "take into account the individual's financial circumstances",
+			"IN": "determining the amount of compensation payable by the individual in breach"
+		}
+	],
+
+	"section-11O-11": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "An amount ordered to be paid as compensation",
+			"TO": "be recovered by the applicant as a civil debt due to him"
+		}
+	],
+
+	"section-11O-14": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a court",
+			"TO": "take into account the welfare of the child concerned",
+			"IN": "exercising its powers under this section"
+		}
+	],
+
+	"section-11P-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order",
+			"UNLESS": "it is satisfied that before the failure occurred the individual had been given (in accordance with rules of court) a copy of, or otherwise informed of the terms of— (a) in the case of a failure to comply with a provision of a child arrangements order where the order was varied before the failure occurred, a notice under section 11I relating to the order varying the child arrangements order or, where more than one such order has been made, the last order preceding the failure in question; (b) in any other case, a notice under section 11I relating to the child arrangements order"
+		}
+	],
+
+	"section-11P-2": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A court",
+			"TO": "make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order",
+			"WHERE": "the failure occurred before the individual attained the age of 18"
+		}
+	],
+
+	"section-11P-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make an order under section 11O(2) requiring an individual to pay compensation in respect of a failure by him to comply with a provision of a child arrangements order",
+			"WHERE": "the child arrangements order is an excepted order (within the meaning given by section 11B(4))"
+		}
+	],
+
+	"section-12-4": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "the court",
+			"TO": "bring that order to an end",
+			"AT": "any time while the child arrangements order concerned remains in force so far as providing for the child to live with that parent",
+			"WHERE": "subsection (1) requires the court to make an order under section 4 or 4ZA in respect of a parent of a child"
+		}
+	],
+
+	"section-13-1": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) cause a child to be known by a new surname; or (b) remove him from the United Kingdom; without either the written consent of every person who has parental responsibility for the child or the leave of the court.",
+			"WHERE": "a child arrangements order to which subsection (4) applies is in force with respect to the child"
+		}
+	],
+
+	"section-13-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a person named in the child arrangements order as a person with whom the child is to live",
+			"TO": "remove a child, for a period of less than one month"
+		}
+	],
+
+	"section-13-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "grant the leave required by subsection (1)(b), either generally or for specified purposes.",
+			"IN": "making a child arrangements order to which subsection (4) applies"
+		}
+	],
+
+	"section-14A-2": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a special guardian",
+			"TO": "be aged eighteen or over",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a special guardian",
+			"TO": "be a parent of the child in question",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a special guardianship order with respect to any child",
+			"ON": "the application of an individual who— (a) is entitled to make such an application with respect to the child; or (b) has obtained the leave of the court to make the application",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a special guardianship order with respect to any child",
+			"ON": "the joint application of more than one such individual",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-6": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "make a special guardianship order with respect to a child in any family proceedings in which a question arises with respect to the welfare of the child",
+			"IF": "— (a) an application for the order has been made by an individual who falls within subsection (3)(a) or (b) (or more than one such individual jointly); or — (b) the court considers that a special guardianship order should be made even though no such application has been made",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-7": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "an individual",
+			"TO": "make an application under subsection (3) or (6)(a)",
+			"UNLESS": "before the beginning of the period of three months ending with the date of the application, he has given written notice of his intention to make the application— (a) if the child in question is being looked after by a local authority, to that local authority, or (b) otherwise, to the local authority in whose area the individual is ordinarily resident",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-8": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "investigate the matter and prepare a report for the court dealing with— (a) the suitability of the applicant to be a special guardian; (b) such matters (if any) as may be prescribed by the Secretary of State; and (c) any other matter which the local authority consider to be relevant",
+			"ON": "receipt of such a notice",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-9": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "itself ask a local authority to conduct such an investigation and prepare such a report",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the local authority",
+			"TO": "do so",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-10": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The local authority",
+			"TO": "make such arrangements as they see fit for any person to act on their behalf in connection with conducting an investigation or preparing a report referred to in subsection (8) or (9)",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14A-11": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court",
+			"TO": "make a special guardianship order",
+			"UNLESS": "it has received a report dealing with the matters referred to in subsection (8)",
+			"SUBJECT TO": "section 29(5) and (6) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14B-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "consider whether an activity direction should be discharged",
+			"BEFORE": "making a special guardianship order",
+			"IF": "the order were made— (a) a child arrangements order containing contact provision should also be made with respect to the child, (b) any section 8 order in force with respect to the child should be varied or discharged, (c) where a provision contained in a child arrangements order made with respect to the child is not discharged, any enforcement order relating to that provision should be revoked, and (d) where that direction has been made— (i) in proceedings for the making, variation or discharge of a child arrangements order with respect to the child, or (ii) in other proceedings that relate to such an order"
+		}
+	],
+
+	"section-14B-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "— (a) give leave for the child to be known by a new surname; (b) grant the leave required by section 14C(3)(b), either generally or for specified purposes",
+			"ON": "making a special guardianship order"
+		}
+	],
+
+	"section-14C-3": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a person",
+			"TO": "— (a) cause the child to be known by a new surname; or (b) remove him from the United Kingdom, without either the written consent of every person who has parental responsibility for the child or the leave of the court.",
+			"WHILE": "a special guardianship order is in force with respect to the child",
+			"SUBJECT TO": "section 29(7) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14C-4": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a special guardian of a child",
+			"TO": "remove the child, for a period of less than three months",
+			"SUBJECT TO": "section 29(7) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14C-5": 
+	[
+		{
+			"CONDITIONS-ADDED-FROM": ["section-14A-13"]
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the special guardian",
+			"TO": "take reasonable steps to give notice of that fact to— (a) each parent of the child with parental responsibility; and (b) each guardian of the child",
+			"IF": "the child with respect to whom a special guardianship order is in force dies",
+			"SUBJECT TO": "section 29(7) of the Adoption and Children Act 2002"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "any other special guardian",
+			"TO": "not do so as respects that parent or guardian",
+			"IF": "the child has more than one special guardian, and one of them has taken such steps in relation to that particular parent or guardian",
+			"SUBJECT TO": "section 29(7) of the Adoption and Children Act 2002"
+		}
+	],
+
+	"section-14D-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The court",
+			"TO": "vary or discharge a special guardianship order",
+			"ON": "the application of— (a) the special guardian (or any of them, if there are more than one); (b) any parent or guardian of the child concerned; (c) any individual who is named in a child arrangements order as a person with whom the child is to live; (d) any individual not falling within any of paragraphs (a) to (c) who has, or immediately before the making of the special guardianship order had, parental responsibility for the child; (e) the child himself; or (f) a local authority designated in a care order with respect to the child"
+		}
+	],
+
+	"section-14D-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "vary or discharge a special guardianship order, even though no application has been made under subsection (1)",
+			"IN": "any family proceedings in which a question arises with respect to the welfare of a child with respect to whom the special guardianship order is in force",
+			"IF": "it considers that the order should be varied or discharged"
+		}
+	],
+
+	"section-14D-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "— (a) the child; (b) any parent or guardian of his; (c) any step-parent of his who has acquired, and has not lost, parental responsibility for him by virtue of section 4A; (d) any individual falling within subsection (1)(d) who immediately before the making of the special guardianship order had, but no longer has, parental responsibility for him",
+			"TO": "obtain the leave of the court",
+			"BEFORE": "making an application under subsection (1)"
+		}
+	],
+
+	"section-14D-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "grant leave",
+			"WHERE": "the person applying for leave to make an application under subsection (1) is the child",
+			"ONLY IF": "it is satisfied that he has sufficient understanding to make the proposed application under subsection (1)"
+		}
+	],
+
+	"section-14D-5": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "The court",
+			"TO": "grant leave to a person falling within subsection (3)(b)(c) or (d)",
+			"UNLESS": "it is satisfied that there has been a significant change in circumstances since the making of the special guardianship order"
+		}
+	],
+
+	"section-14E-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "the court",
+			"TO": "— (a) draw up a timetable with a view to determining the question without delay; and (b) give such directions as it considers appropriate for the purpose of ensuring, so far as is reasonably practicable, that the timetable is adhered to",
+			"IN": "proceedings in which any question of making, varying or discharging a special guardianship order arises",
+			"IN THE LIGHT OF": "any provision in rules of court that is of the kind mentioned in section 11(2)(a) or (b)"
+		}
+	],
+
+	"section-14E-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a special guardianship order, or an order varying one",
+			"TO": "contain provisions which are to have effect for a specified period"
+		}
+	],
+
+	"section-14F-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Each local authority",
+			"TO": "make arrangements for the provision within their area of special guardianship support services, which means— (a) counselling, advice and information; and (b) such other services as are prescribed, in relation to special guardianship"
+		}
+	],
+
+	"section-14F-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "The power to make regulations under subsection (1)(b)",
+			"TO": "be exercised so as to secure that local authorities provide financial support"
+		}
+	],
+
+	"section-14F-3": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a local authority",
+			"TO": "carry out an assessment of that person’s needs for special guardianship support services",
+			"AT": "the request of any of the following persons— (a) a child with respect to whom a special guardianship order is in force; (b) a special guardian; (c) a parent; (d) any other person who falls within a prescribed description"
+		},
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "they",
+			"TO": "do so",
+			"IF": "he is a person of a prescribed description, or if his case falls within a prescribed description, or if both he and his case fall within prescribed descriptions"
+		}
+	],
+
+	"section-14F-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "carry out an assessment of that person’s needs for special guardianship support services",
+			"AT": "the request of any other person"
+		}
+	],
+
+	"section-14F-5": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "decide whether to provide special guardianship support services to a person",
+			"WHERE": "as a result of an assessment, they decide that that person has needs for such services"
+		}
+	],
+
+	"section-14F-6": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "prepare a plan in accordance with which special guardianship support services are to be provided to him, and keep the plan under review",
+			"IF": "— (a) a local authority decide to provide any special guardianship support services to a person, and (b) the circumstances fall within a prescribed description"
+		}
+	],
+
+	"section-14F-7": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The Secretary of State",
+			"TO": "by regulations make provision about assessments, preparing and reviewing plans, the provision of special guardianship support services in accordance with plans and reviewing the provision of special guardianship support services"
+		}
+	],
+
+	"section-14F-8": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "The regulations",
+			"TO": "make provision— (a) about the type of assessment which is to be carried out, or the way in which an assessment is to be carried out; (b) about the way in which a plan is to be prepared; (c) about the way in which, and the time at which, a plan or the provision of special guardianship support services is to be reviewed; (d) about the considerations to which a local authority are to have regard in carrying out an assessment or review or preparing a plan; (e) as to the circumstances in which a local authority may provide special guardianship support services subject to conditions (including conditions as to payment for the support or the repayment of financial support); (f) as to the consequences of conditions imposed by virtue of paragraph (e) not being met (including the recovery of any financial support provided); (g) as to the circumstances in which this section may apply to a local authority in respect of persons who are outside that local authority’s area; (h) as to the circumstances in which a local authority may recover from another local authority the expenses of providing special guardianship support services to any person"
+		}
+	],
+
+	"section-14F-9": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "provide special guardianship support services (or any part of them) by securing their provision by— (a) another local authority; or (b) a person within a description prescribed in regulations of persons who may provide special guardianship support services"
+		},
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "arrange with any such authority or person for that other authority or that person to carry out the local authority’s functions in relation to assessments under this section"
+		}
+	],
+
+	"section-14F-10": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "A local authority",
+			"TO": "carry out an assessment of the needs of any person for the purposes of this section at the same time as an assessment of his needs is made under any other provision of this Act or under any other enactment"
+		}
+	],
+
+	"section-14G-1": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "Every local authority",
+			"TO": "establish a procedure for considering representations (including complaints) made to them by any person to whom they may provide special guardianship support services about the discharge of their functions under section 14F in relation to him"
+		}
+	],
+
+	"section-14G-2": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the Secretary of State",
+			"TO": "make regulations imposing time limits on the making of representations under subsection (1)"
+		}
+	],
+
+	"section-14G-3": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "a local authority",
+			"TO": "comply with regulations (if any) made by the Secretary of State for the purposes of this subsection",
+			"IN": "considering representations under subsection (1)"
+		}
+	],
+
+	"section-16-1": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "the court",
+			"TO": "(whether or not it makes such an order) make an order requiring— (a) an officer of the Service  or a Welsh family proceedings officer to be made available; or (b) a local authority to make an officer of the authority available, to advise, assist and (where appropriate) befriend any person named in the order",
+			"WHERE": "in any family proceedings, the court has power to make an order under this Part with respect to any child"
+		}
+	],
+
+	"section-16-3": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "a court",
+			"TO": "make a family assistance order",
+			"UNLESS": "it has obtained the consent of every person to be named in the order other than the child"
+		}
+	],
+
+	"section-16-4": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a family assistance order",
+			"TO": "direct— (a) the person named in the order; or (b) such of the persons named in the order as may be specified in the order, to take such steps as may be so specified with a view to enabling the officer concerned to be kept informed of the address of any person named in the order and to be allowed to visit any such person"
+		}
+	],
+
+	"section-16-4A": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a family assistance order",
+			"TO": "direct the officer concerned to give advice and assistance as regards establishing, improving and maintaining contact to such of the persons named in the order as may be specified in the order",
+			"IF": "the court makes the with respect to a child and the order is to be in force at the same time as a contact provision contained in a child arrangements order made with respect to the child"
+		}
+	],
+
+	"section-16-6": 
+	[
+		{
+			"IT IS": "PERMITTED",
+			"FOR": "a family assistance order",
+			"TO": "direct the officer concerned to report to the court on such matters relating to the section 8 order as the court may require (including the question whether the section 8 order ought to be varied or discharged)",
+			"IF": "the court makes the order with respect to a child and the order is to be in force at the same time as a section 8 order made with respect to the child"
+		}
+	],
+
+	"section-16-7": 
+	[
+		{
+			"IT IS": "PROHIBITED",
+			"FOR": "A family assistance order",
+			"TO": "be made so as to require a local authority to make an officer of theirs available",
+			"UNLESS": "— (a) the authority agree; or (b) the child concerned lives or will live within their area"
+		}
+	],
+
+	"section-16A-2": 
+	[
+		{
+			"IT IS": "OBLIGATORY",
+			"FOR": "an officer of the Service or a Welsh family proceedings officer",
+			"TO": "— (a) make a risk assessment in relation to the child, and (b) provide the risk assessment to the court.",
+			"IF": "in carrying out any function to which this section applies, he is given cause to suspect that the child concerned is at risk of harm"
+		}
+	]
+}
